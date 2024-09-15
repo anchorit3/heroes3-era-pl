@@ -1,9 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=false
 
-# Do not perform any line ending conversion for files in Data/zvs/lib1.res/ folder
+# Do not perform any line ending conversion for files
 *.ert -text
-Data/zvs/lib1.res/*.txt -text
+Data/zvs/lib1.res/txtres.txt -text
 
 .gitignore export-ignore
 .gitattributes export-ignore
