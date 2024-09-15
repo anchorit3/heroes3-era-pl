@@ -1,6 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=false
 
+# Do not perform any line ending conversion for .ert files
+*.ert -text
 
 .gitignore export-ignore
 .gitattributes export-ignore
