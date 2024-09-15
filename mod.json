@@ -1,0 +1,32 @@
+{
+	"caption": {
+		"en_US": "Era Polish Translation",
+		"pl_PL": "Era Polskie Tłumaczenie"
+	},
+	"description": {
+		"full": {
+			"en_US": "description.txt",
+			"pl_PL": ""
+		},
+		"short": { 
+			"en_US": "Era polish translations of all components",
+			 "ua_UA": "Era polskie tłumaczenie wszystkich podstawowych składników"
+		}
+	},
+	"author": "Anchorit3",
+	"homepage": "",
+	"icon": {
+		"file": "erapl.ico",
+		"index": 0
+	},
+	"mod_version": "1.0.5",
+	"priority": 0,
+	"compatibility": {
+		"class": "all",
+		"entries": {}
+	},
+	"platform": "era",
+	"info_version": "3.9.x",
+	"plugins": {},
+	"category": "translations"
+}
