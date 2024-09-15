@@ -10,7 +10,7 @@
 		},
 		"short": { 
 			"en_US": "Era polish translations of all default components - alpha",
-			"pl_PL": "Era polskie tłumaczenie wszystkich podstawowych składników- alpha"
+			"pl_PL": "Era polskie tłumaczenie wszystkich podstawowych składników - alpha"
 		}
 	},
 	"author": "Anchorit3",
@@ -19,7 +19,7 @@
 		"file": "erapl.ico",
 		"index": 0
 	},
-	"mod_version": "1.0.12",
+	"mod_version": "1.0.13",
 	"priority": 0,
 	"compatibility": {
 		"class": "all",
