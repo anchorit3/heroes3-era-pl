@@ -13,12 +13,12 @@ Verified translations of mods:
 - [x] WoG
 - [x] WoG Scripts
 - [ ] Advanced Classes Mod
-- [x] Difficulty Mod
+- [ ] Difficulty Mod
 - [x] Easy Cheats
 - [x] Enhanced Henchmen
-- [x] Game Enhancement Mod
+- [ ] Game Enhancement Mod
 - [x] Random Wallpaper
 - [ ] Mixed Neutrals
 - [x] Quick Savings
-- [x] Secondary Skills Scrolling
+- [ ] Secondary Skills Scrolling
 - [ ] TrainerX
