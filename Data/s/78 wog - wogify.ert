@@ -1,0 +1,73 @@
+100000	Rozpoczyna siê proces WoGifikacji!
+
+Teraz nast¹pi ma³e opóŸnienie, w 
+trakcie którego mapa zostanie zmieniona, 
+oraz zostan¹ do³¹czone nowe w³aœciwoœci 
+(zakoñczone stosown¹ informacj¹).
+ 
+Uwaga: Podczas gry mo¿esz sprawdziæ b¹dŸ zapisaæ obecne ustawienia 
+WoG wciskaj¹c klawisz 'S' a nastêpnie przycisk Opcje WoG.
+Z tego okna podczas trwania gry NIE MO¯NA zmieniæ opcji!!	String type = <!!S>	07.06.2003
+100001	WoGifikacja du¿ych map mo¿e zaj¹æ nawet klika minut. Cierpliwoœci.	String type = <!!S>	07.06.2003
+100002	Przycisk [OPCJE WoG] znajduje siê na ekranie wyboru scenariusza.	String type = <!!S>	07.06.2003
+100003	WoGifikacja zakoñczona!	String type = <!!S>	07.06.2003
+100004	Baw siê dobrze!	String type = <!!S>	07.06.2003
+100005	Do boju Bohaterze!	String type = <!!S>	07.06.2003
+100006	Wybierz now¹ wartoœæ Doœwiadczenia Oddzia³ów.		
+100007	Ustaw mno¿nik doœwiadczenia AI.           Obecny:    %Y2%%  (%Z2)		
+100008	Ustaw mno¿nik doœwiadczenia graczy.  Obecny:    %Y5%%		
+100009	Ustaw mno¿nik garnizonu miejskiego AI.    Obecny:    x%Y4  (%Z4)		
+100010	Ustaw dodatkowe doœwiadczenie AI.          Obecne:    +%Y3  (%Z3)		
+100011	U¿yj tych wartoœci.		
+100012	Ustaw mno¿nik doœwiadczenia AI.
+Obecny:  %Y2%% (%Z2)
+
+%Z-9		
+100013	Ustaw mno¿nik doœwiadczenia graczy.
+Obecny:  %Y5%%		
+100014	Ustaw mno¿nik garnizonu miejskiego AI.
+Obecny:  x%Y4 (%Z4)
+
+%Z-9
+
+Uwaga: Jeœli mno¿nik doœwiadczenia AI wynosi 0, miejskie
+garnizony otrzymaj¹ 0 doœw. niezale¿nie od powy¿szej wartoœci.		
+100015	Ustaw dodatkowe doœwiadczenie AI.
+Obecny:  +%Y3 (%Z3)
+
+%Z-9		
+100016	Wpisz liczbê ca³kowit¹ z zakresu od 0 do 10000		
+100017	{Liczba spoza zakresu}
+
+Musisz wpisaæ liczbê
+od 0 do 10000.		
+100018	£atwiejszy ni¿ £atwy		
+100019	£atwy		
+100020	£atwy/Normalny		
+100021	Normalny		
+100022	Normalny/Trudny		
+100023	Trudny		
+100024	Trudny/Bardzo Trudny		
+100025	Bardzo Trudny		
+100026	Bardzo Trudny/Niemo¿liwy		
+100027	Niemo¿liwy		
+100028	Trudniejszy ni¿ Niemo¿liwy		
+100029	[0=brak, 100=³atwy, 200=normalny
+300=trudny, 400=bardzo trudny, 500=niemo¿liwy]		
+100030	[0=brak, 10=³atwy, 25=normalny
+50=trudny, 75=bardzo trudny, 100=niemo¿liwy]		
+100031	[0=brak, 50=³atwy, 100=normalny
+200=trudny, 300=bardzo trudny, 400=niemo¿liwy]		
+100032	Niew³aœciwy parametr zaklêcia: minimalny poziom zaklêcia musi byæ 0..5		
+100033	Niew³aœciwy parametr zaklêcia: maksymalny poziom zaklêcia musi byæ 0..5		
+100034	Niew³aœciwy parametr zaklêcia: typ zaklêcia musi byæ 0..2		
+100035	Niew³aœciwy parametr zaklêcia: element musi byæ 0..15		
+100036	Niew³aœciwy parametr zaklêcia: zakaz musi byæ 0..3		
+100037	Niew³aœciwy parametr zaklêcia: liczba wykluczonych zaklêæ musi byæ 0..9		
+100038	{WoGifikacja przerwana!}
+
+Chocia¿ WoGifikacja zosta³a przerwana, wiêkszoœæ do³¹czonych skryptów pozostanie aktywnych.
+
+UWAGA: Poniewa¿ mapa jest "na pó³ zWoGifikowana" niektóre skrypty mog¹ dzia³aæ niepoprawnie. 
+Kontynuuj rozgrywkê na w³asne ryzyko.		
+100039	Brak		

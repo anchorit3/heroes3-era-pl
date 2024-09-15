@@ -1,0 +1,26 @@
+133000	¯yj¹cy Zwój	String type = <!!S>	08.06.2003
+133001	%Z3 ma %Y2%% szansy na to, aby ¯yj¹cy Zwój rzuci³ zaklêcie %Z2 w ka¿dej (poczynaj¹c od drugiej) turze.
+
+({Kliknij PPM na Opcjach systemu
+{by wy³¹czyæ takie komunikaty})	String type = <!!M>	08.06.2003
+133002	 b¹dŸ 	String type = <!!S>	08.06.2003
+133003	{¯yj¹cy Zwój} 
+ 
+Znajdujesz ¯yj¹cy Zwój, z mistycznie 
+wyryt¹ inkantacj¹ zaklêcia %Z1. 
+ 
+Kiedy zostan¹ zaatakowane potwory nie dowodzone przez Bohatera, istnieje 20% szansa (pomno¿ona przez iloœæ za³o¿onych ¯yj¹cych Zwoi), na to, ¿e w ka¿dej rundzie ¯yj¹cy Zwój rzuci zaklêcie na losow¹ jednostkê.	String type = <!!Q>	08.06.2003
+133004	{¯yj¹cy Zwój} 
+ 
+Znajdujesz ¯yj¹cy Zwój, z mistycznie 
+wyryt¹ inkantacj¹ zaklêcia %Z1. 
+ 
+Kiedy zostan¹ zaatakowane potwory nie dowodzone przez Bohatera, 
+istnieje 20% szansa (pomno¿ona przez iloœæ za³o¿onych ¯yj¹cych Zwoi), na to, 
+¿e w ka¿dej rundzie ¯yj¹cy Zwój rzuci zaklêcie na losow¹ jednostkê.	String type = <!!Q>	08.06.2003
+133005	{Zwój z Zaklêciem} 
+ 
+Ten Zwój zawiera zaklêcie %Z1, które zostanie umieszczone w twej
+Ksiêdze Zaklêæ dopóty, dopóki bêdziesz nosi³ ten Zwój. 
+ 
+{To NIE JEST ¯yj¹cy Zwój.}	String type = <!!Q>	08.06.2003

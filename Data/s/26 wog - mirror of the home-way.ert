@@ -1,0 +1,37 @@
+152000	Lustro Powrotnej Drogi		
+152001	{UWAGA: STARA WERSJA} 
+ 
+Twoja wersja WoG i/lub ERM 
+jest zbyt stara byœ móg³ u¿yæ 
+skryptu {'Lustro Powrotnej Drogi' wersja 1.0.} 
+ 
+Zainstaluj nowsz¹ wersjê.		
+152002	{Lustro Powrotnej Drogi}
+
+Spogl¹dasz w czeluœcie {Lustra}, ale nie widzisz ¿adnych ze swych miast...
+
+Nic dziwnego... nie posiadasz {¯ADNYCH} miast...		
+152003	{Lustro Powrotnej Drogi}
+
+Miasta i wsie przenikaj¹ siê wzajemnie
+w czeluœciach {Lustra}... 
+Gdy tak wpatrujesz siê w zwierciad³o, 
+uœwiadamiasz sobie, ¿e widzisz {w³asne} ziemie...
+Jeœli chcesz, mo¿esz przenieœæ siê do wybranego miasta.
+Wystarczy, ¿e uiœcisz drobn¹ op³atê Stra¿nikowi {Lustra}.		
+152004	Zamek		
+152005	Bastion		
+152006	Forteca		
+152007	Inferno		
+152008	Nekropolia		
+152009	Lochy		
+152010	Twierdza		
+152011	Cytadela		
+152012	Wrota ¯ywio³ów		
+152013	Wybierz misto, do którego chcesz siê udaæ:		
+152014	Dziêkujê. Zmieni³em zdanie.		
+152015	{Lustro Powrotnej Drogi}
+
+Stra¿nik przez chwilê sprawdza {monety}, które otrzyma³ od ciebie... Po czym oddaje je, mówi¹c:
+
+"Mo¿esz {WST¥PIÆ} do {Lustra} bez pieniêdzy... ale nigdy go ju¿ nie opuœcisz..."		

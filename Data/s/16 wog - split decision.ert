@@ -1,0 +1,39 @@
+﻿#	Text resource for "script62.erm" document		
+162000	{DZIELENIE ODDZIAŁÓW}
+
+ABY PODZIELIĆ ODDZIAŁ:
+Podczas kolejki oddziału, kliknij LPM trzymając klawisz CTRL na oddziale.
+Podczas walki można tylko raz rozdzielić dany oddział.
+
+ABY POŁĄCZYĆ DWA ODDZIAŁY:
+W przypadku gdy obok siebie są dwa oddziały tego samego typu
+i następuje kolejka jednego z nich, wówczas kliknij LPM z klawiszem CTRL na drugim.	<!!M>	01.08.2004
+162001	{UWAGA}
+
+Jeśli podzielisz Szkielety bądź Kościeje, umiejętność Nekromancji nie zawsze pozyska ci nowych, pomimo standartowej wiadomości ukazującej się po bitwie.	<!!Q>	01.08.2004
+162002	%Z-1  Ctrl-klik aby podzielić oddział.	<!!S>	01.08.2004
+162003	%Z-1  (Ten oddział już został podzielony.)	<!!S>	01.08.2004
+162004	%Z-1  Ctrl-klik aby połączyć oddział.	<!!S>	01.08.2004
+162005	Nie możesz podzielić oddziałów
+nie będących pod dowodzeniem bohatera.	<!!M>	01.08.2004
+162006	Nie można dzielić Metamorfów.	<!!M>	01.08.2004
+162007	Nie można podzielić Machin Bojowych.	<!!M>	01.08.2004
+162008	Nie można podzielić zahipnotyzowanych oddziałów.	<!!M>	01.08.2004
+162009	Każda grupa może zostać podzielona
+raz podczas walki.	<!!M>	01.08.2004
+162010	Jednostki, które dołączają podczas walki, nie mogą być dzielone.	<!!M>	01.08.2004
+162011	%Z2 kotletów (burgers?)	<!!S>	01.08.2004
+162012	a	<!!S>	01.08.2004
+162013	an	<!!S>	01.08.2004
+162014	an	<!!S>	01.08.2004
+162015	an	<!!S>	01.08.2004
+162016	an	<!!S>	01.08.2004
+162017	Pomyśl trochę -- co możesz zrobić tylko z połową stworzenia (%Z1 %Z2)?
+
+Chyba, że planujesz dostarczyć je do najbliższej rzeźni i przerobić na kotlety.)	<!!Q>	01.08.2004
+162018	Bohater nie może już utworzyć
+więcej grup stworzeń
+w czasie tej walki.	<!!M>	01.08.2004
+162019	Błąd w kodzie skryptu Split Decision: v3348=%V3348.	<!!M>	01.08.2004
+162020	%Z-2 rozdzieliły się na dwie grupy!	<!!S>	01.08.2004
+162021	Dwa oddziały: (%Z-2) połączyły się w jeden!	<!!S>	01.08.2004

@@ -1,0 +1,12 @@
+﻿#	Text resource for "script70.erm" document		
+170000	Komnata Śmierci (Nie odwiedzona)	!#S	13.08.2004
+170001	Komnata Śmierci (Odwiedzona)	!#S	13.08.2004
+170002	Wchodząc do złowieszczej, czaszkowej struktury, czujesz w powietrzu stęchły zapach krwi i przyprawiający o mdłości smród ognia. Z pewnością miała tu miejsce jakaś krwawa bitwa.	!!M	13.08.2004
+170003	{Komnata Śmierci}
+
+Wchodząc do złowieszczej czaszkowej struktury, zostajesz przywitany przez groteskowego nieumarłego króla.  "Odnalazłeś jedną z mych Komnat Śmierci," mówi złowieszczym głosem.  "Zgaduję, że przyszedłeś ograbić mój przedwieczny skarbiec? Jeśli przestąpisz te progi, uderzę w ciebie niewyobrażalną, morderczą siłą.  Posłuchasz ostrzeżenia czy chcesz doznać przeogromnego bólu?"	!!Q	13.08.2004
+170004	Król Liszy	!!S	13.08.2004
+170005	Po pokonaniu Nieumarłego Króla i jego sług znajdujesz cenne zasoby kruszcu i Mithrilu. Ponadto z popiołów wyścielających komnatę wskrzeszasz 20 przyjaznych Duchów!	!!Q	13.08.2004
+170006	Po pokonaniu Nieumarłego Króla i jego sług znajdujesz cenne zasoby kruszcu i Mithrilu. Ponadto z popiołów wyścielających komnatę wskrzeszasz 30 przyjaznych Duchów!	!!Q	13.08.2004
+170007	Po pokonaniu Nieumarłego Króla i jego sług znajdujesz cenne zasoby kruszcu i Mithrilu. Ponadto z popiołów wyścielających komnatę wskrzeszasz 40 przyjaznych Duchów!	!!Q	13.08.2004
+170008	Po pokonaniu Nieumarłego Króla i jego sług znajdujesz cenne zasoby kruszcu i Mithrilu. Ponadto z popiołów wyścielających komnatę wskrzeszasz 50 przyjaznych Duchów!	!!Q	13.08.2004

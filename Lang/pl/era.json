@@ -1,0 +1,21 @@
+{
+	"era": {
+		"locale": {
+			"decimal_separator": ".",
+			"thousand_separator": "",
+			"non_breaking_space": "",
+			"metric_suffixes": {
+				"0": "K",
+				"1": "M",
+				"2": "G"
+			}
+		},
+		"buttons": {
+			"cancel": "Anuluj"
+		},
+		"global_scripts_vs_map_scripts_warning": "{Pominąć skrypty globalne?}\n\nMapa posiada własny zestaw skryptów ERM. Czy chcesz pominąć ładowanie globalnych skryptów ERM (mogą powodować błędy, jeśli mapa nie była przeznaczona do odtwarzania z innymi skryptami ERM)?",
+		"no_memory_for_erm_optimization": "Przepraszamy, ale rozmiar skompilowanych skryptów ERM przekracza {@limit@ Limit MB}. Optymalizacja ERM nie powiodła się. ERM zostanie wyłączony",
+		"select_ip_address": "Wybierz adres IP",
+		"game_crash_message": "Gra się zawiesiła. Wszystkie informacje debugowania znajdują się w katalogu \"@debug_dir@\""
+	}
+}

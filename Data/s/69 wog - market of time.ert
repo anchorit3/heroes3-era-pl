@@ -1,0 +1,42 @@
+109000	{UWAGA STARA WERSJA}
+ 
+Niestety, twoja wersja dodatku WoG i/lub ERM 
+jest przestarza³a, aby u¿yæ
+{skryptu Targowisko Czasu wersja 1.3.2.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	07.06.2003
+109001	Jarmark Czasu	String type = <!#S>	07.06.2003
+109002	W {Jarmarku Czasu} pomo¿emy ci odzyskaæ trochê z twoich straconych lat poprzez naukê technik medytacji, które pozwol¹ ci zapomnieæ bezu¿yteczne umiejêtnoœci. Medytacja przygotuje twój umys³ na now¹ naukê. Za nasze us³ugi pobieramy nominaln¹ op³atê 2000 z³otych monet.	String type = <!!M>	07.06.2003
+109003	Któr¹ umiejêtnoœæ pragniesz wymazaæ z pamiêci, %$hname$?	String type = <!!S>	07.06.2003
+109004	Pragniesz zatem zapomniaæ jak¹œ umiejêtnoœæ, Wêdrowcze? 
+ 
+Bardzo nam przykro %$hname$, ale by zapomnieæ, to musisz znaæ przynajmniej jedn¹ umiejêtnoœæ.	String type = <!!M>	07.06.2003
+109005	A wiêc, pragniesz zapomnieæ wszystko, co kiedykolwiek wiedzia³eœ o umiejêtnoœci: %$skname$...
+ 
+Uiœcisz 2000 z³otych monet op³aty by %$skname$ sta³a siê dla ciebie ca³kowicie nieznan¹ umiejêtnoœci¹?	String type = <!!Q>	07.06.2003
+109006	Wybacz nam %$hname$, ale dzisiaj ju¿ wymaza³eœ z pamiêci inn¹ umiejêtnoœæ.
+ 
+Wróæ jutro lub wczoraj, jeœli poczujesz, ¿e musisz zapomnieæ wiêcej zdolnoœci.	String type = <!!M>	07.06.2003
+109007	Nie masz tylu pieniêdzy. Wróæ, gdy bêdzie ciê staæ na nasze us³ugi.	String type = <!!Q>	07.06.2003
+109008	on	String type = <!!S>	07.06.2003
+109009	mê¿czyzna	String type = <!!S>	07.06.2003
+109010	ona	String type = <!!S>	07.06.2003
+109011	kobieta	String type = <!!S>	07.06.2003
+109012	"Jesteœ m¹dry, %$hname$. %$skname$ nie stoi ju¿ na przeszkodzie w prawdziwej bohaterskiej drodze."	String type = <!!S>	07.06.2003
+109013	"Zapomnieæ umiejêtnoœæ: %$skname$, to doznaæ oœwiecenia."	String type = <!!S>	07.06.2003
+109014	"Twe serce ci podpowiada, ¿e %$skname$ nie zajmuje ju¿ miejca w twej umêczonej duszy."	String type = <!!S>	07.06.2003
+109015	"%$skname$ - przez porzucenie jej pokus, zaczynasz harmonizowaæ siê z samym ¿yciem, %$hname$."	String type = <!!S>	07.06.2003
+109016	"%$skname$ - oto, z czego musisz zrezygnowaæ, aby doœwiadczyæ najwy¿szego uniesienia.	String type = <!!S>	07.06.2003
+109017	"%$skname$ - bez niej jest ³atwiej znaleŸæ spokój w duszy."	String type = <!!S>	07.06.2003
+109018	"Wyrocznia mówi, ¿e %$skname$ -  zakazana wiedza - jest grzechem dla duszy."	String type = <!!S>	07.06.2003
+109019	"Wyrocznia mówi o: %$hname$, wielkim bohaterze i ¿e %$he-she$ ju¿ nie posiada umiejêtnoœci: %$skname$."	String type = <!!S>	07.06.2003
+109020	"%$skname$ - zapominanie o niej brzmi niczym dzwiêki porannej rosy."	String type = <!!S>	07.06.2003
+109021	"Z wszystkich umiejêtnoœci, które %$man-woman$ musi poznaæ, %$skname$ jest ostatni¹."	String type = <!!S>	07.06.2003
+109022	"M¹dry guru kiedyœ rzek³: %$skname$ - gdybym posiada³ t¹ umiejêtnoœæ, nie móg³bym d³u¿ej zostaæ guru, dlatego poœwiêci³em t¹ umiejêtnoœæ dla wy¿szych celów."	String type = <!!S>	07.06.2003
+109023	"Jak ognie zapalaj¹ siê i gasn¹, tak %$skname$ zniknie w mrokach niepamiêci, %$hname$."	String type = <!!S>	07.06.2003
+109024	%$pithy$ 
+ 
+{Medytujesz} {d³ugo} {i} {ciê¿ko} {ca³y} {dzieñ} {a} {niechciana} {%$skname$} {wymazuje} {siê} {z} {twego} {umys³u,} {przygotowuj¹c} {miejsce} {pod} {przysz³e} {nauki}.	String type = <!!Q>	07.06.2003
+109025	Poziom Podstawowy	String type = <!!S>	07.06.2003
+109026	Poziom Zaawansowany 	String type = <!!S>	07.06.2003
+109027	Poziom Mistrzowski	String type = <!!S>	07.06.2003

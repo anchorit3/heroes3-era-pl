@@ -1,0 +1,82 @@
+{
+	"gem_plugin": {
+		"combat_hints": {
+			"rmc_hint": "rmc_hint",
+			"input": "Wartość wprowadzona w zakresie %d - %d",
+			"color_health": "Ustaw kolor bieżącego stanu jednostek:",
+			"color_loss": "Ustaw kolor utraconych punktów zdrowia jednostek:",
+			"height": "Ustaw dodatkową wysokość panelu:",
+			"density": "Ustaw gęstość kolorów:",
+			"default": "Przywróć ustawienia domyślne",
+			"hotkey": "Ustaw klawisz skrótu",
+			"wrong_hotkey": "Ten skrót jest niedozwolony",
+			"enable": "Włącz dodatkowe informacje o punktach zdrowia jednostek",
+			"toggable": "Ustawiane jako przełączalne",
+			"set_hotkey": "Zmień przytrzymany klawisz skrótu",
+			"press_any": "Naciśnij dowolny klawisz",
+			"held": "Aktywuj tylko wtedy, gdy klawisz skrótu jest przytrzymywany"
+		},
+		"combat_dlg": {
+			"enable": {
+				"popup": "1",
+				"spells": "1",
+				"creature_info": "1"
+			},
+			"creature_info": {
+				"stack_exp_hint": "Otwórz okno dialogowe doświadczenia ze stworami (PPM w przypadku wyskakującego okienka)",
+				"npc_hint": "Otwórz okno dialogowe ekranu dowódcy (PPM w przypadku wyskakującego okienka)",
+				"spell_list_hint": "Otwórz okno dialogowe dotyczące czarów (PPM w przypadku wyskakującego okienka)",
+				"for_free": "(za darmo)",
+				"description": {
+					"x": "24",
+					"y": "189",
+					"width": "250",
+					"height": "110",
+					"alignment": "0",
+					"font": ""
+				},
+				"show_all_rounds": "1"
+			},
+			"0": "Stat:",
+			"1": "Kontra:",
+			"2": "Strzały:",
+			"3": "Czary:",
+			"4": "Poz. HP:",
+			"5": "Martwych:",
+			"active": "aktywny",
+			"def": "broni",
+			"done": "po ruchu",
+			"wait": "czeka"
+		},
+		"mithril_display": {
+			"popup_hint": "Twój całkowity dostępny mithril"
+		},
+		"user_notification": {
+			"no_dat_settings": "{Uwaga, Graczu!}\n\nGra nie wykryła zapisanych ustawień opcji WoG określonych w pliku WoG.ini! Oznacza to, że zostaną zastosowane ustawienia „domyślne\" z pliku „zsetup01.txt\".\nAby zapisać ustawienia, otwórz menu opcji WoG i kliknij przycisk „Zapisz\".\n\nJeśli klikniesz „Anuluj\", ta wiadomość nie będzie już wyświetlana"
+		}
+	},
+	"choose_attack_type": {
+		"start_combat_name": "icm012q.def",
+		"name": "icmAltq.def",
+		"hint": {
+			"none": "Przełącz na alternatywne działania",
+			"melee": "W zwarciu",
+			"shoot": "Dystansowo",
+			"cast": "Rzuć zaklęcie",
+			"moove": "Porusz się",
+			"return": "Atakuj i powróć",
+			"no_return": "Atakuj i zostań"
+		},
+		"rmc": {
+			"none": "{Działania alternatywne}\n\nTen przycisk umożliwia zmianę trybu akcji podczas tury jednostek, które mają wiele trybów akcji.",
+			"melee": "{W zwarciu}\n\nAktualny typ ataku jednostki - Wręcz",
+			"shoot": "{Dystansowo}\n\nAktualny typ ataku jednostki – dystansowy",
+			"cast": "{Rzuć zaklęcie}\n\nAktualny typ ataku jednostki - Rzucanie zaklęcia",
+			"moove": "{orusz się}\n\nJednostka będzie teraz przemieszczać się do określonej pozycji, zamiast wskrzeszać z niej zmarłych",
+			"return": "{Atakuj i powróć}\n\nJednostka powróci teraz do swojej pierwotnej pozycji po ataku",
+			"no_return": "{Atakuj i zostań}\n\nJednostka po ataku pozostanie blisko wroga"
+		},
+		"autobattle_question_enable": "0",
+		"autobattle_question": "Włączyć automatyczną walkę?"
+	}
+}

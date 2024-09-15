@@ -1,0 +1,182 @@
+#	Text resource for "script44.erm" document		
+144000	Szmaragdowa Wie¿a 
+
+(Nie odwiedzona)	!#S	01.08.2004
+144001	Szmaragdowa Wie¿a
+
+(Odwiedzona)	!#S	01.08.2004
+144002	{Szmaragdowa Wie¿a}
+
+Pukasz do bram tego przybytku, gdy w bramie pojawia siê ma³y gnom.
+
+"Wynocha! Mój Pan jest zajêty!" krzyczy gburowaty gnom, zamykaj¹c ci bramê przed nosem.	!!M	01.08.2004
+144003	{Szmaragdowa Wie¿a}
+
+Pukasz do bram tego przybytku, gdy w bramie pojawia siê ma³y gnom.
+
+"Czy jest waœæ umówiony z mym panem?"
+
+Tabliczka nad drzwiami g³osi:
+'REZERWACJE TERMINÓW U MAGA ZA SIEDEM KLEJNOTÓW'
+
+Czy chcesz zarezerwowaæ audiencjê u maga?	!!Q	01.08.2004
+144004	Nie masz wystarczaj¹cej iloœci klejnotów. Bez klejnotów niczego nie wskórasz. 	!!S	01.08.2004
+144005	Gnom bierze od ciebie klejnoty, posy³a ci piorunuj¹ce spojrzenie i wprowadza do œrodka. Ogromna, mroczna sala wype³niona jest dziwnymi akcesoriami a pajêczyny pokrywaj¹ szafy pe³ne starych, opas³ych tomów.
+
+W³aœnie ogl¹da³eœ dziwne dziwne s³oiki z równie dziwn¹ zawartoœci¹ na szafce obok, kiedy pojawi³ siê cz³owiek w d³ugiej, ci¹gn¹cej siê za nim szacie.	!!S	01.08.2004
+144006	{W œrodku Wie¿y}
+
+Gnom bierze od ciebie klejnoty, posy³a ci piorunuj¹ce spojrzenie i wprowadza do œrodka. Ogromna, mroczna sala wype³niona jest dziwnymi akcesoriami a pajêczyny pokrywaj¹ szafy pe³ne starych, opas³ych tomów.
+
+W³aœnie ogl¹da³eœ dziwne dziwne s³oiki z równie dziwn¹ zawartoœci¹ na szafce obok, kiedy pojawi³ siê cz³owiek w d³ugiej, ci¹gn¹cej siê za nim szacie.	!!S	01.08.2004
+144007	Czarodziej	!!S	01.08.2004
+144008	"%Z9Nie ma rezerwacji, nie ma wejœcia!" krzyczy obleœny gnom, zamykaj¹c ci bramê przed nosem.	!!M	01.08.2004
+144009	"Hmmp..." zaczyna mag, "Który gatunek chcia³byœ ulepszyæ?"	!!S	01.08.2004
+144010	¯aden. Zmieni³em zdanie.	!!S	01.08.2004
+144011	"Nie masz ze sob¹ ¿adnych stworów, wiêc obawiam siê, ¿e nie mogê ci pomóc. ¯egnaj."	!!M	01.08.2004
+144012	{Mag wydaje siê byæ zdenerwowany.}
+
+"Nie potrzebujesz moich us³ug? Wspaniale! Wynoœ siê i nie marnuj mojego cennego czasu!"
+
+Czy chcesz opuœciæ Szmaragdow¹ Wie¿ê?	!!Q	01.08.2004
+144013	{Mag wydaje siê byæ rozstrzêsiony.}
+
+"%Z3 - Tydzieñ tego stworzenia, który obecnie mamy szkodzi mojej magii. Nie mogê teraz zaczarowaæ: %Z4. Wróæ w przysz³ym tygodniu."
+
+Czy chcesz opuœciæ Szmaragdow¹ Wie¿ê?	!!Q	01.08.2004
+144014	{Mag wydaje siê byæ zaniepokojony.}
+
+"Nie, tego zrobiæ nie mogê. %V1240 - ten gatunek zosta³ ju¿ zaczarowany w tej krainie. Jakakolwiek próba powtórzenia sprawi, i¿ magia stanie siê niestabilna i przez to bardzo niebezpieczna, dlatego nie zrobiê tego! Przynieœ mi gatunek ju¿ zaczarowany, a ja bezpiecznie zaczarujê go w przysz³oœci, ale nie proœ mnie, abym zrobi³ to z tym." (???)
+
+Czy chcesz opuœciæ Szmaragdow¹ Wie¿ê?	!!Q	01.08.2004
+144015	Kiedy masz ju¿ wyjœæ, gnom wspina ci siê na ramiona i szepce konspiracyjnym g³osem: "Poniewa¿ nie kupi³eœ tu niczego, masz tu swoje pieni¹dze. Ale nie mów o tym czarodziejowi. Cicho sza!"
+
+Gnom wsuwa ci szeœæ klajnotów do kieszeni i odprowadza ciê do drzwi. Choæ pró¿na wizyta kosztowa ciê jeden klejnot, ale czujesz, ¿e bêdzie bezpieczniej nie wdawaæ siê w dalsze dyskusje.	!!Q	01.08.2004
+144016	Kiedy masz ju¿ wyjœæ, gnom wspina ci siê na ramiona i szepce konspiracyjnym g³osem: "Poniewa¿ zakupiona premia okaza³a siê ma³o istotna, masz tu swoje pieni¹dze. Ale nie mów o tym czarodziejowi. Cicho sza!"
+
+Gnom wsuwa ci szeœæ klajnotów do kieszeni i odprowadza ciê do drzwi. Choæ pró¿na wizyta kosztowa ciê jeden klejnot, ale czujesz, ¿e bêdzie bezpieczniej nie wdawaæ siê w dalsze dyskusje.	!!Q	01.08.2004
+144017	"%Z3 - jak chcia³yœ ulepszyæ ten gatunek?"	!!S	01.08.2004
+144018	Zapomnij, zmieni³em zdanie.	!!S	01.08.2004
+144019	+%Y2 do ATAKU za 15 uncji Siarki.	!!S	01.08.2004
+144020	+%Y3 do OBRONY za 30 wozów Rudy.	!!S	01.08.2004
+144021	+%Y4 do OBRA¯EÑ za 20 Klejnotów.	!!S	01.08.2004
+144022	+%Y5 do WYTRZYMA£OŒCI za 20 Kryszta³ów.	!!S	01.08.2004
+144023	+%Y6 do SZYBKOŒCI za 20 tygli Rtêci.	!!S	01.08.2004
+144024	+%Y7 do PRZYROSTU za 75 s¹gów Drewna.	!!S	01.08.2004
+144025	24 STRZA£Y za 1000 Z³ota.	!!S	01.08.2004
+144026	+1 RZUCANE ZAKLÊCIE (na walkê) za %Y15 szt. Mithrilu	!!S	01.08.2004
+144027	Now¹ ZDOLNOŒÆ SPECJALN¥.	!!S	01.08.2004
+144028	{Mag zdaje siê byæ zdenerwowany.}
+
+"Nie potrzebujesz moich us³ug? Wspaniale! Wynoœ siê i nie marnuj mojego cennego czasu!"
+
+Czy chcesz opuœciæ Szmaragdow¹ Wie¿ê?	!!Q	01.08.2004
+144029	siarki	!!S	01.08.2004
+144030	rudy	!!S	01.08.2004
+144031	klejnotów	!!S	01.08.2004
+144032	kryszta³ów	!!S	01.08.2004
+144033	rtêci	!!S	01.08.2004
+144034	drewna	!!S	01.08.2004
+144035	z³ota	!!S	01.08.2004
+144036	mithrilu	!!S	01.08.2004
+144037	{Mag zdaje siê byæ zdenerwowany.}
+
+"Nie masz wystarczaj¹cej iloœci %Z1. OdejdŸ i nie marnuj mojego cennego czasu!"
+
+Czy chcesz opuœciæ Szmaragdow¹ Wie¿ê?	!!Q	01.08.2004
+144038	j¹	!!S	01.08.2004
+144039	"Dodatkowo, oprócz %Y2 %Z1, potrzebujê jeszcze %Y7 %Z8 aby móc odprawiæ magiczny rytua³. Niestety, %Z8 ju¿ nie powróci do twej armii."
+
+"Zgadzasz siê?"	!!Q	01.08.2004
+144040	{Mag wydaje siê byæ rozdra¿niony.}
+
+"To za ma³o! Potrzebujê %Y7 z twoich %Z4, aby dokoñczyæ rytua³. A teraz odejdŸ i nie marnuj mojego cennego czasu, inaczej zmieniê ciê w starego muchomora!"
+
+Czy chcesz opuœciæ Szmaragdow¹ Wie¿ê?	!!Q	01.08.2004
+144041	Gnom bierze twoj¹ zap³atê z %Y2 %Z1 i prowadzi %Y7 z twoich %Z4 w dó³, ciemnym korytarzem. %Z8 odwraca%Z9 siê, aby popatrzyæ na ciebie swoimi przera¿onymi oczyma i cicho ³ka%Z9. ¯a³oœæ œciska ci serce widz¹c jak znika%Z9 w mrocznych podziemiach lochów maga.
+
+"Mo¿esz ju¿ iœæ." mówi szorstko mag. "Przemiana nie potrwa d³ugo."	!!Q	01.08.2004
+144042	Przenikanie przez przeszkody (Lot) za 20 sztabek Mithrilu	!!S	01.08.2004
+144043	Ataku na 2 pola/hexy (Zioniêcie) za 10 sztabek Mithrilu	!!S	01.08.2004
+144044	Stanie siê Nieumar³ym za 10 sztabek Mithrilu	!!S	01.08.2004
+144045	Brak wp³ywu na morale za 5 sztabek Mithrilu	!!S	01.08.2004
+144046	Podwójny atak za 25 sztabek Mithrilu	!!S	01.08.2004
+144047	Atak wszystkich przyleg³ych stworzeñ za 20 sztabek Mithrilu	!!S	01.08.2004
+144048	Powstrzymanie kontrataku za 15 sztabek Mithrilu	!!S	01.08.2004
+144049	Odpornoœæ na zaklêcia umys³u za 5 sztabek Mithrilu 	!!S	01.08.2004
+144050	Odpornoœæ na zaklêcia ognia za 10 sztabek Mithrilu 	!!S	01.08.2004
+144051	Brak kary za walkê wrêcz (³ucznicy) za 10 sztabek Mithrilu	!!S	01.08.2004
+144052	"Jakie nowe zdolnoœci chcesz dodaæ dla %Z4?"	!!S	01.08.2004
+144053	Zapomnij, zmieni³em zdanie.	!!S	01.08.2004
+144054	Wojownicze	!!S	01.08.2004
+144055	Potê¿ne	!!S	01.08.2004
+144056	Zaciek³e	!!S	01.08.2004
+144057	Agresywne	!!S	01.08.2004
+144058	Gruboskórne	!!S	01.08.2004
+144059	Lojalne	!!S	01.08.2004
+144060	Zahartowane	!!S	01.08.2004
+144061	Opancerzone	!!S	01.08.2004
+144062	Sprytne	!!S	01.08.2004
+144063	Mocarne	!!S	01.08.2004
+144064	Niebezpieczne	!!S	01.08.2004
+144065	Niszczycielskie	!!S	01.08.2004
+144066	Nieporêczne	!!S	01.08.2004
+144067	Œmia³e	!!S	01.08.2004
+144068	Krzepkie	!!S	01.08.2004
+144069	¯ywotne	!!S	01.08.2004
+144070	Zwinne	!!S	01.08.2004
+144071	Rych³e	!!S	01.08.2004
+144072	Szybkie	!!S	01.08.2004
+144073	B³yskawiczne	!!S	01.08.2004
+144074	Kochliwe	!!S	01.08.2004
+144075	P³odne	!!S	01.08.2004
+144076	Rozwi¹z³e	!!S	01.08.2004
+144077	Jurne	!!S	01.08.2004
+144078	Zaopatrzone	!!S	01.08.2004
+144079	Dobrze zaopatrzone	!!S	01.08.2004
+144080	Uzbrojone	!!S	01.08.2004
+144081	Ostrowzroczne	!!S	01.08.2004
+144082	Zauroczone	!!S	01.08.2004
+144083	Magicznych mocy	!!S	01.08.2004
+144084	Mistycznych mocy	!!S	01.08.2004
+144085	Boskich mocy	!!S	01.08.2004
+144086	Zwiewne	!!S	01.08.2004
+144087	Lataj¹ce	!!S	01.08.2004
+144088	Lewituj¹ce	!!S	01.08.2004
+144089	Szybuj¹ce	!!S	01.08.2004
+144090	O czosnkowym oddechu	!!S	01.08.2004
+144091	O skwaœnia³ym oddechu	!!S	01.08.2004
+144092	O smoczym oddechu	!!S	01.08.2004
+144093	Dalekozasiêgowe	!!S	01.08.2004
+144094	Umar³e	!!S	01.08.2004
+144095	Nie-umar³e	!!S	01.08.2004
+144096	Bezduszne	!!S	01.08.2004
+144097	Widmowe	!!S	01.08.2004
+144098	Nadwyraz spokojne	!!S	01.08.2004
+144099	Stoickie	!!S	01.08.2004
+144100	Niewzruszone	!!S	01.08.2004
+144101	Bezduszne	!!S	01.08.2004
+144102	Energiczne	!!S	01.08.2004
+144103	Porywcze	!!S	01.08.2004
+144104	Wœciek³e	!!S	01.08.2004
+144105	Szalone	!!S	01.08.2004
+144106	Niebezpieczne	!!S	01.08.2004
+144107	Œmiercionoœne	!!S	01.08.2004
+144108	Okrutne	!!S	01.08.2004
+144109	Circular (??)	!!S	01.08.2004
+144110	Brutalne	!!S	01.08.2004
+144111	Narowiste	!!S	01.08.2004
+144112	Dzikie	!!S	01.08.2004
+144113	Niepowstrzymane	!!S	01.08.2004
+144114	Uparte	!!S	01.08.2004
+144115	O silnej woli	!!S	01.08.2004
+144116	O mê¿nym umyœle	!!S	01.08.2004
+144117	Inteligentne	!!S	01.08.2004
+144118	Wilgotne	!!S	01.08.2004
+144119	Trudnopalne	!!S	01.08.2004
+144120	Ognioodporne	!!S	01.08.2004
+144121	Wodniste	!!S	01.08.2004
+144122	Walcz¹ce na piêœci	!!S	01.08.2004
+144123	Brawling	!!S	01.08.2004
+144124	Bitne	!!S	01.08.2004
+144125	Zaprawione w boju	!!S	01.08.2004

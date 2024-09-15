@@ -1,0 +1,66 @@
+101000	Stworzenia lataj¹ce nie lataj¹, w zamian powstrzymuj¹ kontratak.	String type = <!#S>	07.06.2003
+101001	Szybkie stworzenia s¹ wolne, natomiast wolne s¹ szybkie.	String type = <!#S>	07.06.2003
+101002	Stworzenia siódmego dnia kosztuj¹ po³owê mniej.	String type = <!#S>	07.06.2003
+101003	Bohaterowie ka¿dego dnia tworz¹ Magiczne Równiny.	String type = <!#S>	07.06.2003
+101004	Stworzenia atakuj¹ dwukrotnie.	String type = <!#S>	07.06.2003
+101005	Stworzenia w armii wzrastaj¹ o 4% ka¿dego dnia.	String type = <!#S>	07.06.2003
+101006	Siedziby stworzeñ dodatkowo sprzedaj¹ Dziki.	String type = <!#S>	07.06.2003
+101007	Bohaterowie zaczynaj¹ od 5 poziomu doœwiadczenia.	String type = <!#S>	07.06.2003
+101008	Artefakty na mapie replikuj¹ siê przy podnoszeniu.	String type = <!#S>	07.06.2003
+101009	Wieczna ciemnoœæ.	String type = <!#S>	07.06.2003
+101010	Bohaterowie poruszaj¹ siê dwa razy dalej.	String type = <!#S>	07.06.2003
+101011	Kopalnie zmieniaj¹ zasoby ka¿dego tygodnia.	String type = <!#S>	07.06.2003
+101012	Obiekty "ucz¹ce" mo¿na ponownie odwiedzaæ ka¿dego miesi¹ca.	String type = <!#S>	07.06.2003
+101013	Bohaterowie mog¹ posiadaæ a¿ 10 umiejêtnoœci!	String type = <!#S>	07.06.2003
+101014	Potwory 7-ego poziomu na drugi dzieñ ulepszaj¹ siê do poziomu 8-ego.	String type = <!#S>	07.06.2003
+101015	Bohaterowie otrzymuj¹ artefakt z ka¿dym zdobytym poziomem.	String type = <!#S>	07.06.2003
+101016	Rozbójnicy zastawiaj¹ zasadzki na nieostro¿nych.	String type = <!#S>	07.06.2003
+101017	Stworzenia posiadaj¹ atak przez Zioniêcie.	String type = <!#S>	07.06.2003
+101018	Stworzenia strzelaj¹ce nie strzelaj¹, ale maj¹ wiêcej punktów ¿ycia.	String type = <!#S>	07.06.2003
+101019	Ka¿de miasto posiada Graala.	String type = <!#S>	07.06.2003
+101020	Zaznacz zasady gry, które chcesz u¿yæ na tej mapie (strona 1 z 2).	String type = <!!S>	07.06.2003
+101021	Zaznacz zasady gry, które chcesz u¿yæ na tej mapie (strona 2 z 2).	String type = <!!S>	07.06.2003
+101022	W tej dziwnej krainie 	String type = <!!S>	07.06.2003
+101023	Ponadto 	String type = <!!S>	07.06.2003
+101024	%Z326¿adne stworzenie nie potrafi lataæ, a stworzenia, które kiedyœ lata³y, w zamian powstrzymuj¹ kontratak.	String type = <!!M>	07.06.2003
+101025	%Z326stworzenia, które zwykle s¹ powolne staj¹ siê szybkimi, a stworzenia szybkie - wolnymi.	String type = <!!M>	07.06.2003
+101026	%Z326stworzenia kosztuj¹ o po³owê mniej 7-ego dnia ka¿dego tygodnia.	String type = <!!M>	07.06.2003
+101027	%Z326obecnoœæ bohatera wi¹¿e ziemiê z magi¹.	String type = <!!M>	07.06.2003
+101028	%Z326wszystkie stworzenia atakuj¹ dwukrotnie.	String type = <!!M>	07.06.2003
+101029	%Z326ka¿dy rodzaj stworzenia w armii bohatera przywo³uje dodatkowe 4% ochotników ka¿dego dnia, do maksimum 10000 stworzeñ.	String type = <!!M>	07.06.2003
+101030	%Z326wiêkszoœæ siedzib stworzeñ oferuje dodatkowo Dziki
+(¯ywio³aki Powietrza gdy jest aktywny skrypt Netralne Wrota ¯ywio³ów).	String type = <!!M>	07.06.2003
+101031	%Z326bohaterowie zaczynaj¹ od 5-ego poziomu doœwiadczenia.	String type = <!!M>	07.06.2003
+101032	%Z326artefakty ulegaj¹ replikacji przy podnoszeniu.	String type = <!!M>	07.06.2003
+101033	%Z326nasta³a wieczna ciemnoœæ!	String type = <!!M>	07.06.2003
+101034	%Z326bohaterowie maj¹ podwojon¹ iloœæ ruchu.	String type = <!!M>	07.06.2003
+101035	%Z326kopalnie zmieniaj¹ wytwarzane zasoby w ka¿dym tygodniu.	String type = <!!M>	07.06.2003
+101036	%Z326miejsca, które normalnie bohater móg³ odwiedziæ tylko raz, mog¹ byæ ponownie odwiedzone raz na miesi¹c.	String type = <!!M>	07.06.2003
+101037	%Z326bohaterowie mog¹ nauczyæ siê dwóch dodatkowych ukrytych umiejêtnoœci oprócz 8-miu podstawowych.	String type = <!!M>	07.06.2003
+101038	%Z326ulepszone stworzenia 7-ego poziomu w armii bohatera na drugi dzieñ automatycznie staj¹ siê stworzeniami 8-ego poziomu.	String type = <!!M>	07.06.2003
+101039	%Z326bohater otrzymuje artefakt z ka¿dym nowym poziomem doœwiadczenia.	String type = <!!M>	07.06.2003
+101040	%Z326bandy Rozbójników wêdruj¹ po okolicy, gotowi wci¹gaæ w zasadzki bohaterów.	String type = <!!M>	07.06.2003
+101041	%Z326wszystkie stworzenia atakuj¹ poprzez zioniêcie (kiedy nie strzelaj¹).	String type = <!!M>	07.06.2003
+101042	%Z326¿adne stworzenie nie potrafi strzelaæ, lecz stworzenia, które dawniej strzela³y maj¹ +50% wiêcej punktów ¿ycia.	String type = <!!M>	07.06.2003
+101043	%Z326we wszystkich miastach jest wybudowane Sanktuarium Graala.	String type = <!!M>	07.06.2003
+101044	Podnosisz zreplikowany artefakt: %Z-1.	String type = <!!M>	07.06.2003
+101045	on	String type = <!!S>	07.06.2003
+101046	ona	String type = <!!S>	07.06.2003
+101047	%Z352 mo¿e siê nauczyæ sekretnej umiejêtnoœci: %Z353. Czy chce j¹ teraz poznaæ?	String type = <!!Q>	07.06.2003
+101048	W nagrodê za rosn¹ce umiejêtnoœci, %Z2 zdobywa artefakt.	String type = <!!Q>	07.06.2003
+101049	%Z326 wpada w pu³apkê zastawion¹ przez Rozbójników!	String type = <!!M>	07.06.2003
+101050	Rozbójnicy zgromadzili skarb!	String type = <!!Q>	07.06.2003
+101051	Przed ka¿dym miastem zostanie umieszczony Sztandar Wojenny.		
+101052	%Z326przed ka¿dym miastem zostanie umieszczony Sztandar Wojenny. Sztandary przed neutralnymi miastami bêd¹ strze¿one.		
+101053	Sztandar Wojenny jest strze¿ony przez %Z-1!
+
+By go zdobyæ musisz stoczyæ walkê!		
+101054	Sztandar Wojenny jest strze¿ony przez %Z-1!
+
+By go zdobyæ musisz stoczyæ walkê!		
+101055	Sztandar Wojenny jest strze¿ony przez %Y1 %Z-1!
+
+By go zdobyæ musisz stoczyæ walkê!		
+101056	Nagle spokojna jak dot¹d toñ morska ciemnieje i o¿ywia siê!
+
+%Z326 musi stawiæ czo³a bandzie ¯ywio³aków Wody!		

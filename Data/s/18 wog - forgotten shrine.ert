@@ -1,0 +1,19 @@
+ï»¿#	Text resource for "script60.erm" document		
+160000	Zapomniana Kapliczka
+
+(Nie odwiedzona)	<!#S>	01.08.2004
+160001	Zapomniana Kapliczka
+
+(Odwiedzona)	<!#S>	01.08.2004
+160002	Staro¿ytny duch udzieli³ ci b³ogos³awieñstwa na nastêpn¹ bitwê.	<!!M>	01.08.2004
+160003	Dotar³eœ do kapliczki, któr¹ wieki temu opuœcili jej s³udzy.	<!!S>	01.08.2004
+160004	Zapomniana Kapliczka	<!!S>	01.08.2004
+160005	Duchy zamieszkuj¹ce to miejsce s¹ wci¹¿ pe³ni mocy. Wejdziesz do œrodka by siê pomodliæ?	<!!Q>	01.08.2004
+160006	Wchodzisz do kapliczki i modlisz siê przy o³tarzu o pomyœlnoœæ w walkach. Duchy s¹ ci przychylne i udzielaj¹ ci b³ogos³awieñstwa na nastêpn¹ bitwê.	<!!M>	01.08.2004
+160007	Staro¿ytny duch udzieli³ ju¿ twojej armii b³ogos³awieñstwa. Modlitwa przy o³tarzu nie koñczy siê niczym... szczególnym.	<!!M>	01.08.2004
+160008	Modlitwa wymaga wyœmienitej kodycji zarówno psychicznej jak i fizycznej. Jesteœ zmêczony i musisz odpocz¹æ.	<!!M>	01.08.2004
+160009	Postanawiasz opuœciæ to miejsce bez zak³ócania spokoju duchom tego miejsca.	<!!M>	01.08.2004
+160010	Jeszcze jeden udziela (Another one lays) %Z3 na jednostki nale¿¹ce do: %Z-2.	<!!S>	01.08.2004
+160011	Staro¿ytny duch udziela %Z2 na jednostki nale¿¹ce do %Z-1.	<!!Q>	01.08.2004
+160012	Staro¿ytny duch udziela %Z2 na jednostki nale¿¹ce do %Z-1. %Z-3	<!!Q>	01.08.2004
+160013	Staro¿ytny duch udziela %Z3 na jednostki nale¿¹ce do %Z-2.	<!!Q>	01.08.2004

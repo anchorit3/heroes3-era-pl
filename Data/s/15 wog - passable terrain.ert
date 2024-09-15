@@ -1,0 +1,17 @@
+﻿#	Text resource for "script63.erm" document		
+163000	W czasie, gdy powoli przedzierasz się przez gęste drzewa, twoja zdolność Odkrywania pozwala ci wykryć zastawioną zasadzkę, zanim będzie za późno.
+
+Chcesz się przemknąć chyłkiem i uniknąć walki?	<!!Q>	01.08.2004
+163001	W czasie, gdy powoli przedzierasz się przez gęste drzewa, zupełnie bez ostrzerzenia wpadasz w pułapkę!	<!!Q>	01.08.2004
+163002	osuwisko (landslide)	<!!S>	01.08.2004
+163003	Osuwisko (Landslide)	<!!S>	01.08.2004
+163004	a	<!!S>	01.08.2004
+163005	lawina (avalanche)	<!!S>	01.08.2004
+163006	Lawina (Avalanche)	<!!S>	01.08.2004
+163007	an	<!!S>	01.08.2004
+163008	{%Z-2}
+
+Tylko dzięki znajomości Odkrywania z ledwością unikasz śmierci od zabójczych %Z-1!	<!!M>	01.08.2004
+163009	{%Z-2}
+
+Podczas morderczej wędrówki przez zdradzieckie góry, %Z-3 %Z-1 grzebie/pochłania %Y10 z twych %Z1!	<!!Q>	01.08.2004

@@ -1,0 +1,117 @@
+121000	{UWAGA STARA WERSJA} 
+ 
+Twoja wersja WoG i/lub ERM 
+jest zbyt stara aby u¿yæ skryptu 
+{Gildia Najemników v 1.1.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	07.06.2003
+121001	Sprzedaj stworzenia.	String type = <!!S>	07.06.2003
+121002	Wymieñ stworzenia na zasoby.	String type = <!!S>	07.06.2003
+121003	Rekrutuj Najemników.	String type = <!!S>	07.06.2003
+121004	Rekrutuj najemne stworzenia aby zapolowa³y na twych wrogów.	String type = <!!S>	07.06.2003
+121005	{Gildia Najemników} 
+ 
+Czy chcesz sprzedaæ stworzenia czy naj¹æ najemników?	String type = <!!Q>	07.06.2003
+121006	Wybacz nam, ale mamy po uszy mnóstwo papierkowej roboty. Musisz wróciæ póŸniej, kiedy nie bêdziemy zbyt zajêci. Zapraszamy jutro.	String type = <!!M>	07.06.2003
+121007	Nastêpuj¹ce grupy Najemników s¹ dostêpne do wynaj¹cia. Raz wynajête, bêd¹ polowaæ na twych wrogów a¿ ich zaatakuj¹. Nigdy nie stan¹ siê czêœci¹ twojej armii ale bêd¹ walczyæ po twojej stronie i w twoich interesach.	String type = <!!S>	07.06.2003
+121008	Dziêkujê, ale zmieni³em zdanie.	String type = <!!S>	07.06.2003
+121009	{Gildia Najemników} 
+ 
+Niestety, ale na razie nie ma ¿adnych dostêpnych najemnych stworzeñ. OdwiedŸ nas w nastêpnym tygodniu.	String type = <!!M>	07.06.2003
+121010	Wróæ do nas, jeœli bêdziesz potrzebowa³ 
+naszych us³ug.	String type = <!!M>	07.06.2003
+121011	tych najemników	String type = <!!S>	07.06.2003
+121012	tego najemnika	String type = <!!S>	07.06.2003
+121013	Nie masz wystarczaj¹cej iloœci z³ota, aby pozwoliæ sobie na %Z1. Wybierz kilka mniej kosztownych stworzeñ lub wróæ kiedy bêdziesz bogatszy.	String type = <!!M>	07.06.2003
+121014	Zatrudnisz %Z1 
+aby zaczêli pracowaæ dla ciebie?	String type = <!!Q>	07.06.2003
+121015	Wróæ do nas, jeœli bêdziesz potrzebowa³ 
+naszych us³ug.	String type = <!!M>	07.06.2003
+121016	Zrobimy	String type = <!!S>	07.06.2003
+121017	Zrobiê	String type = <!!S>	07.06.2003
+121018	Dziêkujê. %Z1 wszystko co mo¿liwe  
+aby usun¹æ twych wrogów!	String type = <!!Q>	07.06.2003
+121019	 sztuk z³ota by wynaj¹æ)	String type = <!!S>	07.06.2003
+121020	mamy	String type = <!!S>	07.06.2003
+121021	mam	String type = <!!S>	07.06.2003
+121022	Wybierz bohatera do zaatakowania...	String type = <!!S>	07.06.2003
+121023	Którego bohatera %Z3 zaatakowaæ?	String type = <!!S>	07.06.2003
+121024	nam	String type = <!!S>	07.06.2003
+121025	mi	String type = <!!S>	07.06.2003
+121026	Nie wiem, w jaki rodzaj intrygi próbujesz mnie wrobiæ, ale %Z218 jest jednym z twoich {bohaterów}. Nie zamierzamy siê wpl¹tywaæ w ¿adne wewnêtrzne sprzeczki!	String type = <!!M>	07.06.2003
+121027	Czy¿byœ oszala³? Próbujesz wmówiæ %Z3, ¿e chcesz zaatakowaæ ciebie samego?! A o jakiej organizacji myœla³eœ, ¿e tu prowadzimy?	String type = <!!M>	07.06.2003
+121028	Niestety, nasi zwiadowcy przekazuj¹ nam 
+¿e w obecnej chwili %Z218  
+nie przebywa w tym terenie.	String type = <!!M>	07.06.2003
+121029	My nie znamy	String type = <!!S>	07.06.2003
+121030	Ja nie znam	String type = <!!S>	07.06.2003
+121031	nam	String type = <!!S>	07.06.2003
+121032	mi	String type = <!!S>	07.06.2003
+121033	%Z2 bohatera zwanego 
+ 
+{"%Z1"} 
+ 
+Prawdopodobnie poda³eœ 
+%Z3 niew³aœciwe imiê.	String type = <!!M>	07.06.2003
+121034	Czy ci¹gle chcesz skorzystaæ z naszych us³ug?	String type = <!!Q>	07.06.2003
+121035	W takim razie przypuszczam, ¿e 
+bêdziesz siê domaga³ zwrotu wydatków...	String type = <!!Q>	07.06.2003
+121036	Dopadniemy	String type = <!!S>	07.06.2003
+121037	Dopadnê	String type = <!!S>	07.06.2003
+121038	go	String type = <!!S>	07.06.2003
+121039	j¹	String type = <!!S>	07.06.2003
+121040	%Z2 bohatera 
+o imieniu {%Z218...}
+ 
+WNET ZGINIE MARNIE!	String type = <!!M>	07.06.2003
+121041	te najemne stworzenia	String type = <!!S>	07.06.2003
+121042	to najemne stworzenie	String type = <!!S>	07.06.2003
+121043	ma	String type = <!!S>	07.06.2003
+121044	ma	String type = <!!S>	07.06.2003
+121045	Wybierz kolor przeciwnika, na którego %Z3 
+%Z4 uderzyæ i zniszczyæ.	String type = <!!S>	07.06.2003
+121046	Czerwony	String type = <!!S>	07.06.2003
+121047	Niebieski	String type = <!!S>	07.06.2003
+121048	Br¹zowy	String type = <!!S>	07.06.2003
+121049	Zielony	String type = <!!S>	07.06.2003
+121050	Pomarañczowy	String type = <!!S>	07.06.2003
+121051	Fioletowy	String type = <!!S>	07.06.2003
+121052	Jasnoniebieski	String type = <!!S>	07.06.2003
+121053	Ró¿owy	String type = <!!S>	07.06.2003
+121054	Nie, dziêkujê, zmieni³em zdanie	String type = <!!S>	07.06.2003
+121055	Dopadniemy	String type = <!!S>	07.06.2003
+121056	Dopadnê	String type = <!!S>	07.06.2003
+121057	%Z2 wszytkich 
+bohaterów nale¿¹cych do
+{koloru: %Z1...}  
+ 
+...KOÑCZ¥C TYM ICH MARNY ¯YWOT!	String type = <!!Q>	07.06.2003
+121058	Czy wci¹¿ chcesz skorzystaæ z naszych us³ug?	String type = <!!Q>	07.06.2003
+121059	W takim razie przypuszczam, ¿e 
+bêdziesz siê domaga³ zwrotu wydatków...	String type = <!!Q>	07.06.2003
+121060	te stworzenia	String type = <!!S>	07.06.2003
+121061	to stworzenie	String type = <!!S>	07.06.2003
+121062	najemne potwory	String type = <!!S>	07.06.2003
+121063	najemnego potwora	String type = <!!S>	07.06.2003
+121064	Konkretny Bohater	String type = <!!S>	07.06.2003
+121065	Wyœlij najemnika 	String type = <!!S>	07.06.2003
+121066	Wybrany Kolor	String type = <!!S>	07.06.2003
+121067	Wyœlij najemnika 	String type = <!!S>	07.06.2003
+121068	Czy chcesz wys³aæ %Z1 w celu napadniêcia na wyszczególnionego bohatera b¹dŸ bohaterów nale¿¹cych do wybranego koloru?	String type = <!!Q>	07.06.2003
+121069	Wiadomoœæ podczas ataku Najemnika	String type = <!!S>	07.06.2003
+121070	Jaka wiadomoœæ ma siê ukazaæ, kiedy %Z1 zaatakuje wroga?	String type = <!!S>	07.06.2003
+121071	Jaka wiadomoœæ ma siê ukazaæ, kiedy %Z1 zaatakuj¹ wroga?	String type = <!!S>	07.06.2003
+121072	W tej chwili jesteœ jedynym kolorem, który zosta³ na mapie.	String type = <!!M>	07.06.2003
+121073	odburkuj¹ rozwœcieczeni	String type = <!!S>	07.06.2003
+121074	odburkuje rozwœcieczony	String type = <!!S>	07.06.2003
+121075	nas	String type = <!!S>	07.06.2003
+121076	mnie	String type = <!!S>	07.06.2003
+121077	Jesteœmy	String type = <!!S>	07.06.2003
+121078	Jestem	String type = <!!S>	07.06.2003
+121079	odchodz¹	String type = <!!S>	07.06.2003
+121080	odchodzi	String type = <!!S>	07.06.2003
+121081	Za jakiego kaprawego bohatera pragniesz uchodziæ?" %Z2 %Z1. "Najpierw %Z3 najmujesz a potem %Z3 zdradzasz atakuj¹c? Wiedz, ¿e nie %Z4 czêœci¹ ciebie!"  
+ 
+%Z1 szybko %Z5.	String type = <!!M>	07.06.2003
+121082	 by dopaœæ wyszczególnionego bohatera.		
+121083	 by dopaœæ wszystkich bohaterów nale¿¹cych do wybranego koloru.		

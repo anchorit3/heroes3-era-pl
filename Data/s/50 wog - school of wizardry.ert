@@ -1,0 +1,160 @@
+128000	{Szko³a Czarnoksiêstwa} 
+ 
+Podje¿d¿asz do gigantycznego budynku, rozgl¹dasz siê, lecz nie widaæ nikogo w pobli¿u a drzwi s¹ szczelnie zamkniête. Bêdzie lepiej jeœli jutro odwiedzisz to miejsce.	String type = <!!M>	09/02/03
+128001	{Szko³a Czarnoksiêstwa} 
+ 
+Podje¿d¿asz do gigantycznego budynku. Tu¿ przed nim spotykasz starego arcymaga, wygl¹d¹cego tak, jak by ciê oczekiwa³. "Witam w mojej szkole magii, przybyszu. Zgromadzi³em tutaj wielu nauczycieli, którzy mog¹ nauczyæ ciê ró¿nych, przydatnych umiejêtnoœci. Czy zechcesz spêdziæ tu trochê czasu, popatrzeæ jak uczymy, a mo¿e przy³¹czysz siê do nauki?"	String type = <!!Q>	09/02/03
+128002	{Szko³a Czarnoksiêstwa} 
+ 
+"Moje serce wype³nia ból, s³ysz¹c, ¿e nie chcesz siê uczyæ!"	String type = <!!M>	09/02/03
+128003	Umiejêtnoœci	String type = <!!S>	09/02/03
+128004	Nauka lub doskonalenie Podstawowych lub Drugorzêdnych umiejêtnoœci.	String type = <!!S>	09/02/03
+128005	Zaklêcia	String type = <!!S>	09/02/03
+128006	Nauka nowych zaklêæ lub przepisywanie do ksiêgi magii zaklêæ ze zwojów.	String type = <!!S>	09/02/03
+128007	{Szko³a Czarnoksiêstwa} 
+ 
+"Tak wygl¹da szko³a wewn¹trz, mamy tu cztery dzia³y nauczania, jak widzisz podzielone na dwie strefy. Chesz siê uczyæ o Umiejêtnoœciach czy Zaklêciach?"	String type = <!!Q>	09/02/03
+128008	nauczanie umiejêtnoœci drugorzêdnych	String type = <!!S>	09/02/03
+128009	Nauka lub doskonalenie umiejêtnoœci drugorzêdnych	String type = <!!S>	09/02/03
+128010	nauczanie umiejêtnoœci podstawowych	String type = <!!S>	09/02/03
+128011	Doskonalenie poziomu Mocy lub Wiedzy	String type = <!!S>	09/02/03
+128012	 
+"Aha, s¹dzisz, ¿e znasz wystarczaj¹co wiele zaklêæ, ale potrzebujesz wiedzy lub mocy aby ich u¿ywaæ? Mo¿emy udoskonaliæ twoje umiejêtnoœci podstawowe. Mo¿emy nawet nauczyæ ciê ró¿nych umiejêtnoœci kiedy inni nauczyciele, twierdz¹, ¿e ju¿ wiesz za du¿o! Chcesz siê uczyæ Podstawowych czy Drugorzêdnych umiejêtnoœci?"	String type = <!!Q>	09/02/03
+128013	Nauka nowego zaklêcia.	String type = <!!S>	09/02/03
+128014	Przepisanie do ksiêgi zaklêcia ze zwoju.	String type = <!!S>	09/02/03
+128015	{Szko³a Czarnoksiêstwa} 
+ 
+"Mo¿emy nauczyæ ciê nowego zaklêcia, albo pomóc przepisaæ zaklêcie ze zwoju który posiadasz do twojej ksiêgi magii. Ta druga mo¿liwoœæ wymaga jednak, ¿ebyœ posiada³ umiejêtnoœæ M¹droœæ na wysokim poziomie. Chcesz nauczyc siê nowego zaklêcia czy przepisaæ zaklêcie do ksiêgi magii?"	String type = <!!Q>	09/02/03
+128016	{Szko³a Czarnoksiêstwa} 
+ 
+"Twierdzisz wiêc, ¿e potrzebujesz zwiêkszyæ swoje mo¿liwoœci u¿ywania zaklêæ? Jak pewnie wiesz, s¹ dwa typy umiejêtnoœci umo¿liwiaj¹ce czarowanie: Moc i Wiedza. Tutaj mo¿esz udoskonaliæ obie. Chcesz podnieœæ poziom Mocy czy Wiedzy?"	String type = <!!Q>	09/02/03
+128017	{Szko³a Czarnoksiêstwa} 
+ 
+"Dzisiaj nauczyciele %Z1. Zainteresowany?"	String type = <!!Q>	09/02/03
+128018	{Szko³a Czarnoksiêstwa} 
+ 
+"Czar, którego chc¹ ciê nauczyæ nazywaj¹ %Z2. Wci¹¿ zainteresowany?"	String type = <!!Q>	09/02/03
+128019	{Szko³a Czarnoksiêstwa} 
+ 
+"Nie posiadasz ksiêgi magii. Bez niej nie mo¿emy nauczyæ ciê ¿adnego zaklêcia. 
+ 
+Chcesz j¹ kupiæ za %Y30 z³ota?"		
+128020	{Szko³a Czarnoksiêstwa} 
+ 
+"Sk¹pcze! Nie dostaniesz jej taniej nigdzie!"	String type = <!!M>	09/02/03
+128021	{Szko³a Czarnoksiêstwa} 
+ 
+"Wiedza zazwyczaj chodzi w parze z cen¹. Nauka zaklêcia %Z2 bêdzie ciê kosztowaæ %V1 z³ota. Ci¹gle zainteresowany?"	String type = <!!Q>	09/02/03
+128022	{Szko³a Czarnoksiêstwa} 
+ 
+"Teraz mo¿esz rzucaæ zaklêcie %Z2 podczas walki!" It will %Z3."	String type = <!!Q>	09/02/03
+128023	{Szko³a Czarnoksiêstwa} 
+ 
+"Przykro mi bardzo, lecz nie jesteœ jeszcze dostatecznie M¹dry!"	String type = <!!Q>	09/02/03
+128024	{Szko³a Czarnoksiêstwa} 
+ 
+"Instruktorzy mówi¹, ¿e znasz ju¿ zaklêcie %Z2 i dlatego nie mog¹ nauczyæ ciê dzisiaj niczego wiêcej."	String type = <!!M>	09/02/03
+128025	Nauka lub doskonalenie umiejêtnoœci %Z1	String type = <!!S>	09/02/03
+128026	Nauczania %Z1	String type = <!!S>	09/02/03
+128027	{Szko³a Czarnoksiêstwa} 
+ 
+"Dzisiaj, nasi uczeni mog¹ nauczyæ ciê wiêcej o umiejêtnoœci %Z1. Zainteresowany?"	String type = <!!Q>	09/02/03
+128028	{Szko³a Czarnoksiêstwa} 
+ 
+"Jesteœ ju¿ na poziomie mistrzowskim w umiejêtnoœci %Z1!"	String type = <!!Q>	09/02/03
+128029	{Szko³a Czarnoksiêstwa} 
+ 
+"Nasi uczeni mówi¹, ¿e jesteœ na poziomie Zaawansowanym w umiejêtnoœci %Z1. Mog¹ podnieœæ twoj¹ wiedzê do poziomu Mistrza w umiejêtnoœci %Z1 za 3000 szt. z³ota. Chcesz siê wyszkoliæ?"	String type = <!!Q>	09/02/03
+128030	{Szko³a Czarnoksiêstwa} 
+ 
+"Nasi uczeni mówi¹, ¿e jesteœ na poziomie Pocz¹tkuj¹cym w umiejêtnoœci %Z1. Mog¹ podnieœæ twoj¹ wiedzê do poziomu Zaawansowanego w umiejêtnoœci %Z1 za 3000 szt. z³ota. Chcesz siê wyszkoliæ?"	String type = <!!Q>	09/02/03
+128031	{Szko³a Czarnoksiêstwa} 
+ 
+"Nasi uczeni mówi¹, ¿e nie wiesz nic o umiejêtnoœci %Z1. Mog¹ nauczyæ ciê umiejêtnoœci %Z1 na poziomie Pocz¹tkuj¹cym za 3000 szt. z³ota. Chcesz siê wyszkoliæ?"	String type = <!!Q>	09/02/03
+128032	{Szko³a Czarnoksiêstwa} 
+ 
+"Wêdrowcze, jesteœ przesycony wiedz¹! ¯eby nauczyæ siê umiejêtnoœci %Z1, musisz zap³aciæ  %Y3 szt. z³ota ekstra! Decydujesz siê na to?"	String type = <!!Q>	09/02/03
+128033	{Szko³a Czarnoksiêstwa} 
+ 
+Ju¿ na pierwszy rzuk oka widaæ, ¿e instruktorzy s¹ wyœmienici w swoim fachu. W mgnieniu oka twój umys³ zape³nia siê wiadomoœciami o umiejêtnoœci %Z1!	String type = <!!M>	09/02/03
+128034	{Szko³a Czarnoksiêstwa} 
+ 
+"Wiêc troszkê {Mocy} dla ciebie... Tym razem za darmo!"	String type = <!!Q>	09/02/03
+128035	{Szko³a Czarnoksiêstwa} 
+ 
+"Wiêc troszkê {Mocy} dla ciebie... Chcesz zwiêkszyæ swoj¹ Moc za %Y2 szt. z³ota?"	String type = <!!Q>	09/02/03
+128036	{Szko³a Czarnoksiêstwa} 
+ 
+"Twoja {Moc} jest bardzo du¿a... Ale mo¿e byæ wiêksza! Chcesz zwiêkszyæ swoj¹ Moc za %Y2 szt. z³ota?"	String type = <!!Q>	09/02/03
+128037	{Szko³a Czarnoksiêstwa} 
+ 
+"Twoja {Moc} robi wra¿enie... Ale mo¿e byæ jeszcze wiêksza! Chcesz zwiêkszyæ swoj¹ Moc za %Y2 szt. z³ota?"	String type = <!!Q>	09/02/03
+128038	{Szko³a Czarnoksiêstwa} 
+ 
+Instruktorzy s¹ wyœmienici - dopiero co skoñczy³y siê æwiczenia, a ju¿ czujesz, ¿e twoja Moc wzrasta. Czujesz te¿, ¿e to ju¿ koniec tej lekcji.	String type = <!!Q>	09/02/03
+128039	{Szko³a Czarnoksiêstwa} 
+ 
+"Wiêc troszkê {Wiedzy}... Tym razem za darmo!"	String type = <!!Q>	09/02/03
+128040	{Szko³a Czarnoksiêstwa} 
+ 
+"Wiêc troszkê {Wiedzy}...  Chcesz zwiêkszyæ swoj¹ Wiedzê za %Y2 szt. z³ota?"	String type = <!!Q>	09/02/03
+128041	{Szko³a Czarnoksiêstwa} 
+ 
+"Twoja {Wiedza} jest bardzo du¿a... Ale mo¿e byæ wiêksza! Chcesz zwiêkszyæ swoj¹ Wiedzê za %Y2 szt. z³ota?"	String type = <!!Q>	09/02/03
+128042	{Szko³a Czarnoksiêstwa} 
+ 
+"Twoja {Wiedza} robi wra¿enie... Ale mo¿e byæ jeszcze wiêksza! Chcesz zwiêkszyæ swoj¹ Wiedzê za %Y2 szt. z³ota?"	String type = <!!Q>	09/02/03
+128043	{Szko³a Czarnoksiêstwa} 
+ 
+Instruktorzy s¹ wyœmienici - dopiero co skoñczy³y siê æwiczenia, a ju¿ czujesz, ¿e twoja Wiedza wzrasta. Czujesz te¿, ¿e to ju¿ koniec tej lekcji.	String type = <!!Q>	09/02/03
+128044	{Szko³a Czarnoksiêstwa} 
+ 
+"Przykro mi bardzo, ale jeœli chcesz przepisaæ zaklêcie, musisz wyszkoliæ siê najpierw w umiejêtnoœci M¹droœæ!"	String type = <!!Q>	09/02/03
+128045	{Szko³a Czarnoksiêstwa} 
+ 
+"Nie posiadasz ¿adnych Magicznych Zwojów! Wróæ kiedy je zdobêdziesz!"	String type = <!!Q>	09/02/03
+128046	{Szko³a Czarnoksiêstwa} 
+ 
+"To ju¿ wszystkie magiczne zwoje zawieraj¹ce zaklêcia, których do tej pory nie zna³eœ. Wróæ tu kiedy bêdziesz mia³ ich wiêcej!"	String type = <!!Q>	09/02/03
+128047	{Szko³a Czarnoksiêstwa} 
+ 
+"Posiadasz zwój z zaklêciem %Z2. To zaklêcie bêdzie %Z3. Chcesz przepisaæ je do swojej ksiêgi magii za %V1 szt. z³ota? Pamiêtaj, ¿e stracisz zwój!"	String type = <!!Q>	09/02/03
+128048	{Szko³a Czarnoksiêstwa} 
+ 
+"Nie posiadasz ksiêgi magii. Bez niej, nie mo¿emy przepisaæ zwoju! 
+ 
+Chcesz kupiæ ksiêgê magii za %Y30 szt. z³ota?"	String type = <!!Q>	09/02/03
+128049	{Szko³a Czarnoksiêstwa} 
+ 
+"Sk¹pcze! Nie dostaniesz jej taniej nigdzie!"	String type = <!!Q>	09/02/03
+128050	s¹ wycieñczeni. Zatem mog¹ nauczyæ ciê czaru tylko Pierwszego Poziomu	String type = <!!S>	09/02/03
+128051	s¹ zmêczeni. Zatem mog¹ nauczyæ ciê czaru tylko Drugiego Poziomu	String type = <!!S>	09/02/03
+128052	s¹ troszkê bez kondycji. Zatem mog¹ nauczyæ ciê czaru Trzeciego Poziomu	String type = <!!S>	09/02/03
+128053	s¹ w œwietnej kondycji. Zatem mog¹ nauczyæ ciê czaru Czwartego Poziomu	String type = <!!S>	09/02/03
+128054	pomog¹ ci w twej podró¿y	String type = <!!S>	09/02/03
+128055	zmieni¹ pole walki	String type = <!!S>	09/02/03
+128056	spawi¹, aby ziemia zatrzês³a siê w posadach	String type = <!!S>	09/02/03
+128057	zadadz¹ obra¿enia twym wrogom	String type = <!!S>	09/02/03
+128058	uderz¹ na twych wrogów. Ale uwa¿aj abyœ jednoczeœnie nie zaatakowa³ swoich sprzymierzeñców	String type = <!!S>	09/02/03
+128059	ochroni¹ twych sprzymierzeñców	String type = <!!S>	09/02/03
+128060	usun¹ magiczne ochrony i przeszkody	String type = <!!S>	09/02/03
+128061	ochroni¹ twych sojuszników	String type = <!!S>	09/02/03
+128062	wylecz¹ z ran twych sojuszników	String type = <!!S>	09/02/03
+128063	wp³yn¹ na rozdzia³ zadawanych obra¿eñ	String type = <!!S>	09/02/03
+128064	zaskarbi¹ sobie twoj¹ przychylnoœæ u bogów	String type = <!!S>	09/02/03
+128065	wp³yn¹ na morale	String type = <!!S>	09/02/03
+128066	wp³yn¹ na szczêœcie	String type = <!!S>	09/02/03
+128067	zmieni¹ odleg³oœci w podró¿owaniu	String type = <!!S>	09/02/03
+128068	sprawi¹, aby twoi sprzymierzeñcy zadawali wiêcej obra¿eñ	String type = <!!S>	09/02/03
+128069	uczyni¹ twych sojuszników nieco odporniejszymi	String type = <!!S>	09/02/03
+128070	wp³yn¹ na umys³y pozosta³ych	String type = <!!S>	09/02/03
+128071	przenios¹ innych	String type = <!!S>	09/02/03
+128072	zmieni¹ pole walki	String type = <!!S>	09/02/03
+128073	zduplikuj¹ inne istnienia	String type = <!!S>	09/02/03
+128074	przywo³aj¹ nowych sojuszników	String type = <!!S>	09/02/03
+128075	{Szko³a Czarnoksiêstwa}
+
+"Nie masz wystarczaj¹cej iloœci z³ota!"	String type = <!!M>	09/02/03
+128076	Szko³a Czarnoksiêstwa		
+128077	 umiejêtnoœæ		
+			

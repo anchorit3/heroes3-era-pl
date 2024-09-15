@@ -1,0 +1,65 @@
+#	Text resource for "script48.erm" document		
+148000	{Namiot Medyka} 
+ 
+Dziêki namiotowi medyka na pocz¹tku ka¿dej kolejki leczony jest jeden z twoich oddzia³ów, ponadto po zakoñczonej bitwie namiot wskrzesza (1-50 + poziom bohatera) P¯ uszkodzonego oddzia³u.	<!#S>	01.08.2004
+148001	{Balista} 
+ 
+Niszczy podczas walki oddzia³y wroga oraz tu¿ przed walk¹ zadaje wrogim jednostkom (1-50 + poziom bohatera) obra¿eñ.	<!#S>	01.08.2004
+148002	{Wóz z amunicj¹} 
+ 
+Dziêki wozowi z amunicj¹ twoim oddzia³om nigdy nie zabraknie pocisków oraz zwiêksza "pozawojenne" efekty dzia³ania Namiotu Medyka i Balisty o 100%.	<!#S>	01.08.2004
+148003	Wóz z amunicj¹ (Supply Cart)	<!#S>	01.08.2004
+148004	Sokoli Wzrok uniemo¿liwia rzucenie zaklêcia!	<!!S>	01.08.2004
+148005	%Z1 strzelaj¹c z oddali z Balisty zabija %X3 stworzeñ!
+
+%Z1 zyskuje {%Y1} punktów doœwiadczenia.	<!!Q>	01.08.2004
+148006	%Z1 strzelaj¹c z oddali z Balisty zabija jedno stworzenie!
+
+%Z1 zyskuje {%Y1} punktów doœwiadczenia.	<!!Q>	01.08.2004
+148007	Po skoñczonej walce %Z1 u¿ywa znajomoœci Pierwszej Pomocy by wskrzesiæ stworzenie!	<!!Q>	01.08.2004
+148008	Po skoñczonej walce %Z1 u¿ywa znajomoœci Pierwszej Pomocy by wskrzesiæ stworzeñ: %Y5!	<!!Q>	01.08.2004
+148009	%Z1 za pomoc¹ Mistycyzmu obni¿a dostêpne punkty magii u: %Z3 do %Y1%%	<!!Q>	01.08.2004
+148010	%Z1: czêœæ armii czuje siê dzisiaj wyj¹tkowo pomyœlnie! 
+ 
+(+2 do Ataku / +2 do Obrony)	<!!Q>	01.08.2004
+148011	%Z1: czêœæ armii %Z1 czuje siê dzisiaj wyj¹tkowo pomyœlnie! 
+ 
+(+2 do Ataku / +2 do Obrony)	<!!Q>	01.08.2004
+148012	%Z1: czêœæ armii czuje siê dzisiaj wyj¹tkowo pomyœlnie! 
+ 
+(+2 do Ataku / +2 do Obrony)	<!!Q>	01.08.2004
+148013	%Z700: Poznana umiejêtnoœæ Finansów wytworzy³a kilka surowców.	<!!Q>	01.08.2004
+148014	%Z700: Poznana umiejêtnoœæ Finansów wytworzy³a kilka surowców.	<!!Q>	01.08.2004
+148015	%Z700: Poznana umiejêtnoœæ Finansów wytworzy³a pewn¹ liczbê surowców.	<!!Q>	01.08.2004
+148016	Dziêki pracowitym poszukiwaniom %Z700 poznaje zaklêcie:	<!!Q>	01.08.2004
+148017	jego	<!!S>	01.08.2004
+148018	jej	<!!S>	01.08.2004
+148019	on	<!!S>	01.08.2004
+148020	ona	<!!S>	01.08.2004
+148021	jemu	<!!S>	01.08.2004
+148022	jej	<!!S>	01.08.2004
+148023	Podchodz¹c do ma³ego jeziorka, %Z700 napotyka wró¿kê i zatrzymuje siê by chwilê pogawêdziæ. Niezmiernie wdziêczna wró¿ka przekazuje %Z703 czêœæ swojej magii.	<!!Q>	01.08.2004
+148024	Z %Z701 niesamowitym talentem znajdowania rzeczy, %Z700 odkrywa ukryt¹ stertê z³ota.	<!!Q>	01.08.2004
+148025	Dziêki %Z701 wybitnym zdolnoœciom obserwatorskim, %Z700 odkrywa niewielk¹ iloœæ jak¿e potrzebnych surowców.	<!!Q>	01.08.2004
+148026	Podczas penetracji terenu, %Z700 odkrywa spor¹ niszê wype³nion¹ zasobami.	<!!Q>	01.08.2004
+148027	Patroluj¹c nowo odkryte tereny, %Z700 odkrywa stworzenie (%Z704) pragn¹ce przy³¹czyæ siê do %Z701 armii	<!!Q>	01.08.2004
+148028	Patroluj¹c nowo odkryte tereny, %Z700 odkrywa chor¹giew (%Z705) pragn¹c¹ przy³¹czyæ siê do %Z701 armii	<!!Q>	01.08.2004
+148029	Odkrywaj¹c nowe tereny, %Z700 napotyka na szemrz¹ce Ÿróde³ko. Pozwalaj¹c swym jednostkom napiæ siê orzeŸwiaj¹cej wody, wzmacnia ich si³y ¿yciowe.	<!!Q>	01.08.2004
+148030	Dziêki niesamowitej ostroœci wzroku, %Z700 napotyka le¿¹ce na ziemi pióro Feniksa. Podnosi go i wtyka sobie w kapelusz na szczêœcie.	<!!Q>	01.08.2004
+148031	Podczas patrolu, %Z700 spotyka wêdrownego mêdrca. Gawêdz¹ przez chwilê, opowiadaj¹ historie, obaj dziel¹c siê zdobytym doœwiadczeniem.	<!!Q>	01.08.2004
+148032	Knowing the lay of the land, %Z700 znajduje skrót, który znacznie przyœpieszy %Z701 woja¿e.	<!!Q>	01.08.2004
+148033	%Z700 znajduje na szczycie wzgórza doskona³y punkt widokowy. Dziêki temu ma sposobnoœæ obserwowaæ najbli¿sze otoczenie.	<!!Q>	01.08.2004
+148034	S³ysz¹c jakiœ ha³as, %Z700 zatrzymuje swoj¹ armiê i uwa¿nie zaczyna badaæ teren. Tu¿ obok œcie¿ki napotyka oddzia³: %Z705.	<!!Q>	01.08.2004
+148035	Czy chcesz walczyæ z: %Z705?	<!!Q>	01.08.2004
+148036	%Z700 s³ysz¹c g³oœne pokrzykiwania ostro¿nie wystrzega siê bandy (%Z705) czyhaj¹cej u stóp nastêpnego wzgórza.	<!!Q>	01.08.2004
+148037	Czy chcesz walczyæ z: %Z705?	<!!Q>	01.08.2004
+148038	Utworzy³eœ:
+ 
+{Talizman Farseer'a (Farseer's Talisman)}
+
+Sokoli Wzrok otrzymuje 30%-ow¹ premiê do szansy na pokrzy¿owanie zaklêæ wrogiego bohatera.	<!!Q>	01.08.2004
+148039	Utworzy³eœ:
+
+{S³owo Ochrony Tobyna (Tobyn's Spell Ward)}
+
+Otrzymujesz 30%-ow¹ premiê do magicznej odpornoœci.	<!!Q>	01.08.2004

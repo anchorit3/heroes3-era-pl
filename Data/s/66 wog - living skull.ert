@@ -1,0 +1,197 @@
+112000	{UWAGA STARA WERSJA} 
+ 
+Posiadasz zbyt star¹ wersjê dodatku WoG i/lub ERM 
+aby u¿ywaæ 
+{skryptu ¯yj¹ca Czaszka wersja 1.1.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	07.06.2003
+112001	¯yj¹ca Czaszka	String type = <!#S>	07.06.2003
+112002	¯yj¹ca Czaszka przemawia kiedy do niej podchodzisz...
+
+Jakiego artefaktu poszukujesz, %Z26?	String type = <!!S>	07.06.2003
+112003	Wpisz czêœciow¹ lub pe³n¹ nazwê artefaktu lub zwoju z zaklêciem.	String type = <!!S>	07.06.2003
+112004	Graal	String type = <!!S>	07.06.2003
+112005	Gral	String type = <!!S>	07.06.2003
+112006	Zwój	String type = <!!S>	07.06.2003
+112007	Zwój z zaklêciem	String type = <!!S>	07.06.2003
+112008	Zaklêcie	String type = <!!S>	07.06.2003
+112009	Ksiêga Czarów	String type = <!!S>	07.06.2003
+112010	Ksiêga Zaklêæ	String type = <!!S>	07.06.2003
+112011	Puszka Pandory	String type = <!!S>	07.06.2003
+112012	Puszka pandory	String type = <!!S>	07.06.2003
+112013	Pószka pandory	String type = <!!S>	07.06.2003
+112014	Pószka Pandory	String type = <!!S>	07.06.2003
+112015	Zwój z zaklêciem	String type = <!!S>	07.06.2003
+112016	Poszukujesz: %Z23! 
+ 
+Za 100 {sztuk z³ota} 
+przeszukam ca³¹ krainê by odszukaæ 
+nieodnaleziony artefakt o nazwie %Z23.  
+ 
+Zgadasz siê mi zap³aciæ?	String type = <!!Q>	07.06.2003
+112017	Poszukujesz: %Z23! 
+ 
+Za 100 {sztuk z³ota} 
+przeszukam ca³¹ krainê by odszukaæ 
+nieodnaleziony atrefakt o nazwie %Z23. 
+ 
+Zgadzasz siê mi zap³aciæ?	String type = <!!Q>	07.06.2003
+112018	Poszukujesz: %Z23! 
+ 
+Za 100 {sztuk z³ota} 
+przeszukam ca³¹ krainê by odszukaæ 
+tajemnicz¹ %Z23. 
+ 
+Zgadzasz siê mi zap³aciæ?	String type = <!!Q>	07.06.2003
+112019	Mo¿e innym razem, gdy 
+zaoszczêdzisz trochê grosza.	String type = <!!M>	07.06.2003
+112020	Nie masz ani jednej sztuki {z³ota}. 
+Wróæ, gdy bêdziesz bogatszy.	String type = <!!M>	07.06.2003
+112021	Nie posiadam ¿adnej wiedzy o 
+ 
+{"%Z1"} 
+ 
+Zapewne poda³eœ mi 
+niew³aœciw¹ nazwê.	String type = <!!M>	07.06.2003
+112022	Dziêkujê, %Z26. 
+ 
+Jeœli jesteœ gotów to zaczynam poszukiwania.	String type = <!!Q>	07.06.2003
+112023	na powierzchni	String type = <!!S>	07.06.2003
+112024	w podziemiach	String type = <!!S>	07.06.2003
+112025	niedostêpny w tej krainie	String type = <!!S>	07.06.2003
+112026	Jest	String type = <!!S>	07.06.2003
+112027	jest	String type = <!!S>	07.06.2003
+112028	go	String type = <!!S>	07.06.2003
+112029	S¹	String type = <!!S>	07.06.2003
+112030	s¹	String type = <!!S>	07.06.2003
+112031	ich	String type = <!!S>	07.06.2003
+112032	On jest	String type = <!!S>	07.06.2003
+112033	jest	String type = <!!S>	07.06.2003
+112034	go	String type = <!!S>	07.06.2003
+112035	{He³m} {Boskich} {Mocy}	String type = <!!S>	07.06.2003
+112036	{Ciêciwa} {z} {Grzywy} {Jednoro¿ca}	String type = <!!S>	07.06.2003
+112037	S³awny artefakt o nazwie:
+ 
+{"}{%Z23}{"} 
+ 
+którego pragniesz odnaleŸæ %Z43 %Z24.	String type = <!!M>	07.06.2003
+112038	He³m Boskich Mocy	String type = <!!S>	07.06.2003
+112039	Ciêciwa z Grzywy Jednoro¿ca	String type = <!!S>	07.06.2003
+112040	tygle Rtêci	String type = <!!S>	07.06.2003
+112041	uncje Siarki	String type = <!!S>	07.06.2003
+112042	Krzyszta³y	String type = <!!S>	07.06.2003
+112043	Klejnoty	String type = <!!S>	07.06.2003
+112044	Za dwa %Z41 
+powiem ci, gdzie dok³adnie mo¿na znaleŸæ 
+ %Z23. 
+ 
+Czy jesteœ sk³onny mi tyle zap³aciæ?	String type = <!!Q>	07.06.2003
+112045	Powodzenia! 
+ %Z23 
+czeka gdzieœ na ciebie w tej rozleg³ej krainie.	String type = <!!M>	07.06.2003
+112046	Przykro mi ale %Z41 
+s¹ niezbêdne bym mog³a ci pomóc. 
+Bêdziesz móg³ skorzystaæ z mych us³ug 
+jeœli zdobêdziesz wystarczaj¹co du¿o zasobów.	String type = <!!Q>	07.06.2003
+112047	Dziêkujê.	String type = <!!Q>	07.06.2003
+112048	krok	String type = <!!S>	07.06.2003
+112049	kroki	String type = <!!S>	07.06.2003
+112050	krok	String type = <!!S>	07.06.2003
+112051	kroków	String type = <!!S>	07.06.2003
+112052	{He³m} {Boskich} {Mocy}	String type = <!!S>	07.06.2003
+112053	{Ciêciwa} {z} {Grzywy} {Jednoro¿ca}	String type = <!!S>	07.06.2003
+112054	{%Z23} 
+%Z43 na pó³nocny wschód st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie o 
+%V25 %Z27 na pó³noc i %V26 %Z28 na wschód st¹d.	String type = <!!M>	07.06.2003
+112055	{%Z23} 
+%Z43 umiejscowiony na po³udniowy wschód st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie o 
+%V25 %Z27 na po³udnie i %V26 %Z28 na wschód st¹d.	String type = <!!M>	07.06.2003
+112056	{%Z23} 
+%Z43 prosto na wschód st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie o 
+%V26 %Z28 na wschód st¹d.	String type = <!!M>	07.06.2003
+112057	{%Z23} 
+%Z43 na pó³nocny zachód st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie o 
+%V25 %Z27 na pó³noc i %V26 %Z28 na zachód st¹d.	String type = <!!M>	07.06.2003
+112058	%Z23} 
+%Z43 na po³udniowy zachód st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony o 
+%V25 %Z27 na po³udnie i %V26 %Z28 na zachód st¹d.	String type = <!!M>	07.06.2003
+112059	{%Z23} 
+%Z43 prosto na zachód st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie 
+%V26 %Z28 Zachód.	String type = <!!M>	07.06.2003
+112060	{%Z23} 
+%Z43 prosto na po³udnie st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie o 
+%V25 %Z27 na po³udnie st¹d.	String type = <!!M>	07.06.2003
+112061	{%Z23} 
+%Z43 prosto na pó³noc st¹d 
+%Z24. 
+ 
+%Z42 umiejscowiony dok³adnie o 
+%V25 %Z27 na pó³noc st¹d.	String type = <!!M>	07.06.2003
+112062	He³m Boskich Mocy	String type = <!!S>	07.06.2003
+112063	Ciêciwa z Grzywy Jednoro¿ca	String type = <!!S>	07.06.2003
+112064	Za jedyne {1000 sztuk z³ota} 
+ods³oniê ci, bohaterze, s³awny artefakt o nazwie: 
+ {%Z23} 
+znajduj¹cy siê na mapie, 
+rozpêdzaj¹c zas³ony 
+które mog¹ %Z44 ukrywaæ. 
+ 
+Pozwolisz sobie na tak¹ us³ugê?	String type = <!!Q>	07.06.2003
+112065	Powodzenia! 
+ %Z23 
+ czeka gdzieœ na ciebie w tej rozleg³ej krainie.	String type = <!!M>	07.06.2003
+112066	Wybacz, %Z26, ale nie masz 
+na tyle pieniêdzy. 
+Wróæ, jak tylko staniesz siê bogatszy.	String type = <!!Q>	07.06.2003
+112067	Dziêkujê, %Z26. 
+ 
+Jeœli jesteœ gotów, zaraz poka¿ê ci 
+%Z23.	String type = <!!Q>	07.06.2003
+112068	Poszukujesz magicznego Zwoju z zaklêciem...	String type = <!!S>	07.06.2003
+112069	Jakiego zaklêcia poszukujesz, %Z26?	String type = <!!S>	07.06.2003
+112070	Zwój z zaklêciem %Z22	String type = <!!S>	07.06.2003
+112071	Zwój z zaklêciem %Z23	String type = <!!S>	07.06.2003
+112072	Wyczerpa³am ju¿ si³y ci¹g³ym szukaniem. Wróæ do mnie jutro. 		
+112073	Za %Y2 szt. Mithrilu mogê sprowadziæ
+ci, panie, %Z23.
+
+Czy mo¿esz sobie na to pozwoliæ?		
+112074	Wybacz, %Z26, ale nie masz 
+na tyle Mithrilu. 
+
+Wróæ do mnie, jeœli uda ci siê jakiœ znaleŸæ.		
+112075	Dziêkujê, %Z26.
+
+To przyjemnoœæ mieæ do czynienia z tak prominentnym bohaterem.		
+112076	Dziêkujê, %Z26.
+
+To przyjemnoœæ mieæ do czynienia z tak prominentnym bohaterem.		
+112077	{¯yj¹ca Czaszka}
+
+¯yj¹ca Czaszka przemawia kiedy do niej podchodzisz...
+
+%Z26, jesteœ pierwszym wêdrowcem, który mnie odwiedza w tym tygodniu wiêc obdarzê ciê za darmo wizj¹.		
+112078	ochr		
+112079	Ochrona		
+112080	{Topór} {Srogoœci} {Barbarzyñskiego} {W³adcy}		

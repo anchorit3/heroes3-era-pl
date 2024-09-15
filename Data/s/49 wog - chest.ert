@@ -1,0 +1,15 @@
+129000	Znajdujesz skrzyniê wype³nion¹ z³otem! Mo¿esz zatrzymaæ z³oto lub rozdaæ je swoim jednostkom, aby ich ulepszyæ.	String type = <!!Q>	08.06.2003
+129001	rtêæ	String type = <!!S>	08.06.2003
+129002	siarkê	String type = <!!S>	08.06.2003
+129003	kryszta³y	String type = <!!S>	08.06.2003
+129004	klejnoty	String type = <!!S>	08.06.2003
+129005	Znajdujesz skrzyniê wype³non¹ przez %Z326! Mo¿esz zatrzymaæ %Z326, lub zu¿yæ je na naukê.	String type = <!!Q>	08.06.2003
+129006	Twoj¹ armiê owion¹³ jakiœ gaz. Wojsko poczu³o siê Ÿle. Jak dobrze pójdzie wkrótce gaz powinien siê rozwiaæ.	String type = <!!S>	08.06.2003
+129007	Twoj¹ armiê owion¹³ jakiœ gaz. Wojsko poczu³o siê zatrute. Jak dobrze pójdzie wkrótce gaz powinien siê rozwiaæ.	String type = <!!S>	08.06.2003
+129008	Twoj¹ armiê owion¹³ jakiœ gaz. Wojsko poczu³o siê s³abo. Jak dobrze pójdzie wkrótce gaz powinien siê rozwiaæ.	String type = <!!S>	08.06.2003
+129009	Twoj¹ armiê owion¹³ jakiœ gaz. Wojsko poczu³o siê anemicznie. Jak dobrze pójdzie wkrótce gaz powinien siê rozwiaæ.	String type = <!!S>	08.06.2003
+129010	Na szczêœcie podejrzewasz, ¿e coœ siê ma staæ niedobrego i starasz siê unikn¹æ uszkodzenia.	String type = <!!S>	08.06.2003
+129011	Szczêœliwie ty i twoje wojsko pozostajecie nietkniêci.	String type = <!!S>	08.06.2003
+129012	Kiedy otwierasz skrzyniê, zaczyna wydobywaæ siê z niej gaz - to pu³apka! %Z326 
+ 
+Kiedy gaz koñczy siê rozwiewaæ zagl¹dasz do skrzyni i znajdujesz dwa artefakty!	String type = <!!Q>	08.06.2003

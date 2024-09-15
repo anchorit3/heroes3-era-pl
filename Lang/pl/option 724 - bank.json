@@ -1,0 +1,57 @@
+{
+	"opt724": {
+		"button":	"Bank",
+
+		"tnob":	"Aby skorzystać z dowolnych \nusług banku, musisz najpierw zbudować Targowisko.",
+		"tfil":	"{~grey}....{~}",
+		"t007":	"Biuro {\"@CityName@\"} Zjednoczonego Banku Krasnoludów {\"Kufer fortuny\"}",
+		"t240":	"50 sztuk złota.",
+		"t241":	"100 sztuk złota.",
+		"t246":	"Wskaźnik",
+		
+		"h010":	"{Pożyczki standardowe} {~white}udzielane są od ręki. \n Dla każdego rodzaju zasobu procent\nstawka jest ustawiona{~} {tylko}{~white}\nna podstawie kredytu klienta.{~}",
+		"h020":	"{~white}To pokazuje aktualny stan\n wszystkich Twoich pożyczek.\nWcześniejsza{~} {spłata} {~white}jest dozwolona, ale{~} {tylko} {~white}jeśli pożyczka zostanie spłacona w całości.{~}",
+		"h030":	"{Pożyczki ukierunkowane} {~white} mają stałe \nstawki i warunki specjalne.\nZasoby są natychmiast\n{~}{przenoszone do Ciebie!}",
+		"h008":	"{@ClerkName@}{~white}, urzędnik najwyższej kategorii\nw{~} biurze w {\"@CityName@\"}{~white}.\nOkreśl, czym jesteś zainteresowany opowiem Ci o tym szczegółowo.{~}",
+		"h09x":	"{~white}Już nas opuszczasz?\nWróć wkrótce!\nBędziemy{~} {szczęśliwi} {~white}mogąc Cię ponownie zobaczyć!{~}",
+		"h09a":	"{~white}Interesują Cię inne pożyczki?\nMamy najlepsze oferty!{~}",
+		"h10x":	"{Weź standardową pożyczkę.}\n{~white}Możesz otrzymać kilka pożyczek w ramach dostępnej kwoty, ale opłaty za każdą będą rosły.{~}",
+		"h10a":	"{~white}Proszę potwierdzić\nże otrzymałeś pożyczkę standardową.{~} {Standardowa} {~white}pożyczka.\nPodpisz tutaj, tutaj, tutaj i tutaj...{~}",
+		"h107":	"{~white}Pożyczka ukierunkowana{~} {\"Administracja\"} {~white}wydawana na budowę dostępnej struktury finansowej - od ratusza po Kapitol.{~} {Konstrukcja} {budowana jest automatycznie}{~white}. {~}",
+		"h108":	"{~white}Pożyczka ukierunkowana{~} {\"Fortyfikacja\"} {~white}wydana na budowę struktury miejskiego obiektu \nobronnego - Fort, Cytadela lub Zamek.\n{~}{Struktura jest budowana automatycznie}{~white}.{~}",
+		"h109":	"{~white}Pożyczka ukierunkowana{~} {\"Combat Elite\"} {~white}wydawana na budowę lub ulepszenie domów stworzeń poziomu 7 w danym mieście.{~} {Konstrukcja} {jest budowana automatycznie}{~white} .{~}",
+		"h110":	"{~white}Pożyczka ukierunkowana{~} {\"Mobilizacja\"} {~white}- To jest{~} {pożyczka złota} {~white}na sytuacje awaryjne. Ma{~} {stała kwotę} {~white}ale stawka jest również{~} {podwojona}{~white}!{~}",
+		"h111":	"{~white}Pożyczka ukierunkowana{~} {\"Magia\"} {~white}wydawana na zbudowanie dostępnego poziomu{~} {Maga} {Gildii} {~white}w tym mieście.{~} {Konstrukcja zostanie zbudowana} {automatycznie}{~white}!{~}",
+		"h115":	"{~white}Proszę potwierdzić\n otrzymania{~} {ukierunkowanej} {~white}pożyczki.\nPodpisz tutaj,\ntutaj i tutaj...{~}",
+		"h20x":	"{~white}W pełni spłać dług za zasoby.\nJeżeli kwota wypłaty przekroczy\npołowę dostępnej kwoty, bank{~}\n{zmniejsz} {~white}stawkę za ten zasób.{~}",
+		"h20a":	"{~white}W tej chwili nie masz wystarczających środków, aby w pełni spłacić pożyczkę.{~}",
+		"h20n":	"{~white}W tej chwili nie masz żadnych długów wobec banku.{~}",
+		"h12x":	"{~white}Kwota dostępnej pożyczki wyliczana jest{~} {dziennie} {~white}na podstawie kwoty bieżących pożyczek, źródła dochodu klienta oraz czasu spędzonego z aktywną pożyczką.{~}",
+		"h13x":	"{~white}Płatności - ilość środków posiadanych{~} {dziennie} {~white}przez bank, które przeznaczane są na zadłużenie. Łączy się go z dowolnymi pożyczkami tego samego typu.{~}",
+		"h14x":	"{~white}Stawka określa kwotę pozostałych płatności i jest obliczana{~} {oddzielnie} {~white}dla każdego zasobu. Może zostać{~} {zmieniony} {~white}przez bank wraz z aktualizacjami Twojego kredytu.{~}",
+		"h14a":	"{~white}Wypłata - kwota środków, które klient musi wpłacić, aby{~} {uzupełnić i wyczyścić} {~white}ewentualne długi wobec banku. Zależy to również od kwoty udzielonych pożyczek i aktualnej stopy procentowej.{~}",
+		"h22x":	"{Aktualne zadłużenie klienta.}\n{~white}Jeśli duża kwota jest{~}\n{spłacone wcześniej}{~white}, bank może\n{~}{obniż stawkę} {~white}za ten zasób.{~}",
+		"h23x":	"{~white}Kwota{~} {dziennie} {~white}płatności. Na początku dnia bank wstrzymuje klientowi środki i pobiera opłatę za{~} {any} {~white}brakujące zasoby.{~}",
+		"h24x":	"{~white}Bank pobiera opłatę za{~} {dowolne} {~white} brakujących zasobów w magazynach klienta na początku każdego dnia.{~}\n{Opłata nie zmniejsza zadłużenia kredytu!}",
+		"h246":	"{~white}Na początku dnia, jeśli klientowi nie wystarczy na płatność/opłatę, bank{~} {podwyższy} {~white}stawkę{~}\n{dla nowych wypożyczeń tego zasobu}{~white}!{~}",
+		
+		"mr01":	"Z wdzięcznością\nza wcześniejszą wypłatę\ntak dużej sumy,\nbank obniżył oprocentowanie\ntego zasobu dla Ciebie",
+		"mr02":	"Niestety, dzisiaj\nbank nie otrzymał\nspłaty pożyczki lub opłaty,\ni jest zmuszony podnieść\nstawkę dla Ciebie.",
+		"mr12":	"od",
+		"mr14":	"do",
+		"mr16":	"!",
+		
+		"cnm0":	"Ber Rob",
+		"cnm1":	"Ponieważ Stal",
+		"cnm2":	"Etpikera Pocka",
+		"cnm3":	"Uciekłem",
+		"cnm4":	"Wiktor Kon",
+		"cnm5":	"Ise\"em Imalickem",
+		"cnm6":	"Obydwa ciała",
+		"cnm7":	"Iver Dece",
+		"cnm8":	"Daster D\"Lee",
+		"cnm9":	"Ra Tin",
+		"cnm10": "Lew Kul"
+	}
+}
+

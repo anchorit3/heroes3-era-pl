@@ -1,0 +1,16 @@
+104000	Tajemna Wie¿a	String type = <!#S>	07.06.2003
+104001	Duch sp³ywa w dó³ schodów i szybuje w twoj¹ stronê. Op³ywa ciê dooko³a migocz¹c i uwa¿nie ciê obserwuj¹c. W koñcu przemawia. "To dobrze, ¿e tu trafi³eœ, podró¿niku. Mogê ci pomóc."	String type = <!!M>	07.06.2003
+104002	Duch kontynuuje. "Potrafiê uczyniæ ciê silnym, daæ ci potêgê - byæ mo¿e tak du¿¹ jak¹ sam posiadam! Ale bêdzie ciê to drogo kosztowa³o. Mogê ci daæ podstawowe umiejêtnoœci: Atak, Obronê, Moc rzucania czarów lub Wiedzê... w zamian domagam siê tego samego. Jedna umiejêtnoœæ za drug¹. Przystajesz na te warunki?"	String type = <!!Q>	07.06.2003
+104003	"O, wêdrowcze, pewnego dnia zrozumiesz, ¿e zb³¹dzi³eœ."	String type = <!!M>	07.06.2003
+104004	"Oczywiœcie. Któ¿ by na to nie przysta³? Mogê nauczyæ ciê mêstwa w pos³ugiwaniu siê orê¿em lub dzielnoœci we w³adaniu zaklêciami. Jesteœ zwolennikiem potyczek (Atak lub Obrona) czy rzucania czarów (Moc lub Wiedza)?"	String type = <!!Q>	07.06.2003
+104005	"Czy to bêdzie Atak czy Obrona?"	String type = <!!Q>	07.06.2003
+104006	"Czy to bêdzie Moc czy Wiedza?"	String type = <!!Q>	07.06.2003
+104007	"Czy zap³acisz mi swoj¹ umiejêtnoœci¹ Ataku?"	String type = <!!Q>	07.06.2003
+104008	"Czy zap³acisz mi swoj¹ umiejêtnoœci¹ Obrony?"	String type = <!!Q>	07.06.2003
+104009	"Czy zap³acisz mi swoj¹ umiejêtnoœci¹ Mocy?"	String type = <!!Q>	07.06.2003
+104010	"Czy zap³acisz mi swoj¹ umiejêtnoœci¹ Wiedzy?"	String type = <!!Q>	07.06.2003
+104011	"Wiêc nie masz niczym mi zap³aciæ! Precz!"	String type = <!!M>	07.06.2003
+104012	"Nie oszukasz mnie! Nie masz nic by mi zap³aciæ!"	String type = <!!M>	07.06.2003
+104013	Duch podziwia swoj¹ pracê. "Wyczuwam, jak nowe si³y powoli ogarniaj¹ twoje cia³o. Ju¿ obserwujê zachodz¹ce zmiany..."	String type = <!!M>	07.06.2003
+104014	"Wyœmienicie!"	String type = <!!Q>	07.06.2003
+104015	"Wyœmienicie! Przeprowadzimy jeszcze raz podobn¹ wymianê?"	String type = <!!Q>	07.06.2003

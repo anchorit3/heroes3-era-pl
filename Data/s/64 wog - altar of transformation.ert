@@ -1,0 +1,92 @@
+114000	{OSTRZE¯ENIE - STARA WERSJA} 
+ 
+Niestety, twoja wersj¹ dodatku WoG i/lub ERM 
+jest przestarza³a by u¿ywaæ 
+{skryptu O³tarz Przeobra¿enia wersja 1.3.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	07.06.2003
+114001	O³tarz Przeobra¿enia	String type = <!#S>	07.06.2003
+114002	O³tarz Przeobra¿enia 
+ 
+(Odwiedzony)	String type = <!#S>	07.06.2003
+114003	O³tarz Przeobra¿enia 
+ 
+(Nie odwiedzony)	String type = <!#S>	07.06.2003
+114004	W starych opowieœciach s³ysza³eœ o tych tajemniczych o³tarzach - ich moc jest w stanie przeobraziæ prawie ka¿de stworzenie w ca³kowicie inne. Byle prostak mo¿e skorzystaæ z potêgi o³tarza, ale by kontrolowaæ zawart¹ w nim energiê i otrzymaæ to, czego siê pragnie nale¿y dysponowaæ wielk¹ moc¹ magiczn¹.
+
+Œciœlej: musisz posiadaæ 100 punktów magii aby mieæ 100% szansy, ka¿dy punkt mniej obni¿a szanê o 1%. 
+
+Powoli zbi¿asz siê do o³tarza i zatrzymujesz tu¿ przed nim - wystarczaj¹co blisko by móc manipulowaæ jego energi¹, ale na tyle daleko, by nie ryzykowaæ ewentualnej przemiany swojej armii.	String type = <!!Q>	07.06.2003
+114005	Wchodzisz na szczyt o³tarza lecz wokó³ ciebie energia zaledwie pryska s³ab¹ plazm¹, jak gdyby niedawno zosta³a wys¹czona. Spróbuj wróciæ na pocz¹tku przysz³ego tygodnia.	String type = <!!M>	07.06.2003
+114006	Przyci¹gana przez magiczne fluidy, esencje ¿yciowe
+twoich jednostek poczyna wyp³ywaæ w kierunku o³tarza. 
+
+Przez chwilê wiruj¹ w gigantycznej burzy b³yskawic
+a¿ ostatecznie ponownie siê konsoliduj¹ - 
+tym razem w nowe kszta³ty.
+	String type = <!!M>	14.10.2004
+114007	Moc o³tarza wygas³a i wszystko dooko³a pogr¹¿y³o siê w niesamowitej ciszy.
+
+Po oko³o 10 minutach pierwsze stworzenie wolno zaczyna ruszaæ koñczynami. Chwilê póŸniej opuszczasz o³tarz ze œwie¿o przekszta³con¹ dru¿yn¹.	String type = <!!M>	14.10.2004
+114008	Potê¿ne smoki w twojej armii opar³y siê przeobra¿eniu!	String type = <!!M>	07.06.2003
+114009	Emisariusze Bogów w twojej armii opar³y siê przeobra¿eniu!	String type = <!!M>	07.06.2003
+114010	Potê¿ne Smoki i Emisariusze Bogów w twojej armii opar³y siê przeobra¿eniu!	String type = <!!M>	07.06.2003
+114011	Poniewa¿ nie posiadaj¹ esencji ¿yciowej, Duchy w twej armii zachowa³y sw¹ oryginaln¹ postaæ.	String type = <!!M>	14.10.2004
+114012	O³tarz Przeobra¿enia	String type	15.10.2004
+114013	Jak wiele punktów magii poœwiêcisz na kontrolowanie transformacji?		
+114014	Ca³¹ manê (= %Y-20 punktów magii, zyskuj¹c %Y-20 % szansê) 	String type = <!!M>	22.10.2004
+114015	75% many (= %Y-21 punktów magii, zyskuj¹c %Y-21 % szansê) 	String type = <!!M>	22.10.2004
+114016	66% many (= %Y-22 punktów magii, zyskuj¹c %Y-22 % szansê) 	String type = <!!M>	22.10.2004
+114017	50% many (= %Y-23 punktów magii, zyskuj¹c %Y-23 % szansê) 	String type = <!!M>	22.10.2004
+114018	33% many (= %Y-24 punktów magii, zyskuj¹c %Y-24 % szansê) 	String type = <!!M>	22.10.2004
+114019	25% many (= %Y-25 punktów magii, zyskuj¹c %Y-25 % szansê) 	String type = <!!M>	22.10.2004
+114020	10% many (= %Y-26 punktów magii, zyskuj¹c %Y-26 % szansê) 	String type = <!!M>	22.10.2004
+114021	Nic (wszystkie transformacje odbêd¹ siê losowo)	String type = <!!M>	22.10.2004
+114022	Opuœæ o³tarz bez ¿adnych transformacji	String type = <!!M>	22.10.2004
+114023	Zamek	String type = <!!M>	22.10.2004
+114024	Bastion	String type = <!!M>	22.10.2004
+114025	Tower	String type = <!!M>	22.10.2004
+114026	Inferno	String type = <!!M>
+
+
+
+	22.10.2004
+114027	Nekropolia	String type = <!!M>
+
+
+
+	22.10.04
+114028	Lochy	String type = <!!M>
+
+
+
+	22.10.04
+114029	Stronghold	String type = <!!M>
+
+
+
+	22.10.04
+114030	Fortress	String type = <!!M>
+
+
+
+	22.10.04
+114031	Wrota ¯ywio³ów	String type = <!!M>
+
+
+
+	22.10.04
+114032	Neutralne stworzenia	String type = <!!M>
+
+
+
+	22.10.04
+114033	Kiedy twe armie zbli¿aj¹ siê do o³tarza, zaczynasz skupiaæ siê na 		
+114034	100 punktów magii (100% szansy)		
+114035	75 punktów magii (75% szansy)		
+114036	66 punktów magii (66% szansy)		
+114037	50 punktów magii (50% szansy)		
+114038	33 punktów magii (33% szansy)		
+114039	25 punktów magii (25% szansy)		
+114040	10 punktów magii (10% szansy)		
+114041			

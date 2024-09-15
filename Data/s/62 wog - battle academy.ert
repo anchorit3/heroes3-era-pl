@@ -1,0 +1,96 @@
+116000	Cech Weteranów Wojennych	String type = <!#S>	09/02/03
+116001	{Cech Weteranów Wojennych} 
+ 
+Przyby³eœ do potê¿nej twierdzy, ale wrota s¹ zamkniête i nikt nie odpowiada na twoje zawo³ania. S¹dzisz, ¿e lepiej bêdzie tu zagl¹dn¹æ nazajutrz.	String type = <!!M>	09/02/03
+116002	{Cech Weteranów Wojennych} 
+ 
+Przyby³eœ do potê¿nej twierdzy. Wewn¹trz napotykasz na starego wiarusa czekaj¹cego na ciebie. "Witaj w moim Cechu, bohaterze. W tym miejscu zebra³em wielu nauczycieli, którzy pomog¹ ci wyszkoliæ siê w wielu ró¿nych umiejêtnoœciach. Posiadam tak¿e wyœmienitego kowala, który mo¿e tak¿e sprzedaæ ci kilka bojowych przyborów. Chcesz tu zagrzaæ nieco miejsca aby rozejrzeæ siê za czymœ interesuj¹cym dla ciebie?"	String type = <!!Q>	09/02/03
+116003	{Cech Weteranów Wojennych} 
+ 
+"Mo¿e jednak któregoœ dnia..."	String type = <!!M>	09/02/03
+116004	Umiejêtnoœci	String type = <!!S>	09/02/03
+116005	Artefakty	String type = <!!S>	09/02/03
+116006	Ulepsz swój Atak lub Obronê b¹dŸ naucz siê nowej umiejêtnoœci	String type = <!!S>	09/02/03
+116007	Kup artefakt	String type = <!!S>	09/02/03
+116008	{Cech Weteranów Wojennych} 
+ 
+"Mo¿emy nauczyæ ciê paru tajnik bitewnych, lub mo¿emy sprzedaæ ci czêœæ naszego uzbrojenia, które pomo¿e ci w walkach. Któr¹ us³ugê wybierasz?"	String type = <!!Q>	09/02/03
+116009	nauka umiejêtnoœci bojowych	String type = <!!S>	09/02/03
+116010	Ulepsz Atak lub Obronê	String type = <!!S>	09/02/03
+116011	nauka bieg³oœci bojowych	String type = <!!S>	09/02/03
+116012	Poznaj b¹dŸ ulepsz swoje bieg³oœci	String type = <!!S>	09/02/03
+116013	{Cech Weteranów Wojennych} 
+ 
+"Mo¿emy wyszkoliæ ciê w podstawowych taktykach bojowych, lub mo¿esz tak¿e pobraæ zaawansowane nauki. Czy chcesz zyskaæ punkt do statystyk czy poznaæ now¹ umiejêtnoœæ?"	String type = <!!Q>	09/02/03
+116014	{Cech Weteranów Wojennych} 
+ 
+"Czy ¿yczysz sobie abyœmy wyæwiczyli ciê w Ataku czy Obronie?"	String type = <!!Q>	09/02/03
+116015	Naucz siê lub ulepsz sw¹ umiejêtnoœæ 	String type = <!!S>	09/02/03
+116016	 Nauka	String type = <!!S>	09/02/03
+116017	{Cech Weteranów Wojennych} 
+ 
+"Dzisiaj, nasi nauczyciele mog¹ nauczyæ ciê wiêcej o: %Z1. Jesteœ tym zainteresowany?"	String type = <!!Q>	09/02/03
+116023	{Cech Weteranów Wojennych} 
+ 
+"Posiadasz ju¿ umiejêtnoœæ %Z1 na poziomie mistrzowskim!"	String type = <!!Q>	09/02/03
+116018	{Cech Weteranów Wojennych} 
+ 
+"Nasi nauczyciele mówi¹, ¿e posiadasz umiejêtnoœæ %Z1 na poziomie zaawansowanym. Mog¹ ciê nauczyæ umiejêtnoœci %Z1 za poziomie mistrzowskim za 3000 sztuk z³ota. Czy chcesz siê jej nauczyæ?"	String type = <!!Q>	09/02/03
+116019	{Cech Weteranów Wojennych} 
+ 
+"Nasi nauczyciele mówi¹, ¿e posiadasz umiejêtnoœæ %Z1 na poziomie podstawowym. Mog¹ ciê nauczyæ umiejêtnoœci %Z1 za poziomie Zaawansowanym za 3000 sztuk z³ota. Czy chcesz siê jej nauczyæ?"	String type = <!!Q>	09/02/03
+116020	{Cech Weteranów Wojennych} 
+ 
+"Nasi nauczyciele mówi¹, ¿e nie posiadasz wiedzy o umiejêtnoœci %Z1. Mog¹ ciê nauczyæ umiejêtnoœci %Z1 za poziomie Podstawowym za 3000 sztuk z³ota. Czy chcesz siê jej nauczyæ?"	String type = <!!Q>	09/02/03
+116021	{Cech Weteranów Wojennych} 
+ 
+"Wytrenowa³eœ siê ju¿ w 8-iu zdolnoœciach! Aby nauczyæ siê umiejêtnoœci %Z1 na poziomie podstawowym, musisz nam dodatkowo zap³aciæ %Y3 sztuk z³ota! Jesteœ sk³onny to uczyniæ?	String type = <!!Q>	09/02/03
+116022	{Cech Weteranów Wojennych} 
+ 
+Trenujesz z instruktorami ju¿ od d³u¿szego czasu, a kiedy szkolenie siê skoñczy³o, poczu³eœ, ¿e pozna³eœ wiêcej tajnik o umiejêtnoœci %Z1!	String type = <!!M>	09/02/03
+116034	{Cech Weteranów Wojennych} 
+ 
+"Martwisz mnie tym, ¿e nie chcesz siê uczyæ!"	String type = <!!M>	09/02/03
+116024	{Cech Weteranów Wojennych} 
+ 
+"Tak ma³a iloœæ punktów Ataku... Ten jest za darmo!"	String type = <!!Q>	09/02/03
+116025	{Cech Weteranów Wojennych} 
+ 
+"Tak ma³a iloœæ punktów Ataku... Chcesz je powiêkszyæ za %Y2 sztuk z³ota?"	String type = <!!Q>	09/02/03
+116026	{Cech Weteranów Wojennych} 
+ 
+"Masz dosyæ du¿o punktów Ataku... Ale mo¿esz mieæ ich wiêcej! Chcesz je powiêkszyæ za %Y2 sztuk z³ota?	String type = <!!Q>	09/02/03
+116027	{Cech Weteranów Wojennych} 
+ 
+"Twoja iloœæ punktów Ataku jest imponuj¹ca... Ale mo¿esz j¹ jeszcze zwiêkszyæ! Chcesz je powiêkszyæ za %Y2 sztuk z³ota?"	String type = <!!Q>	09/02/03
+116028	{Cech Weteranów Wojennych} 
+ 
+Instruktorzy s¹ doskonali -- zaledwie co zacz¹³eœ trening, kiedy poczu³eœ, ¿e wzrastaj¹ twoje punkty Ataku a oni oœwiadczyli ¿e to ju¿ koniec pobierania nauk.	String type = <!!Q>	09/02/03
+116029	{Cech Weteranów Wojennych} 
+ 
+"Tak ma³a iloœæ punktów Obrony... Ten jest za darmo!"	String type = <!!Q>	09/02/03
+116030	{Cech Weteranów Wojennych} 
+ 
+"Tak ma³a iloœæ punktów Obrony... Chcesz je powiêkszyæ za %Y2 sztuk z³ota?"	String type = <!!Q>	09/02/03
+116031	{Cech Weteranów Wojennych} 
+ 
+"Tak ma³a iloœæ punktów Obrony... Chcesz je powiêkszyæ za %Y2 sztuk z³ota?"	String type = <!!Q>	09/02/03
+116032	{Cech Weteranów Wojennych 
+ 
+"Twoja iloœæ punktów Obrony jest imponuj¹ca... Ale mo¿esz j¹ jeszcze zwiêkszyæ! Chcesz je powiêkszyæ za %Y2 sztuk z³ota?"	String type = <!!Q>	09/02/03
+116033	{Cech Weteranów Wojennych} 
+ 
+Instruktorzy s¹ doskonali -- zaledwie co zacz¹³eœ trening, kiedy poczu³eœ, ¿e wzrastaj¹ twoje punkty Ataku a oni oœwiadczyli ¿e to ju¿ koniec pobierania nauk.	String type = <!!Q>	09/02/03
+116035	{Cech Weteranów Wojennych} 
+ 
+"Wiêc chcesz kupiæ artefakt, tak? Obecnie mam jeden na zbyciu. Jego nazwa to %Z1, i mo¿e byæ twój za nêdzne %V383 sztuk z³ota. Czy chcesz go kupiæ?"	String type = <!!Q>	09/02/03
+116036	{Cech Weteranów Wojennych} 
+ 
+Kowal wrêcza ci %Z1 a ty przez chwilê wa¿ysz artefakt w rêkach. Zdaje siê, ¿e to dobrze wykonany wyrób.	String type = <!!Q>	09/02/03
+116037	{Cech Weteranów Wojennych}
+
+"Nie masz na tyle pieniêdzy!"	String type = <!!M>	09/02/03
+116038	 umiejêtnoœæ		
+116039	{Cech Weteranów Wojennych} 
+ 
+Przyby³eœ do potê¿nej twierdzy. Wewn¹trz napotykasz na starego wiarusa czekaj¹cego na ciebie. "Witaj w moim Cechu, bohaterze. W tym miejscu zebra³em wielu nauczycieli, którzy pomog¹ ci wyszkoliæ siê w wielu ró¿nych umiejêtnoœciach. Posiadam tak¿e wyœmienitego kowala, który mo¿e tak¿e sprzedaæ ci kilka bojowych przyborów. Chcesz tu zagrzaæ nieco miejsca aby rozejrzeæ siê za czymœ interesuj¹cym dla ciebie?"		

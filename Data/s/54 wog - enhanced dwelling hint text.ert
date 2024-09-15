@@ -1,0 +1,123 @@
+124000	{UWAGA: STARA WERSJA} 
+ 
+Twoja wersja WoG i/lub ERM 
+jest zbyt stara aby u¿yæ 
+{sktyptu Rozbudowany tekst wskazówek wersja 1.3} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	08.06.2003
+124001	
+W³asnoœæ: %Z2 gracz	String type = <!!S>	08.06.2003
+124002	 {%Z3}	String type = <!!S>	08.06.2003
+124003	 {%Z3}	String type = <!!S>	08.06.2003
+124004	 {%Z3}	String type = <!!S>	08.06.2003
+124005	 {%Z3}	String type = <!!S>	08.06.2003
+124006	Stra¿nica	String type = <!!S>	08.06.2003
+124007	Wie¿a £uczników	String type = <!!S>	08.06.2003
+124008	Wie¿a Gryfów	String type = <!!S>	08.06.2003
+124009	Koszary	String type = <!!S>	08.06.2003
+124010	Klasztor	String type = <!!S>	08.06.2003
+124011	Arena Walk	String type = <!!S>	08.06.2003
+124012	Portal Chwa³y	String type = <!!S>	08.06.2003
+124013	Wrota Œwiat³oœci	String type = <!!S>	08.06.2003
+124014	Stajnie Centaurów	String type = <!!S>	08.06.2003
+124015	Osada Krasnoludzka	String type = <!!S>	08.06.2003
+124016	Gospodarstwo	String type = <!!S>	08.06.2003
+124017	Magiczne Ÿród³o	String type = <!!S>	08.06.2003
+124018	Zagajnik	String type = <!!S>	08.06.2003
+124019	Polana Jednoro¿ców	String type = <!!S>	08.06.2003
+124020	Smocze Urwiska	String type = <!!S>	08.06.2003
+124021	Smoczy Szczyt	String type = <!!S>	08.06.2003
+124022	Warsztat	String type = <!!S>	08.06.2003
+124023	Kaplica	String type = <!!S>	08.06.2003
+124024	Wie¿a Magów	String type = <!!S>	08.06.2003
+124025	O³tarz ¯yczeñ	String type = <!!S>	08.06.2003
+124026	Z³oty Pawilon	String type = <!!S>	08.06.2003
+124027	Œwi¹tynia Ob³oków	String type = <!!S>	08.06.2003
+124028	Œwi¹tynia Sztormu	String type = <!!S>	08.06.2003
+124029	Urodzisko	String type = <!!S>	08.06.2003
+124030	Œwi¹tynia Z³a	String type = <!!S>	08.06.2003
+124031	Psiarnia	String type = <!!S>	08.06.2003
+124032	Wrota Piekie³	String type = <!!S>	08.06.2003
+124033	Przedsionek Piekie³	String type = <!!S>	08.06.2003
+124034	Jezioro Ognia	String type = <!!S>	08.06.2003
+124035	Przeklêty Pa³ac	String type = <!!S>	08.06.2003
+124036	Warownia Barona Piekie³	String type = <!!S>	08.06.2003
+124037	Przeklêta Œwi¹tynia	String type = <!!S>	08.06.2003
+124038	Cmentarz	String type = <!!S>	08.06.2003
+124039	Krypta Dusz	String type = <!!S>	08.06.2003
+124040	Dwór	String type = <!!S>	08.06.2003
+124041	Mauzoleum	String type = <!!S>	08.06.2003
+124042	Dom Ciemnoœci	String type = <!!S>	08.06.2003
+124043	Smocza Krypta	String type = <!!S>	08.06.2003
+124044	Widmowa Krypta	String type = <!!S>	08.06.2003
+124045	Legowisko	String type = <!!S>	08.06.2003
+124046	Gniazda Harpii	String type = <!!S>	08.06.2003
+124047	Kolumna Grozy	String type = <!!S>	08.06.2003
+124048	Kaplica Zastyg³ego S³owa	String type = <!!S>	08.06.2003
+124049	Labirynt	String type = <!!S>	08.06.2003
+124050	Legowisko Mantikor	String type = <!!S>	08.06.2003
+124051	Smocza Grota	String type = <!!S>	08.06.2003
+124052	Grota Ciemnoœci	String type = <!!S>	08.06.2003
+124053	Koszary Goblinów	String type = <!!S>	08.06.2003
+124054	Wilczy Wybieg	String type = <!!S>	08.06.2003
+124055	Wie¿a Orków	String type = <!!S>	08.06.2003
+124056	Fort Ogrów	String type = <!!S>	08.06.2003
+124057	Gniazdo na Urwisku	String type = <!!S>	08.06.2003
+124058	Grota Cyklopów	String type = <!!S>	08.06.2003
+124059	Siedlisko Behemotów	String type = <!!S>	08.06.2003
+124060	Katakumby Behemotów	String type = <!!S>	08.06.2003
+124061	Chata Gnolli	String type = <!!S>	08.06.2003
+124062	Siedlisko Jaszczurów	String type = <!!S>	08.06.2003
+124063	Rojowisko Oœlizgów	String type = <!!S>	08.06.2003
+124064	Legowisko Bazyliszków	String type = <!!S>	08.06.2003
+124065	Zagroda Gorgon	String type = <!!S>	08.06.2003
+124066	Gniazdo Wiwern	String type = <!!S>	08.06.2003
+124067	Hydrzy Staw	String type = <!!S>	08.06.2003
+124068	Bagno Chaosu	String type = <!!S>	08.06.2003
+124069	Magiczna Latarnia	String type = <!!S>	08.06.2003
+124070	Portal ¯ywio³u Powietrza	String type = <!!S>	08.06.2003
+124071	O³tarz Powietrza	String type = <!!S>	08.06.2003
+124072	Portal ¯ywio³u Wody	String type = <!!S>	08.06.2003
+124073	O³tarz Wody	String type = <!!S>	08.06.2003
+124074	Portal ¯ywio³u Ognia	String type = <!!S>	08.06.2003
+124075	O³tarz Ognia	String type = <!!S>	08.06.2003
+124076	Portal ¯ywio³u Ziemi	String type = <!!S>	08.06.2003
+124077	O³tarz Ziemi	String type = <!!S>	08.06.2003
+124078	O³tarz Myœli	String type = <!!S>	08.06.2003
+124079	Stos	String type = <!!S>	08.06.2003
+124080	Œwiêty Wir	String type = <!!S>	08.06.2003
+124081	S³omiana Chata	String type = <!!S>	08.06.2003
+124082	Nora	String type = <!!S>	08.06.2003
+124083	Knurza Dolina	String type = <!!S>	08.06.2003
+124084	Jaskinia Nicponi	String type = <!!S>	08.06.2003
+124085	Namiot Nomadów	String type = <!!S>	08.06.2003
+124086	Krypta Kl¹tw	String type = <!!S>	08.06.2003
+124087	Wie¿a na Szczycie Drzewa	String type = <!!S>	08.06.2003
+124088	Most Trolli	String type = <!!S>	08.06.2003
+124089	Dolina Czarodzieja	String type = <!!S>	08.06.2003
+124090	Magiczna Puszcza	String type = <!!S>	08.06.2003
+124091	Siarkowa Jama	String type = <!!S>	08.06.2003
+124092	Kryszta³owa Grota	String type = <!!S>	08.06.2003
+124093	Zmro¿one Klify	String type = <!!S>	08.06.2003
+124094	Wulkaniczna Zbrojownia	String type = <!!S>	08.06.2003
+124095	Arktyczna Zbrojownia	String type = <!!S>	08.06.2003
+124096	Ogromna Pieczara	String type = <!!S>	08.06.2003
+124097	Podkowa Marzeñ	String type = <!!S>	08.06.2003
+124098	Siedlisko Pierwotnych Nieszczêœæ	String type = <!!S>	08.06.2003
+124099	Zaginione Opactwo	String type = <!!S>	08.06.2003
+124100	Œniegocz³ek	String type = <!!S>	08.06.2003
+124101	Fabryka Golemów	String type = <!!S>	08.06.2003
+124102	Wrota ¯ywio³ów	String type = <!!S>	08.06.2003
+124103	czerwony	String type = <!!S>	08.06.2003
+124104	niebieski	String type = <!!S>	08.06.2003
+124105	br¹zowy	String type = <!!S>	08.06.2003
+124106	zielony	String type = <!!S>	08.06.2003
+124107	pomarañczowy	String type = <!!S>	08.06.2003
+124108	fioletowy	String type = <!!S>	08.06.2003
+124109	jasnoniebieski	String type = <!!S>	08.06.2003
+124110	ró¿owy	String type = <!!S>	08.06.2003
+124111	Leœne Gospodarstwo		
+124112	Zaczarowana Iglica		
+124113	Dolina Skowytu		
+124114	Gejzer Piekielnego Ognia		
+124115	Smoczy Smêtarz		

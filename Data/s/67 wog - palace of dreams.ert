@@ -1,0 +1,65 @@
+#	Text resource for "Script11.erm" document		
+111000	Twoja wersja dodatku WoG i/lub ERM 
+jest zbyt stara aby u¿ywaæ 
+{skrypt Pa³ac Marzeñ wersja 1.4.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	7/14/03
+111001	Pa³ac Marzeñ	String type = <!#S>	7/14/03
+111002	Pa³ac Marzeñ 
+zaprasza w swe progi, %Z1! 
+ 
+{Aby wygraæ, zdob¹dŸ jednoczeœnie} {trzy fanty tego samego rodzaju}	String type = <!!Q>	7/14/03
+111003	Wybacz nam %Z1, ale jesteœ zbyt zmêczony. Uprawianie hazardu w takim stanie jest dziœ niewskazane. 
+Spróbuj ponownie jutro.	String type = <!!M>	7/14/03
+111004	Zasoby	String type = <!!S>	7/14/03
+111005	Zagraj, by wygraæ zasoby	String type = <!!S>	7/14/03
+111006	Artefakty	String type = <!!S>	7/14/03
+111007	Zagraj, aby wygraæ artefakt	String type = <!!S>	7/14/03
+111008	Czy chia³byœ zagraæ o 
+{Artefakty} czy o {Zasoby}?	String type = <!!Q>	7/14/03
+111009	Machina losuj¹ca kosztuje 
+ 
+{100 z³otych monet za ka¿d¹ próbê.} 
+ 
+Czy zamierzasz w³o¿yæ monety 
+i poci¹gn¹æ za r¹czkê?	String type = <!!Q>	7/14/03
+111010	Przykro nam, %Z1 ale masz tylko %V1 sztuk z³ota przy sobie. Jeœli zdobêdziesz jakieœ fundusze, zapraszamy ponownie!	String type = <!!M>	7/14/03
+111011		String type = <!!S>	7/14/03
+111012	{Pa³ac Marzeñ} 
+ 
+w którym marzenia spe³niaj¹ siê codziennie!	String type = <!!S>	7/14/03
+111013	Jak najszybciej wróæ do 
+ 
+{Pa³acu Marzeñ} 
+ 
+gdzie marzenia spe³niaj¹ siê 
+codziennie.	String type = <!!Q>	7/14/03
+111014	Ko³a obracaj¹ siê, brzêcz¹ i wiruj¹.
+Kiedy siê zatrzymuj¹, widzisz ¿e...
+
+{WYGRYWASZ G£ÓWN¥ NAGRODÊ!!} 
+ 
+Zgarniasz szybko wygran¹ 
+i upychasz j¹ po sakwach.
+
+{Zagrasz ponownie za 100 sztuk z³ota?}	String type = <!!Q>	7/14/03
+111015	Ko³a obracaj¹ siê, brzêcz¹ i wiruj¹.
+Kiedy siê zatrzymuj¹, widzisz ¿e... przegra³eœ.
+{Zagrasz ponownie za 100 sztuk z³ota?}	String type = <!!Q>	7/14/03
+111016	Wybacz, %Z1 ale masz tylko %V1 z³otych monet. Jeœli zdobêdziesz jakieœ fundusze, zapraszamy ponownie!	String type = <!!M>	7/14/03
+111017	Grasz ju¿ od kilku godzin. Nie uwa¿asz, ¿e nadszed³ najwy¿szy czas, aby wracaæ do domu?	String type = <!!M>	7/14/03
+111018		String type = <!!S>	7/14/03
+111019	Ko³a obracaj¹ siê, brzêcz¹ i wiruj¹.
+Kiedy siê zatrzymuj¹, widzisz ¿e...
+
+{WYGRYWASZ G£ÓWN¥ NAGRODÊ!!} 
+
+Zabierasz artefakt, który wygra³eœ 
+i umieszczasz go w plecaku.
+
+{Zagrasz ponownie za 100 sztuk z³ota?}	String type = <!!Q>	7/14/03
+111020	Ko³a obracaj¹ siê, brzêcz¹ i wiruj¹.
+Kiedy siê zatrzymuj¹, widzisz ¿e... przegra³eœ.
+{Zagrasz ponownie za 100 sztuk z³ota?}	String type = <!!Q>	7/14/03
+111021	Wybacz, %Z1 ale masz tylko %V1 z³otych monet. Jeœli zdobêdziesz jakieœ fundusze, zapraszamy ponownie!	String type = <!!M>	7/14/03
+111022	Grasz ju¿ od kilku godzin. Nie uwa¿asz, ¿e nadszed³ najwy¿szy czas, aby wracaæ do domu?	String type = <!!M>	7/14/03

@@ -1,0 +1,72 @@
+110000	Grzyb Magii Wody (Nie odwiedzony)	String type = <!#S>	07.06.2003
+110001	Grzyb Magii Wody (Odwiedzony)	String type = <!#S>	07.06.2003
+110002	Grzyb Magii Ognia (Nie odwiedzony)	String type = <!#S>	07.06.2003
+110003	Grzyb Magii Ognia (Odwiedzony)	String type = <!#S>	07.06.2003
+110004	Grzyb Magii Ziemi (Nie odwiedzony)	String type = <!#S>	07.06.2003
+110005	Grzyb Magii Ziemi (Odwiedzony)	String type = <!#S>	07.06.2003
+110006	Grzyb Magii Powietrza (Nie odwiedzony)	String type = <!#S>	07.06.2003
+110007	Grzyb Magii Powietrza (Odwiedzony)	String type = <!#S>	07.06.2003
+110008	{Grzyb Magii Wody} 
+ 
+Grzyb Magii Wody pozwala na u¿ywanie umiejêtnoœci Magii Wody na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia...
+ 
+Jeœli ju¿ posiadasz umiejêtnoœæ Magii Wody na poziomie Mistrzowskim, Grzyb nie pomo¿e ci.	String type = <!!Q>	07.06.2003
+110009	{Grzyb Magii Wody} 
+ 
+W tym tygodniu ju¿ odwiedzi³eœ Grzyb Magii Wody. 
+Wróæ w nastêpnym tygodniu.	String type = <!!M>	07.06.2003
+110010	{Grzyb Magii Wody} 
+ 
+Grzyb Magii Wody pozwala na u¿ywanie umiejêtnoœci Magii Wody na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia... 
+ 
+Wdychasz zarodniki magicznego grzyba... 
+ 
+Poznajesz Magiê Wody na poziomie Mistrzowskim!	String type = <!!Q>	07.06.2003
+110011	{Grzyb Magii Ognia} 
+ 
+Grzyb Magii Ognia pozwala na u¿ywanie umiejêtnoœci Magii Ognia na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia...
+ 
+Jeœli ju¿ posiadasz umiejêtnoœæ Magii Ognia na poziomie Mistrzowskim, Grzyb nie pomo¿e ci.	String type = <!!Q>	07.06.2003
+110012	{Grzyb Magii Ognia} 
+ 
+W tym tygodniu ju¿ odwiedzi³eœ Grzyb Magii Ognia. 
+Wróæ w nastêpnym tygodniu.	String type = <!!M>	07.06.2003
+110013	{Grzyb Magii Ognia} 
+ 
+Grzyb Magii Ognia pozwala na u¿ywanie umiejêtnoœci Magii Ognia na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia... 
+ 
+Wdychasz zarodniki magicznego grzyba... 
+ 
+Poznajesz Magiê Ognia na poziomie Mistrzowskim!	String type = <!!Q>	07.06.2003
+110014	{Grzyb Magii Ziemi} 
+ 
+Grzyb Magii Ziemi pozwala na u¿ywanie umiejêtnoœci Magii Ziemi na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia...
+ 
+Jeœli ju¿ posiadasz umiejêtnoœæ Magii Ziemi na poziomie Mistrzowskim, Grzyb nie pomo¿e ci.	String type = <!!Q>	07.06.2003
+110015	{Grzyb Magii Ziemi} 
+ 
+W tym tygodniu ju¿ odwiedzi³eœ Grzyb Magii Ziemi. 
+Wróæ w nastêpnym tygodniu.	String type = <!!M>	07.06.2003
+110016	{Grzyb Magii Ziemi} 
+ 
+Grzyb Magii Ziemii pozwala na u¿ywanie umiejêtnoœci Magii Ziemi na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia... 
+ 
+Wdychasz zarodniki magicznego grzyba... 
+ 
+Poznajesz Magiê Ziemi na poziomie Mistrzowskim!	String type = <!!Q>	07.06.2003
+110017	{Grzyb Magii Powietrza} 
+ 
+Grzyb Magii Wody pozwala na u¿ywanie umiejêtnoœci Magii Powietrza na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia...
+ 
+Jeœli ju¿ posiadasz umiejêtnoœæ Magii Powietrza na poziomie Mistrzowskim, Grzyb nie pomo¿e ci.	String type = <!!Q>	07.06.2003
+110018	{Grzyb Magii Powietrza} 
+ 
+W tym tygodniu ju¿ odwiedzi³eœ Grzyb Magii Powietrza. 
+Wróæ w nastêpnym tygodniu.	String type = <!!M>	07.06.2003
+110019	{Grzyb Magii Powietrza} 
+ 
+Grzyb Magii Powietrza pozwala na u¿ywanie umiejêtnoœci Magii Powietrza na poziomie Mistrzowskim do koñca bie¿¹cego tygodnia... 
+ 
+Wdychasz zarodniki magicznego grzyba... 
+ 
+Poznajesz Magiê Powietrza na poziomie Mistrzowskim!	String type = <!!Q>	07.06.2003

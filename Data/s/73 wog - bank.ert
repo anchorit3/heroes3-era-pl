@@ -1,0 +1,142 @@
+#	Text resource for "script05.erm" document		
+105000	{Bank}
+
+Aby odwiedziæ Bank, musisz w mieœcie wznieœæ Targowisko.	<!!Q>	01.08.2004
+105001	Bank
+
+"Witam", powiada urzêdnik, "w czym mogê pomóc?"	<!!S>	01.08.2004
+105002	Dziêkujê. Zmieni³em zdanie.	<!!S>	01.08.2004
+105003	Przeka¿ wszystkie zasoby innemu graczowi	<!!S>	01.08.2004
+105004	Przeka¿ wybrane zasoby innemu graczowi	<!!S>	01.08.2004
+105005	Po¿ycz Z³oto/Zasoby	<!!S>	01.08.2004
+105006	{Bank}
+
+"Chcia³byœ po¿yczyæ z³oto czy surowce?"	<!!Q>	01.08.2004
+105007	Po¿ycz Z³oto/Zasoby	<!!S>	01.08.2004
+105008	Przeka¿ wszystkie zasoby innemu graczowi	<!!S>	01.08.2004
+105009	Przeka¿ wybrane zasoby innemu graczowi	<!!S>	01.08.2004
+105010	{Bank}
+{- Dzia³ Kredytów -}
+
+"Przepraszamy, ale masz jeszcze do sp³acenia zaleg³¹ po¿yczkê. Wróæ do nas jak ju¿ uiœcisz ostatni¹ ratê."	<!!M>	01.08.2004
+105011	{Bank}
+{- Dzia³ Kredytów -}
+
+"Oferujemy najwy¿ej %Y3 sztuk z³ota po¿yczki ale naliczamy 30%%-we odsetki. Dostêpna kwota po¿yczki wroœnie z up³ywem czasu.
+Sp³atê d³ugu rozpoczniesz ju¿ nastêpnego dnia - codziennie z twego skarbca bêdziemy pobieraæ po³owê zgromadzonego z³ota dopóki ca³a kwota nie zostanie uiszczona."	<!!Q>	01.08.2004
+105012	Bank
+- Dzia³ Kredytów -	<!!S>	01.08.2004
+105013	"Ile sztuk z³ota chcesz po¿yczyæ?"	<!!S>	01.08.2004
+105014	{Bank}
+{- Dzia³ Kredytów -}
+
+"Nie martw siê, nigdy nie skreœlimy tej us³ugi z naszej oferty. Wróæ do nas kiedykolwiek zechcesz."	<!!M>	01.08.2004
+105015	{Bank}
+{- Dzia³ Kredytów -}
+
+"Oto ¿¹dana kwota. Jest nam mi³o ubijaæ z tob¹ interesy."	<!!Q>	01.08.2004
+105016	{Bank}
+{- Dzia³ Kredytów -}
+
+"Przepraszamy, ale masz jeszcze do sp³acenia zaleg³¹ po¿yczkê. Wróæ do nas jak ju¿ uiœcisz ostatni¹ ratê."	<!!M>	01.08.2004
+105017	Bank
+- Dzia³ Zasobów -
+"Wybierz ¿¹dany typ surowca:"	<!!S>	01.08.2004
+105018	Drewno	<!!S>	01.08.2004
+105019	Rtêæ	<!!S>	01.08.2004
+105020	Ruda	<!!S>	01.08.2004
+105021	Siarka	<!!S>	01.08.2004
+105022	Kryszta³y	<!!S>	01.08.2004
+105023	Klejnoty	<!!S>	01.08.2004
+105024	{Bank}
+{- Dzia³ Zasobów -}
+
+"Oferujemy najwy¿ej: %Z-8 - %Y4 szt. ale naliczamy 30%%-we odsetki. Dostêpna kwota kredytu wroœnie z up³ywem czasu.
+Sp³atê d³ugu rozpoczniesz ju¿ nastêpnego dnia - codziennie z twego skarbca bêdziemy pobieraæ po³owê zgromadzonego surowca dopóki ca³a wartoœæ nie zostanie uiszczona."	<!!Q>	01.08.2004
+105025	Bank
+- Dzia³ Zasobów -	<!!S>	01.08.2004
+105026	"%Z-8: Ile sztuk chcesz po¿yczyæ?"	<!!S>	01.08.2004
+105027	{Bank}
+{- Dzia³ Zasobów -}
+
+"Nie martw siê, z naszej oferty nigdy nie zniknie ta us³uga. Wróæ do nas kiedykolwiek zechcesz."	<!!M>	01.08.2004
+105028	{Bank}
+{- Dzia³ Zasobów -}
+
+"Oto ¿¹dane surowce. Jest nam mi³o ubijaæ z tob¹ interesy."	<!!Q>	01.08.2004
+105029	{Bank}
+{- Dzia³ Kredytów -}
+
+"Dziœ pobieramy %Y4 sztuk z³ota, ale wci¹¿ jesteœ nam winien %Y5 sztuk z³ota. Wrócimy jutro."	<!!Q>	01.08.2004
+105030	{Bank}
+{- Dzia³ Kredytów -}
+
+"Gratulacje. W³aœnie sp³aci³eœ ostatni¹ ratê: %Y4 sztuk z³ota. Mamy nadziejê, ¿e w przysz³oœci skorzystasz znów z naszych us³ug."	<!!Q>	01.08.2004
+105031	{Bank}
+{- Dzia³ Zasobów -}
+
+"Dziœ pobieramy: %Z-1 - %Y4 szt., ale wci¹¿ jesteœ nam winien %Y5 szt. Wrócimy jutro."	<!!Q>	01.08.2004
+105032	{Bank}
+{- Dzia³ Zasobów -}
+
+"Gratulacje. W³aœnie sp³aci³eœ ostatni¹ ratê: %Z-1 - %Y4 szt. Mamy nadziejê, ¿e w przysz³oœci skorzystasz znów z naszych us³ug."	<!!Q>	01.08.2004
+105033	{Bank}
+{- Dzia³ Kredytów -}
+
+"Przykro mi, ale w tej chwili nie mo¿emy ci po¿yczyæ wiêcej ni¿ %X1 sztuk z³ota."	<!!Q>	01.08.2004
+105034	{Bank}
+{- Dzia³ Kredytów -}
+
+"Niestety, nie mo¿na po¿yczyæ ujemnej kwoty."	<!!Q>	01.08.2004
+105035	{Bank}
+{- Dzia³ Zasobów -}
+
+"Przykro mi, ale w tej chwili nie mo¿emy ci po¿yczyæ wiêcej ni¿: %Z-8 - %X1 szt."	<!!Q>	01.08.2004
+105036	{Bank}
+{- Dzia³ Zasobów -}
+
+"Niestety, nie mo¿na po¿yczyæ ujemnej iloœci."	<!!Q>	01.08.2004
+105037	{Faktoria Handlowa}
+
+"Niestety, nie masz wogóle surowców do wymiany. Mo¿e póŸniej bêdzie ci siê lepiej wiod³o..."	<!!M>	01.08.2004
+105038	Z³oto	<!!S>	01.08.2004
+105039	Mithril	<!!S>	01.08.2004
+105040	Faktoria Handlowa
+
+Wybierz surowiec do przekazania:	<!!S>	01.08.2004
+105041	Dziêkujê. Zmieni³em zdanie.	<!!S>	01.08.2004
+105042	Czerwonemu graczowi	<!!S>	01.08.2004
+105043	Niebieskiemu graczowi	<!!S>	01.08.2004
+105044	Br¹zowemu graczowi	<!!S>	01.08.2004
+105045	Zielonemu graczowi	<!!S>	01.08.2004
+105046	Pomarañczowemu graczowi	<!!S>	01.08.2004
+105047	Fioletowemu graczowi	<!!S>	01.08.2004
+105048	Jasnoniebieskiemu graczowi	<!!S>	01.08.2004
+105049	Ró¿owemu graczowi	<!!S>	01.08.2004
+105050	Faktoria Handlowa
+
+Przeka¿ %Z-9 ...	<!!S>	01.08.2004
+105051	Nikomu. Zmieni³em zdanie.	<!!S>	01.08.2004
+105052	Faktoria Handlowa
+
+Posiadasz: %Z-2 - %Y11 szt.	<!!S>	01.08.2004
+105053	%Z-2 - ile sztuk ma zostaæ przekazane?:	<!!S>	01.08.2004
+105054	{Faktoria Handlowa}
+
+"Jeœli któregoœ dnia zechcesz nas odwiedziæ, nie wahaj siê ani chwili."	<!!Q>	01.08.2004
+105055	have	<!!S>	01.08.2004
+105056	has	<!!S>	01.08.2004
+105057	{Faktoria Handlowa}
+
+"%Z-2: %V1 sztuk zosta³o przekazane %Z-1."	<!!Q>	01.08.2004
+105058	{Faktoria Handlowa}
+
+"Mo¿esz przekazaæ tylko tyle ile posiadasz. Nie mniej i nie wiêcej..."	<!!Q>	01.08.2004
+105059	{Faktoria Handlowa}
+
+"Niestety, nie mo¿na przekazaæ ujemnych wartoœci."	<!!Q>	01.08.2004
+105060	Przeka¿ WSZYSTKIE surowce (w tym z³oto i Mithril)...	<!!S>	01.08.2004
+105061	Nikomu. Zmieni³em zdanie.	<!!S>	01.08.2004
+105062	Wszystkie twoje surowce zosta³y przekazane %Z3.	<!!Q>	01.08.2004
+105063	Nie masz ¿adnych surowców
+do przekazania.	<!!M>	01.08.2004

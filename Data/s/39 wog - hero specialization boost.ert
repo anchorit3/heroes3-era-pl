@@ -1,0 +1,335 @@
+139000	{Ulepszone Specjalizacje Bohaterów s¹ w³¹czone:} 
+{	String type = <!!S>	08.06.2003
+139001	 on 	String type = <!!S>	08.06.2003
+139002	 ona 	String type = <!!S>	08.06.2003
+139003	Dodatkowo w walce 
+	String type = <!!S>	08.06.2003
+139004	mo¿e przypadkowo rzuciæ zaklêcie 	String type = <!!S>	08.06.2003
+139005	W walkach	String type = <!!S>	08.06.2003
+139006	znacznie zwiêksza parametry stworzeñ: 
+{	String type = <!!S>	08.06.2003
+139007	Specjalista w Logistyce. 
+Zwiêksza o 5% zdolnoœæ {Logistyka} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139008	otrzymuje	String type = <!!S>	08.06.2003
+139009	Ruchomy Welon Ciemnoœci. 
+Kiedy bohater siê porusza roztacza wokó³ siebie ca³un ciemnoœci
+(dla wszystkich graczy, którzy nie s¹ jego sprzymierzeñcami).
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139010	otrzymuje	String type = <!!S>	08.06.2003
+139011	Specjalista w Nawigacji. 
+Zwiêksza o 5% zdolnoœæ {Nawigacja} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+{Dowódca} pod wodz¹ tego Bohatera otrzymuje zdolnoœæ {Lotu}	String type = <!!S>	08.06.2003
+139012	Specjalista w Finansach. 
+Zwiêksza o 5% zdolnoœæ {Finanse} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139013	otrzymuje	String type = <!!S>	08.06.2003
+139014	Specjalista w P³atnerstwie. 
+Zwiêksza o 5% zdolnoœæ {P³atnerz} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139015	otrzymuje	String type = <!!S>	08.06.2003
+139016	Specjalista w Skutecznoœci Ataku. 
+Zwiêksza o 5% zdolnoœæ {Skutecznoœæ Ataku} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139017	otrzymuje	String type = <!!S>	08.06.2003
+139018	Specjalista w £ucznictwie. 
+Straty zadawane przez oddzia³y ³ucznicze zwiêkszane s¹ o 5% na ka¿dy poziom doœwiadczenia bohatera.
+ 
+Na pocz¹tku ka¿dej walki	String type = <!!S>	08.06.2003
+139019	rzuca zaklêcie 
+{Precyzji} na wszystkie sprzymierzone jednostki	String type = <!!S>	08.06.2003
+139020	Specjalista w Szybkoœci. 
+Wszystkie stworzenia otrzymuj¹ premiê +2 punkty szybkoœci 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139021	otrzymuje	String type = <!!S>	08.06.2003
+139022	Specjalista W Balistach. 
+ 
+{Dowódca} pod wodz¹ tego bohatera {Mo¿e Strzelaæ}	String type = <!!S>	08.06.2003
+139023	Specjalista w Pierszej Pomocy. 
+ 
+Na pocz¹tku ka¿dej walki	String type = <!!S>	08.06.2003
+139024	 
+rzuca czar {Kamienna Skóra} na wszyskie sprzymierzone jednostki	String type = <!!S>	08.06.2003
+139025	Specjalista w Talencie Magicznym. 
+Zwiêksza o 5% zdolnoœæ {Talent magiczny} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+Na pocz¹tku ka¿dej walki	String type = <!!S>	08.06.2003
+139026	rzuca zaklêcie  
+{Pech} na wszystkie wrogie jednostki	String type = <!!S>	08.06.2003
+139027	Specjalista w Sokolim Wzroku.
+Zwiêksza o 5% zdolnoœæ {Sokoli wzrok} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+Wszystkie stworzenia 1-ego i 2-iego poziomu dodatkowo otrzymuj¹ zdolnoœæ Lotu.	String type = <!!S>	08.06.2003
+139028	Specjalista w Inteligencji.
+Zwiêksza o 5% zdolnoœæ {Inteligencja} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+{Dowódca} pod wodz¹ tego Bohatera posiada zdolnoœæ {Spojrzenia Œmierci}	String type = <!!S>	08.06.2003
+139029	Specjalista w Mistycyzmie.
+Zwiêksza o 5% zdolnoœæ {Mistycyzm} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+ 
+Na pocz¹tku ka¿dej walki	String type = <!!S>	08.06.2003
+139030	zwiêksza swoj¹ iloœæ punktów magii o 	String type = <!!S>	08.06.2003
+139031	. 
+Iloœæ dodanych punktów magii wzrasta o 3 na ka¿dy osi¹gniêty przez bohatera poziom doœwiadczenia.	String type = <!!S>	08.06.2003
+139032	Specjalista w Odpornoœci. 
+Zwiêksza o 5% zdolnoœæ {Odpornoœæ} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+ 
+Na pocz¹tku ka¿dej walki	String type = <!!S>	08.06.2003
+139033	obni¿a wrogiemu bohaterowi iloœæ punktów magii o	String type = <!!S>	08.06.2003
+139034	.
+Iloœæ zredukowanych punktów magii wzrasta o 3 na ka¿dy osi¹gniêty przez bohatera poziom doœwiadczenia.	String type = <!!S>	08.06.2003
+139035	Specjalista w Magii Ognia.
+Zaczyna grê ze zdolnoœci¹ Magia Ognia na poziomie Mistrzowskim.
+ 
+Na pocz¹tku ka¿dej walki	String type = <!!S>	08.06.2003
+139036	rzuca zaklêcie {Kl¹twa} na wszystkie wrogie jednostki.	String type = <!!S>	08.06.2003
+139037	Specjalista w Nekromancji. 
+Zwiêksza o 5% zdolnoœæ {Nekromancja} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139038	otrzymuje	String type = <!!S>	08.06.2003
+139039	Specjalista w Zasobach.
+Zwiêksza produkcjê drewna
+o 1 s¹g dziennie. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139040	otrzymuje	String type = <!!S>	08.06.2003
+139041	Specjalista w Zasobach.
+Zwiêksza produkcjê rtêci 
+o 1 uncjê dziennie. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139042	otrzymuje	String type = <!!S>	08.06.2003
+139043	Specjalista w Zasobach. 
+Zwiêksza produkcjê kamieni 
+o 2 wozy dziennie. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139044	otrzymuje	String type = <!!S>	08.06.2003
+139045	Specjalista w Zasobach. 
+Zwiêksza produkcjê siarki 
+o 1 tygiel dziennie. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139046	otrzymuje	String type = <!!S>	08.06.2003
+139047	Specjalista w Zasobach. 
+Zwiêksza produkcjê kryszta³ów 
+o 1 dziennie.
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139048	otrzymuje	String type = <!!S>	08.06.2003
+139049	Specjalista w Zasobach. 
+Zwiêksza produkcjê klejnotów 
+o 1 dziennie. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139050	otrzymuje	String type = <!!S>	08.06.2003
+139051	Specjalista w Zasobach. 
+Zwiêksza dochód królestwa 
+o 350 z³otych monet. 
+ 
+Brak dodatkowych premii	String type = <!!S>	08.06.2003
+139052	otrzymuje	String type = <!!S>	08.06.2003
+139053	Specjalista w Behemotach. 
+Wszystkie {Behemoty} otrzymuj¹ +5 do Ataku, +5 do Obrony i +10 do Zadawanych Obra¿eñ	String type = <!!S>	08.06.2003
+139054	Specjalista w Czarnych Rycerzach. 
+Wszyscy {Czarni Rycerze} otrzymuj¹ premiê +5 do Ataku, +5 do Obrony i +10 do Zadawanych Obra¿eñ	String type = <!!S>	08.06.2003
+139055	Specjalista w Diab³ach. 
+Wszystkie {Diab³y} otrzymuj¹ +5 do Ataku, +5 do Obrony i +10 do Zadawanych Obra¿eñ	String type = <!!S>	08.06.2003
+139056	Specjalista w Smokach. 
+Wszystkie {Smoki} otrzymuj¹ +5 do Ataku, +5 do Obrony	String type = <!!S>	08.06.2003
+139057	Specjalista w Strzelcach. 
+Pozwala przekszta³caæ {£uczników} i {Kuszników} oraz {Elfy} i {Szare Elfy} w {Strzelów Wyborowych}	String type = <!!S>	08.06.2003
+139058	Specjalista w Czarodziejach. 
+Pozwala przekszta³caæ {Mnichów}, {Kap³anów}, {Magów} i {Arcymagów} w {Czarodziejów}	String type = <!!S>	08.06.2003
+139059	{Magiczna Strza³a}	String type = <!!S>	08.06.2003
+139060	{Lodowy Pocisk}	String type = <!!S>	08.06.2003
+139061	{B³yskawica}	String type = <!!S>	08.06.2003
+139062	{Tarcza}	String type = <!!S>	08.06.2003
+139063	{Tarcza Powietrza}	String type = <!!S>	08.06.2003
+139064	{Tarcza Ognia}	String type = <!!S>	08.06.2003
+139065	{Uleczenie}	String type = <!!S>	08.06.2003
+139066	{B³ogos³awieñstwo}	String type = <!!S>	08.06.2003
+139067	{Rz¹dza Krwi}	String type = <!!S>	08.06.2003
+139068	{Os³abienie}	String type = <!!S>	08.06.2003
+139069	{Kamienna Skóra}	String type = <!!S>	08.06.2003
+139070	{Promieñ Os³abienia}	String type = <!!S>	08.06.2003
+139071	{Modlitwa}	String type = <!!S>	08.06.2003
+139072	{Fortuna}	String type = <!!S>	08.06.2003
+139073	{Przyœpieszenie}	String type = <!!S>	08.06.2003
+139074	{Spowolnienie}	String type = <!!S>	08.06.2003
+139075	{Pogromca}	String type = <!!S>	08.06.2003
+139076	{Hipnoza}	String type = <!!S>	08.06.2003
+139077	 bez ubytku w punktach magii.
+ 
+Œrednia szansa na rzucenie zaklêcia wynosi 1 do 	String type = <!!S>	08.06.2003
+139078	 
+W tej chwili szansa wynosi 1 do	String type = <!!S>	08.06.2003
+139079	 
+Dodatkowy Atak:	String type = <!!S>	08.06.2003
+139080	 
+Dodatkowa Obrona:	String type = <!!S>	08.06.2003
+139081	 
+Ka¿de stworzenie: {	String type = <!!S>	08.06.2003
+139082	} zadaje dodatkowe obra¿enia:	String type = <!!S>	08.06.2003
+139083	 
+W walkach punkty ¿ycia ka¿dego {	String type = <!!S>	08.06.2003
+139084	} wzrastaj¹ o	String type = <!!S>	08.06.2003
+139085	 
+Dodatkowy punkt do Szybkoœci: +1	String type = <!!S>	08.06.2003
+139086	 
+ 
+Dodatkowe wartoœci premii wrosn¹ wraz z kolejnymi poziomami doœwiadczenia i statystykami.	String type = <!!S>	08.06.2003
+139087	{Ulepszone Specjalizacje Bohaterów}
+
+		
+139088	Magiczna Strza³a		
+139089	Lodowy Pocisk		
+139090	B³yskawica		
+139091	Tarcza		
+139092	Tarcza Powietrza		
+139093	Tarcza Ognia		
+139094	Uleczenie		
+139095	B³ogos³awieñstwo		
+139096	Rz¹dza Krwi		
+139097	Os³abienie		
+139098	Kamienna Skóra		
+139099	Promieñ Os³abienia		
+139100	Modlitwa		
+139101	Fortuna		
+139102	Przyœpieszenie		
+139103	Spowolnienie		
+139104	Pogromca		
+139105	Hipnoza}		
+139106	Kr¹g Zimna		
+139107	£añcuch Piorunów		
+139108	Inferno		
+139109	Kula Ognia		
+139110	Fala Œmierci		
+139111	Deszcz Meteorytów		
+139112	O¿ywienie		
+139113	Wskrzeszenie		
+139114	Oœlepienie		
+139115	Deszcz Meteorytów		
+139116	Precyzja		
+139117	Œciana Ognia		
+139118	on		
+139119	ona		
+139120	jego		
+139121	jej		
+139122	%Z-1 posiada wzmocnione zaklêcie {%Z-3}.
+
+Losowo podczas walki, %Z-1 mo¿e automatycznie rzuciæ dodatkowe zaklêcie %Z-2 bez ubytku w punktach magii.		
+139123	%Z-1 - %Z-5 poziom i statystyki wp³ywaj¹ na parametry specjalizowanych stworzeñ.
+		
+139124	Zwiêksza o 5% zdolnoœæ {Logistyka} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+
+%Z-1 nie ma dodatkowych premii.		
+139125	Ruchomy {Welon Ciemnoœci}. 
+Ka¿dego dnia, dla wszystkich niesprzymierzonych graczy, wokó³ %Z-1 roztacza siê kr¹g ciemnoœci.
+
+%Z-1 nie ma dodatkowych premii.		
+139126	Zwiêksza o 5% zdolnoœæ {Nawigacja} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+{Dowódca} pod wodz¹ tego Bohatera otrzymuje zdolnoœæ {Lotu}.		
+139127	Zwiêksza o 5% zdolnoœæ {Finanse} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+%Z-1 nie ma dodatkowych premii.		
+139128	Zwiêksza o 5% zdolnoœæ {P³atnerz} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+%Z-1 nie ma dodatkowych premii.		
+139129	Zwiêksza o 5% zdolnoœæ {Skutecznoœæ Ataku} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+%Z-1 nie ma dodatkowych premii.		
+139130	Straty zadawane przez oddzia³y {³ucznicze} zwiêkszane s¹ o 5% na ka¿dy poziom doœwiadczenia bohatera.
+
+Na pocz¹tku ka¿dej walki wszystkie sprzymierzone
+jednostki s¹ pod wp³ywem zaklêcia {Precyzji}.		
+139131	Wszystkie stworzenia otrzymuj¹ {+2 do szybkoœci}
+
+%Z-1 nie ma dodatkowych premii.		
+139132	Specjalista w {Balistach}. 
+ 
+{Dowódca} pod wodz¹ tego bohatera {mo¿e strzelaæ}.		
+139133	Specjalista w {Pierszej Pomocy}.
+
+Na pocz¹tku ka¿dej walki wszystkie sprzymierzone
+jednostki s¹ pod wp³ywem zaklêcia {Kamienna Skóra}.		
+139134	Zwiêksza o 5% zdolnoœæ {Talent magiczny} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+Na pocz¹tku ka¿dej walki wszystkie wrogie
+jednostki s¹ pod wp³ywem zaklêcia {Pech}.		
+139135	Specjalista w Sokolim Wzroku.
+Zwiêksza o 5% zdolnoœæ {Sokoli wzrok} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+Wszystkie stworzenia 1-ego i 2-iego poziomu dodatkowo otrzymuj¹ zdolnoœæ Lotu.		
+139136	Zwiêksza o 5% zdolnoœæ {Inteligencja} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia. 
+ 
+{Dowódca} pod wodz¹ tego Bohatera posiada zdolnoœæ {Spojrzenie Œmierci}.		
+139137	Zwiêksza o 5% zdolnoœæ {Mistycyzm} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+%Z-1 zwiêksza swoj¹ iloœæ punktów magii o {%W29} na pocz¹tku ka¿dej walki. Iloœæ dodanych punktów magii wzrasta o 3 na ka¿dy osi¹gniêty przez bohatera poziom doœwiadczenia.		
+139138	Zwiêksza o 5% zdolnoœæ {Odpornoœæ} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+%Z-1 obni¿a wrogiemu bohaterowi iloœæ punktów magii o {%W29} na pocz¹tku ka¿dej walki. Iloœæ zredukowanych punktów magii wzrasta o 3 na ka¿dy osi¹gniêty przez bohatera poziom doœwiadczenia.		
+139139	Zaczyna grê ze zdolnoœci¹ {Magia Ognia} na poziomie {Mistrzowskim}.
+
+Na pocz¹tku ka¿dej walki %Z-1 rzuca zaklêcie {Kl¹twa} na wszystkie wrogie jednostki.		
+139140	Zwiêksza o 5% zdolnoœæ {Nekromancja} dla ka¿dego osi¹gniêtego poziomu doœwiadczenia.
+
+%Z-1 nie ma dodatkowych premii.		
+139141	Zwiêksza produkcjê {drewna} o 1 s¹g dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139142	Zwiêksza produkcjê {rtêci} o 1 uncjê dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139143	Zwiêksza produkcjê {rudy} o 2 wozy dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139144	Zwiêksza produkcjê {siarki} o 1 tygiel dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139145	Zwiêksza produkcjê {kryszta³ów} o 1 dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139146	Zwiêksza produkcjê {klejnotów} o 1 dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139147	Zwiêksza dochód królestwa o 350 {z³otych monet}.
+
+%Z-1 nie ma dodatkowych premii.		
+139148	Zwiêksza produkcjê {Mithrilu} o 1 sztabkê dziennie.
+
+%Z-1 nie ma dodatkowych premii.		
+139149	Podczas bitew {Behemoty} otrzymuj¹ +5 do Ataku, +5 do Obrony i +10 do Zadawanych Obra¿eñ.		
+139150	Podczas bitew {Czarni Rycerze} otrzymuj¹ premiê +5 do Ataku, +5 do Obrony i +10 do Zadawanych Obra¿eñ.		
+139151	Podczas bitwe {Diab³y} otrzymuj¹ +5 do Ataku, +5 do Obrony i +10 do Zadawanych Obra¿eñ.		
+139152	Podczas bitew {Smoki} otrzymuj¹ +5 do Ataku, +5 do Obrony.		
+139153	Pozwala przekszta³caæ £uczników oraz Elfy w {Strzelów Wyborowych}.		
+139154	Pozwala przekszta³caæ Mnichów i Maagów w {Czarodziejów}		
+139155	
+Œrednia szansa na rzucenie zaklêcia wynosi 1 do		
+139156	
+W tej chwili szansa wynosi 1 do		
+139157	{%Z406} pod %Z-5 komend¹ otrzymuj¹:		
+139158	
+Atak: {+%W31}		
+139159	
+Obrona: {+%W32}		
+139160	
+Obra¿enia: {+%V432}		
+139161	
+Wytrzyma³oœæ: {+%W30%}		
+139162	
+Szybkoœæ: +1		
+139163			
+139164			
+139165			

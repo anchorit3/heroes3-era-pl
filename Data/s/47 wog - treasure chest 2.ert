@@ -1,0 +1,109 @@
+#	Text resource for "Script31.erm" document		
+#131000	{UWAGA - STARA WERSJA} 
+ 
+Twoja wersja WoG i/lub ERM 
+jest zbyt stara, aby u¿ywaæ  
+{skryptu Skrzynia ze Skarbami 2 wersja 1.0.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	08.06.2003
+#131001	zwój	String type = <!!S>	08.06.2003
+#131002	¯yj¹cy Zwój  
+	String type = <!!S>	08.06.2003
+#131003	W œrodku skrzyni znajdujesz 
+sakiewkê z {%Y5} {z³otymi} {monetami} 
+i %Z2 z {%Z1}. 
+ 
+Czy chcesz zatrzymaæ %Z2 b¹dŸ go zniszczyæ, aby przej¹æ jego magiczn¹ energiê?	String type = <!!Q>	08.06.2003
+#131004	Niszczysz %Z2 z %Z1 i przejmujesz %Y3 punktów magii.	String type = <!!Q>	08.06.2003
+#131005	W œrodku skrzyni odkrywasz dwa unikalne
+ALMANACHY Z WIEDZ¥. 
+ 
+Pierwszy wolumin to "Mistrzowstwo w %Z1 w siedem dni" 
+natomiast drugi nosi nazwê "Tygodniowy kurs nauki %Z2". 
+ 
+Niestety, nie ma takiej sposobnoœci, ¿ebyœ móg³ zb³êbiæ tajniki obydwu ksi¹g. Wybiesz jeden wolumin do nauki i pozwól twoim jednostkom walczyæ ( fight over ?) o drugi tom.	String type = <!!Q>	08.06.2003
+#131006	Za 7 dni poznasz wszystkie dostêpne tajniki wiedzy o umiejêtnoœci %Z3! 
+ 
+Czy chcesz otrzymywaæ codziennie o tym przypomnienie, dopóki nie nauczysz siê tej umiejêtnoœci?	String type = <!!Q>	08.06.2003
+#131007		String type = <!!S>	08.06.2003
+#131008	a	String type = <!!S>	08.06.2003
+#131009	jego	String type = <!!S>	08.06.2003
+#131010	jej	String type = <!!S>	08.06.2003
+#131011	%Z1 uœwiadamia sobie, ¿e ju¿ wie na tyle du¿o o umiejêtnoœci %Z2 na ile jest to mo¿liwe, wiêc %Z3 odrzuca nudn¹ ksi¹¿kê %Z2 na bok i w zamian zaczyna graæ ze swoim wojskiem.	String type = <!!Q>	08.06.2003
+#131012	%Z1 spêdza mnóstwo godzin studiuj¹c ogromne tomiszcza o umiejêtnoœci %Z2. Zosta³o tylko %Y3 na to, aby %Z3 uzyska³ mistrzowstwo w swych naukach!	String type = <!!Q>	08.06.2003
+#131013	%Z1 zaczyna w³aœnie drugi rozdzia³ podrêcznika: "Jak upokorzyæ twych Nieprzyjació³ dziêki bieg³oœci %Z2 lub Zgin¹æ Próbuj¹c! Tylko %Y3 dni, a wiedza o umiejêtnoœci %Z3 zostanie ukoñczona!	String type = <!!Q>	08.06.2003
+#131014	%Z1 ci¹gle czyta podrêcznik o umiejêtnoœci %Z2 ale decyduje siê opuœciæ rozdzia³ zatytu³owany: "Martwi %Z4, %Z2, i Ty." Zosta³o %Y3 dni aby po³o¿yæ kres ciê¿kiej nauce!	String type = <!!Q>	08.06.2003
+#131015	%Z1 ci¹gle przyswaj¹ sobie wiadomoœci z ksi¹¿ki poœwiêconej zdolnoœci %Z2. Dzisiaj nauczy³%Z3 siê, ¿e jeœli ¿yjesz na suchym prowiancie, kilka kart doskonale wysuszonego pergaminu duszonego w gêstym, pomidorowym sosie smakuje wyj¹tkowo paskudnie! Jeszcze tylko %Y3 dni!	String type = <!!Q>	08.06.2003
+#131016	%Z1 uparcie kontynuuje swoj¹ naukê, mozolnie przerabiaj¹c pozosta³e rozdzia³y tomu o umiejêtnoœci %Z2. Lepiej, aby ta nauka by³a tego warta! Jeszcze tylko %Y3 dni studiowania i koniec!	String type = <!!Q>	08.06.2003
+#131017	%Z1 prawie skoñczy³%Z3 z t¹ przeklêt¹ ksiêg¹ o zdolnoœci %Z2! Jeœli spêdzi nad ksi¹¿k¹ ca³¹ noc, bêdzie mo¿liwe skoñczenie poznawania jej tajnik ju¿ jutro!	String type = <!!Q>	08.06.2003
+#131018	Po spêdzeniu ca³ej nocy czytaj¹c wolumin przy œwietle œwiec, %Z1 nareszcie ukoñczy³%Z3 studiowanie unikalnego tomu o umiejêtnoœci %Z2 i osi¹gn¹³%Z3 Mistrzowstwo w tej dziedzinie.	String type = <!!Q>	08.06.2003
+#131019	W œrodku skrzyni znajdujesz 
+podarek w postaci przejêcia na twe us³ugi
+%Z1!	String type = <!!Q>	08.06.2003
+#131020	Tartaku	String type = <!!S>	08.06.2003
+#131021	Laboratorium Alchemika	String type = <!!S>	08.06.2003
+#131022	Z³o¿a Rudy	String type = <!!S>	08.06.2003
+#131023	Odkrywki Siarki	String type = <!!S>	08.06.2003
+#131024	Kryszta³owej Groty	String type = <!!S>	08.06.2003
+#131025	Stawu z Klejnotami	String type = <!!S>	08.06.2003
+#131026	Kopalni Z³ota	String type = <!!S>	08.06.2003
+#131027	Urodziska Mithrilu	String type = <!!S>	08.06.2003
+#131028	{B£¥D:} Nie ma zaklêæ 3-iego poziomu na mapie przygody	String type = <!!M>	08.06.2003
+131000	{UWAGA - STARA WERSJA} 
+ 
+Twoja wersja WoG i/lub ERM 
+jest zbyt stara, aby u¿ywaæ  
+{skryptu Skrzynia ze Skarbami 2 wersja 1.0.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	7/15/03
+131001	zwój	String type = <!!S>	7/15/03
+131002	¯yj¹cy Zwój 
+	String type = <!!S>	7/15/03
+131003	W œrodku skrzyni znajdujesz 
+sakiewkê z {%Y5} {z³otymi} {monetami} 
+i %Z2 z {%Z1}. 
+ 
+Czy chcesz zatrzymaæ %Z2 b¹dŸ go zniszczyæ, aby przej¹æ jego magiczn¹ energiê?	String type = <!!Q>	7/15/03
+131004	Niszczysz %Z2 z %Z1 i przejmujesz %Y3 punktów magii.	String type = <!!Q>	7/15/03
+131005	Poziom Podstawowy	String type = <!!S>	7/15/03
+131006	Poziom Zaawansowany	String type = <!!S>	7/15/03
+131007	Poziom Podstawowy	String type = <!!S>	7/15/03
+131008	Poziom Zaawansowany	String type = <!!S>	7/15/03
+131009	W œrodku skrzyni odkrywasz dwa unikalne
+ALMANACHY Z WIEDZ¥. 
+ 
+Pierwszy wolumin to "Mistrzowstwo w %Z1 w siedem dni" 
+natomiast drugi nosi nazwê "Tygodniowy kurs nauki %Z2". 
+ 
+Niestety, nie ma takiej sposobnoœci, ¿ebyœ móg³ zb³êbiæ tajniki obydwu ksi¹g. Wybiesz jeden wolumin do nauki i pozwól twoim jednostkom walczyæ ( fight over ?) o drugi tom.
+
+(Obecnie posiadasz %Z6 %Z1 oraz %Z7 %Z2.)	String type = <!!Q>	7/15/03
+131010	%Z1	String type = <!!S>	7/15/03
+131011	%Z2	String type = <!!S>	7/15/03
+131012	Za 7 dni poznasz wszystkie dostêpne tajniki wiedzy o umiejêtnoœci %Z3! 
+ 
+Czy chcesz otrzymywaæ codziennie o tym przypomnienie, dopóki nie nauczysz siê tej umiejêtnoœci?	String type = <!!Q>	7/15/03
+131013		String type = <!!S>	7/15/03
+131014	a	String type = <!!S>	7/15/03
+131015	jego	String type = <!!S>	7/15/03
+131016	jej	String type = <!!S>	7/15/03
+131017	%Z1 uœwiadamia sobie, ¿e ju¿ wie na tyle du¿o o umiejêtnoœci %Z2 na ile  jest to mo¿liwe, wiêc %Z3 odrzuca nudn¹ ksi¹¿kê %Z2 na bok i w zamian zaczyna graæ ze swoim wojskiem.	String type = <!!Q>	7/15/03
+131018	%Z1 spêdza mnóstwo godzin studiuj¹c ogromne tomiszcza o umiejêtnoœci %Z2. Zosta³o tylko %Y3 na to, aby %Z3 uzyska³ mistrzowstwo w swych naukach!	String type = <!!Q>	7/15/03
+131019	%Z1 zaczyna w³aœnie drugi rozdzia³ podrêcznika: "Jak upokorzyæ twych Nieprzyjació³ dziêki bieg³oœci %Z2 lub Zgin¹æ Próbuj¹c! Tylko %Y3 dni,  a wiedza o umiejêtnoœci %Z3 zostanie ukoñczona!	String type = <!!Q>	7/15/03
+131020	%Z1 ci¹gle czyta podrêcznik o umiejêtnoœci %Z2 ale decyduje siê opuœciæ rozdzia³ zatytu³owany: "Marwi %Z4, %Z2, i Ty." Zosta³o %Y3 dni aby po³o¿yæ kres ciê¿kiej nauce!	String type = <!!Q>	7/15/03
+131021	%Z1 ci¹gle przyswaj¹ sobie wiadomoœci z ksi¹¿ki poœwiêconej zdolnoœci %Z2. Dzisiaj nauczy³%Z3 siê, ¿e jeœli ¿yjesz na suchym prowiancie, kilka kart doskonale wysuszonego pergaminu duszonego w gêstym, pomidorowym sosie smakuje wyj¹tkowo paskudnie! Jeszcze tylko %Y3 dni!	String type = <!!Q>	7/15/03
+131022	%Z1 uparcie kontynuuje swoj¹ naukê, mozolnie przerabiaj¹c pozosta³e rozdzia³y tomu o umiejêtnoœci %Z2. Lepiej, aby ta nauka by³a tego warta! Jeszcze tylko %Y3 dni studiowania i koniec!	String type = <!!Q>	7/15/03
+131023	%Z1 prawie skoñczy³%Z3 z t¹ przeklêt¹ ksiêg¹ o zdolnoœci %Z2! Jeœli spêdzi nad ksi¹¿k¹ ca³¹ noc, bêdzie mo¿liwe skoñczenie poznawania jej tajnik ju¿ jutro!	String type = <!!Q>	7/15/03
+131024	Po spêdzeniu ca³ej nocy czytaj¹c wolumin przy œwietle œwiec, %Z1 nareszcie ukoñczy³%Z3 studiowanie unikalnego tomu o umiejêtnoœci %Z2 i osi¹gn¹³%Z3 Mistrzowstwo w tej dziedzinie.	String type = <!!Q>	7/15/03
+131025	W œrodku skrzyni znajdujesz 
+podarek w postaci przejêcia na twe us³ugi
+%Z1!	String type = <!!Q>	7/15/03
+131026	Tartaku	String type = <!!S>	7/15/03
+131027	Laboratorium Alchemika	String type = <!!S>	7/15/03
+131028	Z³o¿a Rudy	String type = <!!S>	7/15/03
+131029	Odkrywki Siarki	String type = <!!S>	7/15/03
+131030	Kryszta³owej Groty	String type = <!!S>	7/15/03
+131031	Stawu z Klejnotami	String type = <!!S>	7/15/03
+131032	Kopalni Z³ota	String type = <!!S>	7/15/03
+131033	Urodziska Mithrilu	String type = <!!S>	7/15/03
+131034	{B£¥D:} Nie ma zaklêæ 3-iego poziomu na mapie przygody	String type = <!!M>	7/15/03

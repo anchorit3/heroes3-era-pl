@@ -1,0 +1,144 @@
+﻿#	Text resource for "script73.erm" document		
+173000	%Z4: posiada machiny bojowe	<!!Q>	01.08.2004
+173001	Fabryka Machin Bojowych
+
+{Dostępne Machiny}	<!!Q>	01.08.2004
+173002	balista	<!!S>	01.08.2004
+173003	balisty	<!!S>	01.08.2004
+173004	wóz z amunicją	<!!S>	01.08.2004
+173005	wozy z amunicją	<!!S>	01.08.2004
+173006	namiot medyka	<!!S>	01.08.2004
+173007	namioty medyka	<!!S>	01.08.2004
+173008	%Z1 posiada: %Z2 %Z3	<!!Q>	01.08.2004
+173009	{Fabryka Machin Bojowych}
+
+Czy chciałbyś zakupić Machinę Bojową?	<!!Q>	01.08.2004
+173010	namiot medyka	<!!S>	01.08.2004
+173011	balista	<!!S>	01.08.2004
+173012	wóz z amunicją	<!!S>	01.08.2004
+173013	balista	<!!S>	01.08.2004
+173014	Dostępna machina: %Y1 
+Koszt: {750} sztuk złota	<!!S>	01.08.2004
+173015	Wszystko zostało wyprzedane	<!!M>	01.08.2004
+173016	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173017	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173018	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173019	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173020	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173021	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173022	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173023	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173024	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173025	W Kuźni możesz nabyć dodatkowy sprzęt: %Z-1	<!!Q>	01.08.2004
+173026	Brakuje złota	<!!M>	01.08.2004
+173027	Właśnie wykupiłeś ostatnią sztukę	<!!M>	01.08.2004
+173028	Ile sztuk namiotów medyka chcesz przenieść?	<!!S>	01.08.2004
+173029	Ile sztuk balist chcesz przenieść?	<!!S>	01.08.2004
+173030	Ile sztuk wozów z amunicją chcesz przenieść?	<!!S>	01.08.2004
+173031	namioty medyka	<!!S>	01.08.2004
+173032	balisty	<!!S>	01.08.2004
+173033	wozy z amunicją	<!!S>	01.08.2004
+173034	namiot medyka	<!!S>	01.08.2004
+173035	balistę	<!!S>	01.08.2004
+173036	wóz z amunicją	<!!S>	01.08.2004
+173037	Przenieść %Y2 (%Z-1)	<!!S>	01.08.2004
+173038	Przenieś wszystko	<!!S>	01.08.2004
+173039	Przenieś wszystko	<!!S>	01.08.2004
+173040	Nie przenoś	<!!S>	01.08.2004
+173041	Nie przenoś	<!!S>	01.08.2004
+173042	Przenieść %Y2 (%Z90)	<!!S>	01.08.2004
+173043	Przenieś wszystko	<!!S>	01.08.2004
+173044	Przenieś wszystko	<!!S>	01.08.2004
+173045	Nie przenoś	<!!S>	01.08.2004
+173046	Nie przenoś	<!!S>	01.08.2004
+173047	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173048	Przenieś wszystko	<!!S>	01.08.2004
+173049	Przenieś wszystko	<!!S>	01.08.2004
+173050	Nie przenoś	<!!S>	01.08.2004
+173051	Nie przenoś	<!!S>	01.08.2004
+173052	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173053	Przenieś wszystko	<!!S>	01.08.2004
+173054	Przenieś wszystko	<!!S>	01.08.2004
+173055	Nie przenoś	<!!S>	01.08.2004
+173056	Nie przenoś	<!!S>	01.08.2004
+173057	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173058	Przenieś wszystko	<!!S>	01.08.2004
+173059	Przenieś wszystko	<!!S>	01.08.2004
+173060	Nie przenoś	<!!S>	01.08.2004
+173061	Nie przenoś	<!!S>	01.08.2004
+173062	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173063	Przenieś wszystko	<!!S>	01.08.2004
+173064	Przenieś wszystko	<!!S>	01.08.2004
+173065	Nie przenoś	<!!S>	01.08.2004
+173066	Nie przenoś	<!!S>	01.08.2004
+173067	Prznieś %Y2 (%Z90)	<!!S>	01.08.2004
+173068	Przenieś wszystko	<!!S>	01.08.2004
+173069	Przenieś wszystko	<!!S>	01.08.2004
+173070	Nie przenoś	<!!S>	01.08.2004
+173071	Nie przenoś	<!!S>	01.08.2004
+173072	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173073	Przenieś wszystko	<!!S>	01.08.2004
+173074	Przenieś wszystko	<!!S>	01.08.2004
+173075	Nie przenoś	<!!S>	01.08.2004
+173076	Nie przenoś	<!!S>	01.08.2004
+173077	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173078	Przenieś wszystko	<!!S>	01.08.2004
+173079	Przenieś wszystko	<!!S>	01.08.2004
+173080	Nie przenoś	<!!S>	01.08.2004
+173081	Nie przenoś	<!!S>	01.08.2004
+173082	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173083	Przenieś wszystko	<!!S>	01.08.2004
+173084	Przenieś wszystko	<!!S>	01.08.2004
+173085	Nie przenoś	<!!S>	01.08.2004
+173086	Nie przenoś	<!!S>	01.08.2004
+173087	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173088	Przenieś wszystko	<!!S>	01.08.2004
+173089	Przenieś wszystko	<!!S>	01.08.2004
+173090	Nie przenoś	<!!S>	01.08.2004
+173091	Nie przenoś	<!!S>	01.08.2004
+173092	Przenieś %Y2 (%Z90)	<!!S>	01.08.2004
+173093	Przenieś wszystko	<!!S>	01.08.2004
+173094	Przenieś wszystko	<!!S>	01.08.2004
+173095	Nie przenoś	<!!S>	01.08.2004
+173096	Nie przenoś	<!!S>	01.08.2004
+173097	Przenieś machiny wojenne	<!!S>	01.08.2004
+173098	Przenieś namiot medyka	<!!S>	01.08.2004
+173099	Przenieś balistę	<!!S>	01.08.2004
+173100	Przenieś wóz z amunicją	<!!S>	01.08.2004
+173101	Nic nie przenoś	<!!S>	01.08.2004
+173102	Wybierz coś do kupienia	<!!S>	01.08.2004
+173103	Kup namiot medyka (w sprzedaży %V852 sztuk)	<!!S>	01.08.2004
+173104	Kup balistę (w sprzedaży %V853 sztuk)	<!!S>	01.08.2004
+173105	Kup wóz z amunicją (w sprzedaży %V854 sztuk)	<!!S>	01.08.2004
+173106	Nie kupuj niczego	<!!S>	01.08.2004
+173107	Ile kupić namiotów medyka?	<!!S>	01.08.2004
+173108	Kupno jednego namiotu medyka będzie kosztować 750 sztuk złota	<!!S>	01.08.2004
+173109	Kupno dwóch namiotów medyka będzie kosztować 1500 sztuk złota	<!!S>	01.08.2004
+173110	Nie kupuj namiotu medyka	<!!S>	01.08.2004
+173111	Ile kupić balist?	<!!S>	01.08.2004
+173112	Kupno jednej balisty będzie kosztować 750 sztuk złota	<!!S>	01.08.2004
+173113	Kupno dwóch balist będzie kosztować 1500 sztuk złota	<!!S>	01.08.2004
+173114	Nie kupuj balisty	<!!S>	01.08.2004
+173115	Ile kupić wozów z amunicją?	<!!S>	01.08.2004
+173116	Kupno jednego wozu z amunicją będzie kosztować 750 sztuk złota	<!!S>	01.08.2004
+173117	Kupno dwóch wozów z amunicją będzie kosztować 1500 sztuk złota	<!!S>	01.08.2004
+173118	Nie kupuj wozu z amunicją	<!!S>	01.08.2004
+173119	Nie masz tyle złota!	<!!M>	01.08.2004
+173120	Przenieś machiny pomiędzy bohaterami	<!!S>	01.08.2004
+173121	Przenieś machiny (%Z-1 --> %Z-2)	<!!S>	01.08.2004
+173122	Przenieś machiny (%Z-2 --> %Z-1)	<!!S>	01.08.2004
+173123	Nie przenoś machin	<!!S>	01.08.2004
+173124	balista	<!!S>	01.08.2004
+173125	balisty	<!!S>	01.08.2004
+173126	wóz z amunicją	<!!S>	01.08.2004
+173127	wozy z amunicją	<!!S>	01.08.2004
+173128	namiot medyka	<!!S>	01.08.2004
+173129	namioty medyka	<!!S>	01.08.2004
+173130	%Z1 posiada: %Z2 (%Z3)	<!!Q>	01.08.2004
+173131	balista	<!!S>	01.08.2004
+173132	balisty	<!!S>	01.08.2004
+173133	wóz z amunicją	<!!S>	01.08.2004
+173134	wozy z amunicją	<!!S>	01.08.2004
+173135	namiot medyka	<!!S>	01.08.2004
+173136	namioty medyka	<!!S>	01.08.2004
+173137	%Z1 posiada: %Z2 (%Z3)	<!!Q>	01.08.2004

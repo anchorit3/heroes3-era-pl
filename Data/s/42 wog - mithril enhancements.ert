@@ -1,0 +1,245 @@
+#	Text resource for "SCRIPT36.ERM" document		
+136000	Ulepszony M³yn Wodny		09/02/03
+136001	Ulepszony Wiatrak		09/02/03
+136002	Ulepszony M³yn Wodny (Odwiedzony)		09/02/03
+136003	Ulepszony Wiatrak (Odwiedzony)		09/02/03
+136004	migocz¹ce sztabki		09/02/03
+136005	migocz¹ca sztabka		09/02/03
+136006	{Mithril} 
+ 
+%Y-5 %Z-1. 
+ 
+¯yczysz sobie zobaczyæ na co mo¿esz go przeznaczyæ?		09/02/03
+136007			09/02/03
+136008	{Mithril} 
+ 
+%Z1 podnosi z ziemii %Z4 %Z3 magicznego Mithrilu. 
+ 
+{Teraz masz razem %V2 %Z2 Mithrilu.} 
+ 
+(Mo¿esz w ka¿dej chwili sprawdziæ ca³kowit¹ iloœæ posiadanych sztabek Mithrilu poprzez klikniêcie PPM na ikonie Sytuacji Królestwa.)		09/02/03
+136009	{Siedziba Stworzeñ: %Z3}  
+
+Wojownicy, którzy w tym siedlisku trenuj¹ przysz³e jednostki {%Z2} oœwiadczaj¹, ¿e mog¹ ulepszyæ ich od razu do {%Z1}, ale najpierw potrzebuj¹ %Y6 sztabek Mithrilu na polepszenie wyposa¿enia dydaktycznego. 
+
+Posiadasz %Y7 sztabek Mithrilu.  
+Czy chcesz przekazaæ im ¿¹dane %Y6 sztabek Mithrilu?		09/02/03
+136010	{Siedziba Stworzeñ: %Z3} 
+ 
+Wojownicy, którzy w tym siedlisku trenuj¹ przysz³e jednostki {%Z2} oœwiadczaj¹, ¿e mog¹ ulepszyæ ich od razu do {%Z1}, ale najpierw potrzebuj¹ sztabkê Mithrilu na polepszenie wyposa¿enia dydaktycznego. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+Czy chcesz przekazaæ im ¿¹dan¹ sztabkê Mithrilu?		09/02/03
+136011	{Wrota ¯ywio³ów} 
+ 
+Wojownicy, którzy trenuj¹ w tych Wrotach m³ode ¯ywio³aki Powietrza, Ognia, Wody i Ziemii oœwiadczaj¹, ¿e mog¹ ulepszyæ ich od razu do ¯ywio³aków Sztormu, Lodu, Energii i Magmy, ale potrzebuj¹ 4 sztabek Mithrilu na polepszenie wyposa¿enia dydaktycznego. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+Czy chcesz przekazaæ im ¿¹dane 4 sztabki Mithrilu?		09/02/03
+136012	{Tartak} 
+ 
+Drwale pracuj¹cy w tym Tartaku oœwiadczaj¹, ¿e przez poœwiêcenie %Y5 sztabek Mithrilu Bogu Tartaków, mog¹ podwoiæ produkcjê drewna przez jeden tydzieñ. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+Czy chcesz przekazaæ Drwalom ¿¹dane %Y5 sztabki Mithrilu?		09/02/03
+136013	{Laboratorium Alchemika} 
+Alchemik, który pracuje w tym laboratorium s³yszy, ¿e posiadasz kilka sztabek Mithrilu i oœwiadcza, ¿e mo¿e byæ on u¿yty w procesach tworzenia czystej Rtêci. Jeœli dostanie %Y5 sztabek Mithrilu, móg³by go u¿yæ do wytwarzania dwukroknie wiêkszej iloœci Rtêci ni¿ normalnie przez jeden tydzieñ. 
+ 
+Posiadasz %Y7 Mithrilu. 
+ 
+Czy chcesz przekazaæ mu ¿¹dane %Y5 sztabek Mithrilu?		09/02/03
+136014	{Z³o¿e Rudy} 
+ 
+Górnicy pracuj¹cy w tym Z³o¿u Rudy oœwiadczaj¹, ¿e przez umieszczenie kilku sztabek Mithrilu (%Y5 sztabki wystarcz¹) pomiêdzy kamieniami, które wydobywaj¹, mog¹ wprowadziæ w b³¹d kilku poszukiwaczy skarbów, aby ekploatowali z³o¿e za darmo i zdwoili wydobycie Kamienia przez ca³y tydzieñ. 
+ 
+Posiadasz %Y7 sztabki Mithrilu. 
+Czy chcesz przekazaæ Górnikom ¿¹dane %Y5 sztabki Mithrilu?		09/02/03
+136015	{Odkrywka Siarki} 
+ 
+Chochliki uwielbiaj¹ cuchn¹c¹ siarkê prawie tak samo jak magiczny Mithril a ponadto uwielbiaj¹ tañczyæ dooko³a Odkrywek Siarki. Jednak¿e one ponadto uwielbiaj¹ psociæ a to dokucza górnikom tak bardzo, ¿e s¹ w stanie wydobywaæ tylko po³owê normalnej iloœci Siarki. Chochlików jest trudniej wytêpiæ ni¿ szczury i karaluchy ale mog¹ zostaæ przekupione aby odesz³y na tydzieñ za %Y5 sztabek Mithrilu. 
+ 
+Posiadasz %Y7 sztabek Mithril. 
+Czy chcesz przekazaæ Chochlikom ¿¹dane %Y5 sztabek Mithrilu?		09/02/03
+136016	{Kryszta³owa Grota} 
+ 
+Górnicy pracuj¹cy w Kryszta³owej Grocie wiedz¹ jak po³¹czyæ ma³e, bezu¿yteczne kryszta³owe igie³ki w wiêksze kryszta³y i w rezultacie zdwoiæ produkcjê. %Y5 sztabek Mithrilu bêdzie wystarczaj¹c¹ iloœci¹ aby aby to robiæ przez jeden tydzieñ. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+ 
+Czy chcesz przekazaæ górnikom ¿¹dane %Y5 sztabek Mithrilu?		09/02/03
+136017	{Staw z Klejnotami} 
+ 
+Grupa Golemów-nurków wyszukuj¹ca Klejnoty na dnie tego Stawu z Klejnotami, oœwiadcza ¿e mo¿e u¿yæ Mithrilu aby z³apaæ w sieæ kilka wodnych rusa³ek, aby pomog³y im w ich pracy w celu podwojenia wydobywania Klejnotów. %Y5 sztabek Mithrilu nagania³oby rusa³ki w sieci przez ca³y tydzieñ. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+Czy chcesz przekazaæ nurkom ¿¹dane %Y5 sztabek Mithrilu?		09/02/03
+136018	{Kopalnia Z³ota} 
+ 
+Grupa Krasnoludów z dziwnymi kilofami, wielkimi jak Behemoty, zebra³a siê obok twojej Kopalni Z³ota. Prosz¹ ciê o %Y5 sztabek Mithrilu aby wzmocniæ ich dziwne przyrz¹dy, którymi, jak twierdz¹, mog¹ zdwoiæ produkcjê przez ca³y tydzieñ. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+Czy chcesz przekazaæ krasnoludom ¿¹dane %Y5 szabek Mithrilu?		09/02/03
+136019	Tartak		09/02/03
+136020	Laboratorium Alchemika		09/02/03
+136021	Z³o¿e Rudy		09/02/03
+136022	Odkrywka Siarki		09/02/03
+136023	Kryszta³owa Grota		09/02/03
+136024	Staw z Klejnotami		09/02/03
+136025	Kopalnia Z³ota		09/02/03
+136026	Mo¿esz roztoczyæ ochronê nad: %Z1 przed nienaturaln¹ cotygodniow¹ zmian¹ surowców przez zap³acenie %Y5 sztabek Mithrilu. Zmiany produkcji surówców zostan¹ wówczas powstrzymane. 
+ 
+Posiadasz %Y7 sztabek Mithrilu. 
+Czy chcesz to zrobiæ?		09/02/03
+136027	{Kaplica Magicznego S³owa} 
+Akolici opiekuj¹cy siê t¹ Kaplic¹ skar¿¹ siê, ¿e s¹ ju¿ zmêczeni nauk¹ zaklêcia %Z1 ka¿dego ohetera, który wstêpuje w ich progi, ale jeœli poœwiêciliby jedn¹ sztabkê Mithrilu swojemu bogu, zostaliby z pewnoœci¹ pog³ogos³awieni i dost¹piliby objawienia nowego zaklêcia, którego mogliby uczyæ w zamian. 
+ 
+Posiadasz %Y2 sztabek Mithrilu. 
+Czy chcesz podarowaæ jedn¹ sztabkê Akolitom?		09/02/03
+136028	{Kaplica Magicznego Symbolu} 
+Pulchni Zakonnicy opiekuj¹cy siê t¹ Kaplic¹ skar¿¹ siê, ¿e s¹ ju¿ zmêczeni nauk¹ zaklêcia %Z1 ka¿dego ohetera, który wstêpuje w ich progi, ale jeœli poœwiêciliby dwie sztabki Mithrilu swojemu bogu, zostaliby z pewnoœci¹ pog³ogos³awieni i dost¹piliby objawienia nowego zaklêcia, którego mogliby uczyæ w zamian. 
+ 
+Posiadasz %Y2 sztabki Mithrilu. 
+Czy chcesz podarowaæ dwie sztabki Zakonnikom?		09/02/03
+136029	{Kapliczka Magicznej Myœli} 
+ 
+Najwy¿si Ksiê¿a opiekuj¹cy siê t¹ Kaplic¹ skar¿¹ siê, ¿e s¹ ju¿ zmêczeni nauk¹ zaklêcia %Z1 ka¿dego ohetera, który wstêpuje w ich progi, ale jeœli poœwiêciliby 3 sztabki Mithrilu swojemu bogu, zostaliby z pewnoœci¹ pog³ogos³awieni i dost¹piliby objawienia nowego zaklêcia, którego mogliby uczyæ w zamian. 
+ 
+Posiadasz %Y2 sztabki Mithrilu. 
+Czy chcesz podarowaæ trzy sztabki Najwy¿szym Ksiê¿om?		09/02/03
+136030	Burmistrz miasta %Z1 oœwiadcza, ¿e jego przyjaciel Czarodziej wyruszy³ badaæ Magiczne Równiny, które ostatnio wydaj¹ siê wszêdzie pojawiaæ i nie wie, kiedy wróci do swojego wyuczonego fachu, jakim jest wzmacnianie si³ obronnych zamków.		09/02/03
+136031	Burmistrz miasta %Z1 oœwiadcza, ¿e zna potê¿nego Czarodzieja, który potrafi wzmocniæ obronê miasta na ró¿ne sposoby, a na dodatek wynagrodzenie nie bêdzie wiêksze ni¿ klika sztabek Mithrilu. Za 1 sztabkê, mo¿e wzmociæ %Z1 Œwiêt¹ Ziemi¹, £¹k¹ Koniczyny, Diabelsk¹ Mg³¹, Ognistymi Polami, Przejrzystym Stawem, Magicznymi Chmurami lub Go³oborzem, ponadto mo¿e, za 3 sztabki Mithrilu, zwmocniæ miasto za pomoc¹ Magicznej Równiny b¹dŸ Przeklêtej Ziemii. 
+ 
+Posiadasz %Y2 %Z-5 sztabek Mithrilu. 
+
+Czy chcesz skorzystaæ z pomocy Czarodzieja?		09/02/03
+136032	Burmistrz miasta %Z1 oœwiadcza, ¿e zna potê¿nego Czarodzieja, który potrafi wzmocniæ obronê miasta na ró¿ne sposoby, a na dodatek wynagrodzenie nie bêdzie wiêksze ni¿ klika sztabek Mithrilu. Za 1 sztabkê, mo¿e wzmociæ %Z1 Œwiêt¹ Ziemi¹, £¹k¹ Koniczyny, Diabelsk¹ Mg³¹, Ognistymi Polami, Przejrzystym Stawem, Magicznymi Chmurami lub Go³oborzem.  
+ 
+Posiadasz %Y2 %Z-5 sztabek Mithrilu. 
+
+Czy chcesz skorzystaæ z pomocy Czarodzieja?		09/02/03
+136033	Œwiêta Ziemia      (1 sztabka Mithrilu)		09/02/03
+136034	£¹ka Koniczyny     (1 sztabka Mithrilu)		09/02/03
+136035	Diabelska Mg³a     (1 sztabka Mithrilu)		09/02/03
+136036	Ogniste Pole       (1 sztabka Mithrilu)		09/02/03
+136037	Przejrzysty Staw   (1 sztabka Mithrilu)		09/02/03
+136038	Magiczne Chmury    (1 sztabka Mithrilu)		09/02/03
+136039	Go³oborza          (1 sztabla Mithrilu)		09/02/03
+136040	Magiczne Równiny   (3 sztabki Mithrilu)		09/02/03
+136041	Przeklêta Ziemia   (3 sztabki Mithrilu)		09/02/03
+136042	Wybierz rodzaj magicznego terenu:		09/02/03
+136043	{Witch Hut} 
+ 
+{Chatka Czarownicy} 
+ 
+Stara WiedŸma, która mieszka w tej chatce mówi ci, ¿e uczy umiejêtnoœci %Z1 tak d³ugo, ¿e ju¿ nie pamiêta odk¹d i zaczyna siê ju¿ tym nudziæ. Zna sposób na poznanie czegoœ wiêcej ni¿ naucza, ale to wymaga 2 sztabek Mithrilu. Roztropnie nie pytasz co ona chce za to. 
+ 
+Posiadzasz %Y2 sztabek Mithrilu. 
+Czy chcesz daæ jej 2 sztabki Mithrilu, którego potrzebuje?		09/02/03
+136044	{M³yn Wodny} 
+ 
+Ch³op opiekuj¹cy siê M³ynem Wodnym informuje ciê ¿e je¿eliby siê roznios³o, ¿e posiada parê sztabek Mithrilu, to mia³by wiêcej klientów, poniewa¿ niektórzy przychodziliby z czystej ciekawoœci. 5 sztabek wystarczy³oby aby podwoiæ jego tygodniow¹ produkcjê. 
+ 
+Posiadasz %Y2 sztabek Mithrilu. 
+Czy chcesz przekazaæ mu 5 sztabek Mithrilu, o które prosi?		09/02/03
+136045	{Wiartak} 
+ 
+M³ynarz powiada, ¿e zna sposób jak u¿yæ Mithrilu aby podwoiæ iloœæ zasobów, które wytwarza ale ostatnie piêæ sztabek, które posiada³, zosta³o skradzione dawno temu. Zastanawia siê, "Czy masz jakieœ zbêdne sztabki?" 
+ 
+Posiadasz %Y2 sztabek Mithrilu. 
+Czy chcesz przekazaæ mu 5 sztabek Mithrilu, o które prosi?		09/02/03
+136046	{Stocznia} 
+ 
+Stoczniowcy pracuj¹cy przy tej stoczni powiadaj¹, ¿e mog¹ zbudowaæ Latarniê tu¿ obok stoczni, ale potrzebuj¹ 3 sztabki Mithrilu na oœwietlenie. 
+ 
+Posiadasz %Y2 sztabek Mithrilu. 
+Czy chcesz przekazaæ im 3 sztabki Mithrilu, o które prosz¹?		09/02/03
+136047	{Monolit Wejœcia}		09/02/03
+136048	{Monolit Przejœcia}		09/02/03
+136049	on		09/02/03
+136050	ona		09/02/03
+136051	%Z1 
+ 
+%Z2 zna sposób na zbadanie co znajduje siê po drugiej stronie tego Monolitu, ale %Z3 potrzebuje 1 sztabkê Mithrilu. 
+ 
+Posiadasz %Y2 sztabek Mithrilu. 
+Czy chcesz sie przekonaæ co znajduje siê po drugiej stronie Monolitu?		09/02/03
+136052	Tartak		09/02/03
+136053	Laboratorium Alchemika		09/02/03
+136054	Z³o¿e Rudy		09/02/03
+136055	Odkrywka Siarki		09/02/03
+136056	Kryszta³owa Grota		09/02/03
+136057	Staw z Klejnotami		09/02/03
+136058	Kopalnia Z³ota		09/02/03
+136059	{Mithril} 
+ 
+%Y-5 %Z-1. 		
+136060	Zaawansowany Uniwersytet
+
+(Za 2000 sztuk z³ota naucza nowej umiejêtnoœci b¹dŸ za 3000 sztuk z³ota polepsza umiejêtnoœæ na poziomie podstawowym.)	String type = <!#S>	2003-08-08
+136061	{Uniwersytet} 
+
+Profesorowie gorliwie badaj¹ przyniesiony Mithril po czym ¿¹daj¹ %Y9 sztabek za przeprowadzenie Zaawansowanych lekcji.
+ 
+Posiadasz %Y7 Mithrilu. 
+
+Zgadzasz siê przekazaæ im %Y9 sztabek Mithrilu za naukê zaawansowanej umiejêtnoœci?	String type = <!!Q>	2003-08-08
+136062	{Zaawansowany Uniwersytet}
+
+Kiedy zamierzasz ju¿ wychodziæ, pojawia siê urzêdnik i proponuje Zaawansowane lekcje za 3000 sztuk z³ota (których obecnie ci brak).	String type = <!!Q>	2003-08-08
+136063	{Zaawansowany Uniwersytet}
+
+Kiedy zamierzasz ju¿ wychodziæ, pojawia siê urzêdnik i proponuje Zaawansowane lekcje. Czy chcia³byœ za 3000 sztuk z³ota polepszyæ sw¹ wiedzê o poznanych umiejêtnoœciach?	String type = <!!S>	2003-08-08
+136064	{Zaawansowany Uniwersytet}
+
+Na jakie wyk³ady chcia³byœ uczêszczaæ - poznanie zaawansowanej umiejêtnoœci: %Z1 czy zaawansowanej: %Z2?	String type = <!!Q>	2003-08-08
+136065	{Zaawansowany Uniwersytet}
+
+Uczêszczasz na wyk³ady o: %Z1, a dziêki wyœmienitym wyk³adowcom doœæ szybko osi¹gasz zaaw. %Z1.	String type = <!!Q>	2003-08-08
+136066	Ulepszony(a) 		
+136067	Chroniony(a)		
+136068	czerwonego		
+136069	niebieskiego		
+136070	br¹zowego		
+136071	zielonego		
+136072	pomarañczowego		
+136073	fioletowego		
+136074	jasnoniebieskiego		
+136075	ró¿owego		
+136076	Drewno		
+136077	Rtêæ		
+136078	Ruda		
+136079	Siarka		
+136080	Kryszta³y		
+136081	Klejnoty		
+136082	Z³oto		
+136083	%Z-2%Z-1
+Nale¿y do %Z-3 gracza
+(%Z-4)		
+136084	%Z-2%Z-1 (%Z-4)		
+136085	Opuszczona kopalnia		
+136086	nie		
+136087	{Cennik zastosowañ Mithrilu}
+
+Mithril mo¿e zostaæ u¿yty do ulepszenia ró¿nych budowli na mapie.
+Aby ulepszyæ skrukturê, kliknij PPM na wejœciu do niej. W przypadku kopalñ, miast, 
+siedlisk stworzeñ i stoczni, musisz byæ posiadaczem danego obiektu.
+W przypadku wiatraków, chatek wiedŸm, m³ynów, monolitów i uniwersytetów, 
+musisz posiadaæ bohatera w miejscu, które chcesz ulepszyæ za pomoc¹ PPM.
+
+		
+136088	1. Ulepszona Kopalnia Z³ota - na jeden tydzieñ zdwaja produkcjê: 7 sztabek Mithrilu
+2. Ulepszona inna kopalnia - na jeden tydzieñ zdwaja produkcjê: 4 sztabki Mithrilu
+3. Ulepszony M³yn lub Wiatrak - zdwaja produkcjê: 5 sztabek Mithrilu
+4. Ulepszone siedlisko stworzeñ - oferuje ulepszone stworzenia: od 1 do 3 sztabek Mithrilu
+5. Umieszczenie magicznego tereny w celu obrony miasta: od 1 do 3 sztabek Mithrilu
+6. Wybudowanie Latarni Morskiej ko³o Stoczni: 3 sztabki Mithrilu
+		
+136089	7. Zmiana zaklêæ oferowanych przez Magiczne Kapliczki: od 1 do 3 sztabek Mithrilu
+8. Zmiana umiejêtnoœci oferowanych przez Chatki Czarownicy: 2 sztabki Mithrilu
+9. Sprawdzenie co znajduje siê przy wyjœciu z Monolitu: 1 sztabka Mithrilu
+10. Ochrona kopalni przed zmian¹ zasobów jeœli zosta³a w³¹czona zasada
+  "Kopalnie zmieniaj¹ zasoby co tydzieñ" (za jedno tygodniow¹ ochronê):
+  - drewna i rudy: 1 sztabka Mithrilu
+  - klejnotów, kryszta³ów, rtêci i siarki: 3 sztabki Mithrilu
+  - z³ota: 5 sztabek Mithrilu
+11. Ulepszony Uniwersytet - mo¿e ulepszyæ podstawowe umiejêtnoœci bohatera: 4 sztabki Mithrilu		

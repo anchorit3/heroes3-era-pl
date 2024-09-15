@@ -1,0 +1,114 @@
+﻿#	Text resource for "script58.erm" document		
+158000	Wybierz misję:	<!#S>	01.08.2004
+158001	Zamach	<!#S>	01.08.2004
+158002	Sprawozdanie o sytuacji wroga	<!#S>	01.08.2004
+158003	Kradzież	<!#S>	01.08.2004
+158004	Sabotaż	<!#S>	01.08.2004
+158005	Wycofaj szpiega	<!#S>	01.08.2004
+158006	Wybierz miasto, które chcesz zinfiltrować.	<!#S>	01.08.2004
+158007	Napisz nazwę docelowego miasta:	<!#S>	01.08.2004
+158008	Wykradnij drewno.	<!#S>	01.08.2004
+158009	Wykradnij rtęć.	<!#S>	01.08.2004
+158010	Wykradnij rudę.	<!#S>	01.08.2004
+158011	Wykradnij siarkę.	<!#S>	01.08.2004
+158012	Wykradnij kryształy.	<!#S>	01.08.2004
+158013	Wykradnij klejnoty.	<!#S>	01.08.2004
+158014	Wykradnij złoto.	<!#S>	01.08.2004
+158015	Wykradnij mithril.	<!#S>	01.08.2004
+158016	Ubij stworzenia w garnizonie.	<!#S>	01.08.2004
+158017	Ubij stworzenia w siedlisku.	<!#S>	01.08.2004
+158018	poziom 1	<!#S>	01.08.2004
+158019	poziom 2	<!#S>	01.08.2004
+158020	poziom 3	<!#S>	01.08.2004
+158021	poziom 4	<!#S>	01.08.2004
+158022	poziom 5	<!#S>	01.08.2004
+158023	poziom 6	<!#S>	01.08.2004
+158024	poziom 7	<!#S>	01.08.2004
+158025	Szpieg	<!#S>	01.08.2004
+158026	Wykradnij zaklęcia.	<!#S>	01.08.2004
+158027	Napisz nazwię docelowego twojego miasta:	<!#S>	01.08.2004
+158028	Napisz nazwę pożądanego zaklęcia	<!#S>	01.08.2004
+158029	Infiltracja wrogiego miasta	<!#S>	01.08.2004
+158030	Zorganizuj siatkę anty-szpiegowską.	<!#S>	01.08.2004
+158031	Szpieg osiągnie  
+{%Z200} za {%Vp} dni(dzień).	<!!M>	01.08.2004
+158032	{%Z200} będzie jutro miał efektywną siatkę szpiegowską.	<!!M>	01.08.2004
+158033	Na tą chwilę nie posiadasz żadnego szpiega wykwalifikowanego do operacji.
+
+{Aby} {wytrenować} {szpiega,} {bohater} {musi} {poznać} {umiejętność} {odkrywania} (i} {osiagnąć} {kojejny} {poziom} {doświadczenia.} {Jeśli} {szpieg} {zostanie} {zdemaskowany} {i} {powieszony,} {następny} {zostanie} {wyszkolony} {przy} {osiągnięciu} {kolejnego} {poziomu} {doświadczenia.}	<!!Q>	01.08.2004
+158034	To jedno z twoich miast. Wybierz miasto wroga.	<!!M>	01.08.2004
+158035	Szpieg nie może znaleźć 
+{%Z1} na twojej mapie. Może napisałeś złą nazwę?	<!!M>	01.08.2004
+158036	Szpieg wyruszył do 
+{%Z200}. Informacje będą dostępne za trzy dni.	<!!Q>	01.08.2004
+158037	Szpieg jeszcze nie otrzymał wymaganego szkolenia. Tylko {mistrzowskie} {odkrywanie} może ujawnić tajniki anty-szpiegostwa.	<!!M>	01.08.2004
+158038	{%Z1} jest miastem twojego wroga. Aby ustawić siatkę anty-szpiegowską, wybierz miasto należące do ciebie.	<!!M>	01.08.2004
+158039	{%Z200} - w tym mieście już działa siatka założona przez jednego z twych szpiegów. Kolejny tylko utrudni pracę.	<!!Q>	01.08.2004
+158040	Szpieg wkracza do {%Z200} 
+i zaczyna tworzyć siatkę anty-szpiegowską.	<!!Q>	01.08.2004
+158041	Naprawdę chcesz wycofać szpiega? Jeśli to uczynisz utracisz siatkę anty-szpiegowską w {%Z200}.	<!!Q>	01.08.2004
+158042	{%Z200} należy do ciebie. Jeśli nie ma tu nic do roboty, szpieg opuści miasto i będzie oczekiwał na nowe rozkazy.	<!!Q>	01.08.2004
+158043	Ilość operacji zakończonych pomyślnie: {%W55}	<!!S>	01.08.2004
+158044	Szpieg obecnie wykonuje misję w
+{%Z200}. Chcesz wydać mu nowe rozkazy?	<!!Q>	01.08.2004
+158045	Szpieg opuszcza
+{%Z200} i czeka na wydanie nowych rozkazów.	<!!Q>	01.08.2004
+158046	Twój szpieg jest w neutralnym mieście. Ogólnie takie miasta są biedne i nie mają nic cennego do wykradzenia.	<!!Q>	01.08.2004
+158047	Twój szpieg został zdemaskowany i powieszony podczas próby wypełnienia powierzonej misji.	<!!M>	01.08.2004
+158048	Twój szpieg został zdemaskowany i powieszony podczas próby wypełnienia powierzonej misji.	<!!M>	01.08.2004
+158049	Twój szpieg został zdemaskowany i powieszony podczas próby wypełnienia powierzonej misji.	<!!M>	01.08.2004
+158050	Twój szpieg został zdemaskowany i powieszony podczas próby wypełnienia powierzonej misji.	<!!M>	01.08.2004
+158051	Misja wydaje się zbyt ryzykowna. Brak zasobów będzie łatwy do wykrycia, dlatego szpieg postanawia nie dokonywać kradzieży.	<!!M>	01.08.2004
+158052	Nie ma nic do wykradzenia. Szpieg przerywa misję.	<!!M>	01.08.2004
+158053	Kradzież zakończyła sie sukcesem.	<!!Q>	01.08.2004
+158054	Morderstwo zakończyło się sukcesem. %Vy3 potworów %Vy4 poziomu zostano pozbawionych życia.	<!!M>	01.08.2004
+158055	Morderstwo zakończyło się fiaskiem, gdyż w wybranej lokacji nie było żadnych stworzeń.	<!!M>	01.08.2004
+158056	Morderstwo zostało udaremnione przez wroga. Na szczęście szpieg wydostaje się niezauważony.	<!!M>	01.08.2004
+158057	Mordertwo zakończyło się sukcesem. Pozostało potworów: %Vy3.	<!!Q>	01.08.2004
+158058	Morderstwo zostało udaremnione przez wroga. Na szczęście szpieg wydostaje się niezauważony.	<!!M>	01.08.2004
+158059	Twój szpieg został zdemaskowany i powieszony podczas próby wypełnienia powierzonej misji.	<!!M>	01.08.2004
+158060	Sabotaż został udaremniony przez wroga. Na szczęście nikt nie powiązał tego czynu z twoim szpiegiem.	<!!M>	01.08.2004
+158061	Sabotaż zakończył się sukcesem.	<!!Q>	01.08.2004
+158062	Sabotaż został udaremniony przez wroga. Na szczęście nikt nie powiązał tego czynu z twoim szpiegiem.	<!!M>	01.08.2004
+158063	W dobytku wroga znajdują się następujace zasoby 
+drewno: {%V2200} szt. 
+rtęć: {%V2201} szt. 
+ruda: {%V2202} szt. 
+siarka: {%V2203} szt. 
+kryształy: {%V2204} szt. 
+klejnoty: {%V2205} szt. 
+złoto: {%V2206} szt. 
+mithril: {%V2207} szt. 	<!!M>	01.08.2004
+158064	Następujące budynki są dostępne w {%Z775}:	<!!M>	01.08.2004
+158065	Gildia Magów posiadła wiedzę o zaklęciach:	<!!M>	01.08.2004
+158066	Stacjonujący w garnizonie bohater {%Z775} osiągnał poziom {%Vl}. Jego {statystyki} wynoszą: 
+atak - {%Vm} 
+obrona - {%Vn} 
+moc - {%Vo} 
+wiedza - {%Vp}. 
+knowledge - {%Vp}.	<!!M>	01.08.2004
+158067	Zdobyte {umiejętności}:	<!!M>	01.08.2004
+158068	Dzierży następujące {artefakty}:	<!!M>	01.08.2004
+158069	Bohater odwiedzający miasto {%Z775} osiągnął poziom {%Vl}.  Jego {statystyki} wynoszą: 
+atak - {%Vm} 
+obrona - {%Vn} 
+moc - {%Vo} 
+wiedza - {%Vp}.	<!!M>	01.08.2004
+158070	Zdobyte {umiejętności}:	<!!M>	01.08.2004
+158071	Dzierży następujące {artefakty}:	<!!M>	01.08.2004
+158072	Poziom podstawowy %Z775	<!!M>	01.08.2004
+158073	Poziom zaawansowany %Z775	<!!M>	01.08.2004
+158074	Poziom mistrzowski %Z775	<!!M>	01.08.2004
+158075	Zaklęcia {1} {poziomu}: %Z2, %Z3, %Z4, %Z5, %Z6	<!!M>	01.08.2004
+158076	Zaklęcia {1} {poziomu}: %Z2, %Z3, %Z4, %Z5, %Z6, %Z7	<!!M>	01.08.2004
+158077	Zaklęcia {2} {poziomu}: %Z2, %Z3, %Z4, %Z5	<!!M>	01.08.2004
+158078	Zaklęcia {2} {poziomu}: %Z2, %Z3, %Z4, %Z5, %Z6	<!!M>	01.08.2004
+158079	Zaklęcia {3} {poziomu}: %Z2, %Z3, %Z4	<!!M>	01.08.2004
+158080	Zaklęcia {3} {poziomu}: %Z2, %Z3, %Z4, %Z5	<!!M>	01.08.2004
+158081	Zaklęcia {4} {poziomu}: %Z2, %Z3	<!!M>	01.08.2004
+158082	Zaklęcia {4} {poziomu}: %Z2, %Z3, %Z4	<!!M>	01.08.2004
+158083	Zaklęcia {5} {poziomu}: %Z2	<!!M>	01.08.2004
+158084	Zaklęcia {5} {poziomu}: %Z2, %Z3	<!!M>	01.08.2004
+158085	Szpieg nie może dostarczyć ci pożądanego zaklęcia. Albo podałeś niewłaściwą nazwę, albo zaklęcie nie jest dostępne w tej gildii magów.	<!!M>	01.08.2004
+158086	Twój szpieg został zdemaskowany i powieszony podczas próby wypełnienia powierzonej misji.	<!!M>	01.08.2004
+158087	Szpieg pomyślnie skopiował żądany czar i przesyła ci zwój.	<!!Q>	01.08.2004

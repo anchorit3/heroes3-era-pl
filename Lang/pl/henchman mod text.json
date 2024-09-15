@@ -1,0 +1,23 @@
+{
+  "henchmen": {    
+    "strings": {
+      "rank":          "{~r}Ranga{~} : @lv@",
+      "banner":        " {~r}Baner{~} : ",
+      "banner_-1":     "Nic",
+      "banner_0":      "+Zdrowie",
+      "banner_1":      "+Atak",
+      "banner_2":      "+Obrona",
+      "banner_3":      "+Obrażenia",
+      "banner_4":      "+Prędkość",
+      "banner_5":      "+Doświadczenie",
+      "banner_6":      "-Obrona wroga",
+      "banner_7":      "+Szansa na blok",
+      "banner_8":      "+Zamsta",
+      "bannerTitle":   "B A N E R  P O M O C N I K A",
+      "bannerToHench": "Czy chcesz przekazać Sztandar Władcy swojemu poplecznikowi?",
+      "bannerDead":    "Martwy poplecznik nie odpowiada na żadną ofertę dotyczącą Sztandaru Władcy.",
+      "bannerNone":    "Pomimo tego, jak bardzo chciałbyś dać swojemu poplecznikowi Sztandar Władcy, nie masz go w swoim plecaku.",
+      "bannerToHero":  "Przekaż ten sztandar bohaterowi."
+    }
+  }
+}

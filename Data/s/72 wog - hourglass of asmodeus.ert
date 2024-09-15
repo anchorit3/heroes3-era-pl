@@ -1,0 +1,33 @@
+106000	{OSTRZE¯ENIE STARA WERSJA} 
+
+Wybacz, ale twoja wersja WOG i/lub ERM 
+jest zbyt stara do poprawnego dzia³ania skryptu 
+{Klepsydra Asmodeusza v1.5} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	07.06.2003
+106001	{Klepsydra Asmodeusza}
+
+Niektórzy bohaterowie u¿yci na potrzeby tego skryptu (Xeron, Kilgor b¹dŸ Roland) wydaj¹ siê byæ tak¿e u¿ywani przez t¹ mapê (s¹ {dostêpni} w opcjach edytora map), dlatego ten skrypt zosta³ {wy³¹czony}. Oznacza to, ¿e na tej planszy Klepsydra ma tylko stare w³asnoœci niwelowania premii za szczêœcie.
+
+Aby móc na tej mapie u¿ywaæ tego skryptu, w edytorze map musisz wy³¹czyæ b¹dŸ to Xerona, b¹dŸ Kilgora czy Rolanda. Jeœli zosta³a w³¹czona opcja {W³¹cz rozszerzonych bohaterów}, w edytorze map musisz odznaczyæ {Xerona}.	String type = <!#M>	07.06.2003
+106002	Klepsydra Asmodeusza	String type = <!#S>	07.06.2003
+106003	{Klepsydra Asmodeusza} 
+
+Ten artefakt niweluje podczas bitwy wszystkie premie za szczêœcie, jakie otrzymuj¹ oddzia³y bohatera lub wroga. Ponadto, jeœli zainicjujesz walkê, masz mo¿liwoœæ przywo³ania potê¿nego demona by walczy³ zamiast ciebie (ale twoimi jednostkami). Jednak¿e ta us³uga kosztuje -- tracisz kawa³ek swej duszy (1 punkt Mocy) za ka¿de wezwanie.	String type = <!#S>	07.06.2003
+106004	Chcesz u¿yæ 
+{Klepsydry Z³ej Godziny} 
+by wezwaæ potê¿nego 
+{Lorda Demona Asmodeusza} 
+który bêdzie walczy³ za ciebie w tej bitwie?	String type = <!!Q>	07.06.2003
+106005	jego	String type = <!!S>	07.06.2003
+106006	jej	String type = <!!S>	07.06.2003
+106007	Asmodeusz	String type = <!!S>	07.06.2003
+106008	Po straceniu wszystkich jednostek w bitwie, Asmodeusz z hojnoœci¹ wyznaczy³ trzech Chochlików, aby %$hrname$ uczyni³ z nich swoich towarzyszy.	String type = <!!Q>	07.06.2003
+106009	%$hrname$ traci kawa³ek duszy w ramach zap³aty dla Asmodeusza, umniejszaj¹c sw¹ Moc o jeden punkt. 
+ 
+Bez artefaktów %$hrname$ posiada teraz  
+%$rpower$ {Prawdziwej Mocy}..	String type = <!!Q>	07.06.2003
+106010	%$hrname$ traci kawa³ek duszy w ramach zap³aty dla Asmodeusza, umniejszaj¹c sw¹ Moc o jeden punkt. 
+ 
+%$hrname$ jest teraz w posiadaniu %$rpower$ {Punktów Mocy}.	String type = <!!Q>	07.06.2003
+106011	%$hrname$ ma zbyt w¹t³¹ duszê by stanowi³a obiekt po¿¹dania Asmodeusza. Demon zabiera {Klepsydrê} i odchodzi do podziemii, pozostawiaj¹c za sob¹ ma³y podarek aby %$hrname$ nie pozosta³ z pustymi rêkoma...	String type = <!!Q>	07.06.2003

@@ -1,0 +1,82 @@
+113000	Tutaj toczy siê gra w karty pomiêdzy %$players$ graczami. Czy chcesz okreœliæ stawkê i zagraæ?	String type = <!!Q>	07.06.2003
+113001	Karczmarz podchodzi do ciebie i powiada: "%$hname$, ostatnio wygra³eœ zbyt wiele rozdañ. Us³usznie proponujê, abyœ na chwilê da³ odpocz¹æ kartom."	String type = <!!S>	07.06.2003
+113002	Rozgl¹dasz siê dooko³a za kolejn¹ zagrywk¹, ale spostrzegasz, ¿e pozostali gracze porozchodzili siê ju¿ po domach.	String type = <!!M>	07.06.2003
+113003	Czy chcesz rozejrzeæ siê po karczmie?	String type = <!!Q>	07.06.2003
+113004	Pozna³eœ ju¿ zaklêcie {Fortuny}	String type = <!!S>	07.06.2003
+113005	Posiadasz zrêcznoœæ rzucania zaklêcia {Fortuny}	String type = <!!S>	07.06.2003
+113006	Jesteœ ekspertem w rzucaniu zaklêcia {Fortuny}	String type = <!!S>	07.06.2003
+113007	Jesteœ mistrzem w rzucaniu zaklêcia {Fortuny}	String type = <!!S>	07.06.2003
+113008	%Z205. Czy chcia³byœ rzuciæ zaklêcie Fortuny aby poprawiæ swe szczêœcie na czas tej zagrywki?	String type = <!!Q>	07.06.2003
+113009	Rzucasz zaklêcie {Fortuny} i twe szczêœcie wzrasta.	String type = <!!Q>	07.06.2003
+113010	Czujesz, ¿e masz dzisiaj 
+ma³ego pecha. 
+ 
+{(Szczêœcie %$luck$)}	String type = <!!Q>	07.06.2003
+113011	Czujesz, ¿e dzisiaj 
+los ci nie sprzyja. 
+ 
+{(Szczêœcie %$luck$)}	String type = <!!Q>	07.06.2003
+113012	Czujesz, ¿e masz dzisiaj 
+du¿ego pecha. 
+ 
+{(Szczêœcie %$luck$)}	String type = <!!Q>	07.06.2003
+113013	Czujesz, ¿e masz dzisiaj 
+paskudnego pecha! 
+ 
+{(Szczêœcie %$luck$)}	String type = <!!Q>	07.06.2003
+113014	Czujesz, ¿e masz dzisiaj 
+ma³ego farta. 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113015	Czujesz, ¿e masz dzisiaj 
+niez³ego farta. 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113016	Czujesz, ¿e dzisiaj 
+sprzyja ci fortuna! 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113017	Czujesz, ¿e dzisiaj z³apa³eœ diab³a za rogi! 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113018	Czujesz ¿e masz dzisiaj nies³ychanego farta! 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113019	Czujesz, ¿e masz dzisiaj nieprawdopodobne szczêœcie! 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113020	To najwiêkszy fart w twoim ¿yciu! 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113021	Twe szczêœcie przekracza wszelkie granice! 
+ 
+{(Szczêœcie +%$luck$)	String type = <!!Q>	07.06.2003
+113022	Nie masz pieniêdzy. Musisz przeczekaæ to rozdanie.	String type = <!!M>	07.06.2003
+113023	Koñczy ci siê z³oto. 
+Czy ci¹gle zamierzasz graæ?	String type = <!!Q>	07.06.2003
+113024	Wybierz stawkê.	String type = <!!Q>	07.06.2003
+113025	Umacniaj¹c siê w pechowym przeczuciu 	String type = <!!S>	07.06.2003
+113026	Wbrew twemu szczêœliwemu odczuciu 	String type = <!!S>	07.06.2003
+113027	Ty	String type = <!!S>	07.06.2003
+113028	Ty	String type = <!!S>	07.06.2003
+113029	Pomimo z³ych przeczuæ 	String type = <!!S>	07.06.2003
+113030	%$you1$ grasz w t¹ ochydn¹ grê i TRACISZ ca³¹ stawkê wynosz¹c¹ 
+ 
+{%$stake$ z³otych monet.}	String type = <!!Q>	07.06.2003
+113031	%$you1$ masz pecha, ale w porê siê wycofujesz dlatego tracisz tylko po³owê swej stawki. Przegra³eœ 
+ 
+{%$stake$ z³otych monet.}	String type = <!!Q>	07.06.2003
+113032	%$you1$ grasz z trudnymi przeciwnikami i jesteœ w stanie zaledwie sobie z nimi poradziæ.	String type = <!!Q>	07.06.2003
+113033	%$you2$ rozgrywasz wspania³¹ grê, PODWAJASZ stawkê i wygrywasz 
+ 
+{%$stake$ z³otych monet!!}	String type = <!!Q>	07.06.2003
+113034	piêæ asów	String type = <!!S>	07.06.2003
+113035	karetê	String type = <!!S>	07.06.2003
+113036	piêæ królów	String type = <!!S>	07.06.2003
+113037	pokera	String type = <!!S>	07.06.2003
+113038	piêæ dam	String type = <!!S>	07.06.2003
+113039	piêæ smoków	String type = <!!S>	07.06.2003
+113040	Grasz w wspania³¹ grê i otrzymujesz %$gcards$. Potrajasz swoj¹ stawkê, wygrywaj¹c {%$stake$} {z³otych} {monet} a tak¿e wygrywasz specjaln¹ nagrodê Magiczny Naszyjnik!	String type = <!!Q>	07.06.2003
+113041	Pozosta³ych przy stole %$players$ graczy oskar¿a ciê o szachrajstwo! Czy rzucisz im wezwanie i staniesz do walki, aby zatrzymaæ pieni¹dze i naszyjnik, który wygra³eœ?	String type = <!!Q>	07.06.2003
+113042	Gracze wychodz¹ z twoimi dobrami, szydz¹c z twojego braku odwagi!	String type = <!!Q>	07.06.2003
+113043	Roz³oszczeni hazardziœci atakuj¹ ciê!	String type = <!!M>	07.06.2003

@@ -1,0 +1,103 @@
+
+Zamek
+Bastion
+Forteca
+Inferno
+Nekropolia
+Lochy
+Twierdza
+Cytadela
+Wrota ¿ywio³ów
+Tak
+Anuluj
+Koszt na oddzia³:
+Kup
+kwota
+Rekrutuj jednostki:
+Dostêpne
+Rekrutuj
+Maksimum
+Dodaj
+Usuñ
+Wybierz rodzaj zamku, który chcesz zbudowaæ
+Lista aktualnych b³ogos³awieñstw i przekleñstw
+Twoja korespondencja
+Kontakty
+Relacja z tob¹
+Twój zwi¹zek
+Zmieñ swój stosunek do przeciwnika
+Ministerstwo Spraw Zagranicznych
+Stosunek do Ciebie - mo¿e zmieniæ tylko Twój przeciwnik
+OdpowiedŸ na wiadomoœæ
+Napisz wiadomoœæ
+Wyœlij swoj¹ notatkê (naciœnij „Anuluj", jeœli zmieni³eœ zdanie)
+Ju¿ odpowiedzia³em
+Wyœlij zasoby
+zosta³ wys³any
+Drewno
+Rtêæ
+Ruda
+Siarka
+Kryszta³y
+Klejnoty
+Z³oto
+Czerwony
+Niebieski
+Be¿owy
+Zielony
+Pomarañczowy
+Fioletowy
+Turkusowy
+Ró¿owy
+Ustawienia
+Zwolnij dowódcê
+Atak:
+Obrona:
+Punkty wytrzyma³oœci:
+Prêdkoœæ:
+Uszkodzenia:
+Moc magiczna:
+Odpornoœæ na magiê:
+Strza³y:
+Czy na pewno chcesz zwolniæ tego doskona³ego Dowódcê?
+Wpisz imiê nowego dowódcy:
+Bior¹c pod uwagê umiejêtnoœci Bohatera -
+Klasa:
+!!! MARTWY !!!
+Poziom:
+W³aœciciel:
+Podstawowe umiejêtnoœci twojego dowódcy (mo¿e mieæ 4 z 6)
+Dodatkowe umiejêtnoœci twojego dowódcy (mo¿e mieæ 6 z 15)
+Doœwiadczenie:
+Nastêpny poziom na:
+Wybierz umiejêtnoœæ, któr¹ chcesz ulepszyæ:
+Imiê twojego dowódcy
+Kliknij dwukrotnie, aby zmieniæ nazwê swojego dowódcy
+U¿yj Ctrl+Strza³ki, aby przesun¹æ okno i Ctrl+Home aby wyœrodkowaæ
+Umiejêtnoœci klasy
+Artefakty
+Przekazaæ ten artefakt bohaterowi? Ostrze¿enie: bonusy przyrostowe (jeœli istniej¹) zostan¹ UTRACONE!
+Zostawiæ ten artefakt dowódcy?
+Artefakt zostanie przekazany Bohaterowi
+Zapisz
+Przywróæ domyœlne
+Tryb wieloosobowy
+OK
+Wybierz wszystko
+Odznacz wszystko
+Wczytaj
+Przywróæ tryb wieloosobowy
+Konwersja ERM
+Bie¿¹cy plik:
+Postêp pliku:
+Ca³kowity postêp:
+Szczegó³y pliku:
+Wskazówka dotycz¹ca przycisku OK w oknie dialogowym „Wybierz plik".
+Podpis okna dialogowego „Wybierz plik".
+Wybrany plik:
+Liczba pozycji:
+Poprzedni
+Nastêpny
+Zostawiæ ten artefakt ze stosem?
+Artefakt
+Przekazaæ ten artefakt bohaterowi?

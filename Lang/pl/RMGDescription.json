@@ -1,0 +1,15 @@
+{
+	"RMGDescription": {
+		"map_creation": "Mapa stworzona przez Losowy Generator Map.\nSzablonem była %s, Losowy seed: %i,\nrozmiar: %i, poziomy: %i, ludzie: %i, boty: %i, woda: %s,\npotwory %i",
+		"separator": ", ",
+		"original_map": "mapa RoE",
+		"first_expansion": "mapa AB",
+		"second_expansion": "mapa SoD",
+		"third_expansion": "mapa ERA",
+		"water_none": "brak",
+		"water_normal": "normalna",
+		"water_islands": "wyspy",
+		"is_human": " jest człowiekiem",
+		"town_choice": " wybrane miasto to "
+	}
+}

@@ -1,0 +1,75 @@
+﻿#	Text resource for "script71.erm" document		
+171000	{+%V7060 Topór "%Z960"} 
+ 
+Bohater otrzymuje +%V7060 do Ataku i jeden poziom wyżej w umiejętności %Z960
+lub
+Dowódca otrzymuje +5 do Ataku oraz dodatkowo +1 po każdych 6 zwycięskich bitwach.	<!#S>	01.08.2004
+171001	+%V7060 Topór "%Z960"	<!#S>	01.08.2004
+171002	{+%V7062 Kolczuga "%Z961"} 
+ 
+Bohater otrzymuje +%V7062 do Obrony i jeden poziom wyżej w umiejętności %Z961
+lub
+Dowódca otrzymuje +12% do Wytrzymałości oraz dodatkowo +1% po każdej zwycięskiej bitwie.	<!#S>	01.08.2004
+171003	+%V7062 Kolczuga "%Z961"	<!#S>	01.08.2004
+171004	{+%V7064 Miecz "%Z962"} 
+ 
+Bohater otrzymuje +%V7064 do Ataku i jeden poziom wyżej w umiejętności %Z962
+lub
+Dowódca otrzymuje +12% do Obrażeń oraz dodatkowo +1% po każdej zwycięskiej bitwie.	<!#S>	01.08.2004
+171005	+%V7064 Miecz "%Z962"	<!#S>	01.08.2004
+171006	{+%V7066 Hełm "%Z963"} 
+
+Bohater otrzymuje +%V7066 do Obrony i jeden poziom wyżej w umiejętności %Z963
+lub
+Dowódca wskrzesza się natychmiast po bitwie w której zginął.	<!#S>	01.08.2004
+171007	+%V7066 Hełm "%Z963"	<!#S>	01.08.2004
+171008	{+%V7068 Amulet "%Z964"} 
+
+Bohater otrzymuje +%V7068 do Mocy i jeden poziom wyżej w umiejętności %Z964
+lub
+Dowódca otrzymuje +1 do Mocy oraz dodatkowo +1 po każdych 10 zwycięskich bitwach.	<!#S>	01.08.2004
+171009	+%V7068 Amulet "%Z964"	<!#S>	01.08.2004
+171010	{+%V7070 Buty "%Z965"} 
+
+Bohater otrzymuje +%V7070 do Wiedzy i jeden poziom wyżej w umiejętności %Z965
+lub
+Dowódca otrzymuje +1 do Szybkości oraz dodatkowo +1 po każdych 10 zwycięskich bitwach.	<!#S>	01.08.2004
+171011	+%V7070 Buty "%Z965"	<!#S>	01.08.2004
+171012	{+%V7072 Łuk "%Z966"} 
+ 
+Bohater otrzymuje +%V7072 do Ataku i jeden poziom wyżej w umiejętności %Z966
+lub
+Dowódca otrzymuje zdolność Brak kar za przeszkody oraz dodatkowo Brak kar za odległość po 25 zwycięskich bitwach.	<!#S>	01.08.2004
+171013	+%V7072 Łuk "%Z966"	<!#S>	01.08.2004
+171014	{+%V7074 Pierścień "%Z967"} 
+
+Bohater otrzymuje +%V7074 do Mocy i Wiedzy oraz jeden poziom wyżej w umiejętności %Z967
+lub
+Dowódca otrzymuje Smoczą Naturę i atak przez Zionięcie.	<!#S>	01.08.2004
+171015	+%V7074 Pierścień "%Z967"	<!#S>	01.08.2004
+171016	{+%V7076 Tarcza "%Z968"} 
+ 
+Bohater otrzymuje +%V7076 do Obrony i jeden poziom wyżej w umiejętności %Z968
+lub
+Dowódca otrzymuje +5 do Obrony oraz dodatkowo +1 po każdych 6 zwycięskich bitwach.	<!#S>	01.08.2004
+171017	+%V7076 Tarcza "%Z968"	<!#S>	01.08.2004
+171018	{+%V7078 Pierścień "%Z969"} 
+
+Bohater otrzymuje +%V7078 do wszystkich statystyk i jeden poziom wyżej w umiejętności %Z969
+or
+Dowódca otrzymuje wszystkie 6 podstawowych umiejętności na poziomie zaawansowanym.	<!#S>	01.08.2004
+171019	+%V7078 Pierścień "%Z969"	<!#S>	01.08.2004
+171020	%Z1 - Założenie {Przywdzienia Leśnego Seniora} skłoniło stworzenia do wstąpienia w szeregi armii.	<!!M>	01.08.2004
+171021	jego	<!!S>	01.08.2004
+171022	jej	<!!S>	01.08.2004
+171023	%Z1 - %Z4 zwiększyły swą liczebność w armii dzięki potędze %Z2 {%Z3}.	<!!Q>	01.08.2004
+171024	Stworzyłeś artefakt:
+ 
+{Przywdzienie Leśnego Seniora}
+
+Sprawi on, że ochotnicy chętniej będą zasilać twoje szeregi.	<!!S>	01.08.2004
+171025	Stworzyłeś artefakt:
+
+{Szaty Władzy}
+
+Obniży on agresję stworów dodatkowo o 1.	<!!Q>	01.08.2004

@@ -1,0 +1,330 @@
+﻿#	Text resource for "script77.erm" document		
+177000	Odsłonić mapę przygody?	<!!Q>	01.08.2004
+177001	Ukryć mapę przygody?	<!!Q>	01.08.2004
+177002	razy	<!!S>	01.08.2004
+177003	raz	<!!S>	01.08.2004
+177004	Stan: {Menu nie było}
+{włączone wcześniej w tej grze.}	<!!S>	01.08.2004
+177005	Stan: {wcześniej włączone i}
+{użyte %V9004 %Z-2 w tej grze.}	<!!S>	01.08.2004
+177006	Włączyć WoG Cheat Menu?
+
+%Z-1	<!!Q>	01.08.2004
+177007	Wyłączyć WoG Cheat Menu?
+
+%Z-1
+	<!!Q>	01.08.2004
+177008	Czerwonego	<!!S>	01.08.2004
+177009	Niebieskiego	<!!S>	01.08.2004
+177010	Brązowego	<!!S>	01.08.2004
+177011	Zielonego	<!!S>	01.08.2004
+177012	Pomarańczowego	<!!S>	01.08.2004
+177013	Fioletowego	<!!S>	01.08.2004
+177014	Turkusowego	<!!S>	01.08.2004
+177015	Różowego	<!!S>	01.08.2004
+177016	WoG Cheat Menu dla: %Z2	<!!S>	01.08.2004
+177017	Dodaj Stworzenia dla: %Z2	<!!S>	01.08.2004
+177018	Dodaj bądź usuń Doświadczenie Jednostek u armii: %Z2	<!!S>	01.08.2004
+177019	Dodaj bądź usuń artefakt u: %Z2.	<!!S>	01.08.2004
+177020	Zwiększ doświadczenie u: %Z2.	<!!S>	01.08.2004
+177021	Zwiększ szczęście, morale, punkty ruchu bądź punkty magii u: %Z2.	<!!S>	01.08.2004
+177022	Dodaj bądź usuń zaklęcie w księdze czarów u: %Z2.	<!!S>	01.08.2004
+177023	Dodaj bądź usuń punkty statystyk u: %Z2.	<!!S>	01.08.2004
+177024	Dodaj bądź usuń poznane umiejętności u: %Z2.	<!!S>	01.08.2004
+177025	Zmień właściciela: %Z2.	<!!S>	01.08.2004
+177026	Dodaj bądź zabierz ilość zasobów od %Z-10 gracza.	<!!S>	01.08.2004
+177027	Umieść Zmienne w pliku tekstowym (w celu debuggingu, nie cheatowania).	<!!S>	01.08.2004
+177028	Opuść cheat menu.	<!!S>	01.08.2004
+177029	Dodaj grupę stworzeń do: %Z2.
+
+TIP: możesz wpisać nazwę stworzenia poprzedzone liczbą
+aby dodać tą ilość stworzeń, np., 45 srebrnych pegazów.	<!!S>	01.08.2004
+177030	Wpisz kod stworzenia (0..196) lub jego pełną bądź częściową nazwę.	<!!S>	01.08.2004
+177031	Nie znaleziono numeru stworzenia.	<!!M>	01.08.2004
+177032	Nie znaleziono stworzenia.	<!!M>	01.08.2004
+177033	Nie ma stworzeń o kodzie poniżej 0.	<!!M>	01.08.2004
+177034	Nie ma stworzeń o kodzie powyżej 196.	<!!M>	01.08.2004
+177035	%Z2: ile (%Z-5) chcesz dodać do armii?	<!!S>	01.08.2004
+177036	Wpisz ilość stworzeń, które chesz dodać.	<!!S>	01.08.2004
+177037	%Z2: dodaj doświadczenie jednostkom.
+
+Napisz 'stopień' lub 'stopnie' po liczbie aby dodać stopnie zamiast punktów doświadczenia.
+
+Aby ustawić DOKŁADNE doświadczenie, napisz = przed liczbą punktów lub stopni.
+Na przykład, aby ustawić wszystkim stworzeniem 5000 punktów dośw., napisz =5000,
+lub aby ustawić je wszystkie do 3 stopnia 3, napisz =3 stopnie.
+
+(Użyj ujemnej wartości aby usunąć doświadczenie. Jeśli
+zostanie użyta aby usunąć stopnie, CAŁE dośw. również
+zostanie usunięte.)	<!!S>	01.08.2004
+177038	Dodaj doświadczenie: %Z-8.
+
+Napisz 'stopień' lub 'stopnie' po liczbie aby dodać stopnie zamiast punktów doświadczenia.
+
+Aby ustawić DOKŁADNE doświadczenie, napisz = przed liczbą punktów lub stopni.
+Na przykład, aby dodać temu oddziałowi 5000 punktów dośw., napisz =5000,
+lub aby ustawić go do 3 stopnia 3, napisz =3 ranks.
+
+(Użyj ujemnej wartości aby usunąć doświadczenie. Jeśli
+zostanie użyta aby usunąć stopnie, CAŁE dośw. również
+zostanie usunięte.)	<!!S>	01.08.2004
+177039	Jak wiele doświadczenia chcesz dodać?	<!!S>	01.08.2004
+177040	stopień	<!!S>	01.08.2004
+177041	stopnie	<!!S>	01.08.2004
+177042	Największa ilość doświadczenia, którą możesz dodać: %Y3.	<!!M>	01.08.2004
+177043	Największa ilość stopni, które możesz dodać: %Y3.	<!!M>	01.08.2004
+177044	%Z2: dodaj artefakt bądź go usuń.
+
+Aby usunąć artefakt, napisz "usuń" przed nazwą artefaktu.	<!!S>	01.08.2004
+177045	Wpisz numer artefaktu (0..170) lub częściową bądź jego pełną nazwę.	<!!S>	01.08.2004
+177046	usuń	<!!S>	01.08.2004
+177047	Nie znaleziono artefaktu o takiej liczbie.	<!!M>	01.08.2004
+177048	Nie znaleziono artefaktu.	<!!M>	01.08.2004
+177049	%Z2: dodaj zwój z zaklęciem.	<!!S>	01.08.2004
+177050	Usuń zwój z zaklęciem od: %Z2.	<!!S>	01.08.2004
+177051	Wpisz numer zaklęcia (0..69) lub jego częściową bądź pełną nazwę.	<!!S>	01.08.2004
+177052	Nie znaleziono numeru zwoju z zaklęciem.	<!!M>	01.08.2004
+177053	Nie znaleziono zwoju z zaklęciem.	<!!M>	01.08.2004
+177054	%Z2: dodaj doświadczenie.
+
+Napisz 'poziom' lub 'poziomy' po liczbie aby dodać poziomy dośw. zamiast punków dośw.
+
+Aby ustawić DOKŁADNE doświadczenie, napisz = przed liczbą punktów lub poziomów.
+Na przykład aby ustawić doświadczenie dla: (%Z2) na 5000 punktów dośw., napisz =5000,
+lub by ustawić poziom dla: (%Z2) na 3-ci, napisz =3 poziomy.	<!!S>	01.08.2004
+177055	Ile chcesz dodać doświadczenia?	<!!S>	01.08.2004
+177056	poziom	<!!S>	01.08.2004
+177057	poziomy	<!!S>	01.08.2004
+177058	Najmniejsza ilość doświadczenia, którą możesz dodać to 1.	<!!M>	01.08.2004
+177059	Najmniejsza ilość poziomów, które możesz dodać to 1.	<!!M>	01.08.2004
+177060	Największa ilość doświadczenia, którą możesz dodać: %Y3.	<!!M>	01.08.2004
+177061	Największa ilość poziomów, które możesz dodać: %Y3.	<!!M>	01.08.2004
+177062	%Z2ermvardump.txt	<!!S>	01.08.2004
+177063	{Operacje na zmiennych/Variable Dump}
+
+Umieścić wszystkie niezerowe zmienne w pliku
+%Z2?
+
+{Uwaga: może to potrwać parę minut.}	<!!Q>	01.08.2004
+177064	Operacja na zmiennych/Variable Dump	<!!S>	01.08.2004
+177065	f = %Vf	<!!S>	01.08.2004
+177066	g = %Vg	<!!S>	01.08.2004
+177067	h = %Vh	<!!S>	01.08.2004
+177068	i = %Vi	<!!S>	01.08.2004
+177069	j = %Vj	<!!S>	01.08.2004
+177070	k = %Vk	<!!S>	01.08.2004
+177071	l = %Vl	<!!S>	01.08.2004
+177072	m = %Vm	<!!S>	01.08.2004
+177073	n = %Vn	<!!S>	01.08.2004
+177074	o = %Vo	<!!S>	01.08.2004
+177075	p = %Vp	<!!S>	01.08.2004
+177076	q = %Vq	<!!S>	01.08.2004
+177077	r = %Vr	<!!S>	01.08.2004
+177078	s = %Vs	<!!S>	01.08.2004
+177079	t = %Vt	<!!S>	01.08.2004
+177080	Mięssssssssskkoo...	<!!S>	01.08.2004
+177081	Operacja na zmiennych ukończona!
+
+Zmienne zostały zapisane w pliku:
+
+{%Z2}	<!!Q>	01.08.2004
+177082	v%X16 = %Y1	<!!S>	01.08.2004
+177083	Bohater %X1: w%X16 = %Y1	<!!S>	01.08.2004
+177084	z%X16 = %Z-1	<!!S>	01.08.2004
+177085	Daj szczęście, morale, punkty ruchu albo punkty mana dla %Z2.
+
+TIP: Możesz wpisać liczbę przed słowem aby dać
+tą ilość szczęścia, morale, punktów ruchu bądź punktów magii.
+np.: 3 szczęście.  Możesz również wprowadzić ujemne wartości.
+
+Aby ustawić DOKŁADNY bonus, napisz = przed liczbą.
+Dla przykładu, aby ustawić u %Z2 szczęście na 2, napisz =2 szczęście.	<!!S>	01.08.2004
+177086	Wpisz szczęście, morale, punkty ruchu bądź punkty magii.	<!!S>	01.08.2004
+177087	Nie znaleziono premii.	<!!M>	01.08.2004
+177088	szczeście	<!!S>	01.08.2004
+177089	Nie podano premii.	<!!M>	01.08.2004
+177090	morale	<!!S>	01.08.2004
+177091	Nie podano premii.	<!!M>	01.08.2004
+177092	punkty ruchu	<!!S>	01.08.2004
+177093	Nie podano premii.	<!!M>	01.08.2004
+177094	punkty magii	<!!S>	01.08.2004
+177095	mana	<!!S>	01.08.2004
+177096	Nie podano premii.	<!!M>	01.08.2004
+177097	Nie znaleziono premii.	<!!M>	01.08.2004
+177098	szczęściq	<!!S>	01.08.2004
+177099	morale	<!!S>	01.08.2004
+177100	punktów ruchu	<!!S>	01.08.2004
+177101	many	<!!S>	01.08.2004
+177102	Jak dużo %Z9 chcesz dać %Z8?
+
+Aby ustawić DOKŁADNY bonus, napisz = przed liczbą.
+Na przykład, aby ustawić %Z9 na 5, wpisz =5.	<!!S>	01.08.2004
+177103	Wpisz ilość premii %Z9.	<!!S>	01.08.2004
+177104	Nie wpisano liczby.	<!!M>	01.08.2004
+177105	Nie wpisano premii.	<!!M>	01.08.2004
+177106	%Z2: Podaruj bądź zabierz zaklęcie.
+
+TIP: aby zabrać zaklęcie, napisz "usuń" przed nazwą zaklęcia.	<!!S>	01.08.2004
+177107	Wpisz numer zaklęcia (0..69) bądź jego pełną lub częściową nazwę.	<!!S>	01.08.2004
+177108	usuń	<!!S>	01.08.2004
+177109	usuń	<!!S>	01.08.2004
+177110	Nie znaleziono zaklęcia.	<!!M>	01.08.2004
+177111	Nie znaleziono zaklęcia.	<!!M>	01.08.2004
+177112	Podaruj bądź zabierz zasoby należące do %Z-10 gracza.
+
+TIP: Możesz wpisać liczbę przed nazwą zasobu
+aby podarować tą ilość zasobu. np., 3 drewno. Aby
+podarować bądź zabrać WSZYSTKIE zasoby, wpisz "wszystko" jako type.
+(Wpisz ujemną liczbę aby zabrać surowce).
+
+Aby ustawić DOKŁADNY bonus, napisz = przed liczbą.
+Na przykład, aby ustawić ilość drewna %Z-10 gracza na 5, napisz =5 drewno.	<!!S>	01.08.2004
+177113	Wpisz typ zasobu, który chcesz podarować.	<!!S>	01.08.2004
+177114	Nie znaleziono premii.	<!!M>	01.08.2004
+177115	wszystko	<!!S>	01.08.2004
+177116	Nie podano premii.	<!!M>	01.08.2004
+177117	drewno	<!!S>	01.08.2004
+177118	Nie podano premii.	<!!M>	01.08.2004
+177119	rtęć	<!!S>	01.08.2004
+177120	Nie podano premii.	<!!M>	01.08.2004
+177121	ruda	<!!S>	01.08.2004
+177122	Nie podano premii.	<!!M>	01.08.2004
+177123	siarka	<!!S>	01.08.2004
+177124	Nie podano premii.	<!!M>	01.08.2004
+177125	kryształy	<!!S>	01.08.2004
+177126	Nie podano premii.	<!!M>	01.08.2004
+177127	klejnoty	<!!S>	01.08.2004
+177128	Nie podano premii.	<!!M>	01.08.2004
+177129	złoto	<!!S>	01.08.2004
+177130	Nie podano premii.	<!!M>	01.08.2004
+177131	mithril	<!!S>	01.08.2004
+177132	Nie podano premii.	<!!M>	01.08.2004
+177133	Nie znaleziono premii.	<!!M>	01.08.2004
+177134	drewna	<!!S>	01.08.2004
+177135	rtęci	<!!S>	01.08.2004
+177136	rudy	<!!S>	01.08.2004
+177137	siarki	<!!S>	01.08.2004
+177138	kryształów	<!!S>	01.08.2004
+177139	klejnotów	<!!S>	01.08.2004
+177140	złota	<!!S>	01.08.2004
+177141	mithrilu	<!!S>	01.08.2004
+177142	wszystkich zasobów	<!!S>	01.08.2004
+177143	dużo	<!!S>	01.08.2004
+177144	dużo	<!!S>	01.08.2004
+177145	dużo	<!!S>	01.08.2004
+177146	Jak %Z8 %Z9 chcesz podarować dla %Z-10 gracza?
+
+Aby ustawić DOKŁADNY bonus, napisz = przed liczbą.
+Na przykład, aby ustawić %Z-10 gracza ilość %Z9 na 5, napisz =5 %Z9.
+
+TIP: Wpisz ujemną wartość aby zabrać %Z9.	<!!S>	01.08.2004
+177147	Wpisz ilość %Z9, którą chcesz podarować.	<!!S>	01.08.2004
+177148	Nie podano ilości.	<!!M>	01.08.2004
+177149	Nie podano premii.	<!!M>	01.08.2004
+177150	%Z2: Zwiększenie bądź redukcja statystyk.
+
+TIP: Możesz wpisać liczbę przed wybraną statystyką
+aby podarować tą ilość punktów, np., 3 atak.
+Aby zwiększyć WSZYSTKIE 4 statystyki, wpisz "wszystko".
+(Wpisz ujemną wartość aby obniżyć statystyki).
+
+Aby ustawić DOKŁADNY bonus, napisz = przed liczbą.
+Na przykład, aby ustawić obronę %Z2 na 2, napisz =2 obrona.	<!!S>	01.08.2004
+177151	Wpisz rodzaj statystyki.	<!!S>	01.08.2004
+177152	Nie znaleziono premii.	<!!M>	01.08.2004
+177153	wszystko	<!!S>	01.08.2004
+177154	atak	<!!S>	01.08.2004
+177155	obrona	<!!S>	01.08.2004
+177156	obrona	<!!S>	01.08.2004
+177157	moc	<!!S>	01.08.2004
+177158	wiedza	<!!S>	01.08.2004
+177159	Nie podano premii.	<!!M>	01.08.2004
+177160	Nie znaleziono premii.	<!!M>	01.08.2004
+177161	ataku	<!!S>	01.08.2004
+177162	obrony	<!!S>	01.08.2004
+177163	mocy	<!!S>	01.08.2004
+177164	wiedzy	<!!S>	01.08.2004
+177165	wszystkich statystyk	<!!S>	01.08.2004
+177166	Ile punktów do %Z9 chcesz podarować %Z2?
+
+Aby ustawić DOKŁADNY bonus, napisz = przed liczbą.
+Na przykład, aby ustawić %Z9 u %Z2 na 2, napisz =2.
+
+TIP: Wprowadź ujemną wartość aby obniżyć %Z9.	<!!S>	01.08.2004
+177167	%Z9: wpisz ilość punktów, które chcesz podarować.	<!!S>	01.08.2004
+177168	Nie wpisano ilości punktów.	<!!M>	01.08.2004
+177169	Nie podano statystyki.	<!!M>	01.08.2004
+177170	%Z2: Podaruj umiejętność.
+
+TIP: możesz wpisać podst., zaawans. lub mistrz. przed nazwą
+umiejętności aby podarować ten poziom umiejętności, bądź możesz zabrać umiejętności poprzez 
+wpisanie "usuń" przed nazwą umiejętności.	<!!S>	01.08.2004
+177171	Wpisz numer umiejętności (0..27) lub jej częściową bądź pełną nazwę.	<!!S>	01.08.2004
+177172	usuń	<!!S>	01.08.2004
+177173	podst.	<!!S>	01.08.2004
+177174	zaawans.	<!!S>	01.08.2004
+177175	mistrz.	<!!S>	01.08.2004
+177176	Nie znaleziono umiejętności.	<!!M>	01.08.2004
+177177	Nie znaleziono umiejętności.	<!!M>	01.08.2004
+177178	Wybierz %Z-1 poziom umiejętności dla %Z2.	<!!S>	01.08.2004
+177179	Usuń %Z-1.	<!!S>	01.08.2004
+177180	Podaruj podst. %Z-1.	<!!S>	01.08.2004
+177181	Podaruj zaawans. %Z-1.	<!!S>	01.08.2004
+177182	Podaruj mistrz. %Z-1.	<!!S>	01.08.2004
+177183	Opuść.	<!!S>	01.08.2004
+177184	Wybierz nowego właściciela dla %Z2.
+Uwaga: działa tylko w przypadku, gdy nowy posiadacz ma mniej niż 8 aktywnych bohaterów.	<!!S>	01.08.2004
+177185	Nikt (bohater umiera)	<!!S>	01.08.2004
+177186	%Z2: WoG Cheat Menu dla oddziału w %Y1 slocie.	<!!S>	01.08.2004
+177187	Zmień typ i/lub ilość %Z-8 w slocie %Y1.	<!!S>	01.08.2004
+177188	Podaruj bądź zabierz doświadczenie u %Z-8 w slocie %Y1.	<!!S>	01.08.2004
+177189	Opuść cheat menu.	<!!S>	01.08.2004
+177190	Ten slot jest obecnie pusty.	<!!S>	01.08.2004
+177191	W tym slocie jest: %Y4 %Z-9.	<!!S>	01.08.2004
+177192	Zmień typ i/lub liczbę stworzeń w slocie #%X1.
+
+»» %Z-10 ««
+
+Wpisz samą ilczbę aby podarować stworzenia.  Np:  35.
+Wpisz ujemną wartość aby zabrać stworzenia.  Np:  -12.
+Aby ustawić DOKŁADNĄ liczbę stworzeń, umieść "="
+przed liczbą. Np:  =500.
+
+Wpisz samą nazwę stworzenia aby zmienić jego typ bez 
+zmiany ilości.  Np:  wampiry.
+
+Możesz także wprowadzić liczbę przed nazwą stworzenia
+aby otrzymać tą ilość stworzeń.  Np:  45 srebrne pegazy.	<!!S>	01.08.2004
+177193	Dodaj stworzenia do slotu #%X1.
+
+»» %Z-10 ««
+
+Wpisz liczbę a następnie nazwę stworzenia aby podarować 
+tą liczbę stworzeń, np., 45 srebrne pegazy.	<!!S>	01.08.2004
+177194	Wpisz numer stworzenia bądź jego częściową bądź całkowitą nazwę.	<!!S>	01.08.2004
+177195	Wpisz ilość a następnie pełną bądź częściową nazwę stworzenia.	<!!S>	01.08.2004
+177196	Musisz wpisać nazwę stworzenia po podaniu ilości.	<!!M>	01.08.2004
+177197	Musisz wpisać nazwę stworzenia po podaniu ilości.	<!!M>	01.08.2004
+177198	Nie znaleziono typu stworzenia.	<!!M>	01.08.2004
+177199	Musisz wpisać ilość przed nazwą stworzenia.	<!!M>	01.08.2004
+177200	Musisz wpisać dodatnią ilość przed nazwą stworzenia.	<!!M>	01.08.2004
+177201	Musisz wpisać dodatnią ilość przed nazwą stworzenia.	<!!M>	01.08.2004
+177202	WoG Cheat Menu dla %Z2	<!!S>	01.08.2004
+177203	Wybuduj bądź usuń strukturę w %Z2.	<!!S>	01.08.2004
+177204	Zmień właściciela dla %Z2.	<!!S>	01.08.2004
+177205	Podaruj bądź zabierz zasoby od %Z-10 gracza.	<!!S>	01.08.2004
+177206	Umieść Zmienne w pliku tekstowym (w celu debuggingu, nie cheatowania).	<!!S>	01.08.2004
+177207	Wyjdź z cheat menu.	<!!S>	01.08.2004
+177208	Wybierz nowego właściciela dla %Z2.	<!!S>	01.08.2004
+177209	Nikt	<!!S>	01.08.2004
+177210	Wybuduj w %Z2 strukturę bądź ją usuń.
+
+Aby zburzyć budynek, wpisz "usuń" przed nazwą struktury.
+Aby wybudować bądź zniszczyć wszyskie budynki, wpisz "wszystko" jako nazwę struktury.	<!!S>	01.08.2004
+177211	Wpisz numer struktury (0..43) bądź jej częściową lub pełną nazwę.	<!!S>	01.08.2004
+177212	usuń	<!!S>	01.08.2004
+177213	usuń	<!!S>	01.08.2004
+177214	wybuduj	<!!S>	01.08.2004
+177215	Nie znaleziono budynku.	<!!M>	01.08.2004
+177216	wszystko	<!!S>	01.08.2004
+177217	Nie znaleziono budynku.	<!!M>	01.08.2004

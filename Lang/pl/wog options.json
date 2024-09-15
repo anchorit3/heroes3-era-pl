@@ -1,0 +1,261 @@
+{
+    "wog_options": {
+        "main": {
+            "name": "Opcje WoG-a",
+            "hint": "Dostosuj swoje mapy do WoG-a",
+            "popup": "Okno dialogowe Opcje WoG-a pozwala każdemu graczowi wybrać skrypty i opcje, których woli używać na zWoGifigowanych mapach. \n\n{~cyan}>> Kliknij dowolną opcję prawym przyciskiem myszy, aby wyświetlić dodatkowe szczegóły. <<{~}\n\nKażdą mapę, nawet starą mapę RoE lub AB, można w zWoGifikować (w razie potrzeby) bez konieczności wcześniejszej konwersji do formatu WoG. \n\nKliknij przycisk Zapisz, aby zapisać niestandardową konfigurację WoG-a. \nKliknij przycisk Załaduj, aby załadować wcześniej zapisany plik instalacyjny. \nKliknij przycisk Przywróć, aby załadować wstępnie ustawione ustawienia domyślne. \n(Podczas uruchamiania opcje ładują się z ostatniego zapisanego lub załadowanego pliku.)",
+            "intro": "Witamy w oknie dialogowym opcji WoG-a (Wake of Gods)! \n\n********************************************* \n\nOkno dialogowe Opcje WoG-a pozwala każdemu graczowi wybrać skrypty i opcje, których woli używać na zWoGifigowanych mapach.\n\n{~cyan}>> Kliknij dowolną opcję prawym przyciskiem myszy, aby wyświetlić dodatkowe szczegóły. <<{~}\n\nKażdą mapę, nawet starą mapę RoE lub AB, można w zWoGifikować (w razie potrzeby) bez konieczności wcześniejszej konwersji do formatu WoG.\nKliknij przycisk Zapisz, aby zapisać niestandardową konfigurację WoG-a.\nKliknij przycisk Załaduj, aby załadować wcześniej zapisany plik instalacyjny.\nKliknij przycisk Przywróć, aby załadować wstępnie ustawione ustawienia domyślne.\n(Podczas uruchamiania opcje ładują się z ostatniego zapisanego lub załadowanego pliku.)\n\n*********************************************\n\nMiłej zabawy i szczęśliwego WoGifikowania!"
+        },
+        
+        "page0": {
+            "name": "Ustawienia WoG-a, \nUlepszenia gry \ni opcje zakodowane na stałe",
+            "hint": "Na tej stronie możesz wybrać ustawienia WoGifikacje, zakodowane na stałe opcje i ulepszenia gry.",
+            "popup": "Na tej stronie możesz wybrać ustawienia WoGifikacje, zakodowane na stałe opcje i ulepszenia gry.",
+            
+            "group0": { 
+                "name": "Ustawienia WoG-a", 
+                "hint": "Te ustawienia pozwalają określić, które mapy będą zWoGifikowane.", 
+                "popup": "USTAWIENIA WoG-a \n\nTe ustawienia pozwalają określić, które mapy będą zWoGifikowane."
+            },
+            
+            "group1": { 
+                "name": "Ulepszenia gry", 
+                "hint": "Skrypty te dodają dodatkową funkcjonalność do gry bez znaczących zmian w samej grze.", 
+                "popup": "ULEPSZENIE GRY \n\nSkrypty te dodają dodatkową funkcjonalność do gry bez znaczących zmian w samej grze."
+            },
+            
+            "group2": { 
+                "name": "Opcje zakodowane na stałe", 
+                "hint": "Te opcje WoG-a są na stałe zakodowane w grze, a nie oparte na skrypcie.", 
+                "popup": "OPCJE ZAKODOWANE NA STAŁE \n\nTe opcje WoG-a są na stałe zakodowane w grze, a nie oparte na skrypcie."
+            },
+            
+            "group3": { 
+                "name": "Poziom trudności doświadczenia bohatera AI", 
+                "hint": "Te ustawienia określają, jak szybko bohater będący człowiekiem lub sztuczną inteligencją oraz żołnierze garnizonu będą zdobywać doświadczenie, gdy zostanie wybrana opcja Kumuluj doświadczenie", 
+                "popup": "TRUDNOŚĆ DOŚWIADCZENIA BOHATERA AI \n\nTe ustawienia określają, jak szybko bohater AI i żołnierze garnizonu zdobywają doświadczenie, gdy opcja Stack Experience (Jednostki zdobywają doświadczenie) jest włączona w zakodowanych na stałe opcjach (powyżej). \n\nSzybkość działania stosu ludzi można również dostosować, wybierając opcję Niestandardowe."
+            }
+        },
+        
+        "page1": {
+            "name": "Opcje mapy i \nUlepszenia",
+            "hint": "Na tej stronie możesz wybrać różne opcje mapy i ulepszenia, aby dostosować swoją grę.",
+            "popup": "Na tej stronie możesz wybrać różne opcje mapy i ulepszenia, aby dostosować swoją grę.",
+            
+            "group0": { 
+                "name": "Opcje mapy", 
+                "hint": "Opcje te umożliwiają dostosowanie niektórych aspektów mapy.", 
+                "popup": "OPCJE MAPY \n\nOpcje te umożliwiają dostosowanie niektórych aspektów mapy."
+            },
+            
+            "group1": { 
+                "name": "Ulepszenia mapy", 
+                "hint": "Opcje te pozwalają ulepszyć mapę za pomocą różnych skryptów.", 
+                "popup": "ULEPSZENIE MAPY \n\nOpcje te pozwalają ulepszyć mapę za pomocą różnych skryptów."
+            },
+            
+            "group2": { 
+                "name": "Ulepszenia mapy", 
+                "hint": "Opcje te pozwalają ulepszyć mapę za pomocą różnych skryptów.", 
+                "popup": "ULEPSZENIE MAPY \n\nOpcje te pozwalają ulepszyć mapę za pomocą różnych skryptów."
+            },
+            
+            "group3": { 
+                "name": "Ulepszenia mapy", 
+                "hint": "Opcje te pozwalają ulepszyć mapę za pomocą różnych skryptów.", 
+                "popup": "ULEPSZENIE MAPY \n\nOpcje te pozwalają ulepszyć mapę za pomocą różnych skryptów."
+            }
+        },
+        
+        "page2": {
+            "name": "Umiejętności, potwory i bohaterowie: \nUlepszenia i równoważenie",
+            "hint": "Na tej stronie możesz wybrać skrypty, które ulepszają Bohaterów i Potwory lub przywracają im równowagę w grze.",
+            "popup": "Na tej stronie możesz wybrać skrypty, które ulepszają Bohaterów i Potwory lub przywracają im równowagę w grze.",
+            
+            "group0": { 
+                "name": "Ulepszenia bohaterów i balansowanie", 
+                "hint": "Opcje te dają bonusy bohaterom lub pomagają je zrównoważyć.", 
+                "popup": "ULEPSZENIE I ZRÓWNOWAŻENIE BOHATERÓW \n\nOpcje te dają bonusy bohaterom lub pomagają je zrównoważyć."
+            },
+            
+            "group1": { 
+                "name": "Ulepszenia umiejętności", 
+                "hint": "Opcje te dają nowe możliwości umiejętnościom drugorzędnym.", 
+                "popup": "ROZSZERZENIE UMIEJĘTNOŚCI \n\nOpcje te dają nowe możliwości umiejętnościom drugorzędnym."
+            },
+            
+            "group2": { 
+                "name": "Ulepszenia i równoważenie potworów", 
+                "hint": "Opcje te dają potworom nowe zdolności, zmieniają ich statystyki lub pomagają je zrównoważyć.", 
+                "popup": "Ulepszenia potworów i balansowanie \n\nOpcje te dają potworom nowe zdolności, zmieniają ich statystyki lub pomagają je zrównoważyć."
+            },
+            
+            "group3": { 
+                "name": "Ulepszenia umiejętności", 
+                "hint": "Opcje te dają nowe możliwości umiejętnościom drugorzędnym.", 
+                "popup": "ROZSZERZENIE UMIEJĘTNOŚCI \n\nOpcje te dają nowe możliwości umiejętnościom drugorzędnym."
+            }
+        },
+        
+        "page3": {
+            "name": "Przedmioty i artefakty",
+            "hint": "Na tej stronie możesz wybrać nowe i ulepszone obiekty, artefakty i skrzynie skarbów, które chcesz uwzględnić w grze.",
+            "popup": "Na tej stronie możesz wybrać nowe i ulepszone obiekty, artefakty i skrzynie skarbów, które chcesz uwzględnić w grze.",
+            
+            "group0": { 
+                "name": "Skrzynie i artefakty", 
+                "hint": "Wybierz skrzynie ze skarbami oraz nowe i skryptowane artefakty, które chcesz pojawić się w grze.", 
+                "popup": "Skrzynie i artefakty \n\nWybierz skrzynie ze skarbami oraz nowe i skryptowane artefakty, które chcesz pojawić się w grze."
+            },
+            
+            "group1": { 
+                "name": "Nowe obiekty przygodowe", 
+                "hint": "Wybierz nowe i skryptowe obiekty przygodowe, których chcesz użyć w grze.", 
+                "popup": "NOWE OBIEKTÓW PRZYGODY \n\nWybierz nowe i skryptowe obiekty przygodowe, których chcesz użyć w grze."
+            },
+            
+            "group2": { 
+                "name": "Ulepszone obiekty przygodowe", 
+                "hint": "Wybierz istniejące obiekty przygodowe Heroes 3, które chcesz ulepszyć o nowe funkcje.", 
+                "popup": "ROZSZERZONE OBIEKTÓW PRZYGODY \n\nWybierz istniejące obiekty przygodowe Heroes 3, które chcesz ulepszyć o nowe funkcje."
+            },
+            
+            "group3": { 
+                "name": "Nowe obiekty przygodowe", 
+                "hint": "Wybierz nowe i skryptowe obiekty przygodowe, których chcesz użyć w grze.", 
+                "popup": "NOWE OBIEKTÓW PRZYGODY \n\nWybierz nowe i skryptowe obiekty przygodowe, których chcesz użyć w grze."
+            }
+        },
+        
+        "page4": {
+            "name": "Zasady mapy",
+            "hint": "Na tej stronie możesz wybrać reguły mapy, których chcesz użyć. Możesz także wybrać dwie losowe zasady dla każdej gry lub wybrać zasady na początku każdej gry.",
+            "popup": "Na tej stronie możesz wybrać reguły mapy, których chcesz użyć. Możesz także wybrać dwie losowe zasady dla każdej gry lub wybrać zasady na początku każdej gry.",
+            
+            "group0": { 
+                "name": "Opcje reguły mapy", 
+                "hint": "Wybierz opcję Reguły mapy, aby określić sposób wyświetlania reguł mapy w grze.", 
+                "popup": "OPCJE ZASAD MAPY \n\nWybierz opcję Reguły mapy, aby określić sposób wyświetlania reguł mapy w grze."
+            },
+            
+            "group1": { 
+                "name": "Zasady mapy", 
+                "hint": "Wybierz Reguły mapy, których chcesz używać w grze, jeśli w powyższych ustawieniach Opcji reguł mapy wybrano również odpowiednią opcję.", 
+                "popup": "ZASADY MAPY \n\nWybierz Reguły mapy, których chcesz używać w grze, jeśli w powyższych ustawieniach Opcji reguł mapy wybrano również odpowiednią opcję."
+            },
+            
+            "group2": { 
+                "name": "Nazwa grupy Page5 GroupRT", 
+                "hint": "Wskazówka dla Page5 GroupRT", 
+                "popup": "Wyskakujący tekst dla Page5 GroupRT"
+            },
+            
+            "group3": { 
+                "name": "Zasady mapy", 
+                "hint": "Wybierz Reguły mapy, których chcesz używać w grze, jeśli w powyższych ustawieniach Opcji reguł mapy wybrano również odpowiednią opcję.", 
+                "popup": "ZASADY MAPY \n\nWybierz Reguły mapy, których chcesz używać w grze, jeśli w powyższych ustawieniach Opcji reguł mapy wybrano również odpowiednią opcję."
+            }
+        },
+        
+        "page5": {
+            "name": "Zakazanie artefaktów i zaklęć",
+            "hint": "Na tej stronie możesz ograniczyć wygląd zaklęć ruchu, Armageddonu i niektórych artefaktów.",
+            "popup": "Na tej stronie możesz ograniczyć wygląd zaklęć ruchu, Armageddonu i niektórych artefaktów.",
+            
+            "group0": { 
+                "name": "Opcje blokowania zaklęć", 
+                "hint": "Wybierz miejsce, z którego wybrane zaklęcia mają być zakazane.", 
+                "popup": "OPCJE ZAKRYWANIA ZAKRĘTÓW \n\nWybierz miejsce, z którego wybrane zaklęcia mają być zakazane. \n\nUwaga: większość skryptów WoGify, które rozdają zaklęcia, blokuje wybrane tutaj zaklęcia, niezależnie od konkretnych lokalizacji blokowania."
+            },
+            
+            "group1": { 
+                "name": "Zakazane artefakty WoG", 
+                "hint": "Wybierz artefakty WoG, które chcesz ograniczyć.", 
+                "popup": "ZAKAZANE ARTEFAKTY WOGÓW \n\nWybierz artefakty WoG, które chcesz ograniczyć."
+            },
+            
+            "group2": { 
+                "name": "Zakazane artefakty", 
+                "hint": "Wybierz artefakty, które chcesz ograniczyć.", 
+                "popup": "ZAKAZANE ARTEFAKTY \n\nWybierz artefakty, które chcesz ograniczyć."
+            },
+            
+            "group3": { 
+                "name": "Zakazane artefakty WoG", 
+                "hint": "Wybierz artefakty WoG, które chcesz ograniczyć.", 
+                "popup": "ZAKAZANE ARTEFAKTY WOGÓW \n\nWybierz artefakty WoG, które chcesz ograniczyć."
+            }
+        },
+        
+        "page6": {
+            "name": "Nowe skrypty zespołu WoG",
+            "hint": "Ta strona zawiera skrypty WoG Team wydane po WoG 3.58f.",
+            "popup": "Ta strona zawiera skrypty WoG Team wydane po WoG 3.58f.",
+            
+            "group0": { 
+                "name": "Nowe skrypty zespołu WoG", 
+                "hint": "Są to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f.", 
+                "popup": "NOWE SKRYPTY ZESPOŁU WOG \n\nSą to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f."
+            },
+            
+            "group1": { 
+                "name": "Nowe skrypty zespołu WoG", 
+                "hint": "Są to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f.", 
+                "popup": "NOWE SKRYPTY ZESPOŁU WOG \n\nSą to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f."
+            },
+            
+            "group2": { 
+                "name": "Nowe skrypty zespołu WoG", 
+                "hint": "Są to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f.", 
+                "popup": "NOWE SKRYPTY ZESPOŁU WOG \n\nSą to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f."
+            },
+            
+            "group3": { 
+                "name": "Nowe skrypty zespołu WoG", 
+                "hint": "Są to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f.", 
+                "popup": "NOWE SKRYPTY ZESPOŁU WOG \n\nSą to nowe skrypty WoG Team stworzone po wydaniu WoG 3.58f."
+            }
+        },
+        
+        "page7": {
+            "name": "Skrypty niestandardowe",
+            "hint": "Ta strona może być używana do tworzenia niestandardowych skryptów tworzonych przez graczy.",
+            "popup": "Ta strona może być używana do tworzenia niestandardowych skryptów tworzonych przez graczy.",
+            
+            "group0": { 
+                "name": "Skrypty niestandardowe", 
+                "hint": "Są to niestandardowe opcje skryptów tworzone przez graczy.", 
+                "popup": "NIESTANDARDOWE SKRYPTY \n\nSą to niestandardowe opcje skryptów tworzone przez graczy."
+            },
+            
+            "group1": { 
+                "name": "Skrypty niestandardowe", 
+                "hint": "Są to niestandardowe opcje skryptów tworzone przez graczy.", 
+                "popup": "NIESTANDARDOWE SKRYPTY \n\nSą to niestandardowe opcje skryptów tworzone przez graczy."
+            },
+            
+            "group2": { 
+                "name": "Skrypty niestandardowe", 
+                "hint": "Są to niestandardowe opcje skryptów tworzone przez graczy.", 
+                "popup": "NIESTANDARDOWE SKRYPTY \n\nSą to niestandardowe opcje skryptów tworzone przez graczy."
+            },
+            
+            "group3": { 
+                "name": "Skrypty niestandardowe", 
+                "hint": "Są to niestandardowe opcje skryptów tworzone przez graczy.", 
+                "popup": "NIESTANDARDOWE SKRYPTY \n\nSą to niestandardowe opcje skryptów tworzone przez graczy."
+            }
+        }
+    },
+    
+    "dlg_datfile": {
+        "cannotsave": "Nie można zapisać ustawień WoG",
+        "cannotload": "Nie można załadować ustawień WoG",
+        "cannotmsg": "Opcje zostały zapisane w poprzedniej wersji WoG-a. \nNowe opcje nie uległy zmianie.",
+        "captionsave": "Wybierz plik, aby zapisać opcje konfiguracji WoG",
+        "captionload": "Wybierz plik, aby załadować opcje konfiguracji WoG",
+        "descrsave": "Wprowadź nazwę pliku, aby zapisać konfigurację Opcji WoG. Możesz zapisać dowolną liczbę różnych plików instalacyjnych.  Uwaga: po uruchomieniu WoG opcje są automatycznie ładowane z ostatnio załadowanego lub zapisanego pliku opcji.",
+        "descrload": "Wybierz plik konfiguracyjny Opcji WoG, aby załadować wcześniej zapisane opcje konfiguracji. \nUwaga: po uruchomieniu WoG opcje są automatycznie ładowane z ostatnio załadowanego lub zapisanego pliku opcji.",
+        "filemask": "Pliki DAT (*.dat)|*.dat|Pliki WOG (*.wog)|*.wog|Wszystkie pliki (*.*)|*.*"
+    }
+}

@@ -1,0 +1,704 @@
+{
+	"wog_options": {
+		"page1": {
+			"name": "Ulepszenia mapy \ni Artefakty",
+			"hint": "Na tej stronie możesz wybrać różne ulepszenia map i artefakty, aby dostosować swoją grę.",
+			"popup": "Na tej stronie możesz wybrać różne ulepszenia map i artefakty, aby dostosować swoją grę.",
+			"group0": {
+				"name": "Ulepszenia map i artefakty",
+				"hint": "Opcje te pozwalają dostosować pewne aspekty mapy i wybrać artefakty skryptowe, które mają pojawić się w grze.",
+				"popup": "ULEPSZENIA MAPY I ARTEFAKTY \n\nOpcje te pozwalają dostosować pewne aspekty mapy i wybrać artefakty skryptowe, które mają pojawić się w grze."
+			}
+		},
+		"page3": {
+			"name": "Zamienniki obiektów, \nNowe i ulepszone obiekty",
+			"hint": "Na tej stronie możesz wybrać, czy zastąpić istniejące obiekty, a także nowe i ulepszone obiekty, które mają zostać uwzględnione w grze.",
+			"popup": "Na tej stronie możesz wybrać, czy zastąpić istniejące obiekty, a także nowe i ulepszone obiekty, które mają zostać uwzględnione w grze.",
+			"group0": {
+				"name": "Zamienniki obiektów",
+				"hint": "Zdecyduj, czy zastąpić istniejące obiekty przygodowe na mapie.",
+				"popup": "WYMIANA OBIEKTÓW \n\nZdecyduj, czy zastąpić istniejące obiekty przygodowe na mapie."
+			}
+		}
+	},
+	"wog": {
+		"endl": "\n",
+		"comma": ", ",
+		"colon": ": ",
+		"period": ". _",
+		"slash": "/",
+		"who0": "on",
+		"who1": "ona",
+		"whom0": "jego",
+		"whom1": "jej",
+		"whose0": "jego",
+		"whose1": "jej",
+		"none": "brak",
+		"visited": "(Odwiedzone)",
+		"notVisited": "(Nie odwiedzone)",
+		"learn": "(Naucz się @skill@)",
+		"alreadyLearned": "(Już to umiesz)",
+		"disableMsg": "\n\n(Kliknij prawym przyciskiem myszy Opcje systemu, aby wyłączyć dalsze komunikaty.)",
+		"checkMithril": "\n\n(Aby w dowolnym momencie sprawdzić całkowity poziom Mithrilu, kliknij prawym przyciskiem myszy przycisk Przegląd królestwa.)",
+		"1": {
+			"arrowTower": "{Uwaga:}\n\nDoświadczenie Wieży Strzał zostało WYŁĄCZONE, ponieważ jest to gra sieciowa i ta funkcja nie jest jeszcze kompatybilna z grami sieciowymi."
+		},
+		"12": {
+			"cantBring": "Niestety moja moc jest zbyt ograniczona, aby dostarczyć ci ten potężny artefakt."
+		},
+		"14": {
+			"objName": "Ołtarz Przemiany",
+			"noMon": "Niestety nie zabrałeś ze sobą stworzeń akceptujących moc ołtarza.",
+			"chooseMon": "Które stworzenie chcesz przekształcić?",
+			"noChange": "Energie ołtarza zniknęły i wokół was panuje absolutna cisza.\n\nKu zaskoczeniu wszystkich, twoja armia pozostaje nienaruszona."
+		},
+		"20": {
+			"monster": {
+				"not": "{Tydzień Potworów}\n\nPierwszy tydzień nie jest tygodniem potworów.",
+				"name": "{Tydzień @single@}",
+				"description": "\n\nWszystko @mult@ otrzymuj przez cały tydzień następujące bonusy:@bonus@",
+				"0": "\n{+@value@ Atak}",
+				"1": "\n{+@value@ Obrona}",
+				"2": "\n{+@value@ Szkoda}",
+				"4": "\n{+@value@ Zdrowie}",
+				"5": "\n{+@value@ Prędkość}",
+				"6": "\n{+@value@ Wzrost}",
+				"deityOfFire": "\n(również @monsters@)"
+			},
+			"resource": {
+				"name": {
+					"0": "{Tydzień Drwala.}",
+					"1": "{Tydzień Alchemika.}",
+					"2": "{Tydzień Górnika.}",
+					"3": "{Tydzień Oparów siarki.}",
+					"4": "{Tydzień Błyszczących kryształów.}",
+					"5": "{Tydzień Błyszczących kamieni szlachetnych.}",
+					"6": "{Tydzień Poszukiwacza złota.}"
+				},
+				"description": {
+					"0": "\n\nWszystkie Tartaki produkują 4 drewna dziennie.",
+					"1": "\n\nWszystkie Laboratoria Alchemiczne produkują 2 rtęci dziennie.",
+					"2": "\n\nWszystkie Kopalnie Rudy produkują 4 rudy dziennie.",
+					"3": "\n\nWszystkie Wydmy Siarkowe produkują 2 siarki dziennie.",
+					"4": "\n\nWszystkie Kryształowe Jaskinie produkują 2 kryształy dziennie.",
+					"5": "\n\nWszystkie Stawy z Klejnotami produkują 2 klejnoty dziennie.",
+					"6": "\n\nWszystkie Kopalnie Złota produkują 2000 sztuk złota dziennie."
+				}
+			}
+		},
+		"23": {
+			"remote": "{@objName@}\n\nCzy używasz swoich mocy\nEkspert {Magia} do odwiedzenia\n@objName@ z oddali?",
+			"info": "{@objName@}\n\n(Nie odwiedzone)"
+		},
+		"25": {
+			"msg": "@heroName@pozostały ruch.\n\n@visited@",
+			"artName": "@movement@ Punkty Ruchu",
+			"visited0": "Stajnie: Nie odwiedzone",
+			"visited1": "Stajnie: {~Gold}Odwiedzone}"
+		},
+		"30": {
+			"voodooLog0": "@mon@ traci zdolność @abilities@!",
+			"voodooLog1": "@mon@ straci zdolność @abilities@!",
+			"voodooAbil0": "latania",
+			"voodooAbil1": "strzelania",
+			"voodooAbil2": "latania i strzelania"
+		},
+		"32": {
+			"objName": "Kamień Przywołania"
+		},
+		"33": {
+			"prefix": "Żywy Zwój",
+			"fail": "Żywy Zwój z zaklęciem {\"@spellName@\"} nie znalazł celu.",
+			"desc_0": "{Żywy Zwój}\n\nTen zwój zawiera @spellName@ zaklęcie, które jest dodawane do twojej księgi zaklęć tak długo, jak nosisz zwój.\n\nKiedy atakujesz potwory bez bohatera, istnieje 20% szansy (krotność liczby wyposażonych Żywych Zwojów), że w każdej rundzie Zwój Żywego Zaklęcia rzuci zaklęcie na losowy cel.",
+			"desc_1": "{Przewijanie zaklęć}\n\nTen zwój zawiera @spellName@ zaklęcie, które jest dodawane do twojej księgi zaklęć tak długo, jak nosisz zwój.\n\n{To NIE jest żywy zwój.}"
+		},
+		"34": {
+			"desc": "\n\nKiedy przystąpisz do bitwy, z talii wyłoni się karta. Każda karta ma inny efekt.\n\nKliknij prawym przyciskiem myszy opcje systemu, aby wyłączyć komunikaty przed bitwą informujące, która karta została aktywowana."
+		},
+		"35": {
+			"desc1": "\nDowiedz się więcej o kolejnym „tygodniu\" w dniu 2.",
+			"desc2": "\nNaucz się przyszłych zaklęć gildii magów",
+			"desc3": "\nPoznaj szczegóły wrogiego bohatera",
+			"mageGuild": {
+				"question": "@heroName@ podchodzi do Gildii Magów w @townName@. Z @whose@ Umiejętnością Mistycyzmu, @who@ jest w stanie przewidzieć wszystkie zaklęcia na wszystkich poziomach, które jeszcze nie zostały zbudowane, ale dzięki temu @whom@ jest zbyt wyczerpany, aby rzucać zaklęcia lub poruszać się przez resztę dnia. Czy chcesz to zrobić?",
+				"answer": "Spędzając trochę czasu @method@, @heroName@ odkrył, że do w pełni zbudowanej Gildii Magów zostaną dodane następujące zaklęcia:"
+			},
+			"prediction": "Dzięki @whom@ umiejętności Mistycyzmu @heroName@  @method@ aby dowiedzieć się, że następny tydzień będzie @nextWeekName@!",
+			"predictionRMB": "\n\n@heroName@ Umiejętność Mistycyzm przewiduje, że następny tydzień będzie @nextWeekName@.",
+			"distanceView": "@heroName@ plamy @targetHeroName@ z daleka. Przy pomocy @whose0@ Umiejętność mistycyzmu, @who0@ możesz dowiedzieć się wszystkiego o @whose1@ umiejętności, stworzenia, artefakty, doświadczenie i zaklęcia. To jednak kosztuje @cost@ punkty zaklęć.\n\nCzy chcesz dowiedzieć się o tych rzeczach?",
+			"method": {
+				"0": "poświęcając@kind@ @monName@",
+				"1": "wycinanie brzucha i oglądanie jelit a@kind@ @monName@",
+				"2": "za pomocą talii kart, którą @who@ pożyczył od@kind@ @monName@",
+				"3": "wpatrując się w @whose@ dłoni, aż stała się@kind@ @monName@",
+				"4": "wpatrując się w kryształową kulę w kształcie@kind@ @monName@"
+			},
+			"kind": {
+				"0": " młody",
+				"1": "stary",
+				"2": " tłuszcz",
+				"3": " łysy",
+				"4": " owłosiony",
+				"5": " fioletowy",
+				"6": " złoto-oczy",
+				"7": "n albinos",
+				"8": " śmierdzący",
+				"9": " śluzowaty",
+				"10": " piękny",
+				"11": "n brzydki",
+				"12": " garbaty",
+				"13": " bezzębny",
+				"14": " brodawkowaty",
+				"15": " jednooki",
+				"16": " głupi",
+				"17": " przerażony",
+				"18": " niebieskowłosy",
+				"19": " malutki",
+				"20": " żółty",
+				"21": " chudy",
+				"22": " okrągły",
+				"23": " do tyłu",
+				"24": " łuszczący się",
+				"25": " dziwny",
+				"26": " niewyrażliwy",
+				"27": " gnijący",
+				"28": " zjełczały",
+				"29": " zamrożony",
+				"30": " mokry",
+				"31": " nagi",
+				"32": " wysoki"
+			}
+		},
+		"36": {
+			"pickup": "Znajdziesz niewielką ilość mithrilu.",
+			"dwelling": {
+				"elementalConflux": "{Wrota Żywiołów}\n\nNauczyciele trenujący młode Żywiołaki Powietrza, Wody, Ognia i Ziemi w tym Konfluksie Żywiołów twierdzą, że zamiast tego mogliby trenować Żywiołaki Burzy, Lodu, Energii i Magmy, ale potrzebują 4 sztabek Mithrilu, aby najpierw stworzyć nowy sprzęt treningowy.\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz dać im 4 sztabki Mithrilu, których chcą?",
+				"0": "{@objName@}\n\nNauczyciele kształcący młodych @monName@ w tym mieszkaniu twierdzą, że mogliby ich wyszkolić do @upgMonName@ zamiast tego, ale najpierw potrzebują sztabki Mithrilu, aby wyprodukować nowy sprzęt treningowy.\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz dać im sztabkę Mithrilu, której chcą?",
+				"1": "{@objName@}\n\nNauczyciele kształcący młodych @monName@ w tym mieszkaniu twierdzą, że mogliby ich wyszkolić do @upgMonName@ zamiast tego, ale potrzebują @cost@ sztabki mithrilu, aby najpierw wyprodukować nowy sprzęt treningowy.\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?"
+			},
+			"description": {
+				"0": "sztabek",
+				"1": "sztabek", 
+				"msg": "{Mithril}\n\n@number@ błyszczących @name@.",
+				"question": "\n\nChcesz zobaczyć na co możesz je wydać?",
+				"std": "{Cennik ulepszeń Mithril}\n\nMithril może zostać użyty do ulepszenia wielu struktur na mapie przygód.\nAby ulepszyć konstrukcję, kliknij prawym przyciskiem myszy jej wejście lub kliknij je z wciśniętym klawiszem Ctrl. Dla kopalni, miast,\ndomy stworzeń i stocznie, musisz być właścicielem tej budowli.\nDla wiatraków, chatek, kół wodnych, litów i uniwersytetów, ty\nmusi mieć bohatera stojącego obok konstrukcji po kliknięciu prawym przyciskiem myszy.\n\n1. Ulepsz Kopalnię Złota - Podwaja produkcję na 1 tydzień: 7 Mithril\n2. Ulepsz dowolną inną kopalnię – podwaja produkcję na 1 tydzień: 4 Mithril\n3. Ulepsz Wiatrak lub Koło Wodne - Produkcja podwaja się: 5 Mithrilu\n4. Ulepsz mieszkanie stworzeń - Oferuje ulepszone stworzenia: od 1 do 3 Mithril\n5. Umieść Magiczny Teren, aby chronić posiadane miasto: 1 lub 3 Mithril\n6. Zbuduj latarnię morską w pobliżu stoczni: 3 Mithril\n7. Zmień zaklęcie oferowane w Magic Shrine: 1 na 3 Mithril\n8. Zmień umiejętność oferowaną w Chatce Czarownic: 2 Mithril\n9. Sprawdź, co jest wokół. Możliwe wyjścia z Monolitu: 1 Mithril\n10. Chroń minę przed zmianami, jeśli „Kopalnie zmieniają się co tydzień\"\nObowiązuje zasada mapy (przez tydzień ochrony):\n - Drewno i ruda: 1 mithril\n - Klejnot, Kryształ, Rtęć i Siarka: 3 Mithril\n - Złoto: 5 Mithrilu\n11. Ulepsz Uniwersytet - Może ulepszyć podstawowe umiejętności bohatera: 4 Mithril"
+			},
+			"upgrade": {
+				"87": "{Stocznia}\n\nPracownicy stoczni mówią, że latarnię morską mogą zbudować blisko stoczni, ale potrzebują @cost@ Mithril do lustra.\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz mu dać @cost@ sztabki mithrilu, o które proszą?",
+				"104": "{Uniwersytet}\n\nProfesorowie chętnie studiują Mithril, który przyniosłeś i twierdzą, że @cost@ bary w końcu umożliwiłyby im prowadzenie lekcji dla zaawansowanych.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
+				"109": "{Koło wodne}\n\nCzłowiek obsługujący Koło Wodne informuje Cię, że gdyby okazało się, że posiada trochę Mithrilu, zyskałby znacznie więcej klientów, ponieważ wielu z nich przychodziło z czystej ciekawości. @cost@ barów wystarczyłoby, aby podwoić jego tygodniową produkcję.\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz mu dać @cost@ sztabki mithrilu, o które prosi?",
+				"112": "{Wiatrak}\n\nMłynarz mówi ci, że wie, jak używać Mithrilu, aby podwoić ilość, którą produkuje, ale @cost@ Bary, które posiadał, zostały skradzione jakiś czas temu. Zastanawia się: „Czy masz coś, co mógłbyś poświęcić?\"\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz mu dać @cost@ sztabki mithrilu, o które prosi?",
+				"113": "{Chata Czarownicy}\n\nStara Czarownica, która mieszka w tej chatce, mówi ci, że uczy @skillName@ odkąd pamięta, i zaczyna się nudzić. Zna sposób, aby nauczyć się czegoś innego, czego może później nauczyć, ale wymaga to @cost@ sztabki mithrilu. Mądrze nie pytaj, po co ona to chce.\n\nMasz @number@ sztabki mithrilu.\n\nCzy chcesz jej dać @cost@ sztabki mithrilu, których potrzebuje?"
+			},
+			"hint": {
+				"104": "Ulepszono ",
+				"109": "Ulepszono ",
+				"112": "Ulepszono "
+			},
+			"mine": {
+				"upgrade0": "Ulepszono ",
+				"upgrade1": "Chroniony ",
+				"-1": "{@mineName@}\n\nMożesz chronić @mineName@ z nienaturalnej cotygodniowej zmiany tego, co produkuje, płacąc @cost@ Mithril dla tygodniowej ochrony.\n\nMasz @number@ Mithril.\n\nCzy chcesz to zrobić?",
+				"0": "{@mineName@}\n\nDrwale pracujący w tym tartaku twierdzą, że poświęcając @cost@ Mithril do Boga Tartaków, mogą podwoić produkcję drewna na tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
+				"1": "{@mineName@}\n\nAlchemik pracujący w tym laboratorium usłyszał, że posiadasz trochę Mithrilu i twierdzi, że można go wykorzystać w procesie oczyszczania Merkurego. Jeśli dostanie @cost@ sztabek mithrilu, mógłby go użyć do wyprodukowania przez tydzień dwa razy więcej rtęci niż zwykle.\n\nMasz @number@ Mithril.\n\nCzy chcesz mu dać @cost@ sztabki Mithrilu, którego chce?",
+				"2": "{@mineName@}\n\nGórnicy z tej Kopalni Rudy twierdzą, że umieszczając trochę Mithrilu (wystarczy @cost@ sztabek) wśród produkowanej przez siebie Rudy, mogą oszukać niektórych poszukiwaczy skarbów, aby wydobyli Rudę za darmo i podwoili produkcję Rudy przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
+				"3": "{@mineName@}\n\nImpy kochają śmierdzącą siarkę prawie tak samo jak magiczny mithril i uwielbiają bawić się w Wydmach Siarki. Jednak ich zamiłowanie do psot niepokoi pracowników tak bardzo, że produkcja siarki zmniejsza się o połowę. Chochliki są trudniejsze do pozbycia się niż szczury czy karaluchy, ale można je przekupić, aby odeszły na tydzień za @cost@ Mithril.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
+				"4": "{@mineName@}\n\nGórnicy pracujący w Kryształowej Jaskini wiedzą, jak łączyć małe, bezużyteczne odłamki kryształu w większe kryształy, podwajając w ten sposób produkcję. @cost@ Mithril wystarczyłby na tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
+				"5": "{@mineName@}\n\nNurkowie łowiący Klejnoty z dna Jeziora Klejnotów twierdzą, że mogą użyć Mithrilu, aby usidlić duchy wody, aby pomóc im w pracy i podwoić produkcję. @cost@ Mithril usidlał duchy przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
+				"6": "{@mineName@}\n\nGrupa krasnoludów z dziwnymi urządzeniami, wielkimi jak behemoty, zebrała się przed twoją kopalnią złota. Proszą cię o @cost@ Mithril do wzmocnienia dziwnych rzeczy, który, jak twierdzą, może podwoić produkcję przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?"
+			}
+		},
+		"37": {
+			"monDesc": "Strzela dwa razy."
+		},
+		"39": {
+			"monster": {
+				"creatures": "{@monName@} i {@upgMonName@}",
+				"creature": "{@monName@}",
+				"table1": "Poziom i statystyki @heroName@ wpływają na wszystkich\n@monNames@ pod @whose@ rozkaz:\nAtak: {+@attack@%}\nObrona: {+@defense@%}",
+				"table2": "\nObrażenia: {+@damage@}\nZdrowie: {+@health@%}",
+				"table3": "\nSzybkość: +1",
+				"146": "\n\nDowódca tego bohatera może {Strzelać}."
+			},
+			"spell": {
+				"table": "\n\nLosowo w bitwie @heroName@ może automatycznie rzucić dodatkowe zaklęcie {@spellName@} bez żadnych kosztów.\nŚrednia szansa na rzucenie to 1 z {@frequency@}.",
+				"combat": "\n\nW tej chwili jest to 1 z {@frequency@}."
+			},
+			"skill": {
+				"debuff": "\n\n@heroName@ rzuci {@spellName@} na wszystkie jednostki wroga na początku każdej bitwy.",
+				"buff": "\n\n@heroName@ rzuci {@spellName@} na wszystkie sojusznicze jednostki na początku każdej bitwy.",
+				"5": "\n\nDowódca tego bohatera potrafi {Latać}.",
+				"8": "\n\n@heroName@ dodaje {@mana@ mana} na początku każdej bitwy. Ilość dodatkowo zwiększa się o 3 many na każdy poziom bohatera.",
+				"11": "\n\nWszystkie stworzenia pierwszego i drugiego poziomu otrzymują w bitwie zdolność latania.",
+				"24": "\n\nDowódca tego bohatera ma {Spojrzenie Śmierci}.",
+				"_24": "\n\nDowódca tego bohatera ma {Truciznę}.",
+				"26": "\n\n@heroName@ zmniejsza {@mana@ mana} wrogiego bohatera na początku każdej bitwy. Ilość ta zmniejsza się dalej o 3 punkty many na każdy poziom bohatera."
+			}
+		},
+		"42": {
+			"title": "Wybierz preferowaną częstotliwość garnizonu.\n\nUWAGA: Na dużych mapach możesz zauważyć opóźnienie podczas ładowania.",
+			"0": "Żadnych garnizonów",
+			"1": "Kilka garnizonów",
+			"2": "Niektóre garnizony",
+			"3": "Tony garnizonów",
+			"award": "Przeszukanie garnizonu pozwala znaleźć ukryty skarb!"
+		},
+		"43": {
+			"text": "{Я µ ¤ ѓ Г §}\n\nNa tym obelisku wyryte są magiczne runy. Czy przywołujesz ich moc, aby rzucić zaklęcie?"
+		},
+		"44": {
+			"objName": "Szmaragdowa Wieża",
+			"ability": {
+				"1": "Latający",
+				"2": "Zionięcie",
+				"3": "Nieumarły",
+				"4": "Żyjący",
+				"5": "Nie wrażliwość na Morale",
+				"6": "Podwójne uderzenie",
+				"6a": "Podwójny strzał",
+				"7": "Atak obszarowy",
+				"8": "Żadnego odwetu",
+				"9": "Odporność na zaklęcia umysłu",
+				"10": "Odporność na zaklęcia ognia",
+				"11": "Brak kary za walkę w zwarciu",
+				"cost": " za @mithril@ mithrila"
+			},
+			"extra": "„Poczekaj chwilę\" – w tonie Czarodzieja można było wyczuć nutę zdumienia. „Wygląda na to, że @mon@ zostały już wcześniej ulepszone! Będzie mnie to kosztować znacznie więcej wysiłku, aby je jeszcze bardziej ulepszyć. Zastanawiam się, czy nie poprosić o trochę więcej za tę pracę.\"\n\n\"Zgadzasz się?\"",
+			"extra_notEnough": "{Czarodziej wydaje się zirytowany.}\n\n„Nie wystarczy ci na wszystkie opłaty. Idź sobie i przestań marnować mój czas!\"\n\nCzy opuszczasz Szmaragdową Wieżę?"
+		},
+		"45": {
+			"noCityHall": "{Rezerwa złota} \n\n Przepraszamy, ale przed wybudowaniem Rezerwy Złota należy zbudować {Ratusz}.",
+			"alreadyBuilt": "\n\n{~r}Przykro nam, ale jeden z budynków został już dziś ulepszony. Spróbuj ponownie jutro.{~}",
+			"mainGoldReserveMsg": "{Rezerwa złota} @requirementMsg@\n\n W tej chwili Rezerwa Złota przynosi królestwo {@gold@ złoto} dziennie.",
+			"upgrGoldReserveMsg": "\n\n Możesz zwiększyć dochody Rezerwy Złota o {@gold@ złoto.} \n Potrzebujesz następujących zasobów:",
+			"noResToUpgradeGoldReserve": "\n\n{~r}Przykro nam, ale nie masz wystarczających zasobów, aby ulepszyć swoją Rezerwę Złota.{~}",
+			"noResToUpgradeUpgDwelling": "\n\n{~r}Przykro nam, ale nie masz wystarczających zasobów, aby ulepszyć to mieszkanie stworzeń.{~}",
+			"noOneUpgDwelling": "{Modernizacja mieszkania} \n\n Przepraszamy, ale w celu dodatkowej rekrutacji żołnierzy w tym mieście należy zbudować co najmniej jedno ulepszone mieszkanie dla stworzeń.",
+			"mainCreaturesMsg": "{Modernizacja mieszkania} @requirementMsg@\n\n Możesz zwiększyć rozwój stworzeń w swoim mieście. \n Zwiększenie wzrostu można osiągnąć tylko w przypadku ulepszonych mieszkań. \n\n Wybierz typ stworzeń, aby zwiększyć ich wzrost:",
+			"upgradeDwellingMsg": "{Modernizacja mieszkania} @requirementMsg@\n\n W tej chwili to mieszkanie produkuje dodatkowe \n {@count@ stworzenia} tygodniowo. \n\n Ulepszenie tego mieszkania zwiększy wzrost \n o {@growth@} tygodniowo. \n\n {Cena modernizacji mieszkania:}",
+			"hintTownPic": "Rekrutacja żołnierzy",
+			"hintHallPic": "Miejska Rezerwa Złota",
+			"hintRMC": "\nModernizacja mieszkania +@number@"
+		},
+		"46": {
+			"singular": "Latanie berserka",
+			"plural": "Latanie berserka",
+			"description": "\nUderzenie i powrót. Żadnego odwetu wroga. Atak berserka."
+		},
+		"49": {
+			"hint": "Poziom poplecznika: @lv@ (Ctrl+PPM, aby uzyskać szczegółowe informacje)."
+		},
+		"51": {
+			"ability": {
+				"0": "Ignoruje 50% obrony",
+				"1": "Strach",
+				"2": "Maksymalne obrażenia",
+				"3": "Żadnego odwetu",
+				"4": "Strzelanie",
+				"5": "Niekończący się odwet",
+				"6": "Atak obszarowy",
+				"7": "Magiczne lustro",
+				"8": "Blokowanie",
+				"9": "Podwójne uderzenie",
+				"10": "Paraliż",
+				"11": "Regeneracja",
+				"12": "Zatrucie",
+				"13": "Szarża",
+				"14": "Latający"
+			},
+			"skill": {
+				"0": "Atak",
+				"1": "Obrona",
+				"2": "Punkty trafienia",
+				"3": "Obrażenia",
+				"4": "Moc magiczna",
+				"5": "Prędkość"
+			},
+			"gem": {
+				"7": "Opal natchnął @name@ swoją energią. Zdobyto umiejętność {@skillName@}\n\n\n\n{~>dlg_npc2.def:0:@skillIcon@}\n\n",
+				"8": "Rubin natchnął @name@ swoją energią.",
+				"9": "Szafir natchnął @name@ swoją energią.",
+				"10": "Szmaragd natchnął @name@ swoją energią.",
+				"fail": "Klejnot nie ma wpływu na @name@",
+				"bonus": "\n+1 do {@skillName@} poziomu umiejętności\n\n\n\n{~>dlg_npc2.def:0:@skillIcon@}\n\n"
+			}
+		},
+		"52": {
+			"objName": "Lustro drogi do domu",
+			"noMoney": "{Lustro drogi do domu}\n\nStrażnik przez kilka sekund przygląda się otrzymanym od Ciebie {monetom}... Następnie oddaje Ci je ze słowami:\n\n\"Możesz {WEJŚĆ} do {Lustra} za swoje pieniądze... ale nigdy go nie opuścisz...\""
+		},
+		"54": {
+			"descCatapult0": "Użyj tej machiny wojennej, aby podczas oblężenia obrać za cel fortyfikacje wroga.",
+			"descCatapult1": "\nUżyj tej machiny wojennej, aby namierzyć oddziały wroga w walce innej niż oblężenie\n\nW walce bez oblężenia:\n",
+			"soldOut": "\n\nMożna używać {@limit@} razy dziennie.\nWróć jutro.",
+			"slow0": "@mon@ zwalnia!",
+			"slow1": "@mon@ zwolnij!",
+			"hint": "@mon@ poziom: @lv@",
+			"desc145": "{Atak kulą ognia.}",
+			"desc146": "",
+			"desc147": "",
+			"desc148": "\n{Przywróć do @mana@ Punktów zaklęć.}"
+		},
+		"58": {
+			"counterSpyTitle": "Wybierz miasto, które chcesz chronić przed infiltracją."
+        		},
+		"59": {
+			"singular": "Kusznik",
+			"plural": "Kusznicy",
+			"description": "Strzał ignoruje 10% obrony celu.",
+			"description_upg": "Przeszywający strzał. Strzał ignoruje 3+20% obrony celu."
+		},
+		"65": {
+			"question": "Czy płacisz opłatę za zasilanie tej dwukierunkowej lity?",
+			"no_gold": "Nie masz wystarczającej ilości złota."
+		},
+		"66": {
+			"msg": "Chata Dowódcy Czarownic\n\nKiedy odwiedzasz wiedźmę, twój dowódca otrzymuje lekcję @bonus@ od Dowódcy Czarownic.",
+			"spec1": "celność",
+			"spec2": "potyczki",
+			"spec6": "szermierka",
+			"spec9": "blokowanie",
+			"spec12": "gapiowski",
+			"spec12a": "trujący",
+			"spec14": "zjadanie ognia",
+			"spec14a": "magiczne lustro",
+			"spec15": "latający",
+			"spec17": "zachwycający",
+			"spec19": "wirujące ataki",
+			"spec20": "uderzanie i bieganie",
+			"spec22": "kruszenie kości",
+			"spec23": "zemsta",
+			"spec25": "robiąc przerażające miny",
+			"spec26": "punkty nacisku",
+			"spec27": "gojenie : zdrowienie",
+			"stat0": "napadający",
+			"stat1": "obrona",
+			"stat2": "pozostać przy życiu",
+			"stat3": "zadawanie szkód",
+			"stat4": "magia",
+			"stat5": "prędkość",
+			"commander": "Dowódca: _"
+		},
+		"70": {
+			"objName": "Komnata Śmierci",
+			"name": "Nieumarły Król",
+			"greeting": "{Komnata Śmierci}\n\nGdy zbliżasz się do złowrogiej konstrukcji czaszki, wita cię groteskowy Nieumarły Król. „Odnalazłeś jedną z moich Komnat Śmierci\" – mówi król złowrogim głosem. „Zakładam, że jesteś tutaj, aby spróbować ukraść moje starożytne skarby? Jeśli wejdziesz do tej komnaty, ukarzę cię najbardziej śmiercionośną siłą, jaką można sobie wyobrazić.\n\nCzy posłuchasz mojego ostrzeżenia, czy poniesiesz zdradziecką śmierć?\"",
+			"visited": "Zbliżając się do złowrogiej konstrukcji czaszki, czujesz okropny smród krwi.  Oczywiście bitwa została już tutaj stoczona.",
+			"reward": "Po pokonaniu Nieumarłego Króla i jego strażników znajdziesz cenne złoto, Mithril i @number@ przyjazne Duchy, które wskrzeszasz z popiołów komnaty!"
+		},
+		"71": {
+			"diplomatic": " Umożliwia negocjacje z potworami (kumuluje się z Dyplomacją, maks. na poziomie Eksperta).",
+			"switch": "@art_name@\n\nCotygodniowy status aktualizacji: @stat@\n\nCzy chcesz zmienić status na @rstat@?",
+			"join": "Noszenie {Stroju Władcy Lasu} przyciąga ochotników do armii @heroName@.",
+			"upgrade": "@monName@ w armii @heroName@ zostały wzmocnione siłą @whose@ {@artName@}.",
+			"combiDesc0": "\n\n{Strój Władcy Lasu}\nNa początku każdego tygodnia daje 1 jednorożca bojowego, 2 żołnierzy Dendroidów, 4 krasnoludów bojowych i 8 kapitanów centaurów.",
+			"combiDesc1": "\n\n{ Szaty Władzy }\nMnoży siłę armii twojego bohatera przez 3 (dla armii neutralnych i Gildii Złodziei)."
+		},
+		"73": {
+			"map_info": "@hero@maszyny wojenne",
+			"hero_info": "@hero@ ma {@wm_num@}",
+			"healed": "(Leczenie: {@healing@}, wskrzeszanie: {@resurrection@})"
+		},
+		"74": {
+			"msg": "Twój bohater jest zbyt zmęczony, aby rzucić to zaklęcie. Spróbuj ponownie w przyszłym tygodniu."
+		},
+		"101": {
+			"dlg": {
+				"title0": "Zaznacz w tej grze dowolne zasady mapy (strona 1 z 2).",
+				"title1": "Zaznacz w tej grze dowolne zasady mapy (strona 2 z 2).",
+				"disabled": "(wyłączone na tej mapie)",
+				"0": "Jednostki latające nie latają, ale nie spotykają się z odwetem.",
+				"1": "Szybkie stworzenia są powolne, powolne szybkie.",
+				"2": "Stworzenia są przecenione o połowę w siódmym dniu każdego tygodnia.",
+				"3": "Bohaterowie każdego dnia tworzą Magiczne Równiny.",
+				"4": "Stworzenia atakują dwukrotnie.",
+				"5": "Liczba stworzeń w armiach rośnie o 4 procent każdego dnia.",
+				"6": "W urodziskach stworzeń sprzedaje się także dziki.",
+				"7": "Bohaterowie zaczynają od 5. poziomu.",
+				"8": "Artefakty na mapie występują parami.",
+				"9": "Wieczna ciemność.",
+				"10": "Bohaterowie poruszają się dwa razy dalej.",
+				"11": "Kopalnie zmieniają zasoby co tydzień.",
+				"12": "Obiekty nauczania można odwiedzać co miesiąc.",
+				"13": "Kapitol można zbudować w każdym mieście.",
+				"14": "Stworzenia 7. poziomu ulepszają się do 8. poziomu.",
+				"15": "Na każdym poziomie bohaterowie otrzymują artefakt.",
+				"16": "Łotrzykowie zasadzają się na nieostrożnych.",
+				"17": "Stworzenia posiadają broń zionącą.",
+				"18": "Strzelcy nie strzelają, ale mają więcej punktów wytrzymałości.",
+				"19": "Każde miasto ma swojego Graala.",
+				"20": "Przed każdym miastem znajdują się Sztandary Wodza."
+			},
+			"description": {
+				"papyrus": "{Czy chcesz zobaczyć dziennik zadań?}",
+				"head": "W tej dziwnej krainie ",
+				"also": "Również, ",
+				"0": "żadne stworzenie nie może latać, a na stworzeniach, które kiedyś latały, nie można dokonać odwetu.",
+				"1": "stworzenia które normalnie są powolne są szybkie, a te szybkie są powolne.",
+				"2": "stworzenia kosztują o połowę mniej w siódmym dniu tygodnia.",
+				"3": "obecność bohatera wypacza krainę magią.",
+				"4": "wszystkie stworzenia atakują dwukrotnie.",
+				"5": "stworzenia w armii bohatera przyciągają każdego dnia dodatkowe 4%% przedstawicieli swojego rodzaju, do maksymalnie 100 000 stworzeń.",
+				"6": "w większości urodzisk hoduje się także dziki.",
+				"7": "bohaterowie zaczynają na 5 poziomie.",
+				"8": "artefakty zwykle występują parami.",
+				"9": "panuje wieczna ciemność.",
+				"10": "bohaterowie mają podwójny ruch.",
+				"11": "kopalnie produkują różne zasoby z tygodnia na tydzień.",
+				"12": "miejsca, które bohater mógłby normalnie odwiedzić tylko raz, można odwiedzać ponownie co miesiąc.",
+				"13": "każdy gracz może zbudować więcej niż jeden Kapitol w różnych miastach.",
+				"14": "ulepszone stworzenia 7. poziomu w armii bohatera automatycznie awansują do 8. poziomu.",
+				"15": "bohaterowie zyskują artefakt na każdym poziomie.",
+				"16": "bandy Łotrów wędrują po okolicy, gotowe zaatakować bohaterów.",
+				"17": "wszystkie stworzenia atakują jak bronią zionącą (kiedy nie strzelają).",
+				"18": "żadne stworzenie nie strzela, a stworzenia, które mogły strzelać, mają +50%% punktów wytrzymałości.",
+				"19": "wszystkie miasta mają zbudowaną strukturę Graala.",
+				"20": "każde miasto ma przed sobą Sztandar Wodza, a Sztandar przed neutralnymi miastami jest strzeżony."
+			}
+		},
+		"102": {
+			"on": "{włączony}",
+			"off": "{wyłączony}",
+			"switch": "@art_name@\n\nTygodniowy status stworzenia: @stat@\n\nCzy chcesz zmienić status na @rstat@?",
+			"16": " Na początku każdego tygodnia prowokuje walkę z 30 Ogrami.",
+			"63": "Daje ci 6 Królewskich Gryfów na początku każdego tygodnia.",
+			"64": " Na początku każdego tygodnia odkrywa duży obszar wokół ciebie.",
+			"65": " Daje ci 15 sztuk złota na oddział na początku każdego tygodnia.",
+			"65a": " Maks. o @goldLimit@ dodatkowego złota.",
+			"66": " Można je wymienić w mieście na budowę kilku budowli.",
+			"67": " Na początku tygodnia możesz wymienić, aby podwoić liczbę żołnierzy pierwszego poziomu.",
+			"67a": " Maks. do @unitLimit@ dodatkowych jednostek na raz podczas handlu.",
+			"giveCreature": {
+				"5.1": "Pod wrażeniem zainteresowania @heroName@ptakami, niektóre Gryfy Królewskie przyłączają się do @whose@ armii.",
+				"59.1": "Mając na uwadze oddanie @heroName@ Śmierci i jej Wisiorom, niektóre Zombie przyłączają się do @whose@ armii.",
+				"119.1": "Uradowani zainteresowaniem @heroName@ Życiem i jego Wisiorkami, niektóre Duszki dołączają @whose@ armii.",
+				"35.0": "Zadowolony ze zdolności @heroName@ do rzucania zaklęć na stworzenia odporne na magię, Arcymag dołącza do @whose@ armii.",
+				"35.1": "Zadowoleni ze zdolności @heroName@ do rzucania zaklęć na stworzenia odporne na magię, niektórzy Arcymagowie dołączają do @whose@ armii.",
+				"35.2": "Zadowolony ze zdolności @heroName@ do rzucania zaklęć na stworzenia odporne na magię i pod wrażeniem @whose@ oddanie Mądrości, niektórzy Arcymagowie dołączają @whose@ armii.",
+				"103.0": "Ożywieni przez ochronę @heroName@ przed Rozproszeniem, Potężna Gorgona dołącza do @whose@ armii.",
+				"103.1": "Ożywieni przez ochronę @heroName@ przed Rozproszeniem, niektóre Potężne Gorgony dołączają do @whose@ armii.",
+				"103.2": "Ożywieni przez ochronę @heroName@ przed Rozproszeniem i pod wrażeniem @whose@ oddanie Obronie, niektóre Potężne Gorgony przyłączają się do @whose@ armii."
+			}
+		},
+		"104": {
+			"objName": "Tajemna Wieża",
+			"pay": "Co chciałbyś zapłacić?",
+			"anotherTrade": "„Co za wymiana! Czy byłbyś zainteresowany inną transakcją?\"",
+			"rest": "„No cóż, jestem zadowolony z tej transakcji, ale teraz zdecydowanie potrzebuję trochę odpoczynku...\" Nagle duch rozpływa się w powietrzu.",
+			"visited": "Pod tą wysoką wieżą rozglądasz się na wszystkie strony, ale nie widzisz ani jednej duszy. Wróć w przyszłym tygodniu, aby sprawdzić ponownie."
+		},
+		"105": {
+			"no_market": "{Bank}\n\nPrzykro nam, ale bez Targowiska nie można odwiedzić Banku.",
+			"greeting": "Bank\n\n„Witam\", mówi sprzedawca, „w czym mogę pomóc?\"",
+			"transfer_all": "Przenieś wszystkie zasoby do innego gracza",
+			"transfer_one": "Przenieś określone zasoby do innego gracza",
+			"borrow": "Pożycz pieniądze lub zasoby",
+			"cancel": "Nie, dziękuję. Zmieniłem zdanie.",
+			"loan": {
+				"name": "{Bank pożyczkowy}\n",
+				"choice": "„Proszę wybrać żądany typ zasobu:\"",
+				"offer": "„Oferujemy maksymalnie @max@, ale pobieramy odsetki w wysokości 30%. Maksymalna dostępna pożyczka będzie z czasem wzrastać.\nSpłata rozpocznie się jutro i pobierzemy połowę @resource@ codziennie w twoim skarbcu, aż do spłaty pożyczki.",
+				"input": "„Ile @resource@ (1-@max@) chcesz pożyczyć?\"",
+				"limit": "„Przykro mi, ale nie możesz pożyczyć więcej @resource@ niż (maks. @max@).\"",
+				"confirm": "„Oto jesteś. Robienie z Tobą interesów było przyjemnością.\"",
+				"cancel": "„Nie martw się, utrzymamy tę ofertę dla Ciebie. Wróć, kiedy tylko chcesz.\"",
+				"collector": "„Pobieramy opłatę w wysokości @taken@, więc nadal jesteś nam winien @owe@. Wrócimy jutro.\"",
+				"paid": "„Gratulacje. Zapłaciłeś ostatnią ratę w wysokości @taken@. Zapraszamy do odwiedzenia nas ponownie.\"",
+				"debt": "„Przykro nam, ale masz u nas niespłaconą pożyczkę. Wróć, gdy zapłacisz ostatnią ratę.\"",
+				"hint": "lub Pożycz pieniądze lub zasoby"
+			},
+			"transfer": {
+				"name": "{Punkt Handlowy Zasobami}",
+				"all": "Przenieś WSZYSTKIE zasoby, w tym złoto i mithril, do...",
+				"input": "Wprowadź ilość @resource@ (1-@max@) do przeniesienia:",
+				"select": "Wybierz zasób do przeniesienia:",
+				"no_resources": "„Niestety, nie masz żadnych Zasobów, więc nie masz czym handlować. Może czas działa na Twoją korzyść…\"",
+				"to": "Przelew @resource@ do...",
+				"confirm_all": "\"Wszystkie Twoje zasoby zostały przeniesione do gracza @name@.\"",
+				"confirm_one": "\"Twoje @resource@ zostały przeniesione do gracza @name@.\"",
+				"cancel": "\"Może chcesz handlować innego dnia. Zapraszamy do odwiedzenia nas ponownie.\"",
+				"hint": "Przenieś zasoby do innego gracza"
+			}
+		},
+		"107": {
+			"visit": {
+				"question": "Czy zatrzymujesz się, żeby łowić ryby w studni?",
+				"noMovepoints": "Jesteś teraz zbyt wyczerpany, żeby łowić ryby. Spróbuj rano."
+			},
+			"message": {
+				"head": "Po kilku godzinach odkrywasz, że nie ma nic innego niż",
+				"body": "na dnie tej studni"
+			}
+		},
+		"109": {
+			"objName": "Rynek czasu",
+			"title": "{Rynek czasu}\n\n Pomagamy Ci odzyskać część straconych lat, ucząc technik medytacyjnych, które pozwalają zapomnieć o bezużytecznych umiejętnościach. Dzięki temu Twój umysł będzie mógł zająć się nową nauką. Pobieramy symboliczną opłatę w wysokości @gold@ złota za nasze usługi.",
+			"choice": "O której umiejętności zapomnieć:",
+			"forget": "{Rynek czasu}\n\n Czy napewno chcesz zapomnieć o tej umiejętności za @gold@ złota?",
+			"noMoney": "{Rynek czasu}\n\n Nie masz wystarczającej ilości pieniędzy. Wróć, kiedy będzie Cię stać na nasze usługi.",
+			"noSkills": "{Rynek czasu}\n\n Przepraszamy @name@, ale najpierw musisz poznać przynajmniej jedną umiejętność.",
+			"noMoves": "{Rynek czasu}\n\n Twój bohater jest zbyt zmęczony. Wróć jutro."
+		},
+		"119": {
+			"find": "Znajdujesz drugi @artName@ blisko tego."
+		},
+		"126": {
+			"title": "Za tak wiele osiągnięć, @hero@ otrzymuje @artifact@.",
+			"art0": "artefakt",
+			"art1": "artefakty"
+		},
+		"127": {
+			"land": "@heroName@ zostaje zaatakowany przez bandę Łotrów!",
+			"water": "Nagle woda wokół statku @heroName@ożywa!\n\n@heroName@ zostaje zaatakowany przez bandę Żywiołaków Wody!",
+			"treasure": "Łotrzykowie mieli skarb!"
+		},
+		"138": {
+			"lostBottle0": "Chcesz wyłowić butelkę?",
+			"lostBottle1": "Butelka zawierała ukrytą wiadomość, brzmi ona:\n@info@"
+		},
+		"169": {
+			"line1": "Zmień nazwę miasta @name@.",
+			"line2": "Pod jaką nazwą chciałbyś, aby było znane to miasto?",
+			"hint": "Nazwa miasta. {([Kliknij] - aby zmienić nazwę tego miasta)}"
+		},
+		"179": {
+			"msg": "@heroName@pozostałe punkty zaklęć.\n\n@visited@",
+			"visited0": "Magiczna Studnia: Nie odwiedzona",
+			"visited1": "Magiczna Studnia: {~Gold}Odwiedzone}"
+		},
+		"186": {
+			"title": "Wybierz typ dowódcy",
+			"standart": "Automatycznie (klasa bohatera)",
+			"cancel": "Zmieniłem zdanie. Zatrudnię jednego później.",
+			"noHired": "Dowódca nie został zatrudniony."
+		},
+		"187": {
+			"line1": "Zmień nazwę bohatera @name@.",
+			"line2": "Pod jakim imieniem chciałbyś, żeby był znany ten bohater?"
+		},
+		"191": {
+			"dlg": "{@level@ Posiadłości}\n\nZ @level@ Posiadłościami, ten bohater\nzapewnia {@gold@ złota} dziennie\n[@base@@bonus@]\n@end@",
+			"estates": "Posiadłości "
+		},
+		"192": {
+			"mainMsg": "{Zmiena właściciela} \n\n Wybierz gracza, któremu chcesz przekazać ten obiekt:",
+			"heroInTown": "{Nie możesz przenieść miasta!} \n\n Nie możesz przekazać miasta innemu graczowi, gdy przebywa w nim twój bohater. Proszę, wyprowadź bohatera i odsuń się nim od miasta.",
+			"neutralName": "Neutralny",
+			"level_8": "{Zmiena właściciela}\n\nMoc {Boskie stworzenia} nie pozwalają na przeniesienie tego obiektu."
+		},
+		"201": {
+			"ballista_description": "{Balista}\n\nBalista może obrać za cel oddziały twojego wroga w walce i zadać (1-50 + poziom bohatera) punkty obrażeń wrogiej jednostce przed walką.",
+			"ballista_log": "Przygotowując się do bitwy, artyleria zadaje nieuleczalne obrażenia.",
+			"ammo_description": "{Wózek z zaopatrzeniem}\n\nWózek z zaopatrzeniem gwarantuje, że oddziałom strzeleckim nigdy nie zabraknie amunicji w walce i zwiększa skuteczność (poza walką) namiotu pierwszej pomocy i balisty o 100%.",
+			"ammo_name": "Wózek z zaopatrzeniem"
+		},
+		"202": {
+			"battleLog": "@hero@Sokole Oko kontruje zaklęcie @victim@!"
+		},
+		"212": {
+			"0": "@heroName@ odkrył ukrytą skrytkę złota",
+			"1": "@heroName@ odkrył niewielką ilość zasobów",
+			"2": "@heroName@ zauważył dużą skrzynkę zasobów",
+			"3": "Podczas marszu @heroName@ dostrzega płynące źródło",
+			"4": "Zawsze czujny, @heroName@ zauważa leżące na ziemi pióro feniksa",
+			"5": "Wróżka obdarzyła @heroName@ częścią swojej magii",
+			"6": "Podczas zwiadu, @heroName@ spotkał wędrownego mędrca",
+			"7": "@heroName@ dostrzega dobry punkt obserwacyjny na szczycie wzgórza",
+			"8": "@heroName@ znalazł skrót, który przyspieszy podróż armii",
+			"9.0": "@heroName@ odkrył że @monName@ chce przyłączyć się do @whose@ armii",
+			"9.1": "Podczas zwiadu, @heroName@ odkrył że zespół @monName@ chce przyłączyć się do @whose@ armii",
+			"10": "Głośny hałas ostrzega @heroName@ do dużej grupy @monName@ tuż za następnym wzgórzem.\n\nCzy chcesz walczyć z @monName@",
+			"11": "Słysząc jakiś hałas, @heroName@ zatrzymuje @whose@ armie i zwiadowców przed nami. Tuż przy ścieżce @heroName@ zauważa grupę @monName@.\n\nCzy chcesz walczyć z @monName@",
+			"log": "^{~text align=right}\n@value@ {~>@defName@.def:0:@frame@}}"
+		},
+		"216": {
+			"msg": "Moce Oporu bochatera @hero@ pozwalają @whom@ zignoruj ulepszenia niektórych @endStr@!",
+			"hero": "stworzeń",
+			"neutral": "neutralnych Potworów"
+		},
+		"217": {
+			"bonusName": " {także} @skillName@ +1"
+		},
+		"219": {
+			"146": {
+				"name": "+@value@ Topór z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Ataku i jedną rangę @skillName@ umiejętność.\nLub\nDaje dowódcy +5 do ataku plus +1 po 6 zwycięskich bitwach"
+			},
+			"147": {
+				"name": "+@value@ Poczta z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Obrony i jeden stopień @skillName@ umiejętność\nLub\nDaje dowódcy +12% zdrowia plus +1% po każdej zwycięskiej bitwie."
+			},
+			"148": {
+				"name": "+@value@ Miecz z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Ataku i jedną rangę @skillName@ umiejętność\norDaje dowódcy +12% do obrażeń plus +1% po każdej zwycięskiej bitwie."
+			},
+			"149": {
+				"name": "+@value@ Hełm z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Obrony i jeden stopień @skillName@ umiejętność\nLub\nDaje dowódcy możliwość samodzielnego wskrzeszenia po bitwie."
+			},
+			"150": {
+				"name": "+@value@ Wisiorek z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Władzy i jedną rangę @skillName@ umiejętność\nLub\nDaje dowódcy +1 Mocy Magicznej plus +1 po każdych 10 zwycięskich bitwach."
+			},
+			"151": {
+				"name": "+@value@ Buty z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Wiedzy i jedną rangę @skillName@ umiejętność\nLub\nDaje dowódcy +1 do szybkości i +1 po 10 zwycięskich bitwach."
+			},
+			"152": {
+				"name": "+@value@ Łuk z @skillName@",
+				"description": "Daje bohaterowi +@value@ do Ataku i jedną rangę @skillName@ umiejętność\nLub\nDaje dowódcy karę za brak przeszkód oraz karę za brak dalekiego zasięgu po 25 zwycięskich bitwach."
+			},
+			"153": {
+				"name": "+@value@ Pierścień z @skillName@",
+				"description": "Daje bohatera @value@ do Władzy i Wiedzy oraz jedną rangę @skillName@ umiejętność\nLub\nDaje dowódcy Atak Oddechem i Naturę Smoka."
+			},
+			"154": {
+				"name": "+@value@ Tarcza z @skillName@",
+				"description": "Daje bohatera @value@ do Obrony i jeden stopień @skillName@ umiejętność\nLub\nDaje dowódcy +5 do obrony plus +1 po 6 zwycięskich bitwach."
+			},
+			"155": {
+				"name": "+@value@ Pierścień z @skillName@",
+				"description": "Daje bohaterowi +@value@ do wszystkich Umiejętności Podstawowych i jedną rangę @skillName@ umiejętność\nLub\nDaje dowódcy wszystkie 6 umiejętności podstawowych na poziomie zaawansowanym."
+			}
+		},
+		"220": {
+			"header": "Wybierz dozwolone typy miast neutralnych.",
+			"deny": "{Dopuszczalne miasta neutralne}\n\nMusisz wybrać co najmniej jeden typ miasta."
+		},
+		"229": {
+			"title": "",
+			"mult": "",
+			"town": "",
+			"sub": "",
+			"human": "",
+			"exit": "",
+			"easier": "",
+			"easy": "",
+			"normal": "",
+			"hard": "",
+			"expert": "",
+			"impossible": "",
+			"noChance": "",
+			"enterMsg": "",
+			"wrongMsg": "",
+			"multHelp": "",
+			"townHelp": "",
+			"subHelp": ""
+		},
+		"240": {
+			"none": "{Sztandar Władcy}\n{Opcje szybkiego wyboru}\n\nŻaden ze stosów żołnierzy @name@ nie jest obecnie wyposażony w Sztandar Watażki.",
+			"title": "S Z T A N D A R  W Ł A D C Y\n\nZmień opcje wszystkich sztandarów wyposażonych przez @name@ na:",
+			"hp": "+2 do zdrowia plus podwaja aktualną premię do zdrowia w walce.",
+			"attack": "+2 do ataku plus podwaja aktualną premię do ataku jednostek w walce.",
+			"defence": "+2 do obrony plus podwaja aktualną premię do obrony jednostek w walce.",
+			"damage": "+1 do obrażeń plus podwaja aktualną premię do obrażeń jednostek (zarówno minimalną, jak i maksymalną) w walce.",
+			"speed": "+1 do szybkości plus podwaja aktualną premię do szybkości jednostek w walce.",
+			"experience": "+50% doświadczenia zdobywanego w bitwie.",
+			"reduce": "Zmniejsza obronę celu o 25%.",
+			"block": "25% szans na zablokowanie 50% obrażeń.",
+			"retaliation": "2 dodatkowe odwety.",
+			"store": "Przechowuj bieżące opcje @name@ (według pozycji jednostek).",
+			"restore": "Przywróć poprzednio zapisane opcje @name@ (według pozycji jednostek)."
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"opt882": {
+		"m1":	"Przy zwłokach zauważysz przyzwoity artefakt.\nNagle szkielet się podnosi!\n\nTen szkielet wygląda {bardzo dziwnie}\ni nie odda swojego skarbu bez walki.\n\nCzy chcesz o to walczyć?",
+		"m2":	"Przy zwłokach zauważysz dobry artefakt.\nNagle szkielet się podnosi!\n\nTen szkielet wygląda {całkiem groźnie}\ni nie odda swojego skarbu bez walki.\n\nCzy chcesz o to walczyć?",
+		"m3":	"Przy zwłokach zauważysz wspaniały artefakt.\nNagle szkielet się podnosi!\n\nTen szkielet wygląda {absolutnie przerażająco}\ni nie odda swojego skarbu bez walki.\n\nCzy chcesz o to walczyć?",
+		
+		"b1":	"{Szkielet przywołuje posiłki!}"
+	}
+}

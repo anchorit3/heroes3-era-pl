@@ -1,0 +1,52 @@
+#	Text resource for "script49.erm" document		
+149000	PREMIE STATYSTYK GIERMKA NA POZIOMIE 1:
+
++1 do ataku
++1 do obrony
++1 do szybkoœci
++2-5 do obra¿eñ
++10 do wytrzyma³oœci
+
+Co ka¿de 3 poziomy: +1 do ataku, +1 do obrony
+Co ka¿de 10 poziomów: +1 do szybkoœci 
+
+Giermkowie za ka¿d¹ stoczon¹ bitwê zyskuj¹ {Status} oraz przechodz¹ na kolejne poziomy (o czym œwiadczy zwiêkszona liczebnoœæ oddzia³u). Ponadto czerpi¹ korzyœci z {Status Bonus} zale¿nego od poziomu bohatera i aktualnego dnia gry.
+
+Giermkowie umieraj¹ kiedy ginie jedno stworzenie z oddzia³u giermków, ale zanim to uczyni¹ s¹ zdolni do ostatniego kontrataku.
+
+Stworzenia niskich poziomów/nieulepszone szybciej osi¹gaj¹ wy¿sze poziomy ni¿ stworzenie ulepszone/wy¿szych poziomów.
+
+Oddzia³ Giermków jest pod wp³ywem zaklêcia "Ukrycie" po to by zabarwiæ kolor pola opisuj¹cego ich liczbê (w celu odró¿nienia giermków od normalnego oddzia³u).
+
+Martwi Giermkowie mog¹ zostaæ wskrzeszeni w ka¿dym mieœcie - koszt zale¿y od ceny stworzenia i jego poziomu.
+
+Bohaterowie komputerowi maj¹ (wysok¹) szansê na posiadanie giermka losowego poziomu ({Status} zale¿ny od poziomu bohatera). Typ stworzenia w ka¿dej walce jest wybierany losowo i mo¿e nim byæ tak¿e stworzenie nieobecne w armii wrogiego bohatera.
+	<!!Q>	01.08.2004
+149001	Jeszcze nie pasowa³eœ nikogo na Giermka.
+Czy chcesz przejrzeæ swoje oddzia³y by zobaczyæ, czy któryœ z nich jest godzien dost¹piæ tego zaszczytu?
+
+(Wybranie opcji "NIE" wy³¹czy dla tego bohatera przysz³e przypomnienia.)
+
+
+
+{By otworzyæ okno dialogowe Giermka: kliknij LPM na kolorowej fladze w oknie bohatera}
+{Aby wyœwietliæ pomoc: klikniej PPM na kolorowej fladze w oknie bohatera}	<!!Q>	01.08.2004
+149002	Czy chcesz pasowaæ nowe stworzenie na Giermka?	<!!S>	01.08.2004
+149003	ZWOLNIJ GIERMKA	<!!S>	01.08.2004
+149004	NIE, DZIÊKUJÊ	<!!S>	01.08.2004
+149005	<<<<<<{MARTWY}>>>>>>	<!!S>	01.08.2004
+149006	{Poziom Giermka} : %Y3
+{Wspó³czynnik poziomu}: %V7215  {Status dla nastêpnego poziomu}: %Y4
+{Ca³kowity Status}: %Y11  {Zarobek/Earned/}: %W117  {Bonus}: %Y2
+Atak         : %Y5
+Obrona       : %Y6
+Wytrzyma³oœæ : %Y7
+Obra¿enia    : %Y8-%Y9
+Szybkoœæ     : %Y10
+%Z1
+{Czy chcesz pasowaæ na Giermka nowe stworzenie?}	<!!Q>	01.08.2004
+149007	{Poziom Giermka = %Y3}
+
+Czy chcesz wskrzesiæ tego oddanego Giermka?
+Bêdzie to kosztowaæ %Y4 sztuk z³ota.	<!!Q>	01.08.2004
+149008	Niestety, ale w tej chwili nie staæ ciê na wskrzeszenie.	<!!M>	01.08.2004

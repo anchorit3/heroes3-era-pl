@@ -1,0 +1,66 @@
+103024	{Teleskop} 
+ 
+Teleskop zwiêksza pole widzenia bohatera o +1 oraz przekazuje mu codziennie jednego Rozbójnika, jeœli tylko pozna³ umiejêtnoœæ Odkrywanie.	String type = <!!S>	07.06.2003
+103025	{Luneta} 
+ 
+Luneta zwiêksza pole widzenia bohatera o +1, oraz przekazuje mu codziennie jednego Rozbójnika, jeœli tylko pozna³ umiejêtnoœæ Odkrywanie.	String type = <!!S>	07.06.2003
+103026	Dziêki umiejêtnoœci Sokolego Wzroku %Z470 mo¿e siê nauczyæ jakiegoœ zaklêcia, ale niestety nie posiada Ksiêgi Zaklêæ.	String type = <!!M>	07.06.2003
+103027	Dziêki potêdze umiejêtnoœci Sokoli Wzrok, %Z470 uczy siê nowego zaklêcia! Wybierz, które zaklêcie ma poznaæ.	String type = <!!Q>	07.06.2003
+103028	jego	String type = <!!S>	07.06.2003
+103029	jej	String type = <!!S>	07.06.2003
+103030	%Z470 dziêki Odpornoœci mo¿e zlekcewa¿yæ ulepszenia niektórych %Z-1!	String type = <!!S>	07.06.2003
+103031	jego	String type = <!!S>	07.06.2003
+103032	jej	String type = <!!S>	07.06.2003
+103033	%Z470 dziêki Odpornoœci mo¿e zlekcewa¿yæ ulepszenia niektórych %Z-2!	String type = <!!S>	07.06.2003
+103034	%Z470 poznaje	String type = <!!Q>	07.06.2003
+103035	{w³¹czony}		
+103036	{wy³¹czony}		
+103037	%Z273     
+
+Codzienny status Rozbójników: %Z-1
+
+Czy chcesz zmieniæ status na %Z-2?		
+103038	%Z274     
+
+Codzienny status Rozbójników: %Z-1
+
+Czy chcesz zmieniæ status na %Z-2?		
+103039	%Z275     
+
+Codzienny status Rozbójników: %Z-1
+
+Czy chcesz zmieniæ status na %Z-2?		
+103040	on		
+103041	On		
+103042	ona		
+103043	Ona		
+103044	jego		
+103045	jej		
+103046	Nauka tych wszystkich zaklêæ jest ju¿ mêcz¹ca dla %Z70! %Z72 medytuje przez chwilê i zapomina wszystko o {Sokolim} {Wzroku}, uwalniaj¹c umys³ pod przysz³e lekcje...		
+103047	{Podstawowy} {Sokoli} {Wzrok}
+
+%Z70 ju¿ posiada wiedzê o wszystkich zaklêciach 2 poziomu i dlatego mo¿e poznaæ tylko zaklêcie 1 poziomu!		
+103048	{Podstawowy} {Sokoli} {Wzrok}
+
+%Z70 ju¿ posiada wiedzê o wszystkich zaklêciach 1 poziomu i dlatego mo¿e poznaæ tylko zaklêcie 2 poziomu!		
+103049	{Podstawowy} {Sokoli} {Wzrok}
+
+%Z70 zna ju¿ wszystkie zaklêcia dostêpne za spraw¹ bieg³oœci w {Sokolim} {Wzroku} i {M¹droœci}! %Z72 ¿eby nauczyæ siê nowych zaklêæ musi wpierw ulepszyæ swe umiejêtnoœci!		
+103050	{Zaawansowany} {Sokoli} {Wzrok}
+
+%Z70 ju¿ posiada wiedzê o wszystkich zaklêciach 3 poziomu i dlatego mo¿e poznaæ tylko zaklêcie 2 poziomu!		
+103051	{Zaawansowany} {Sokoli} {Wzrok}
+
+%Z70 ju¿ posiada wiedzê o wszystkich zaklêciach 2 poziomu i dlatego mo¿e poznaæ tylko zaklêcie 3 poziomu!		
+103052	{Zaawansowany} {Sokoli} {Wzrok}
+
+%Z70 zna ju¿ wszystkie zaklêcia dostêpne za spraw¹ bieg³oœci w {Sokolim} {Wzroku} i {M¹droœci}! %Z72 ¿eby nauczyæ siê nowych zaklêæ musi wpierw ulepszyæ swe umiejêtnoœci!		
+103053	{Mistrzowski} {Sokoli} {Wzrok}
+
+%Z70 ju¿ posiada wiedzê o wszystkich zaklêciach 4 poziomu i dlatego mo¿e poznaæ tylko zaklêcie 3 poziomu!		
+103054	{Mistrzowski} {Sokoli} {Wzrok}
+
+%Z70 ju¿ posiada wiedzê o wszystkich zaklêciach 3 poziomu i dlatego mo¿e poznaæ tylko zaklêcie 4 poziomu!		
+103055	Nauka tych wszystkich zaklêæ jest ju¿ mêcz¹ca dla %Z70! %Z72 medytuje przez chwilê i zapomina wszystko o {Sokolim} {Wzroku}, uwalniaj¹c umys³ pod przysz³e lekcje...		
+103056	stworzenia nale¿¹ce do:		
+103057	stworzeñ samodzielnych		

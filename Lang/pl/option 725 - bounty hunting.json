@@ -1,0 +1,27 @@
+{
+	"opt725": {
+		"b": {
+			"t1":	"Odkryto nowych bandytów.",
+			"t2":	"Lider: @HeroName@",
+			"t3":	"Nagroda dostępna za:",
+			"t4":	"@Bounty@ złota",
+			"h1":	"Zaakceptuj i wyświetl lokalizację bandytów."
+		},
+		"f": {
+			"t1":	"Bohaterowie zadeklarowani wcześniej\nbandyci połączyli się w\nnową niezależną frakcję.",
+			"t2":	"Gildia anuluje wszystkie nagrody dla głów swoich przedstawicieli.",
+			"h1":	"Przyjmij"
+		},
+		"r": {
+			"t1":	"Schwytałeś przywódcę bandytów!",
+			"t2":   "Przywódca błaga o litość i jest gotowy przysiąc ci wierność.\n",
+			"t3":	"Jeśli się zgodzisz, nie otrzymasz nagrody.",
+			"t4":	"jednakże, bezlitośnie odrzucasz tę ofertę.",
+			"h1":	"Wyświetl informacje o bohaterze.",
+			"h2":	"Nagroda za głowę bandyty",
+			"h3":	"Rekrutuj bohatera i odrzuć nagrodę",
+			"h4":	"Dokonaj egzekucji bandyty i odbierz nagrodę za jego głowę"
+		},
+		"e":	"{Polowanie na nagrody}\n\nTeraz, gdy walka między frakcjami dobiegła końca, wszystkie gangi zostały rozwiązane i nie będą już dłużej ingerować w twoje rządy!",
+	}
+}

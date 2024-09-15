@@ -1,0 +1,429 @@
+// ¹ æ ê ³ ñ ó œ Ÿ ¿ ¥ Æ Ê £ Ñ Ó Œ Z ¯
+// ą ć ę ł ń ó ś ź ż Ą Ć Ę Ł Ń Ó Ś Ź Ż
+
+{
+    "wog_options": {
+        "page6": {
+            "name": "Skrypty ERA (czêœæ 1)",
+            "hint": "Skrypty ERA (czêœæ 1)",
+            "popup": "Skrypty ERA (czêœæ 1)",
+            "group0": {
+                "name": "Skrypty niestandardowe",
+                "hint": "Skrypty niestandardowe",
+                "popup": "Skrypty niestandardowe"
+            },
+            "group1": {
+                "name": "Magia",
+                "hint": "Magia",
+                "popup": "Magia"
+            },
+            "group2": {
+                "name": "Umiejêtnoœci i specjalizacje bohaterów",
+                "hint": "Umiejêtnoœci i specjalizacje bohaterów",
+                "popup": "Umiejêtnoœci i specjalizacje bohaterów"
+            },
+            "group3": {
+                "name": "Artefakty",
+                "hint": "Artefakty",
+                "popup": "Artefakty"
+            }
+        },
+        "page7": {
+            "name": "Skrypty ERA (czêœæ 2)",
+            "hint": "Skrypty ERA (czêœæ 2)",
+            "popup": "Skrypty ERA (czêœæ 2)",
+            "group0": {
+                "name": "Zmiany Stworzeñ",
+                "hint": "Zmiany Stworzeñ",
+                "popup": "Zmiany Stworzeñ"
+            },
+            "group1": {
+                "name": "Ograniczenia i sztuczna inteligencja",
+                "hint": "Ograniczenia i sztuczna inteligencja",
+                "popup": "Ograniczenia i sztuczna inteligencja"
+            },
+            "group2": {
+                "name": "Obiekty na mapie",
+                "hint": "Obiekty na mapie",
+                "popup": "Obiekty na mapie"
+            },
+            "group3": {
+                "name": "Inne zmiany",
+                "hint": "Inne zmiany",
+                "popup": "Inne zmiany"
+            }
+        }
+    },
+    "es": {
+        "endl": "\n",
+        "period": ". _",
+        "basic": "Podstawowy",
+        "advanced": "Zaawansowany",
+        "expert": "Ekspert",
+        "visited": "(Odwiedzone)",
+        "notVisited": "(Nie odwiedzone)",
+        "281": {
+            "name": "Puklerz Belzebuba",
+            "desc": "{Puklerz Belzebuba}\n\n+2 do wszystkich umiejêtnoœci podstawowych. Umieszcza zaklêcie Drzwi Wymiarów w ksiêdze zaklêæ twojego bohatera. Wszystkie sojusznicze stworzenia zyskuj¹ zdolnoœæ odwetu bez wroga."
+        },
+        "282": {
+            "desc": "Podstawowe atrybuty nosz¹cego zwiêkszaj¹ siê o 1 na ka¿de piêæ poziomów bohatera."
+        },
+        "350": {
+            "desc": "Odwet dystansowy."
+        },
+        "351": {
+            "name": "Ok³adka Ciemnoœci",
+            "desc": "(Nie atakowany przez bohaterów raz w tygodniu)",
+            "buildingDesc0": "Os³ona Ciemnoœci zakrywa Twoje miasto trwa³¹ zas³on¹ chroni¹c¹ wszystkich innych graczy.",
+            "buildingDesc1":"Os³ona Ciemnoœci zmniejsza morale bohatera intruza o -1 podczas obrony przed oblê¿eniem.",
+            "objVisited": "Os³ona Ciemnoœci regeneruje siê tylko raz w tygodniu, a ktoœ ju¿ tu by³ w tym tygodniu.",
+            "heroVisited": "{Os³ona ciemnoœci}\n\nMoc Zas³ony Ciemnoœci mo¿e ochroniæ Ciê przed atakami innych bohaterów. Jednak ju¿ uzyska³eœ tê moc.",
+            "visit": "{Os³ona ciemnoœci}\n\nOtrzyma³eœ dziwn¹ moc za os³on¹ ciemnoœci. Do koñca drugiego dnia nie mo¿esz zostaæ zaatakowany przez innych bohaterów. Jednak¿e efekt Os³ony Ciemnoœci natychmiast zniknie po wejœciu do bitwy."
+        },
+        "726": {
+            "summon1": "{@hero@ przesy³a \"@spell@\".}",
+            "summon2": "{Zbyt du¿o ¿o³nierzy na polu bitwy. Przywo³anie nie powiod³o siê.}",
+            "summon3": "{W pobli¿u bohatera nie ma miejsca na przywo³anie ¿ywio³aków.}",
+            "slayer0": "{@mon@ wykañcza wroga!}",
+            "slayer1": "{@mon@ wykoñcz wroga!}",
+            "slayerSpec": "{Pogromca}\n\nDodatkowe 10% punktów wytrzyma³oœci wrogiego stworzenia mo¿e zostaæ zmniejszone."
+        },
+        "727": {
+            "desc": "\n\n(Dzia³a z plecaka)"
+        },
+        "733": {
+            "newLv": "{~g}@hero@ osi¹gn¹³ nowy poziom!{~}",
+            "lv1": "Poziom: @lv@",
+            "lv2": "Poziom: @lv@ / @maxLv@",
+            "ps": "@ps@: +1",
+            "newSkill": "{Wybierz umiejêtnoœæ, której chcesz siê nauczyæ:}",
+            "noSkill": "{Brak umiejêtnoœci do nauczenia.}",
+            "rmb": "{Kliknij prawym przyciskiem myszy - informacja o bohaterze.}",
+            "lmb": "{Kliknij lewym przyciskiem myszy - wybierz umiejêtnoœæ. Prawy przycisk myszy - opis umiejêtnoœci.}"
+        },
+        "736": {
+            "battleLog": "{~g}Wzrost umiejêtnoœci ¿o³nierzy!{~}"
+        },
+        "737": {
+            "heroScr": "Czy chcesz zniszczyæ machinê wojenn¹?"
+        },
+        "739": {
+            "desc1": "{Podstawowe odnajdywanie œcie¿ki}\n\nZmniejsza karê do ruchu w trudnym terenie:\n\nTrawa i Podziemia: o 5 punktów ruchu\nBrud i Lawa: o 10 punktów ruchu\nOstro: o 15 punktów ruchu\nPustynia i œnieg: o 20 punktów ruchu\nBagno: o 25 punktów ruchu",
+            "desc2": "{Zaawansowane odnajdywanie œcie¿ki}\n\nZmniejsza karê do ruchu w trudnym terenie:\n\nTrawa i Podziemia: o 10 punktów ruchu\nBrud i Lawa: o 20 punktów ruchu\nOstro: o 30 punktów ruchu\nPustynia i œnieg: o 40 punktów ruchu\nBagno: o 50 punktów ruchu",
+            "desc3": "{Eksperckie odnajdywanie œcie¿ki}\n\nZmniejsza karê do ruchu w trudnym terenie:\n\nTrawa i Podziemia: o 15 punktów ruchu\nBrud i Lawa: o 30 punktów ruchu\nOstro: o 45 punktów ruchu\nPustynia i œnieg: o 60 punktów ruchu\nBagno: o 75 punktów ruchu"
+        },
+        "740": {
+            "spec": "{Specjalista od stworzeñ}\n\nStworzenia, w których specjalizuje siê bohater, otrzymuj¹ nastêpuj¹ce bonusy:\n\n+1 prêdkoœæ,\n+1 do umiejêtnoœci ataku za ka¿dy parzysty poziom bohatera,\n+1 do umiejêtnoœci obrony za ka¿dy nieparzysty poziom bohatera."
+        },
+        "741": {
+            "desc": "Przekierowanie zaklêæ."
+        },
+        "743": {
+            "desc1": "{Pierœcienie Witalnoœci}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 5%.",
+            "desc2": "{Pierœcieñ ¯ycia}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 5%.",
+            "desc3": "{Fiolka z ¿yw¹ krwi¹}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 10%."
+        },
+        "744": {
+            "desc": "\nNaprawa @mon@ po bitwie",
+            "dlg": "@hero@ ma wystarczaj¹ce umiejêtnoœci, aby naprawiæ zepsute machiny wojenne. Ale naprawy zajm¹ trochê czasu i bêd¹ wymaga³y op³acenia lokalnego rzemieœlnika.\n\nCzy chcesz naprawiæ zepsut¹ machinê wojenn¹?"
+        },
+        "747": {
+            "desc": "\n@percent@% niewykorzystanych punktów ruchu zamienia siê na punkty doœwiadczenia"
+        },
+        "748": {
+            "dlg": "Czy chcesz zrzec siê w³asnoœci tego mieszkania?\n\n{Po zbyciu w³asnoœci wszystkie stworzenia w tym mieszkaniu staj¹ siê jego stra¿nikami.}"
+        },
+        "750": {
+            "desc": "Wœciek³oœæ przed atakiem.",
+            "battleLog0": "@mon@ jest wœciek³y!",
+            "battleLog1": "@mon@ s¹ wœciekli!"
+        },
+        "751": {
+            "desc1": "{Podstawowa nekromancja}\n\nO¿ywia 15% ofiar bojowych bohatera",
+            "desc2": "{Zaawansowana nekromancja}\n\nO¿ywia 30% ofiar bojowych bohatera",
+            "desc3": "{Ekspert w nekromancji}\n\nO¿ywia 50% ofiar bojowych bohatera"
+        },
+        "752": {
+            "desc": "Unika ataków poœrednich i zaklêæ zadaj¹cych obra¿enia.",
+            "battleLog": "@halfling@ unikn¹³ i nie otrzyma³ ¿adnych uszkodzeñ!"
+        },
+        "753": {
+            "desc": "Osza³amiaj¹cy atak.",
+            "battleLog": "@mon@ og³uszy³ wroga!"
+        },
+        "756": {
+            "name": "{Statki oblê¿nicze}",
+            "desc1": "{Podstawowe umiejêtnoœci oblê¿nicze}\n\nSterowanie katapult¹\n1 celny strza³\nZwiêkszone obra¿enia\nZwiêksza obra¿enia fos i wie¿ o +10% podczas oblê¿enia",
+            "desc2": "{Zaawansowane machiny oblê¿nicze}\n\nSterowanie katapult¹\n2 celny strza³\nZwiêkszone obra¿enia\nZwiêksza obra¿enia fos i wie¿ o +20% podczas oblê¿enia",
+            "desc3": "{Ekspert w sztuce oblê¿niczej}\n\nSterowanie katapult¹\n2 celny strza³\nMaksymalne obra¿enia\nZwiêksza obra¿enia fos i wie¿ o +30% podczas oblê¿enia"
+        },
+        "757": {
+            "dlg1": "Smocza Utopia\n\nMówi siê, ¿e utalentowani budowniczowie mog¹ przebudowaæ niektóre Smocze Utopie w nowe miasta.",
+            "tooManyTowns": "\n\nJednak na tym œwiecie jest zbyt wiele miast! Twoi budowniczowie odmawiaj¹ wspó³pracy, poniewa¿ budowanie kolejnych miast nie budzi ju¿ ich zainteresowania.",
+            "tooNarrow": "\n\nJednak ten przed tob¹ zdecydowanie tak nie jest, poniewa¿ otoczenie jest zbyt w¹skie.",
+            "dlg2": "Smocza Utopia\n\nZnajduje siê tu wzmocniony fort, który mo¿na przebudowaæ na zamek, a magowie z pewnoœci¹ przebuduj¹ Smocz¹ Bibliotekê na Gildiê Magów.",
+            "ask": "\n\nChcesz tu zbudowaæ miasto?",
+            "notEnoughRes": "\n\nNiestety nie staæ Ciê na odbudowê Smoczej Utopii.",
+            "name0": "Smocza Kora",
+            "name1": "Smocza Koœæ",
+            "name2": "Smoczy Kie³",
+            "name3": "Smoczy Ogon",
+            "name4": "Smocze Oko",
+            "name5": "Smocza W¹troba",
+            "name6": "Smocze Œciêgno",
+            "name7": "Smoczy Jêzyk",
+            "name8": "Smoczy Grzbiet",
+            "name9": "Smocze Serce",
+            "name10": "Smocza Piêta",
+            "name11": "Smocze £uski",
+            "name12": "Smoczy Pazur",
+            "name13": "Smocza Krew",
+            "name14": "Smocze Skrzyd³o",
+            "name15": "Smocza £apa"
+        },
+        "758": {
+            "singName": "No¿ownik",
+            "plurName": "RzeŸbiarki",
+            "desc": "_ Brak morale u bohaterów. Staje siê ¿¹dny krwi po zabiciu wroga.",
+            "battleLog": "¯¹dza Krwi zachêca @cutthroat@!"
+        },
+        "759": {
+            "desc": "_ Mo¿e poœwiêciæ sojusznicze jednostki.",
+            "hint": "{~r}Ofiara: @victim@{~}",
+            "battleLog": "@devil@ ofiary @victim@ i wskrzesza!"
+        },
+        "761": {
+            "desc": "Wzmocnienie.",
+            "battleLog": "Obrona @mon@ wzrasta!"
+        },
+        "762": {
+            "singName": "Miêso¿erca",
+            "plurName": "Rozgrzewacze Miêsa",
+            "desc": "Miêso¿erca.",
+            "battleLog0": "@flesheater@ zjada resztki wrogów i przywraca @hp@ ¿ycie!",
+            "battleLog1": "@flesheater@ zjedz resztki wrogów i przywróæ @hp@ ¿ycie!"
+        },
+        "765": {
+            "dlg": "Po zabezpieczeniu @town@ pl¹drujesz skarbiec!"
+        },
+        "766": {
+            "desc": "\nStosy ¿ywych stworzeñ w armii bohatera s¹ uzupe³niane co tydzieñ o @percent@%"
+        },
+        "768": {
+            "select": "Wybierz status opcji:",
+            "enable": "W³¹cz przypomnienie o zasobach potworów",
+            "exit": "WyjdŸ bez zmian",
+            "ask": "@mon@ mia³ zasoby. Chcesz je zebraæ?\n\n(Kliknij prawym przyciskiem myszy minimapê, aby ponownie w³¹czyæ wyœwietlanie opcji)",
+            "opt1": "Tak, zbiera surowce, zu¿ywa 500 punktów ruchu (Obecnie: @movement@).",
+            "opt2": "Nie, nie zbieraj surowców, spieszy mi siê!",
+            "opt3": "Tak, zbieraj je za ka¿dym razem i nie wyœwietlaj wiêcej tych opcji.",
+            "opt4": "Nie, nie zbieraj ich i nie wyœwietlaj ponownie tych opcji.",
+            "fled": "Po @mon@ uciekli, armia @hero@ przeszukuje obóz i znajduje pozostawiony przez siebie skarb!",
+            "defeated": "Po pokonaniu @mon@, armia @hero@ przeszukuje obóz i znajduje skarb!"
+        },
+        "769": {
+            "singEncounter": "Gdy zbli¿ysz siê do @mon@, zobaczysz, ¿e zazdroœnie strze¿e {@art@}!",
+            "plurEncounter": "Gdy zbli¿ysz siê do @mon@, zobaczysz, ¿e zazdroœnie strzeg¹ {@art@}!",
+            "leave": "Teraz, gdy zagro¿enie zosta³o wyeliminowane, @hero@ otrzymuje:"
+        },
+        "770": {
+            "msg": "@tyrant@ Gracz sta³ siê tyranem posiadaj¹cym wszystkie neutralne miasta, kopalnie i domy poziomu 1-4 w tej krainie."
+        },
+        "773": {
+            "desc1": "{Podstawowa nawigacja}\n\n+10% ruchu wody\nZmniejsza koszt wejœcia na pok³ad/l¹dowania o 100 MP",
+            "desc2": "{Zaawansowana nawigacja}\n\n+20% ruchu wody\nZmniejsza koszt wejœcia na pok³ad/l¹dowania o 200 MP",
+            "desc3": "{Ekspercka nawigacja}\n\n+30% ruchu wody\nZmniejsza koszt wejœcia na pok³ad/l¹dowania o 300 MP",
+            "spec": "{Nawigacja}\n\nZwiêksza umiejêtnoœæ nawigacji o 5% na poziom\nZmniejsza koszt wejœcia na pok³ad/l¹dowania o kolejne 100 MP",
+            "logSpec": "{Logistyka}\n\nOtrzymuje 5% premii na ka¿dy poziom do procentu umiejêtnoœci logistyki"
+        },
+        "774": {
+            "desc1": "\nBohater gromadzi pewn¹ iloœæ doœwiadczenia, któr¹ mo¿e przekazaæ w miarê zdobywania kolejnych poziomów",
+            "desc2": "\nBohater zbiera iloœæ doœwiadczenia, któr¹ mo¿e przekazaæ w miarê awansowania na wy¿szy poziom (gromadzi dwa razy wiêcej doœwiadczenia, a czas szkolenia skraca siê o po³owê)",
+            "desc3": "\nBohater zbiera iloœæ doœwiadczenia, któr¹ mo¿e przekazaæ w miarê zdobywania kolejnych poziomów (gromadzi trzykrotnie wiêcej doœwiadczenia, a czas szkolenia zostaje skrócony trzykrotnie)",
+            "maleDlg": "Podczas wielu podró¿y i bitew @hero1@ zdoby³ sporo doœwiadczenia, którego czêœci¹ mo¿e podzieliæ siê z sojusznikiem. Ale to zajmie trochê czasu.\n\n{@hero1@ i @hero2@: -@movement@ punkty ruchu}\n{@hero2@: +@exp@ doœwiadczenie}\n\nRozpocz¹æ naukê?",
+            "femaleDlg": "Podczas wielu podró¿y i bitew @hero1@ zdoby³ sporo doœwiadczenia, którego czêœci¹ mo¿e podzieliæ siê z sojusznikiem. Ale to zajmie trochê czasu.\n\n{@hero1@ i @hero2@: -@movement@ punkty ruchu}\n{@hero2@: +@exp@ doœwiadczenie}\n\nRozpocz¹æ naukê?"
+        },
+        "775": {
+            "dwell73": "Pozdrawiam, @hero@!\n\n{*hobbit-starszy uœmiecha siê *}\n\nWidzê, ¿e myœlisz, ¿e „oni\" s¹ wojownikami, hehe! Có¿, niektórzy z nich mog¹ byæ po krótkim kursie M³odych Procarzy. Daj nam trochê, abyœmy mogli spróbowaæ ich uczyæ, ale ci, którzy sobie nie poradz¹, bêd¹ musieli dla nas pracowaæ.\nCzy to brzmi dobrze?\n\n{[Otrzymasz: @num@ @mon@]}",
+            "dwell78": "Czeœæ, @hero@!\n\n{*przywódca bandytów uœmiecha siê przebiegle*}\n\nNaprawdê chcia³eœ walczyæ z tymi palantami? Pospiesz siê. Ich praca? Mycie pod³óg i gotowanie? A skoro ju¿ o tym mowa, moi ludzie ju¿ zepsuli ca³y ten szajs. Potrzebujê kilku g³ów, które potrafi¹ gotowaæ i sprz¹taæ lepiej ni¿ ta grupa. Zostaw nam tych „wojowników\", a ja dam ci kilku moich ludzi. Ci dranie to okropni ludzie, ale nie po¿a³ujesz!\n\n{[Otrzymasz: @num@ @mon@]}",
+            "dwell77": "Nie przechodŸ, @hero@!\n\n{* s¹dz¹c po ubraniu i efektownym mieczu, to ich dowódca *}\n\nNiedawno ponieœliœmy powa¿ne straty i teraz mamy kilka dodatkowych koni. Moglibyœmy przygotowaæ kilka koni i wyszkoliæ twoich wojowników do jazdy konnej i pos³ugiwania siê mieczem, ale czêœæ z nich bêdzie musia³a do³¹czyæ do naszej dywizji, aby uzupe³niæ niedawne straty.\nJak myœlisz?\n\n{[Otrzymasz: @num@ @mon@]}",
+            "dwell79": "PrzyjdŸ! Przynosisz jedzenie?\n{*wielki troll wychodzi ci na spotkanie *}\nTrolle, du¿e. Jeœæ ma³o.\nTrolle g³oduj¹. Zwierzêta smaczne.\nJeŸdŸcy pyszni. Trolle musz¹ jeœæ.\nTrolle ciê chroni¹. Trolle s¹ dobre.\nTak?\n\n{[Otrzymasz: @num@ @mon@]}",
+            "dwell76": "Kl¹twa Ciê nie dotknie, @hero@, nie bój siê. PrzyjdŸ tutaj... WyobraŸ sobie ca³e nasze wielowiekowe doœwiadczenie do Twojej dyspozycji. Widzê, ¿e masz odpowiednie „rzeczy\" dla naszych… hm… potrzeb.\n\n{* jesteœ bardzo zainteresowany tym, co mówi ta staro¿ytna mumia *}\n\nMo¿emy dokonaæ wymiany na kilku {wojowników} {którzy} {nie} {nie} {strach} {œmieræ}.\nCzy masz jakieœ?\n\n{[Otrzymasz: @num@ @mon@]}",
+            "dwell98": "Witam, witam! Jesteœ w sam¹ porê...\nCzy chcesz {ulepszyæ} swoich wojowników?\n{* œlina cieknie z ust wilko³aka alfa *}\nOczywiœcie nie wszyscy... Ci, którzy nie prze¿yj¹ transformacji, stwierdz¹ burczenie w brzuchu...\n\n{[Otrzymasz: @num@ @mon@]}"
+        },
+        "776": {
+            "name": "{El. T³umienie}",
+            "desc": "\n\nZmniejsza magiczne umiejêtnoœci przeciwnika we wszystkich szko³ach o @lv@ poziom",
+            "neutralized": " (neutralizowany przez wszelkie ``t³umi¹ce artefakty\"\" i umiejêtnoœæ T³umienia ¯ywio³ów wroga)",
+            "spec": "{T³umienie ¿ywio³ów}\n\nDzia³a jak dodatkowy poziom umiejêtnoœci {T³umienie ¯ywio³ów}",
+            "suppArt": "\n\n{T³umi¹cy artefakt}"
+        },
+        "777": {
+            "desc": "\nZmniejsza obra¿enia magiczne otrzymywane przez armie bohaterów o @percent@%",
+            "spec": "{Opór}\n\nOtrzymuje premiê 5% na poziom do procentu umiejêtnoœci Ruchu Oporu\nZmniejsza obra¿enia magiczne otrzymywane od armii bohaterów o {5}%"
+        },
+        "779": {
+            "dlg": "{Kamieñ do nauki}\n\nNa tym kamieniu wyryta jest M¹droœæ Wieków. Czêœæ z Was rozumie, ale reszta na zawsze pozostanie zagadk¹..."
+        },
+        "782": {
+            "name": "{Medycyna}",
+            "desc1": "{Podstawowa medycyna}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 1\nPozwala kontrolowaæ namiot pierwszej pomocy lecz¹cy 26-50 punktów obra¿eñ",
+            "desc2": "{Medycyna zaawansowana}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 2\nPozwala kontrolowaæ namiot pierwszej pomocy lecz¹cy 51-75 punktów obra¿eñ",
+            "desc3": "{Ekspert Medycyny}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 3\nPozwala kontrolowaæ namiot pierwszej pomocy lecz¹cy 76-100 punktów obra¿eñ",
+            "spec": "{Medycyna}\n\nZwiêksza zdrowie ¿ywych stworzeñ o 1\nLeczenie w Namiocie Pierwszej Pomocy wzrasta o 25 punktów",
+            "battleLog": "Leczenie w Namiocie Pierwszej Pomocy zostaje zwiêkszone o @hp@ zwrotnica."
+        },
+        "783": {
+            "dlg": "Dzieñ dobry, bohaterze!\n\nMoja specjalnoœæ to: {@spec@}.\n\n@condition@",
+            "ask": "Móg³bym ciê uczyæ za skromn¹ op³atê w wysokoœci @gold@ z³oto. Czy akceptujesz?",
+            "cantAfford": "Jeœli chcesz, ¿ebym Ciê przeszkoli³, wróæ, gdy bêdziesz móg³ zap³aciæ @gold@ z³oto za szkolenie.",
+            "noNew": "Przykro mi, ale nie mogê Ciê nauczyæ niczego nowego.",
+            "spell0": "Wszystko, co musisz przestudiowaæ, to Ksiêga Zaklêæ i @gold@ z³oto.",
+            "spell1": "Jedyne, czego musisz siê nauczyæ, to Podstawowa M¹droœæ, Ksiêga Zaklêæ i @gold@ z³oto.",
+            "spell2": "Jedyne, czego musisz siê nauczyæ, to Zaawansowana M¹droœæ, Ksiêga Zaklêæ i @gold@ z³oto.",
+            "spell3": "Wszystko, co musisz przestudiowaæ, to M¹droœæ Eksperta, Ksiêga Zaklêæ i @gold@ z³oto.",
+            "rmb": "Specjalnoœæ naukowa:"
+        },
+        "785": {
+            "button": "Dodaj Peony",
+            "dlg1": "Peoni w tym mieœcie przynosz¹ ci @gold@ z³oto ka¿dego dnia.\nKtóre jednostki chcesz rozwi¹zaæ i wyjechaæ do pracy?",
+            "dlg2": "Peoni w tym mieœcie przynosz¹ ci @gold@ z³oto ka¿dego dnia.\nJednostki garnizonowe mo¿na wys³aæ do pracy.",
+            "opt": "@num@ @mon@ (@gold@z³ota dziennie)"
+        },
+        "786": {
+            "descA": "\n\nZmniejsza koszt zatrudniania lub ulepszania stworzeñ z obiektów na mapie do @percent1@% (tylko z³oto)",
+            "descB": "Zmniejsza cenê wykupu o @percent2@%",
+            "scholar": "Zmniejsza koszt szkolenia u uczonego o @percent@%"
+        },
+        "787": {
+            "desc": "\n\nUmo¿liwia dodatkowe przywracanie punktów zaklêæ:\n\nDo @percent1@% (minimum @min1@) za noc poza miastem\nDo @percent2@% (minimum @min2@) podczas wizyty w magicznej studni lub spêdzenia nocy w mieœcie z Gildi¹ Magów",
+            "spec": "{Mistycyzm}\n\nUmo¿liwia dodatkowe przywracanie punktów zaklêæ:\n\nDo 3% (minimum 1) za noc poza miastem.\nDo 20% (minimum 20) przy odwiedzeniu magicznej studni lub spêdzeniu nocy w mieœcie z Gildi¹ Magów",
+            "heroScr": "SP jest przywracane codziennie w tempie 3% maks. liczbê SP (ale nie jeœli bohater ma mniej ni¿ 1 SP). Nocowanie w mieœcie zwiêksza to a¿ o 20% (min. 20 SP) za ka¿dy poziom Gildii Magów w mieœcie.\n{@hero@} nocuj¹cy w tej lokalizacji przywróci do {@regenSp@} SP.",
+            "advMap": "{@hero@}\n\nMa {@currSp@} punktów zaklêæ z maksymalnej liczby {@maxSp@}.\nNocowanie w tej lokalizacji przywróci do {@regenSp@} punktów zaklêæ."
+        },
+        "788": {
+            "battlemage": "{Mag bitewny}\n\nBohater otrzymuje premiê do obra¿eñ od zaklêæ o {5%} na poziom.",
+            "creaSpec": "{Specjalista od stworzeñ}\n\nWraz ze zmianami specjalizacji bohatera, stworzenia nie otrzymuj¹ niektórych bonusów do statystyk.",
+            "skillMaster": "{Mistrz umiejêtnoœci}\n\nSpecjalizacjê bohatera mo¿na teraz efektywniej wykorzystaæ.",
+            "creaTrainer": "{Trener stworów}\n\nBohater mo¿e dalej ulepszaæ swoje oddzia³y.\n{@mon1@ i @mon2@}> {@upg@}",
+            "supplier0": "{Dostawca}\n\nBohater codziennie przynosi do skarbca miasta {1} dodatkowych zasobów (zwi¹zanych ze specjalizacj¹).",
+            "supplier1": "{Dostawca}\n\nOprócz dziennego dochodu bohater wnosi teraz do skarbca miasta {350 sztuk z³ota}.",
+            "scholarOfDeath": "{Uczony Œmierci}\n\nBohater mo¿e jeszcze bardziej ulepszyæ swoje oddzia³y dziêki {Nekromancji}.\n{@mon1@ i @mon2@}> {@upg@}",
+            "auraOfCurse0": "{Aura Kl¹twy}\n\nNa bohatera spada kl¹twa, która zmniejsza o po³owê atak wszystkich jednostek na polu bitwy.",
+            "auraOfCurse1": "{Aura Kl¹twy}\n\nNa bohatera spada kl¹twa, która zmniejsza o po³owê obronê wszystkich jednostek na polu bitwy.",
+            "auraOfCurse2": "{Aura Kl¹twy}\n\nNa bohatera spada kl¹twa, która zmusza wszystkie jednostki na polu bitwy do zadania jedynie {minimalnych obra¿eñ}.",
+            "auraOfCurse3": "{Aura Kl¹twy}\n\nNa bohatera spada kl¹twa, która zmniejsza o po³owê prêdkoœæ wszystkich jednostek na polu bitwy.",
+            "reborn": "\n\n{~r}Odrodzony bohater{~}",
+            "battleLog0": "Aura Kl¹twy {@hero@ zmniejsza o po³owê atak wszystkich jednostek!}",
+            "battleLog1": "Aura Kl¹twy {@hero@ zmniejsza o po³owê obronê wszystkich jednostek!}",
+            "battleLog2": "Aura Kl¹twy {@hero@ zmusza wszystkie jednostki do zadawania minimalnych obra¿eñ!}",
+            "battleLog3": "Aura Kl¹twy {@hero@ zmniejsza o po³owê prêdkoœæ wszystkich jednostek!}"
+        },
+        "789": {
+            "desc": "\nDaje @percent@% szansy na zadanie ka¿demu celowi x1,5 obra¿eñ od zaklêæ",
+            "spec": "{Czary}\n\nOtrzymuje premiê 5% na ka¿dy poziom do procentu umiejêtnoœci Czarnoksiêstwa\nDodaje 10% szansy na zadanie ka¿demu celowi x1,5 obra¿eñ od zaklêæ"
+        },
+        "790": {
+            "dlg": "Wydaæ ca³¹ manê na to zaklêcie?\n\nOczekiwane obra¿enia to: @dmg@."
+        },
+        "791": {
+            "dlg": "To zasadzka!\n\nJesteœ otoczony przez bandytów!"
+        },
+        "793": {
+            "name": "{Gospodarka}",
+            "desc1": "{Podstawowa ekonomia}\n\nZwiêksza dzienny dochód miast o 5%",
+            "desc2": "{Zaawansowana ekonomia}\n\nZwiêksza dzienny dochód miast o 10%",
+            "desc3": "{ekspercka ekonomia}\n\nZwiêksza dzienny dochód miast o 15%",
+            "spec": "{Gospodarka}\n\nZwiêksz dzienny dochód miast o 5%",
+            "currBonus": "\nAktualny bonus: {@gold@} z³ota dziennie"
+        },
+        "794": {
+            "title": "Odkryj mapê.\n\nWybierz, którym graczom chcesz ujawniæ mapê:",
+            "opt": "@player@ (@colour@)"
+        },
+        "795": {
+            "desc": "\nHarcerze do @range@ kwadraty w nocy",
+
+            "assassins": {
+                "singName": "Morderca",
+                "plurName": "Zabójcy",
+                "appear": "{Oddzia³ Zabójców wy³ania siê z cienia!}",
+                "disappear": "{Oddzia³ Zabójców znika w cieniu!}",
+                "noUnits": "Temu bohaterowi nie towarzysz¹ {Zabójcy}.\n\nByæ mo¿e bêdziemy musieli niektórych wyœledziæ.",
+                "header": "Bohaterowi temu towarzyszy oddzia³ lojalnych {Zabójców}.\n\nKwota: @num@ jednostki.",
+                "allow": "Zabójcy mog¹ braæ udzia³ w bitwach\n\nCzy chcesz uniemo¿liwiæ Zabójcom udzia³ w bitwach?",
+                "restrict": "Zabójcy {nie mog¹} braæ udzia³u w bitwach.\n\nCzy chcesz pozwoliæ Zabójcom na udzia³ w bitwach?",
+                "capture": "Zabójcy pokonanego wroga prosz¹ bohatera o wykorzystanie jego ¿ycia w zamian za z³oto lub lojalnoœæ."
+            }
+        },
+        "796": {
+            "scroll": "Czy chcesz zniszczyæ zwój zaklêciem @spell@ dostaæ @sp@ punkty zaklêæ?",
+            "banner": "Czy chcesz nagrodziæ ¿o³nierzy tym sztandarem, aby zainspirowaæ ich do drugiego oddechu?\n{+500 punktów ruchu na 3 dni, pocz¹wszy od jutra.}",
+            "art": "Czy na pewno chcesz poœwiêciæ ten artefakt bez pomocy o³tarza?\n(To poœwiêcenie da tylko @exp@ punkty doœwiadczenia.)"
+        },
+        "822": {
+            "wraithDesc": "_ 30% bloku.",
+            "shooterDesc": "_ Zmniejsza @percent@% otrzymywanych obra¿eñ fizycznych.",
+            "battleLog": "@mon@ uda³o siê zablokowaæ kolejny atak."
+        },
+        "878": {
+            "person1": "M³ody mê¿czyzna",
+            "person2": "Starszy wieœniak",
+            "person3": "Wiejska dziewczyna",
+            "enemy1": "stworzenia",
+            "enemy2": "uzurpatorzy",
+            "enemy3": "bezczeœciciele",
+            "exp1": "Przyjmij te ksi¹¿ki jako prezent. Czytaj¹c je, mo¿na siê wiele dowiedzieæ.",
+            "exp2": "Pozwól, ¿e podzielê siê z Tob¹ moj¹ wiedz¹.",
+            "exp3": "¯yczê wam oœwiecenia w wiedzy.",
+            "dlg": "@person@ podchodzi do ciebie:\n\"Dziêkujê za wydalenie @enemy@ bez rozlewu krwi. @exp@\""
+        },
+        "879": {
+            "109_Sent": "{Ko³o wodne}\n\nW tym tygodniu m³ynarz przys³a³ ju¿ z³oto. Nic nowego, dopiero w przysz³ym tygodniu.",
+            "109_Gives": "{Ko³o wodne}\n\nKo³o wodne jest teraz pod twoj¹ kontrol¹. Teraz co tydzieñ m³ynarz przyniesie ci z³oto.\nTeraz daje:",
+            "109_Owned": "{Ko³o wodne}\n\nKo³o wodne jest teraz pod twoj¹ kontrol¹. Teraz co tydzieñ m³ynarz przyniesie ci z³oto.",
+            "109_Brought": "\nMiller przyniós³ w tym tygodniu:",
+            "112_Sent": "{Wiatrak}\n\nW tym tygodniu m³ynarz przys³a³ ju¿ surowce. Nic nowego, dopiero w przysz³ym tygodniu.",
+            "112_Gives": "{Wiatrak}\n\nWiatrak jest teraz pod twoj¹ kontrol¹. Teraz co tydzieñ m³ynarz bêdzie przynosi³ Ci zasoby.\nTeraz daje:",
+            "112_Owned": "{Wiatrak}\n\nWiatrak jest teraz pod twoj¹ kontrol¹. Teraz co tydzieñ m³ynarz bêdzie przynosi³ Ci zasoby.",
+            "112_Brought": "\nMiller przyniós³ w tym tygodniu:",
+            "55_Sent": "{Mistyczny Ogród}\n\nW tym tygodniu krasnoludek wys³a³ ju¿ Ci to, co jest mu winien. Nic nowego, dopiero w przysz³ym tygodniu.",
+            "55_Gives": "{Mistyczny Ogród}\n\nZdoby³eœ Mistyczny Ogród. Teraz co tydzieñ krasnoludek przyniesie ci z³oto lub klejnoty.\nTeraz daje:",
+            "55_Owned": "{Mistyczny Ogród}\n\nZdoby³eœ Mistyczny Ogród. Teraz co tydzieñ krasnoludek przyniesie ci z³oto lub klejnoty.",
+            "55_Brought": "\nLeprechaun przyniós³ w tym tygodniu:",
+            "improved": "Ulepszone _"
+        },
+        "880": {
+            "noHero": "Tylko odwiedzaj¹cy bohaterowie mog¹ studiowaæ zwoje zaklêæ.",
+            "noBook": "Nie masz ksiêgi zaklêæ, aby studiowaæ zwoje zaklêæ.",
+            "ask": "Czy chcesz pisaæ zaklêcia ze swoich zwojów do Ksiêgi Zaklêæ przez @gold@ z³oto?",
+            "cantAfford": "Nie masz wystarczaj¹cej iloœci z³ota, aby zap³aciæ.",
+            "noScroll": "Nie masz zwoju zaklêæ, który moglibyœmy zapisaæ w Twojej Ksiêdze Zaklêæ."
+        },
+        "881": {
+            "noPoint": "Nie masz ¿adnych wolnych punktów umiejêtnoœci.",
+            "ask1": "Dodaæ punkty do tej umiejêtnoœci?",
+            "ask2": "Ile punktów umiejêtnoœci dodaæ?",
+            "avail": "(Dostêpne punkty umiejêtnoœci: @points@)"
+        },
+        "882": {
+            "desc": "\n\n{Stra¿nik szkieletu}: ",
+            "ability": {
+                "0": "¯adnego odwetu",
+                "1": "Uderza dwa razy",
+                "2": "Atakuj dooko³a"
+            }
+        },
+        "995": {
+            "hint": "Dystansowe spojrzenie œmierci (obra¿enia: @dmg@ obra¿enia, zabójstwa: @kill@)",
+            "battleLog": "Oferty na Spojrzenie Œmierci @dmg@ szkoda. @kill@ stworzenia umieraj¹."
+        },
+        "996": {
+            "desc": "Pierwsze uderzenie."
+        },
+        "997": {
+            "desc": "Wielki manewr."
+        }
+    }
+}

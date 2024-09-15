@@ -1,0 +1,56 @@
+132000	{UWAGA STARA WERSJA} 
+ 
+Posiadasz zbyt star¹ wersjê dodatku WoG i/lub ERM 
+aby u¿ywaæ 
+skryptu {Kamienny Kr¹g Przywo³ania} w wersji 1.0.
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	08.06.2003
+132001	Kamienny Kr¹g Przywo³ania (Nie odwiedzony)	String type = <!#S>	08.06.2003
+132002	Kamienny Kr¹g Przywo³ania (Odwiedzony)	String type = <!#S>	08.06.2003
+132003	{Kamienny Kr¹g Przywo³ania} 
+ 
+Kamienny Kr¹g Przywo³ania stoi milcz¹cy, jego moc jest wyczerpana. Spróbuj jutro.	String type = <!!M>	08.06.2003
+132004	{Kamienny Kr¹g Przywo³ania} 
+ 
+Kamienny Kr¹g Przywo³ania jest bezu¿yteczny dla ciebie, gdy¿ nie masz ¿adnego zamku pod swoj¹ komend¹.	String type = <!!M>	08.06.2003
+132005	{Kamienny Kr¹g Przywo³ania} 
+ 
+Czy ¿yczysz sobie u¿yæ mocy Kamiennego Krêgu Przywo³ania i przywo³aæ stworzenia z twojego zamku?	String type = <!!Q>	08.06.2003
+132006	Zakup	String type = <!!S>	08.06.2003
+132007	Kup stworzenia z zamku.	String type = <!!S>	08.06.2003
+132008	Garnizon	String type = <!!S>	08.06.2003
+132009	Transportuj istniej¹c¹ armiê z garnizonu stacjonuj¹cego w zamku.	String type = <!!S>	08.06.2003
+132010	Chcesz kupiæ jednostki dostêpne w zamku czy przetransportowaæ stworzenia z garnizonu?	String type = <!!Q>	08.06.2003
+132011	Zamek	String type = <!!S>	08.06.2003
+132012	Bastion	String type = <!!S>	08.06.2003
+132013	Forteca	String type = <!!S>	08.06.2003
+132014	Inferno	String type = <!!S>	08.06.2003
+132015	Nekropolia	String type = <!!S>	08.06.2003
+132016	Lochy	String type = <!!S>	08.06.2003
+132017	Twierdza	String type = <!!S>	08.06.2003
+132018	Cytadela	String type = <!!S>	08.06.2003
+132019	Wrota ¯ywio³ów	String type = <!!S>	08.06.2003
+132020	Wybierz zamek z którego chcesz transportowaæ stworzenia	String type = <!!S>	08.06.2003
+132021	Nie dziêkujê. Zmieni³em zdanie.	String type = <!!S>	08.06.2003
+132022	Przykro mi, ale w %Z1 nie ma ¿adnych stworzeñ do przetransportowania.	String type = <!!M>	08.06.2003
+132023	%Z1: Jakie stworzenia chcesz zakupiæ z tego zamku?	String type = <!!S>	08.06.2003
+132024	Nie dziêkujê. Zmieni³em zdanie.	String type = <!!S>	08.06.2003
+132025	 i 	String type = <!!S>	08.06.2003
+132026	Kup	String type = <!!S>	08.06.2003
+132027	za	String type = <!!S>	08.06.2003
+132028	sztuk z³ota	String type = <!!S>	08.06.2003
+132029	Drewno	String type = <!!S>	08.06.2003
+132030	Rtêæ	String type = <!!S>	08.06.2003
+132031	Ruda	String type = <!!S>	08.06.2003
+132032	Siarka	String type = <!!S>	08.06.2003
+132033	Kryszta³y	String type = <!!S>	08.06.2003
+132034	Kryszta³	String type = <!!S>	08.06.2003
+132035	Klejnoty	String type = <!!S>	08.06.2003
+132036	Klejnot	String type = <!!S>	08.06.2003
+132037	Przykro mi, ale nie staæ ciê na zakup stworzeñ: %Z2.	String type = <!!Q>	08.06.2003
+132038	Przykro mi, ale w garnizonie %Z1 nie ma ¿adnych stworzeñ do przetransportowania.	String type = <!!M>	08.06.2003
+132039	%Z1: Które stworzenia chcesz przetransportowaæ z 
+garnizonu w mieœcie?	String type = <!!S>	08.06.2003
+132040	¯adne. Zmieni³em zdanie.	String type = <!!S>	08.06.2003
+132041	Transport	String type = <!!S>	08.06.2003
+132042	z garnizonu.	String type = <!!S>	08.06.2003

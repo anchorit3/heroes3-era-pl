@@ -1,0 +1,124 @@
+#	Text resource for "script54.erm" document		
+154000	Namiot Medyka	<!!S>	01.08.2004
+154001	Namioty Medyka	<!!S>	01.08.2004
+154002	Katapulta	<!!S>	01.08.2004
+154003	Katapulty	<!!S>	01.08.2004
+154004	{Balista}	<!!S>	01.08.2004
+154005	{Wóz} {z} {Amunicj¹}	<!!S>	01.08.2004
+154006	{Namiot} {Medyka}	<!!S>	01.08.2004
+154007	%X3 %Z1{y}	<!!S>	01.08.2004
+154008	%Z1, Poziom {%Y6}  	<!!S>	01.08.2004
+154009	{Katapulta}	<!!S>	01.08.2004
+154010	%Z1{y}	<!!S>	01.08.2004
+154011	Poziom Podstawowy %Z1	<!!S>	01.08.2004
+154012	Poziom Zaawansowany %Z1	<!!S>	01.08.2004
+154013	Poziom Mistrzowski %Z1	<!!S>	01.08.2004
+154014	%X3 %Z1	<!!S>	01.08.2004
+154015	{%Z2}
+
+Poziom {%Y8}
+
+%Z5	<!!S>	01.08.2004
+154016	Poziom {%Y8} %Z2	<!!S>	01.08.2004
+154017	
+
+Brak z³ota.	<!!S>	01.08.2004
+154018	
+
+%Z3 - zbyt niski poziom.	<!!S>	01.08.2004
+154019	
+
+Mo¿na ulepszyæ machinê tylko raz dziennie.
+Wróæ jutro.	<!!S>	01.08.2004
+154020	{%Z1}
+
+%Z3 - czy chcesz ulepszyæ 
+%Z2 poziom {%Y6}?
+Przejœcie na nastêpny poziom bêdzie kosztowa³o {%Y7} sztuk z³ota.%Z4	<!!Q>	01.08.2004
+154021	{Katapulta}	<!!S>	01.08.2004
+154022	{Katapulta} poziom podstawowy	<!!S>	01.08.2004
+154023	{Katapulta} poziom zaawansowany	<!!S>	01.08.2004
+154024	{Katapulta} poziom mistrzowski	<!!S>	01.08.2004
+154025	{Balista} poziom {%Y6} 	<!!S>	01.08.2004
+154026	{Wóz} {z} {Amunicj¹} poziom {%Y6}	<!!S>	01.08.2004
+154027	{Namiot} {Medyka} poziom {%Y6}	<!!S>	01.08.2004
+154028	U¿ywaj tej machiny podczas
+oblê¿enia do niszczenia umocnieñ
+wroga.
+
+%Z5	<!!S>	01.08.2004
+154029	U¿yj tej machiny do
+niszczenia oddzia³ów wroga.
+
+%Z5	<!!S>	01.08.2004
+154030	Dziêki Wozowi z Amunicj¹
+twoim oddzia³om nigdy nie 
+zabraknie pocisków.
+
+%Z5	<!!S>	01.08.2004
+154031	Dziêki namiotowi medyka
+na pocz¹tku ka¿dej kolejki 
+leczony jest jeden z twoich oddzia³ów.
+
+%Z5	<!!S>	01.08.2004
+154032	Tego przedmiotu nie mo¿na wymieniæ.	<!!S>	01.08.2004
+154033	W³¹czone	<!!S>	01.08.2004
+154034	Wy³¹czone	<!!S>	01.08.2004
+154035	wy³¹czyæ	<!!S>	01.08.2004
+154036	w³¹czyæ ponownie	<!!S>	01.08.2004
+154037	jego	<!!S>	01.08.2004
+154038	jej	<!!S>	01.08.2004
+154039	%Z1
+
+{%Z4}
+
+%Z7 mo¿e wybraæ czy chce
+w³¹czyæ czy wy³¹czyæ
+swe machiny podczas walki.
+
+Chcesz je {%Z5}?	<!!Q>	01.08.2004
+154040	Katapulta	<!!S>	01.08.2004
+154041	Balista	<!!S>	01.08.2004
+154042	Wóz z Amunicj¹	<!!S>	01.08.2004
+154043	Namiot Medyka	<!!S>	01.08.2004
+154044	W³¹czony/a	<!!S>	01.08.2004
+154045	Wy³¹czony/a	<!!S>	01.08.2004
+154046	%Z1
+
+%Z7's %Z2
+jest teraz {%Z4}.	<!!Q>	01.08.2004
+154047	Pozwala {%Y10} strzelaæ podczas walki.
+	<!!S>	01.08.2004
+154048	%Z3 Obecnie ma {%Y8} punktów ¿ycia.	<!!S>	01.08.2004
+154049	Zdolnoœæ {Wskrzeszania}.
+	<!!S>	01.08.2004
+154050	%Z6 Daje (leczy?) {%Y7}%% punktów ¿ycia
+i posiada {%Y8} P¯.	<!!S>	01.08.2004
+154051	ów	<!!S>	01.08.2004
+154052	Daje (odzyskuje) {%X4} punkt%Z4 mocy w ka¿dej turze
+oraz posiada {%Y8} punktów ¿ycia.	<!!S>	01.08.2004
+154053	Cel traci {%Y11} punkt%Z4 szybkoœci.
+	<!!S>	01.08.2004
+154054	%Z6 Zadaje {%Y7}%% obra¿eñ
+i posiada {%Y8} punktów ¿ycia.	<!!S>	01.08.2004
+154055	{%Z3}
+pusta ksiêga.	<!!S>	01.08.2004
+154056	{%Z3:}
+Ksiêga Zaklêæ
+zawiera
+{%V1} zaklêæ.	<!!S>	01.08.2004
+154057	{%Z3:}
+Ksiêga Zaklêæ
+jest pe³na.	<!!S>	01.08.2004
+154058	{Ksiêga Zaklêæ}
+
+Kliknij LPM na Ksiêdze Zaklêæ
+by zobaczyæ zaklêcia.	<!!S>	01.08.2004
+154059	{Ksiêga Zaklêæ}
+
+Tego przedmiotu nie mo¿na wymieniæ.	<!!S>	01.08.2004
+154060	s	<!!S>	01.08.2004
+154061	%Z1
+
+{%Z3:} Ksiêga Zaklêæ
+zawiera zaklêæ: {%V1}.	<!!S>	01.08.2004

@@ -1,0 +1,10 @@
+115000	Siedlisko Tajemnych Stworzeñ	String type = <!#S>	07.06.2003
+115001	Siedlisko Tajemnych Stworzeñ (puste)	String type = <!#S>	07.06.2003
+115002	Witaj {%Z141}! 
+Niestety, ju¿ kupi³eœ w tym miejscu stworzenia.	String type = <!!M>	07.06.2003
+115003	Kiedy przekraczasz progi tego Tajemnego Siedliska, widzisz sprzedawcê schodz¹cego ku tobie: 
+"Ah, {%Z141}! 
+Widzê, ¿e nie kupi³eœ jeszcze tu ¿adnego stworzenia. ¯yczysz sobie kupiæ kilka sztuk za %Y4 sztuk z³ota?"	String type = <!!Q>	07.06.2003
+115004	Wróæ póŸniej!	String type = <!!M>	07.06.2003
+115005	"Nie staraj siê negocjowaæ ceny! 
+Nie masz dosyæ pieni¹dzy. Stworzenia kosztuj¹ %Y4 sztuk z³ota."	String type = <!!Q>	07.06.2003

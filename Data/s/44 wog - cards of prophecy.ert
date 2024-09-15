@@ -1,0 +1,45 @@
+134001	{Karty Tarota}
+Kiedy dochodzi do bitwy, zostaje wylosowana jedna karta z talii. Ka¿da karta wywo³uje inne dzia³anie.
+Dodaje tak¿e +1 do szczêœcia twojej armii.
+Kliknij PPM na Opcjach Systemu by wy³¹czyæ informacje o wylosowanych dzia³aniach pojawiaj¹ce siê przed ka¿d¹ walk¹.
+		
+134002	{Odwrócony} As 		
+134003	As 		
+134004	Walet 		
+134005	Rycerz 		
+134006	Królowa 		
+134007	Król 		
+134008	Mieczy		
+134009	Pentagramów		
+134010	Bere³		
+134011	Pucharów		
+134012	atak		
+134013	obronê		
+134014	moc		
+134015	wiedzê		
+134016	zwiêksza siê		
+134017	zmniejsza siê		
+134018	Bitwa zaczyna siê, %Z2 wy³ania siê z talii  Kart Tarota.
+%Z3 %Z5 o %X3 w tej potyczce.		
+134019	Bitwa zaczyna siê, Imperator wy³ania siê z talii Kart Tarota.
+%Z1: wszystkie wartoœci statystyk Bohatera zmieniaj¹ si³ê ataku na czas tej potyczki.		
+134020	Bitwa zaczyna siê, Cesarzowa wy³ania siê z talii Kart Tarota. 
+%Z1: wszystkie wartoœci statystyk Bohatera zmieniaj¹ si³ê obrony na czas tej potyczki.		
+134021	Bitwa zaczyna siê, Czarodziej wy³ania siê z talii Kart Tarota.
+Z1: wszystkie wartoœci statystyk Bohatera zmieniaj¹ poziom mocy magicznej na czas tej potyczki.		
+134022	Bitwa zaczyna siê, Pustelnik wy³ania siê z talii Kart Tarota.
+%Z1: wszystkie wartoœci statystyk Bohatera zmieniaj¹ poziom wiedzy na czas tej potyczki.		
+134023	Bitwa zaczyna siê, Znachor wy³ania siê z talii Kart Tarota.
+%Z1: wszystkie wartoœci statystyk Bohatera s¹ zrównowa¿one na czas tej potyczki.		
+134024	Bitwa zaczyna siê, {Odwrócony} G³upiec wy³ania siê z talii Kart Tarota.
+%Z1: wszystkie wartoœci statystyk s¹ stracone na czas tej potyczki.		
+134025	Bitwa zaczyna siê, G³upiec wy³ania siê z talii Kart Tarota.
+%Z1: wszystkie wartoœci statystyk s¹ pomieszane? (scrambled) na czas tej potyczki.		
+134026	Bitwa zaczyna siê, {Odwrócony} Imperator wy³ania siê z talii Kart Tarota. 
+%Z1: ca³a wartoœæ ataku Bohatera zostaje rozdzielona pomiêdzy inne statystyki na czas tej potyczki.		
+134027	Bitwa zaczyna siê, {Odwrócona} Cesarzowa wy³ania siê z talii Kart Tarota. 
+%Z1: ca³a wartoœæ obrony Bohatera zostaje rozdzielona pomiêdzy inne statystyki na czas tej potyczki.		
+134028	Bitwa zaczyna siê, {Odwrócona} Czarodziej wy³ania siê z talii Kart Tarota. 
+%Z1: ca³a wartoœæ mocy Bohatera zostaje rozdzielona pomiêdzy inne statystyki na czas tej potyczki.		
+134029	Bitwa zaczyna siê, {Odwrócona} Pustelnik wy³ania siê z talii Kart Tarota. 
+%Z1: ca³a wartoœæ wiedzy Bohatera zostaje rozdzielona pomiêdzy inne statystyki na czas tej potyczki.		

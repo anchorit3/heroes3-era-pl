@@ -1,0 +1,8 @@
+{
+	"es": {
+		"interface": {
+			"dn1":	"Umiejętność \"Nekromancji\"\n\n{~lime}Aktywna{~}\n\n{Wyłączyć?}",
+			"dn2":	"Umiejętność \"Nekromancji\"\n\n{~red}Nieaktywna{~}\n\n{Włączyć?}",
+		}
+	}
+}

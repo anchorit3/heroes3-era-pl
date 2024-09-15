@@ -1,0 +1,47 @@
+#	Text resource for "script45.erm" document		
+145000	{Rekrutacja Oddzia³ów}  
+Ulepszenie tego {siedliska} {potworów} {%V431} {poziomu} zwiêkszy 
+w tym mieœcie przyrost jednostek o %X8 tygodniowo. 
+To siedlisko obecnie oferuje dodatkowe {%V435} {jednostek} na tydzieñ. 
+ 
+{Koszt siedliska}:	<!!S>	01.08.2004
+145001	 
+%X7 sztuk z³ota	<!!S>	01.08.2004
+145002	drewno: %X1 szt.  	<!!S>	01.08.2004
+145003	ruda: %X3 szt.	<!!S>	01.08.2004
+145004	rtêæ: %X2 szt.  	<!!S>	01.08.2004
+145005	siarka: %X4 szt. 	<!!S>	01.08.2004
+145006	kryszta³y: %X5 szt.	<!!S>	01.08.2004
+145007	klejnoty: %X6 szt.	<!!S>	01.08.2004
+145008	
+W tym mieœcie ju¿ dziœ ulepszy³eœ siedlisko!	<!!S>	01.08.2004
+145009	
+Chcia³byœ zwiêkszyæ tygodniowy przyrost jednostek?	<!!S>	01.08.2004
+145010	
+Niestety, ale obecnie nie staæ ciê na ulepszenie siedliska.	<!!S>	01.08.2004
+145011	{Skarbiec} 
+ 
+Obecnie Skarbiec zapewnia ci dodatkowy dochód w wysokoœci {%V435} {sztuk} {z³ota} dziennie. 
+ 
+	<!!S>	01.08.2004
+145012	W tym mieœcie ju¿ dziœ ulepszy³eœ strukturê! 
+
+	<!!S>	01.08.2004
+145013	Chcia³byœ zwiêkszyæ swój dochód o {1000} {sztuk} {z³ota} dziennie?	<!!S>	01.08.2004
+145014	Niestety, zanim wybudujesz Skarbiec musisz wczeœniej wznieœæ {Ratusz}. 
+
+	<!!S>	01.08.2004
+145015	Niestety, ale obecnie nie staæ ciê na ulepszenie.
+
+	<!!S>	01.08.2004
+145016	Wybudowanie Skarbca wymaga 7000 sztuk z³ota i 2 sztabki Mithrilu.
+Skarbiec przynosi dochód w wysokoœci 1000 sztuk z³ota dziennie na ka¿de kolejne ulepszenie.	<!!S>	01.08.2004
+145017	Wybierz ulepszone siedlisko stworzeñ w celu dalszego ulepszenia,
+b¹dŸ aby zobaczyæ obecn¹ premiê w przyroœcie stworzeñ.	<!!S>	01.08.2004
+145018	Dziêkujê. Zmieni³em zdanie.	<!!S>	01.08.2004
+145019	Poziom %X16      (%Z-10)	<!!S>	01.08.2004
+145020	{Ulepszanie Siedlisk}
+
+Jeszcze nie wznios³eœ ¿adnego ulepszonego siedliska. Aby zwiêkszyæ przyrost stworzeñ mog¹ byæ ulepszane tylko ulepszone siedliska stworzeñ.	<!!M>	01.08.2004
+145021	Wznieœ b¹dŸ ulepsz Skarbiec	<!!S>	01.08.2004
+145022	Zwiêksz tygodniowy przyrost jednostek (wymagane ulepszone siedlisko danego stworzenia)	<!!S>	01.08.2004

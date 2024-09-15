@@ -1,0 +1,205 @@
+126000	Sztukmistrz	Created by Perfecto	18.08.2004
+126001	Zw¹ mnie %Z126000 i mogê ulepszyæ twoje artefakty. 
+Wybierz co chcesz zrobiæ.	 	
+126002	Zw¹ mnie %Z126000 i mogê ulepszyæ twoje artefakty. 
+ale w tej chwili jestem tak zmêczony, ¿e moje us³ugi kosztuj¹ dwa razy wiêcej. 
+Wybierz co chcesz zrobiæ.	 	
+126003	{%Z126000} 
+
+Moje us³ugi kosztuj¹ %Y21 sztuk z³ota. 
+Naprawdê chcesz ulepszyæ ten artefakt?	 	
+126004	{%Z126000} 
+
+Przykro mi, ale nie mogê ci pomóc! Nie masz ¿adnego artefaktu, którego mogê ulepszyæ.	 	
+126005	%Z126000 
+Dzier¿ysz %V4119 artefakt, który mogê ulepszyæ. Wybierz go.	 	
+126006	%Z126000 
+Dier¿ysz %V4119 artefakty, którê jestem w stanie ulepszyæ. 
+Wybierz jeden z nich.	 	
+126007	{%Z126000} 
+ 
+Moja oferta to: 
+ 
+Za {%V4135 sztuk z³ota} mogê ulepszyæ 
+%Z161 
+do ca³kowicie nowego artefaktu 
+%Z162. 
+ 
+Zgadasz siê ulepszyæ ten artefakt?  	 	
+126008	{%Z126000} 
+ 
+Ta us³uga kosztuje %V4135 sztuk z³ota. 
+Nie masz tyle pieniêdzy! Wróæ innym razem!	 	
+126009	%Z126000 {(w pe³ni si³)}	 	
+126010	%Z126000 {(umêczony)}	 	
+126011	%Z126000 {(u kresu si³)}	 	
+126012	{%Z126000} 
+
+Mogê ulepszyæ twe artefakty. 
+Ale jestem bez si³, zmêczony ca³odzienn¹ prac¹. 
+
+Zapraszam jutro.
+	 	
+126013	-   Dziêkujê. Zmieni³em zdanie.	 	
+126014	   (g³owa)	 	
+126015	   (ramiona)	 	
+126016	   (szyja)	 	
+126017	   (prawa rêka)	 	
+126018	   (lewa rêka)	 	
+126019	   (korpus)		
+126020	   (prawy pierœcieñ)		
+126021	   (lewy pierœcieñ)		
+126022	   (stopy)		
+126023	   (slot. 1)		
+126024	   (slot. 2)		
+126025	   (slot. 3)		
+126026	   (slot. 4)		
+126027	   (slot. 5)		
+126028	>   Nastêpna strona...		
+126029	<   Poprzednia strona...		
+126030	{%Z126000} 
+
+Jestem ju¿ zmêczony, ale jeœli taka twoja wola, mogê ulepszyæ drugi artefakt, jednak za wy¿sz¹ kwotê. 
+
+Chcesz skorzystaæ z mych us³ug p³ac¹c za nie dwa razy wiêcej?		
+126031	{%Z126000} 
+ 
+Moja oferta to: 
+ 
+Za {%V4135 sztuk z³ota} i {%Y2} {szt.} {Mithrilu} mogê ulepszyæ 
+%Z161 
+do ca³kowicie nowego artefaktu
+%Z162. 
+Czy chcesz ulepszyæ ten artefakt?  		
+126032	{%Z126000} 
+ 
+Praca wymaga %Y2 szt. Mithrilu. 
+Wróæ z potrzebn¹ iloœci¹ tego surowca!		
+126033	{%Z126000} 
+ 
+Praca wymaga %V4135 sztuk z³ota i %Y2 szt. Mithrilu. 
+Wróæ jak bêdzie ciê staæ na moje us³ugi!		
+126034	»   Ulepszyæ artefakt		
+126035	»   Zmieniæ artefakt na artefakt o podobnym dzia³aniu		
+126036	»   Po³¹czyæ grupê artefaktów w jeden potê¿niejszy artefakt		
+126037	?   Dowiedzieæ siê wiêcej o oferowanych us³ugach		
+126038	-   Opuœciæ to miejsce		
+126039	%Z126000 
+
+Wybierz artefakt, który chcesz otrzymaæ.		
+126040	{%Z126000} 
+
+Moja oferta to: 
+ 
+Za {%V4135 sztuk z³ota} mogê przemieniæ 
+%Z161 
+w ca³kowicie nowy artefakt 
+%Z162. 
+ 
+Zgadzasz siê?  		
+126041	{%Z126000} 
+
+Moja oferta to: 
+ 
+Za {%V4135 sztuk z³ota} i {%Y2} {szt.} {Mithrilu} mogê przemieniæ 
+%Z161 
+w ca³kowicie nowy artefakt
+%Z162. 
+ 
+Zgadzasz siê?  		
+126042	%Z126000 
+
+Wybierz grupê artefaktów, któr¹ chcesz po³¹czyæ.		
+126043	{1. Ulepszanie artefaktów.} 
+Ta us³uga pozwala na ulepszenie za³o¿onych artefaktów o jeden poziom. Oto  dostêpne drzewa ulepszeñ artefaktów: 
+
+Topór Centaura => Miecz Rycerza Œmierci => Wiêkszy Korbacz Gnolli => Niszczycielska Maczuga Ogrów => Miecz Ognia Piekielnego => Gladius Tytanów 
+
+Tarcza Krasnoludzkich W³adców => Tarcza Zion¹cej Œmierci => Puklerz Króla Gnolli => Tarcza Szalonego Ogra => Tarcza Potêpionych => Tarcza Stra¿nika Niebios 
+
+He³m Alabastrowego Jednoro¿ca => Czaszkowy He³m => He³m Chaosu => Korona Najwy¿szego Maga => He³m Piekielnego Sztormu => He³m Gromu 
+
+Zbroja ze Skamienia³ego Drzewa => Klatka ¯ebrowa => Kolczuga z £usek Bazyliszka => Tunika Króla Cyklopów => Zbroja Ognistej Mocy => Pancerz Tytana 
+
+Zbroja Cudów => Sanda³y Œwiêtego => Naszyjnik Boskiej Mocy => Tarcza Lwiej Odwagi => Miecz Sprawiedliwoœci => He³m Boskich Mocy 
+
+Oprawione Oko Smoka => Ognisty Jêzyk Czerwonego Smoka => Tarcza ze Smoczych £usek => Kolczuga ze Smoczych £usek 
+
+Nagolenniki ze Smoczych Koœci =>  P³aszcz ze Smoczych Skrzyde³ => Naszyjnik ze Smoczych Zêbów => Korona ze Smoczych Zêbów
+
+Zastyg³e Oko Smoka => Znak Odwagi 
+
+Amulet Grabarza => Kaptur Wampira => Buty Trupa 
+
+Naszyjnik Odpornoœci => Opoñcza Przeciwstawienia => Buty Odpornoœci 
+
+Elficki £uk z Drzewa Wiœni => Ciêciwa z Grzywy Jednoro¿ca => Anielskie Strza³y 
+
+Statuetka Poznania => Stoicki Obserwator => Emblemat Wiedzy 
+
+Medal Mê¿a Stanu => Pierœcieñ Dyplomaty => Szarfa Ambasadora 
+
+Pierœcieñ Wêdrowca => P³aszcz Zwinnoœci
+
+Rêkawice JeŸdŸca => Buty Przyœpieszenia 
+
+Naszyjnik Nawigatora => He³m Wilka Morskiego 
+
+Magiczny Znak => Talizman Many => Magiczna Kula Many 
+
+Zaklêty Naszyjnik => Zaklêty Pierœcieñ => Zaklêty P³aszcz
+
+P³aszcz Odwrócenia => Kula Przeciwstawiania
+
+Pierœcieñ ¯ywotnoœci => Fiolka ¯ywej Krwi
+
+Pierœcieñ ¯ycia => Fiolka ¯ywej Krwi
+
+Naszyjnik Przyœpieszenia => P³aszcz Zwinnoœci
+
+Bezdenny Mieszek Z³ota => Bezdenna Sakiewka Z³ota => Bezdenna Sakwa Z³ota 
+
+Nogi Legionisty => LêdŸwie Legionisty => Korpus Legionisty => Ramiona Legionisty => G³owa Legionisty 
+
+{2. Zamienienie artefaktu w podobny.} 
+Ta us³uga pozwala na zamianê artefaktów na inne o podobnych w³asnoœciach. Oto lista zamiennych artefaktów. 
+
+Pierœcieñ ¯ywotnoœci <=> Pierœcieñ ¯ycia 
+
+Czterolistna Koniczynka <=> Karty Tarota <=> Statuetka Szczêœcia 
+
+Order Mêstwa <=> Herb Mêstwa <=> Glejt Mêstwa 
+
+Teleskop <=> Luneta 
+
+Duch Opresji <=> Klepsydra Diabelskiej Godziny 
+
+Kula Firmamentów <=> Kula ¯ywio³u Ziemi <=> Kula P³on¹cego Ognia <=> Kula Sztormów 
+
+Ksiêga Magii Ognia <=> Ksiêga Magii Powietrza <=> Ksiêga Magii Wody <=> Ksiêga Magii Ziemi 
+
+P³aszcz B³yszcz¹cego Kryszta³u <=> Pierœcieñ Nieskoñczonych Bogactw <=> Bezdenny Tygiel Rtêci <=> Pierœcieñ P³on¹cej Siarki
+
+Samonape³niaj¹cy siê Wóz Rudy <=> Samonape³niaj¹cy siê Wóz Drewna 
+
+Amulet ¯ycia <=> Amulet Œmierci 
+
+{3. £¹czenie grupy artefaktów w jeszcze potê¿niejsze.} 
+Ta us³uga pozwala na wybranie grupy artefaktów i po³¹czenie ich w jeden potê¿niejszy. Oto lista dostêpnych grup artefaktów, które mog¹ zostaæ po³¹czone wraz z wynikami operacji. 
+
+Oprawione Oko Smoka + Zastyg³e Oko Smoka => Pierœcieñ Smoczego Œlepia 
+
+Czterolistna Koniczynka + Karty Tarota + Statuetka Szczêœcia + Order Mêstwa + Herb Mêstwa + Glejt Mêstwa => Znak Odwagi 
+
+Kula Firmamentów + Kula ¯ywio³u Ziemi + Kula P³on¹cego Ognia + Kula Sztormów => Kula Os³abienia 
+
+{Uwaga:} 
+Nie ma mo¿liwoœci ulepszenia artefaktów na takie, które zosta³y zakazane. Musisz o tym pamiêtaæ.		
+126044	%Z126000 
+Dzier¿ysz %V4119 artefakt, który mogê ulepszyæ. Wybierz go.		
+126045	%Z126000 
+Dzier¿ysz %V4119 artefakty, które mogê ulepszyæ. 
+Wybierz jeden, który chcesz przemieniæ.		
+126046	{%Z126000} 
+
+Skoñczy³em. Oto twój nowy artefakt.		

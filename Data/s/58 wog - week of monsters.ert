@@ -1,0 +1,55 @@
+120000	{Tydzieñ Potwora} 
+ 
+Tydzieñ Pierwszy nie jest tygodniem potwora.	String type = <!!Q>	07.06.2003
+120001	 
+{+%V190 do Ataku}	String type = <!!S>	07.06.2003
+120002	 
+{+%V190 do Obrony}	String type = <!!S>	07.06.2003
+120003	 
+{+%V190 do zadawanych Obra¿eñ}	String type = <!!S>	07.06.2003
+120004	 
+{+%V190 do Wytrzyma³oœci}	String type = <!!S>	07.06.2003
+120005	 
+{+%V190 do Szybkoœci}	String type = <!!S>	07.06.2003
+120006	 
+{Przyrost +%V190}	String type = <!!S>	07.06.2003
+120007	{Nadchodzi tydzieñ stworzeñ: %Z197} 
+Wszystkie %Z198 otrzymuj¹ 
+nastêpuj¹ce premie przez ca³y tydzieñ: 
+%Z190	String type = <!!S>	07.06.2003
+120008	{Tydzieñ Chochlika} 
+Wszystkie Chochliki otrzymuj¹ nastêpuj¹ce premie przez ca³y tydzieñ: 
+{+1 do Ataku} 
+{+1 do Obrony} 
+{+1 do Obra¿eñ} 
+{+1 do Wytrzyma³oœci} 
+{+1 do Szybkoœci} 
+{przyrost +15 (dotyczy tak¿e Chowañców)}	String type = <!!S>	07.06.2003
+120009	{Tydzieñ Drwala.} 
+ 
+Ka¿dy Tartak wytwarza 
+4 s¹gi drewna dziennie.	String type = <!!S>	07.06.2003
+120010	{Tydzieñ Alchemika.} 
+ 
+Ka¿de Laboratorium Alchemika 
+2 tygle rtêci dziennie.	String type = <!!S>	07.06.2003
+120011	{Tydzieñ Górnika.} 
+ 
+Ka¿de Z³o¿e Rudy wytwarza 
+4 wozy kamieni dziennie.	String type = <!!S>	07.06.2003
+120012	{Tydzieñ Siarkowych Wyziewów.} 
+ 
+Ka¿da Odkrywka Siarki wytwarza 
+4 uncje siarki dziennie.	String type = <!!S>	07.06.2003
+120013	{Tydzieñ skrz¹cych siê Kryszta³ów.} 
+ 
+Ka¿da Kryszta³owa Grota wytwarza 
+2 kryszta³y dziennie.	String type = <!!S>	07.06.2003
+120014	{Tydzieñ B³yszc¹cych Kamieni Szlachetnych.} 
+ 
+Ka¿dy Staw z Klejnotami wytwarza 
+2 klejnoty dziennie.	String type = <!!S>	07.06.2003
+120015	{Tydzieñ Kopacza Z³ota.} 
+ 
+Ka¿da Kopalnia Z³ota wytwarza 
+2000 sztuk z³ota dziennie.	String type = <!!S>	07.06.2003

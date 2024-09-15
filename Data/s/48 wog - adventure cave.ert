@@ -1,0 +1,399 @@
+130000	Niezbadana Grota	String type = <!#S>	08.06.2003
+130001	Ten Bohater w skrzyniach ze skarbami bêdzie znajdywa³ dwa razy wiêcej z³ota.	String type = <!#S>	08.06.2003
+130002	Jednostki tego Bohatera mog¹ wielokrotnie kontratakowaæ w jednej rundzie podczas walki.	String type = <!#S>	08.06.2003
+130003	Ten Bohater mo¿e rzuciæ dwa zaklêcia w pierwszej rundzie podczas potyczki.	String type = <!#S>	08.06.2003
+130004	Jednostki tego Bohatera atakuj¹c wrêcz niweluj¹ niektóre zdolnoœci jednostek wroga.	String type = <!#S>	08.06.2003
+130005	Ten Bohater posiada kilka unikalnych ksi¹g.	String type = <!#S>	08.06.2003
+130006	Ten Bohater posiada kilka korzeni mandragory.	String type = <!#S>	08.06.2003
+130007	Ten Bohater posiada kilka cebulek tulipanów.	String type = <!#S>	08.06.2003
+130008	Ten Bohater posiada kilka zabawek.	String type = <!#S>	08.06.2003
+130009	Ten Bohater ma przy sobie trochê wina.	String type = <!#S>	08.06.2003
+130010	Ten Bohater ma kilka sztuk Zbroi Psa.	String type = <!#S>	08.06.2003
+130011	Ten Bohater jest w posiadaniu kilku trójrêcznych mieczy.	String type = <!#S>	08.06.2003
+130012	Ten Bohater jest w posiadaniu kilku wy³adowanych ró¿d¿ek.	String type = <!#S>	08.06.2003
+130013	Rozbójnicy ukradli jedn¹ z twoich kopalñ z³ota!	String type = <!!M>	08.06.2003
+130014	Znajdujesz tunel prowadz¹cy w g³¹b posêpnych gór... Przeszukasz go czy wrócisz z powrotem?	String type = <!!S>	08.06.2003
+130015	Zbadaj	String type = <!!S>	08.06.2003
+130016	Zawróæ	String type = <!!S>	08.06.2003
+130017	Wystrzegaj¹c siê w¹skich tuneli zostajesz na zewn¹trz, w dobrze znanej, otwartej przestrzeni.	String type = <!!M>	08.06.2003
+130018	Badaj¹c tunel w górach, napotykasz ma³¹ grotê. Chcesz j¹ przeszukaæ, czy zawróciæ?	String type = <!!S>	08.06.2003
+130019	Przeszukaj	String type = <!!S>	08.06.2003
+130020	Zawróæ	String type = <!!S>	08.06.2003
+130021	Wystrzegaj¹c siê groty zawracasz spod wejœcia, zostawiaj¹c jej tajemnice dla innych poszukiwaczy przygód.	String type = <!!M>	08.06.2003
+130022	W ciemnoœciach skrywaj¹ siê Troglodyci! Musisz siê broniæ!	String type = <!!M>	08.06.2003
+130023	Znajdujesz dwa tunele prowadz¹ce dalej w dó³...	String type = <!!S>	08.06.2003
+130024	Pokona³eœ Troglodytów! Przeszukuj¹c grotê, nie znajdujesz ¿adnych skarbów, tylko dwa tunele prowadz¹ce dalej w g³¹b... 	String type = <!!S>	08.06.2003
+130025	Znajdujesz dwa tunele prowadz¹ce dalej w dó³. Napotykasz tak¿e drogowskaz... lewy tunel jest opisany jako "%Z360," natomiast prawy jako, "%Z361."	String type = <!!S>	08.06.2003
+130026	Znajdujesz dwa tunele prowadz¹ce dalej w dó³. Napotykasz tak¿e drogowskaz...ale oba kierunki s¹ opisane jako "%Z360."	String type = <!!S>	08.06.2003
+130027	Znajdujesz dwa tunele prowadz¹ce dalej w dó³. Napotykasz tak¿e drogowskaz, ale niestety ma oderwan¹ tabliczkê i niemo¿liwe jest odgadn¹æ który kierunek jest który. Jeden jest opisany jako "%Z360," a drugi jako, "%Z361."	String type = <!!S>	08.06.2003
+130028	Znajdujesz dwa tunele prowadz¹ce dalej w dó³. Napotykasz tak¿e drogowskaz.  Niestety drogowskaz ma oderwan¹ tabliczkê i niemo¿liwe jest odgadn¹æ który kierunek jest który. Na szczêœcie oba napisy maj¹ tak¹ sam¹ nazwê: "%Z360."	String type = <!!S>	08.06.2003
+130029	 Czy zamierzasz dzielnie zag³êbiæ siê do jednego z tuneli czy zawróciæ?	String type = <!!S>	08.06.2003
+130030	Dzielnie zbadaj tunel	String type = <!!S>	08.06.2003
+130031	Zawróæ	String type = <!!S>	08.06.2003
+130032	Wystrzegaj¹c siê takich g³êbokich tuneli, wychodzisz z powrotem w stronê przyjaznego œwiat³a s³onecznego.	String type = <!!M>	08.06.2003
+130033	Którym tunelem zamierzasz pod¹¿yæ, prawym czy lewym?	String type = <!!S>	08.06.2003
+130034	Na lewo	String type = <!!S>	08.06.2003
+130035	Na lewo - "	String type = <!!S>	08.06.2003
+130036	Na lewo - 	String type = <!!S>	08.06.2003
+130037	Na prawo	String type = <!!S>	08.06.2003
+130038	Na prawo - "	String type = <!!S>	08.06.2003
+130039	Na prawo - 	String type = <!!S>	08.06.2003
+130040	W tunelu jest rozwidlenie. Mo¿esz pod¹¿yæ lew¹ b¹dŸ praw¹ stron¹.	String type = <!!S>	08.06.2003
+130041	Na lewo	String type = <!!S>	08.06.2003
+130042	Na prawo	String type = <!!S>	08.06.2003
+130043	W tunelu jest rozwidlenie. Mo¿esz pod¹¿yæ lew¹ b¹dŸ praw¹ stron¹.	String type = <!!S>	08.06.2003
+130044	Na lewo	String type = <!!S>	08.06.2003
+130045	Na prawo	String type = <!!S>	08.06.2003
+130046	Kryjówka Rozbójników	String type = <!!S>	08.06.2003
+130047	Miasto Rozbójników	String type = <!!S>	08.06.2003
+130048	Akwizytorom wstêp wzbroniony!	String type = <!!S>	08.06.2003
+130049	Rozbójnicy z ulubieñcami (Pets)	String type = <!!S>	08.06.2003
+130050	Sza³, Szaleniec?? (Frenz)	String type = <!!S>	08.06.2003
+130051	Mêdrzec	String type = <!!S>	08.06.2003
+130052	Awizytorom wstêp wzbroniony!	String type = <!!S>	08.06.2003
+130053	Odwrót Mêdrca? (Sage Retreat)	String type = <!!S>	08.06.2003
+130054	W³adca Bestii	String type = <!!S>	08.06.2003
+130055	Pustelnik	String type = <!!S>	08.06.2003
+130056	Potwory	String type = <!!S>	08.06.2003
+130057	Rozbójnicy z ulubieñcami (Pets)	String type = <!!S>	08.06.2003
+130058	W³adca Bestii	String type = <!!S>	08.06.2003
+130059	Œmieræ	String type = <!!S>	08.06.2003
+130060	Przeklête miejsce	String type = <!!S>	08.06.2003
+130061	Œlepy Zau³ek	String type = <!!S>	08.06.2003
+130062	Sza³, Szaleniec?? (Frenz)	String type = <!!S>	08.06.2003
+130063	Pustelnik	String type = <!!S>	08.06.2003
+130064	Przeklête miejsce	String type = <!!S>	08.06.2003
+130065	Ruiny	String type = <!!S>	08.06.2003
+130066	Tunel przechodzi w ogromn¹ pieczarê. Stoj¹c na rumowisku, dochodzisz do wniosku, ¿e to kiedyœ musia³a byæ Kryjówka Rozbójników. Teraz nie ma tu ju¿ nikogo, a tak¿e niczego.	String type = <!!M>	08.06.2003
+130067	niepozorny ma³y cz³owieczek	String type = <!!S>	08.06.2003
+130068	wielki oprawca	String type = <!!S>	08.06.2003
+130069	wysoki, jasnow³osy mê¿czyzna o postawie wielmo¿y	String type = <!!S>	08.06.2003
+130070	strasznie pokieraszowany garbus	String type = <!!S>	08.06.2003
+130071	ale s¹ przede wszystkim na œrodku pieczary, gdzie stoj¹ otaczaj¹c dwa olbrzymie szczury, gotuj¹ce siê do walki. Dziêki wrzaskom zachêty i mocno zaciœniêtym monetom w d³oniach, zgadujesz, ¿e Rozbójnicy obstawiaj¹ zak³ady, który szczur wygra.	String type = <!!S>	08.06.2003
+130072	w grupach oko³o tuzina, rzucaj¹ kostk¹ i robi¹ zak³ady.	String type = <!!S>	08.06.2003
+130073	objadaj¹ siê pieczeni¹... lub czymœ... i popijaj¹ winem.	String type = <!!S>	08.06.2003
+130074	k³óc¹ siê w grupach na temat ró¿nych odleg³ych planów. Z twojego punktu widokowego mo¿esz tylko jasno zrozumieæ niektóre s³owa jak  "otrute piwo," "niestrze¿ona kopalnia," czy "podczas, gdy oni œpi¹."	String type = <!!S>	08.06.2003
+130075	dziel¹ z³oto i ³upy, ledwo co nie podcinaj¹c sobie garde³ nawzajem.	String type = <!!S>	08.06.2003
+130076	le¿¹ w hamakach, œpi¹ na stertach szmat dooko³a obozowisk i chrapi¹. Wydaje siê, ¿e nikt nie stoi na stra¿y.	String type = <!!S>	08.06.2003
+130077	Wszyscy porzucili walkê szczurów - jakkolwiek szczury walcz¹ nadal.	String type = <!!S>	08.06.2003
+130078	Wszystkie koœci do gry zostaj¹ natychmiast schwytane a zak³ady w okamgnieniu poupychane po kieszeniach.	String type = <!!S>	08.06.2003
+130079	Pa³eczki do bêbnów i kufle s¹ poœpiesznie odk³adane, a jedna czy dwie brody przetarte rêkawem.	String type = <!!S>	08.06.2003
+130080	Kilka pogró¿ek zostaje wymamrotachych, lecz po chwili ca³a jaskinia tonie w ciszy.	String type = <!!S>	08.06.2003
+130081	Porzucaj¹ swój skarb tam, gdzie siê znajduje - po³o¿enie wszystkich monet jest zapamiêtane - na stercie poœrodku jaskini.	String type = <!!S>	08.06.2003
+130082	walki szczurów	String type = <!!S>	08.06.2003
+130083	uprawianie hazardu	String type = <!!S>	08.06.2003
+130084	besiadê	String type = <!!S>	08.06.2003
+130085	intrygi	String type = <!!S>	08.06.2003
+130086	dzielenie ³upów	String type = <!!S>	08.06.2003
+130087	walk szczurów	String type = <!!S>	08.06.2003
+130088	gier w koœci	String type = <!!S>	08.06.2003
+130089	zapasów jedzenia	String type = <!!S>	08.06.2003
+130090	krêgów knowañ	String type = <!!S>	08.06.2003
+130091	przeliczeñ skarbów	String type = <!!S>	08.06.2003
+130092	Tunel przechodzi w ogromn¹ pieczarê, która mo¿e byæ tylko Kryjówk¹ Rozbójników. Rozbójnicy s¹ wszêdzie, gdzie okiem siêgn¹æ, 	String type = <!!S>	08.06.2003
+130093	 
+ 
+Jak tylko nadchodzisz ze swoj¹ armi¹, Rozbójnicy spogl¹daj¹ w górê. %Z361 Herszt Rozbójników - %Z364 - wychodzi naprzeciw.	String type = <!!S>	08.06.2003
+130094	To mo¿e byæ szansa na twoje szybkie, bezlitosne zwyciêstwo.	String type = <!!S>	08.06.2003
+130095	Herszt pluje ci  w twarz. "Jak œmiesz przychodziæ tu i zak³ócaæ nam %Z362?" Jest wœciek³y. Wygl¹da na to, ¿e jedynym sposobem na unikniêcie walki jest ucieczka, i to bardzo szybka.	String type = <!!S>	08.06.2003
+130096	Herszt uœmiecha siê - ale to nie jest mi³y uœmiech. "Hmm. Przypuszczam, ¿e przyby³eœ tu aby skorzystaæ z naszych us³ug?" OdpowiedŸ "nie" wydaje siê nie wchodziæ w rachubê. Mo¿esz spokojnie przystaæ na propozycjê herszta lub zaatakowaæ Rozbójników.	String type = <!!S>	08.06.2003
+130097	Herszt promieniuje uœmiechem. "Witaj! Mi³o nam ciê spotkaæ!" Jednak nie mo¿esz nie zauwa¿yæ jego rêki na rêkojeœci miecza. Mo¿esz porozmawiaæ z Rozbójnikami pokojowo nastawiony, b¹dŸ ich zaatakowaæ.	String type = <!!S>	08.06.2003
+130098	Herszt promieniuje uœmiechem. "Witaj! Mi³o nam ciê spotkaæ!" Brzmi to niezwykle przyjaŸnie, ale ty nie potrafisz powstrzymaæ siê od myœli, ¿e ta ¿yczliwoœæ wystawia Rozbójników podatnych na nag³y, brutalny atak. Zamierzasz zaatakowaæ czy pozostaæ pokojowo nastawiony?	String type = <!!S>	08.06.2003
+130099	Czy chcesz wymordowaæ Rozbójników, w czasie gdy g³êboko œpi¹?	String type = <!!S>	08.06.2003
+130100	Rozmowa	String type = <!!S>	08.06.2003
+130101	Walka	String type = <!!S>	08.06.2003
+130102	Ucieczka	String type = <!!S>	08.06.2003
+130103	Zgoda	String type = <!!S>	08.06.2003
+130104	B¹dŸ mi³y	String type = <!!S>	08.06.2003
+130105	Bestialsko zamorduj ich	String type = <!!S>	08.06.2003
+130106	Rozbójnicy nie œcigaj¹ ciê, ale g³oœno wybuchaj¹ œmiechem, kiedy ucieksz w górê, na powierzchniê. "Lepiej ¿yæ w pogardzie ni¿ byæ martwym," mówisz swoim jednostkom. Niektórzy z nich nie zgadzaj¹ siê z tob¹.	String type = <!!Q>	08.06.2003
+130107	Rozbójnicy uspokajaj¹ siê i wracaj¹ do ich %Z363. Herszt pozostaje z twoj¹ armi¹, aby omówiæ warunki transakcji.	String type = <!!M>	08.06.2003
+130108	Postanawiasz bezczelnie zak³óciæ spokój Rozbójników czy zawróciæ swoj¹ armiê?	String type = <!!S>	08.06.2003
+130109	Zak³óæ spokój	String type = <!!S>	08.06.2003
+130110	Zawróæ	String type = <!!S>	08.06.2003
+130111	Pozwalaj¹c tym psom spaæ dalej, wraczasz wraz z armi¹ na powierzchniê.	String type = <!!M>	08.06.2003
+130112	Tr¹casz ³okciem Rozbójnika aby siê obudzi³. Ten mruga zaspanymi oczami, tr¹ca ³okciem kompana obok, który szybko stawia na nogi ca³¹ zgrajê. Gapi¹ siê nieprzytomnie na ciebie, ziewaj¹c mocno. Jeden z nich - %Z364 - wystêpuje naprzód aby z tob¹ porozmawiaæ. Musi najpewniej byæ hersztem tej zgrai. 
+ 
+"Uh, hej tam. Pójdziemy ubiæ jakiœ interes, nieprawda¿?"	String type = <!!M>	08.06.2003
+130113	Sprytnie wy¿ynasz oko³o po³owy Rozbójników, zanim stajesz do potyczki z pozosta³ymi przy ¿yciu niedobitkami. Twoje wojsko jest zadowolone.	String type = <!!S>	08.06.2003
+130114	Bezboleœnie mordujesz oko³o po³owy Rozbójników, zanim stajesz do potyczki z pozosta³ymi przy ¿yciu niedobitkami.	String type = <!!S>	08.06.2003
+130115	Bezlistoœnie mordujesz oko³o po³owy Rozbójników, zanim stajesz do potyczki z pozosta³ymi przy ¿yciu niedobitkami. Twoje wojsko jest obrzydzone.	String type = <!!S>	08.06.2003
+130116	Pokona³eœ Rozbójników! Po bitwie twoje jednostki poszukuj¹ ocala³ych, kiedy zauwa¿aj¹ postaæ próbuj¹c¹ uciec za ska³ê - to herszt Rozbójników! Chwytasz go i przystawiasz mu miecz do gard³a. "Litoœci!" harczy herszt. "Pozwól mi ¿yæ, a powiem ci, gdzie le¿y zakopany skarb!" Rozwa¿asz jego propozycjê.	String type = <!!S>	08.06.2003
+130117	"Wiêc co z tym skarbem?"	String type = <!!S>	08.06.2003
+130118	Poder¿nij mu gard³o	String type = <!!S>	08.06.2003
+130119	Szybkim ruchem rêki przekreœlasz jego ¿ycie. By³y Rozbójnik osuwa siê na ziemiê, do³¹czaj¹c do swych kamratów. Twoje wojsko uœmiecha siê na ten akt okrucieñstwa.	String type = <!!S>	08.06.2003
+130120	Tak czy owak ten cz³owiek prawdopodobnie wierutnie k³amie. Zabijasz go szybko i bez zbêdnych ceregieli.	String type = <!!S>	08.06.2003
+130121	Tak czy owak ten cz³owiek prawdopodobnie wierutnie k³amie. Szybkim ruchem podcinasz jego gard³o, a nastêpnie odpychasz od siebie martwe cia³o. Twoje wojsko przygl¹da siê temu z oddali za¿enowane.	String type = <!!S>	08.06.2003
+130122	Przeszukuj¹c martwe cia³o przywódcy, znajdujesz przy nim artefakt!	String type = <!!Q>	08.06.2003
+130123	Przywódca Rozbójników jest ci wdziêczny. Opawiada o skrzyni zakopanej pod podstaw¹ Obelisku...	String type = <!!M>	08.06.2003
+130124	Po zapamiêtaniu wszystkich informacji, uwalniasz Rozbójnika, który szybko ucieka, gin¹c w mrokach tunelu.	String type = <!!M>	08.06.2003
+130125	Pokona³eœ Rozbójników! Po bitwie, twoje jednostki zgarniaj¹ wszyskie skarby Rozbójników.	String type = <!!S>	08.06.2003
+130126	Twoje wojska zbieraj¹ wszyskie skarby, które Rozbójnicy zgromadzili.	String type = <!!S>	08.06.2003
+130127	"Nasz¹ specjalnoœci¹ jest bycie najemnikami," rzecze herszt. "Do³¹czamy do armii i pomagamy im w walkach. To po¿a³owania godne, ale w tej chwili mam niewielu Rozbójników pod swoj¹ komend¹. Ale powróæ tu za dzieñ lub dwa, powinienem mieæ wtedy wiêcej rekrutów do dyspozycji."	String type = <!!M>	08.06.2003
+130128	"Jesteœmy wybornymi z³odziejami, ka¿dy z nas," rzecze herszt. "Przewa¿nie zajmujemy siê kopalniami przynosz¹cymi zyski w z³ocie - kradniemy od razu ca³¹ kopalniê z³ota. To bardzo skuteczny sposób. Ukradlibyœmy jedn¹ dla ciebie, ale... w tej chwili jesteœmy doœæ zajêci. Wroæ zatem do nas za jakiœ czas. S¹dzê, ¿e wtedy zdo³amy coœ postanowiæ w tym kierunku."	String type = <!!M>	08.06.2003
+130129	"Powiedzmy sobie szczerze, jesteœmy band¹ rzezimieszków," powiada herszt. "To co lubimy najbardziej to wyskakiwaæ z zaroœli aby zaatakowaæ niczego nie podejrzewaj¹cego Bohatera. Szczególnie jeœli nam za to p³ac¹. Moglibyœmy zawrzeæ umowê z tob¹ ale... obecnie wszyscy jesteœmy ju¿ wykupieni. Wróc za jakiœ dzieñ lub dwa, wtedy pogadamy."	String type = <!!M>	08.06.2003
+130130	"Moja kompania specjalizuje siê w kradzie¿ach kieszonkowych," oœwiadcza herszt. "Potrafimy podci¹æ Anielskie Skrzyd³a 20 poziomowemu Bohaterowi i znikn¹æ z pola widzenia, zanim upadnie na ziemiê. Ale, hm... jesteœmy doœæ zajêci w tej chwili. Nie mogê niestety wyjawiæ ci szczegó³ów. Ale wróæ do nas za kilka dni, zobaczymy co mo¿emy dla ciebie zrobiæ."	String type = <!!M>	08.06.2003
+130131	W koñcu odnajdujesz Obelisk, o którym mówi³ Herszt Rozbójników! Twoje jednostki energicznie zabieraj¹ siêd o pracy, kopi¹c dziury dooko³a podstawy.
+ 
+Po wielu godzinach kopania, rezygnujesz z rozgoryczeniem, niczego nie znajduj¹c. Wygl¹da na to, ¿e Rozbójnik ³ga³ jak pies aby ocaliæ swe nêdzne ¿ycie!	String type = <!!M>	08.06.2003
+130132	W koñcu odnajdujesz Obelisk, o którym mówi³ Herszt Rozbójników! Twoje jednostki znajduj¹ bardzo oczywisty znak "X" wydrapany w ziemi za Obeliskiem, i tam te¿ zaczynaj¹ kopaæ. 
+ 
+Po kilku godzinach, wyci¹gaj¹ z ziemii pote¿n¹ skrzyniê ze skarbami. Jest zamkniêta, ale rozr¹bujesz toporem wieko. W œrodku znajdujesz z³oto i artefakty! Rozbójnik mówi³ prawdê!	String type = <!!Q>	08.06.2003
+130133	%Z326 wpad³ w pu³apkê zastawion¹ przez Rozbójników! Zbóje wykrzykuj¹: "To jest dla/za %Z327!"	String type = <!!M>	08.06.2003
+130134	Rozbójnicy kradn¹ %Z327 nale¿¹c¹ do %Z326!!	String type = <!!Q>	08.06.2003
+130135	"Posiadam rozbójników do wynajêcia," powiada herszt. "Ka¿dy z nich to wspania³y ch³opak. Walcz¹, broni¹ siê. czekaj¹ - nic im nie jest straszne. Wynajmê je po okazyjnej cenie. %V620 sztuk z³ota za 15 Rozbójników."	String type = <!!S>	08.06.2003
+130136	Biorê ich!	String type = <!!S>	08.06.2003
+130137	Dziêkujê ale nie skorzystam.	String type = <!!S>	08.06.2003
+130138	"Jeœli kiedykolwiek bêdziesz mia³ wolne miejsca w swojej armii to pamiêtaj, nie ma nic lepszego od brygady Rozbójników."	String type = <!!M>	08.06.2003
+130139	"Niez³a gratka ci siê trafi³a. Ci Rozbójnicy dadz¹ z siebie 110 procent swoich mo¿liwoœci."	String type = <!!M>	08.06.2003
+130140	"Ja i moi kamraci jesteœmy wybornymi z³odziejami," prawi herszt. "Z przyjemnoœci¹ ukradlibyœmy dla ciebie jak¹œ mi³¹ kopalniê kapi¹c¹ od soczystego z³ota. Niestety dla ciebie, twoi wrogowie w tych stronach nie prowadz¹ zbyt dobrej gospodarki z³otem. Dajmy im trochê czasu - z pewnoœci¹ w koñcu siê wzgobac¹."	String type = <!!M>	08.06.2003
+130141	"Wojowniku, to twój szczêœliwy dzieñ," rzecze herszt. "Ja i moja kampania stanowimy grupê doborowych z³odziei z³ota. Mamy ju¿ namierzony cel dla ciebie. To jest piêkne - w ³atwy sposób zarabiaæ dziennie 1000 sztuk z³ota. W tej chwili nad kopalni¹ powiewa %Z360 sztandar, ale mo¿emy go zast¹piæ sztandarem twojego koloru, za rozs¹dn¹ cenê jedynych %V625 sztuk z³ota."	String type = <!!S>	08.06.2003
+130142	Zgoda!	String type = <!!S>	08.06.2003
+130143	Nie skorzystam	String type = <!!S>	08.06.2003
+130144	"Có¿, jeœli nie mo¿esz sobie na to pozwoliæ, lub masz inne przyczyny... B¹dŸ co b¹dŸ tracisz niebywa³¹ okazjê. To kopalnia z³ota!"	String type = <!!M>	08.06.2003
+130145	"Wspaniale!" Herszt potrz¹s¹ twoj¹ prawic¹. "Powiesimy twój sztandar w okamgnieniu. Raduj siê sw¹ now¹ kopalni¹ z³ota!" Opuszczasz grotê z wizjami z³otych monet tañcz¹cych w twojej g³owie.	String type = <!!M>	08.06.2003
+130146	"Moja kompania zajmuje siê lichwiarstwem, lub, jak to ludzie powiadaj¹, jesteœmy egzekutorami d³ugów," powiada herszt. "Tylko bez d³ugów. Po prostu egzekutorzy. Ubijamy ludzi, innymi s³owy. Za sprawiedliw¹ zap³at¹. Tylko ... nie masz ¿adnych wrogów, których mo¿emy dosiêgn¹æ w tym momencie. Wróæ póŸniej - z pewnoœci¹ w koñcu znajdziemy jakiœ cel."	String type = <!!M>	08.06.2003
+130147	on	String type = <!!S>	08.06.2003
+130148	ona	String type = <!!S>	08.06.2003
+130149	mu	String type = <!!S>	08.06.2003
+130150	jej	String type = <!!S>	08.06.2003
+130151	%Z362 ma kilka jednostek, ale nie wie jak ich u¿yæ.	String type = <!!S>	08.06.2003
+130152	%Z362 s¹dzi, ¿e jest twardzielem, ale moglibyœmy pokazaæ %Z363 parê sztuczek.	String type = <!!S>	08.06.2003
+130153	S³abeusz z niego, posiada najwy¿ej jednostki z tego tygodnia. Nie wiêcej.	String type = <!!S>	08.06.2003
+130154	Jakiœ fajt³apa z kilkoma gremlinami lub czymœ podobnym.	String type = <!!S>	08.06.2003
+130155	zniewieœcia³ym	String type = <!!S>	08.06.2003
+130156	ch³opem	String type = <!!S>	08.06.2003
+130157	wiejskim bohaterem, nie nadaj¹cym siê do niczego poza odwiedzaniem wiatraków	String type = <!!S>	08.06.2003
+130158	wstrêtnym robakiem ¿yj¹cym poza wszelk¹ spo³ecznoœci¹	String type = <!!S>	08.06.2003
+130159	"Mam dla ciebie propozycjê," powiada herszt. "Znamy tego bohatera. %Z361. %Z364 dzier¿y %Z360 sztandar. Pods³uchaliœmy kiedyœ, jak zda¿y³o siê %Z363 nazwaæ ciê %Z365. Có¿, mo¿e jesteœ, nie mnie to oceniaæ. Ale uwa¿am, ¿e powinieneœ daæ %Z363 porz¹dn¹ lekcjê pokory. Co powiesz na to, abym wraz z moimi ch³opcami pojecha³ i z³oi³ %Z363 skórê? To bêdzie kosztowaæ dok³adnie %V623 sztuk z³ota."	String type = <!!S>	08.06.2003
+130160	Zrób to!	String type = <!!S>	08.06.2003
+130161	Dziêkujê, ale nie skorzystam	String type = <!!S>	08.06.2003
+130162	"OK. W porz¹dku. Zgadujê, ¿e naprawdê jesteœ %Z365. Mój b³¹d. Có¿, nie ma powodu zostaæ szaleñcem, prawda?" Herszt oddala siê, potrz¹saj¹c g³ow¹.	String type = <!!M>	08.06.2003
+130163	"%Z361 zostanie przez nas przerobiony na kotlet mielony. Mo¿esz na nas liczyæ." Opuszczasz pieczarê z wizjami %Z361 i jego zakrwawionych zw³ok tañcz¹cych w twojej g³owie.	String type = <!!M>	08.06.2003
+130164	"Moi ch³opcy specjalizuj¹ siê w kradzie¿ach kieszonkowych", powiada herszt. "Wiemy o nich wszystko. I co wiemy te¿ w tej chwili to to, ¿e nikt z nas nic nie ukrad³ ostatnio. Ale odwiedŸ nas za jakiœ czas, jestem pewien, ¿e znajdziemy wkrótce coœ w czyichœ kieszeniach."	String type = <!!M>	08.06.2003
+130165	"Psst. Nieznajomy," szepcze herszt. "Mam tu naprawdê gor¹cy towar. Po¿yczy³em go od jakiegoœ bohatera o imieniu %Z361. Mogê mu go nie zwracaæ, jeœli tylko pod¹¿ysz za mn¹. Wygl¹dasz na takiego co mo¿e u¿yæ artefaktu, lub nawet dwóch. Zobacz jaki ten jest piêkny. '%Z360 tak go nazywaj¹. Zobacz, zaledwie nosi œlady u¿ycia - %Z361 prawdopodobnie za nim nawet nie zatêskni. Mo¿e byæ twój za œmieszne %V622 sztuk z³ota. Co ty na to?"	String type = <!!S>	08.06.2003
+130166	Kupujê!	String type = <!!S>	08.06.2003
+130167	Mo¿e innym razem	String type = <!!S>	08.06.2003
+130168	"Cierpimy na brak pieni¹¿ków? Có¿, postaram siê przytrzymaæ go dla ciebie, ale nie dajê za to s³owa."	String type = <!!M>	08.06.2003
+130169	Herszt wyjmuje artefakt z sakwy i wrêcza ci go. "Oto on! Najlepsza rzecz, na któr¹ kiedykolwiek wyda³eœ pieni¹dze. Ten doohickey bêdzie wykonywa³ dla ciebie wszystkie sztuczki, jakie potrafi." Opuszczasz jaskiniê, podziwiaj¹c swój zakup.	String type = <!!M>	08.06.2003
+130170	czerwony	String type = <!!S>	08.06.2003
+130171	niebieski	String type = <!!S>	08.06.2003
+130172	br¹zowy	String type = <!!S>	08.06.2003
+130173	zielony	String type = <!!S>	08.06.2003
+130174	pomarañczowy	String type = <!!S>	08.06.2003
+130175	fioletowy	String type = <!!S>	08.06.2003
+130176	jasnoniebieski	String type = <!!S>	08.06.2003
+130177	ró¿owy	String type = <!!S>	08.06.2003
+130178	"Uh, tu nie ma ca³ej nale¿noœci, cz³owieku... Co jest, próbujesz drwiæ ze mnie czy jak? Nie jestem œlepy." Herszt nie jest zadowolony. Szybko siê oddalasz.	String type = <!!M>	08.06.2003
+130179	Tunel przechodzi w ma³¹, go³¹ jaskiniê. Obserwuj¹c schludnoœæ i brak jakichkolwiek u¿ytkowych sprzêtów, dochodzisz to wniosku, ¿e to musia³ byæ kiedyœ dom pustelnika. Teraz nie ma tu nikogo.	String type = <!!M>	08.06.2003
+130180	Tunel przechodzi w ma³¹, go³¹ jaskiniê, dom starca - pustelnika.	String type = <!!M>	08.06.2003
+130181	bogactwo	String type = <!!S>	08.06.2003
+130182	walka	String type = <!!S>	08.06.2003
+130183	magia	String type = <!!S>	08.06.2003
+130184	voodoo	String type = <!!S>	08.06.2003
+130185	%Z360 
+ 
+"Moj¹ specjalnoœci¹ jest %Z362," rzecze pustelnik, "jednak wydajê siê, ¿e pozna³eœ wszystkie tajniki w tej dziedzinie. To wspania³e, nieprawda¿?" Dwoje z was maj¹ mil¹ pogawêdkê o (The two of you have a pleasant chat about) %Z362. Ostatecznie musisz pamiêtaæ, ¿e masz zadatki na bohatera, który nale¿y rozwijaæ i t³umaczyæ sobie?? (Eventually you remember that you have hero stuff to attend to, and excuse yourself.)	String type = <!!M>	08.06.2003
+130186	%Z360 
+ 
+"Z przyjemnoœci¹ nauczy³bym ciê o umiejêtnoœci %Z362," powiada pustelnik, "ale potrzebujesz czasu, czasu na pouk³adanie sobie myœli w g³owie. Wróæ jutro."	String type = <!!M>	08.06.2003
+130187	%Z360 
+ 
+"Moj¹ specjalnoœci¹ jest %Z362," mówi pustelnik. "Czy chcesz, abym zosta³ twoim nauczycielem?"	String type = <!!S>	08.06.2003
+130188	%Z360 
+ 
+"Czy mamy kontynuowaæ pobieranie nauk o: %Z362?" pyta pustelnik.	String type = <!!S>	08.06.2003
+130189	Tak	String type = <!!S>	08.06.2003
+130190	Nie	String type = <!!S>	08.06.2003
+130191	"¯aden problem!" rzecze pustelnik. "Mniej pracy dla mnie. Uwa¿aj na g³owê jak bêdziesz opuszcza³ jaskiniê."	String type = <!!M>	08.06.2003
+130192	"Có¿, skoro tak chcesz," rzecze pustelnikt. "Ale naprawdê wypada wiedzieæ trochê wiêcej o: %Z362."	String type = <!!M>	08.06.2003
+130193	"Bogactwo jest sztuk¹ (a trick) - to jak ukraœæ komuœ nos..."	String type = <!!S>	08.06.2003
+130194	"W walce chodzi przede wszystkim o to, ¿eby uderzyæ wroga, zanim on uderzy ciebie - na przyk³ad z rewolwerów..."	String type = <!!S>	08.06.2003
+130195	"Magia jest nieuchwytna - jak antylopa lub m³oda panna..."	String type = <!!S>	08.06.2003
+130196	"Voodoo polega na zabawie ludzkim umys³em. Faktycznie, ja.. -  szybko, obejrzyj siê! (In fact I - quick, look behind you!)"	String type = <!!S>	08.06.2003
+130197	"Pieni¹dze s¹ w umyœle - blisko pleców i po lewej stronie..."	String type = <!!S>	08.06.2003
+130198	"Potrzebujesz wielkiej armii - wiêkszej, lepiej wyszkolonej. Pozostali bohaterowie po twojej stronie mog¹ tylko ganiaæ siê w kó³ko z chochlikami..."	String type = <!!S>	08.06.2003
+130199	"Zaklêcia s¹ jak tabliczka czekolady - tylko, niejadalne, i nie jak zmuszanie..."	String type = <!!S>	08.06.2003
+130200	"Wiêkszoœæ potworów nie nosi butów. Ale dla tych, które je nosz¹, powiedzenie 'twoje sznurowad³o jest rozwi¹zane' jest sprytnym fortelem...."	String type = <!!S>	08.06.2003
+130201	"Wiêkszoœæ skrzyñ ze skarbami ma podwójne dna. U¿yj siekiery aby siê do nich dostaæ - znajdziesz tam wiêcej skarbów. Czêsto mo¿esz podwoiæ w ten sposób swoje znaleziska."	String type = <!!S>	08.06.2003
+130202	"Ilekroæ wrogowie ciê uderz¹, natychmiast wyprowadŸ kontratak. Nikt nie bêdzie czeka³ na twoj¹ bezsensown¹ turê."	String type = <!!S>	08.06.2003
+130203	"Mo¿esz rzuciæ dwa zaklêcia w jednej turze... po prostu rzuæ pierwsze zaklêcie dwukrotnie szybciej. Zwykle w moim przypadku dzia³a to w pierwszej turze walki."	String type = <!!S>	08.06.2003
+130204	"Voodoo mieœci siê w naszych g³owach - uderzenie w g³owê, oto czym jest voodoo. Uderz wrogów w ni¹ wystarczaj¹co mocno, a zaczn¹ widzieæ ró¿ne rzeczy, zapomn¹ strzelaæ b¹dŸ lataæ - ty decydujesz o tym. Zawsze d¹¿ do g³owy. Ciê¿ko to uczyniæ strza³ami, za to niezwykle ³atwo porêczn¹ broni¹ sieczn¹."	String type = <!!S>	08.06.2003
+130205	Pustelnik mówi nie przestaj¹c dreptaæ po jaskini. %Z360 
+ 
+Ci¹gle gdera i grera. Po jakimœ czasie zaczyna ziewaæ i zatrzymuje siê. "Hmm, s¹dzê, ¿e ju¿ nic wiêcej nie zdo³asz siê dziæ nauczyæ. Wróæ tu jutro, bêdziemy kontynuowaæ naukê!"	String type = <!!M>	08.06.2003
+130206	Pustelnik zastanawia siê chwilê, nastêpnie zaczyna kiwaæ g³ow¹ i zawziêcie perorowaæ. %Z360 
+ 
+Rozprawia ju¿ od kilku godzin. Ostatecznie, widz¹c jak s³odko drzemiesz, przestaje.  "Wystarczy tego na dzisiaj. Nauka dobiega koñca - jeszcze tylko jedna lekcja! Wróæ tu jutro."	String type = <!!M>	08.06.2003
+130207	Pustelnik rozprawia przez chwilê. W koñcu dzieli siê z tob¹ swoj¹ tajemnic¹. 
+ 
+%Z360 
+ 
+Kiwasz g³ow¹ z szacunkiem powoli uœwiadamiaj¹c sobie przekazane s³owa. Pustelnik ma racjê. Uzbrojony w t¹ wiedzê, bêdziesz o wiele lepszym bohaterem ni¿ wczeœniej. Jesteœ tego pewien.	String type = <!!M>	08.06.2003
+130208	Pustelnik, po skoñczonych naukach, szelmowsko szczerzy zeby. "W koñcu, nareszcie nauczy³em mojego ucznia! Teraz mogê znów przenieœæ siê do mojego nale¿nego miejsca w rogu tablicy!" Po czym strzela palcami i znika!	String type = <!!M>	08.06.2003
+130209	Pustelnik wpada w zachwyt. "Co za nauka! To by³o niesamowite! To wymaga uczczenia! Wyjmuje butelczynê zza ska³y. "Trzyma³em j¹ na naprwadê wyj¹tkow¹ okazjê, a teraz taka siê nadarza!" Poci¹ga z niej du¿ego ³yka, delektuje siê nim, po czym z rozkosz¹ prze³yka. "Mmmmm...." Nagle jego twarz robi siê blada. Upuszcza butelkê na ziemiê, ciê¿ko dysz¹c i trzymaj¹c siê kurczowo za gard³o. Nie jesteœ w stanie mu pomóc- parê chwil póŸniej pustelnik opada martwy na ziemiê. Przynajmniej przekaza³ ci swoj¹ wiedzê. Wynosisz jego cia³o na zewn¹trz i grzebiesz je przed wejœciem do jaskini.	String type = <!!M>	08.06.2003
+130210	Pustelnik podchodzi z rezerw¹ do swoich nauk. "By³o w porz¹dku... ale s¹dzê, ze mog³em zrobiæ to lepiej. Sam potrzebujê jeszcze kilku lekcji od pewnego znajomego pustelnika." Rozgl¹da siê po jaskini i uœmiecha. "Nie muszê nic pakowaæ! Jestem go³y jak œwiêty turecki!" Po czym przepychaj¹c siê pomiêdzy twoj¹ dru¿yn¹ znika w czeluœciach tunelu.	String type = <!!M>	08.06.2003
+130211	Pustelnik szczerzy zêby. "Nareszcie przekaza³em ca³¹ sw¹ wiedzê! Wreszcie zdj¹³em z siebie kl¹twê!" I chwilê póŸniej, pustelnik przemienia siê w Troglodytê! Niestety, próbuj¹c wydostaæ siê z jaskini, pada martwy na ziemiê zostaj¹c przypadkowo uderzony przez jedn¹ z twoich jednostek.	String type = <!!M>	08.06.2003
+130212	Pustelnik z rozrzewnieniem rozglada siê po swojej pieczarze. "Kocha³em to miejsce. Ale czas siê wyprowadziæ. Naucz takiego jednego, a zaraz zwal¹ siê ich tysi¹ce wal¹c do twoich drzwi. Có¿, bêdê musia³ znaleŸæ sobie gdzieœ jak¹œ now¹, cich¹ grotê - gdzieœ, gdzie bohaterowie jeszcze nie dotarli." ¯egna ciê teatralnym gestem i opuszcza jaskiniê.	String type = <!!M>	08.06.2003
+130213	"Ale czekaj, jest jeszcze coœ!" powiada pustelnik. "Wróæ jeszcze po kolejne dwanaœcie lekcji a wtedy nauczê ciê... -" Niestety nie dokañcza zdania. Niektóre z twoich jednostek maj¹ ju¿ dosyæ tej ekscytuj¹cej trzydniowej nauki i nie maj¹ zamiaru siedzieæ tu ani chwili d³u¿ej. Udzielasz im nagany i ka¿esz im wynieœæ cia³o na zewn¹trz. Nastêpnie przeszukujesz jaskiniê, ale nie znajdujesz ¿adnych cennych rzeczy.	String type = <!!M>	08.06.2003
+130214	œpi, ale natychmiast siê budzi jak tylko wchodzisz do jaskini.	String type = <!!S>	08.06.2003
+130215	jest pogr¹¿ony w zadumie, ale przywraca siê do realnego œwiata aby zaj¹æ siê tob¹.	String type = <!!S>	08.06.2003
+130216	medytuje, ale otwiera jedno oko, patrzy na ciebie z ukosa, po czym otwiera drugie oko, marszcz¹c czo³o, w koñcu jednak uœmiecha siê i odprê¿a.	String type = <!!S>	08.06.2003
+130217	przeci¹ga siê, ale natychmiast przestaje kiedy wchodzisz do groty.	String type = <!!S>	08.06.2003
+130218	g³oœno nuci sobie czêsto fa³szuj¹c. Kiedy wchodzi, przestaje, zaczyna pokas³ywaæ, i uœmiecha siê z za¿enowaniem.	String type = <!!S>	08.06.2003
+130219	robi pompki. Zauwa¿a ciê, ale nie przestaje æwiczyæ. Po kilku pompkach siada, ³apie oddech i obraca siê do ciebie.	String type = <!!S>	08.06.2003
+130220	Pustelnik %Z361 "Witaj," zagaduje uprzejmie.	String type = <!!S>	08.06.2003
+130221	Pustelnik jest chory, bardzo chory.	String type = <!!S>	08.06.2003
+130222	%Z361 Nie jest w stanie rozmawiaæ z tob¹. Niestety nie mo¿esz w ¿aden sposób mu pomóc. Cicho opuszczasz jaskiniê.	String type = <!!M>	08.06.2003
+130223	%Z361 Nie jest w stanie rozmawiaæ z tob¹. Pomimo, ¿e posiadasz umiejêtnoœæ Pierwsza Pomoc, niestety nie masz wystarczaj¹cej wiedzy by go uleczyæ. Cicho opuszczasz jaskiniê.	String type = <!!M>	08.06.2003
+130224	%Z361 Na szczêœcie mistrzowko opanowa³eœ umiejêtnoœæ Pierwsza Pomoc. Czy u¿yjesz swoich umiejêtnoœci aby uleczyæ pustelnika?	String type = <!!S>	08.06.2003
+130225	%Z361 Na szczêœcie posiadasz Namiot Medyka. Czy poœwiêcisz go, aby uleczyæ pustelnika?	String type = <!!S>	08.06.2003
+130226	%Z361 Na szczeœcie masz Pierœcieñ ¯ywotnoœci. Czy poœwiêcisz go, aby uleczyæ pustelnika?	String type = <!!S>	08.06.2003
+130227	%Z361 Na szczeœcie masz Pierœcieñ ¯ycia. Czy poœwiêcisz go, aby uleczyæ pustelnika?	String type = <!!S>	08.06.2003
+130228	%Z361 Na szczeœcie masz Fiolkê ¯ywej Krwi. Czy poœwiêcisz j¹, aby uleczyæ pustelnika?	String type = <!!S>	08.06.2003
+130229	Ulecz	String type = <!!S>	08.06.2003
+130230	OdejdŸ	String type = <!!S>	08.06.2003
+130231	Œmiejesz siê z po³o¿enia pustelnika i zostawiasz go samemu sobie. Twoje wojska chichocz¹ wychodz¹c z jaskini.	String type = <!!S>	08.06.2003
+130232	Opuszczasz cierpi¹cego pustelnika. Nie masz tu nic do roboty.	String type = <!!S>	08.06.2003
+130233	Porzucasz pustelnika na pastwê losu. Twoje wojsko pochyla g³owy ze wstydu.	String type = <!!S>	08.06.2003
+130234	twoich zdolnoœci w Pierszej Pomocy	String type = <!!S>	08.06.2003
+130235	zdolnoœci twojego Namiotu Medyka	String type = <!!S>	08.06.2003
+130236	mocy Pierœcienia ¯ywotnoœci	String type = <!!S>	08.06.2003
+130237	mocy Pierœcienia ¯ycia	String type = <!!S>	08.06.2003
+130238	mocy Fiolki ¯ywej Krwi	String type = <!!S>	08.06.2003
+130239	Leczysz pustelnika u¿ywaj¹c %Z361. W mgnieniu oka powraca on do zdrowia. "Jestem zdrów jak ryba!" rzecze, potwierdzaj¹c tym samym skutecznoœæ leczenia. "I zawdziêczam to tobie. Jednak¿e wszystko co mogê ci daæ to wiedza."	String type = <!!S>	08.06.2003
+130240	Pustelnik nie wygl¹da na zadowolonego z twojego przybycia. Zaczyna nerwowo kroczyæ po jaskini. "Czy nie mam i tak doœæ k³opotów?" cedzi przez zêby poirytowany. "Przyby³em do tej jaskini w poszukiwaniu ciszy i spokoju. "Czy¿byœ nie wiedzia³, ¿e %Z361 zamieszkuje t¹ sieæ jaskiñ?" Po czym gestem rêki nakazuje ci odejœæ.	String type = <!!M>	08.06.2003
+130241	Pustelnik nie wygl¹da na zadowolonego z twojego przybycia. Ale po chwili przekonuje siê do ciebie. "Hmm, s¹dzê, ¿e przez chwilê bêdzie tu spokojnie. Bêdê móg³ wiêc poœwiêciæ ci trochê czasu."	String type = <!!S>	08.06.2003
+130242	Pustelnik smutno patrzy na ciebie. "Jeœli chcia³byœ wys³uchaæ moich lekcji, " powiada, "musisz, tak jak ja, wyrzec siê wszystkich przedmiotów." Nastêpnie zamyka oczy i udaje, ¿e ciê nie ma. W koñcu pojmujesz aluzjê i odchodzisz.	String type = <!!M>	08.06.2003
+130243	Pustelnik jest zadowolony z twego przybycia.	String type = <!!S>	08.06.2003
+130244	banda Rozbójników	String type = <!!S>	08.06.2003
+130245	inny pustelnik	String type = <!!S>	08.06.2003
+130246	wiele strasznych potworów	String type = <!!S>	08.06.2003
+130247	Tunel koñczy siê	String type = <!!S>	08.06.2003
+130248	%Z360 niewielk¹ pieczar¹. Osmolone ska³y wskazuj¹ na miejsce dawnej bitwy... ale teraz nie pozosta³o tu ju¿ nic.	String type = <!!M>	08.06.2003
+130249	%Z360 d³ug¹ sal¹ wype³nion¹ pos¹gami i koœæmi. Nie ma tu nic cennego.	String type = <!!M>	08.06.2003
+130250	%Z360 labiryntem korytarzy, które prowadz¹ donik¹d.	String type = <!!M>	08.06.2003
+130251	%Z360 staro¿ytnym grobowcem. Nie ma tu niczego, nawet Duchów.	String type = <!!M>	08.06.2003
+130252	%Z360 opuszczon¹ pracowni¹ maga. Nie pozosta³o tu nic cennego.	String type = <!!M>	08.06.2003
+130253	%Z360 zdradzieck¹, bagnist¹ jaskini¹. Pobie¿nie rozgl¹dasz siê, ale niczego nie znajdujesz.	String type = <!!M>	08.06.2003
+130254	%Z360 ognist¹ jam¹. Kiedyœ zamieszkiwa³y j¹ œmierdz¹ce do³y(?), ale dawno ju¿ st¹d odesz³y.	String type = <!!M>	08.06.2003
+130255	%Z360 spartañsko urz¹dzonymi koszarami. Mo¿liwe, ¿e kiedyœ zamieszkiwali je najemnicy... ale teraz ju¿ odeszli, nie pozostawiaj¹c za sob¹ nic cennego.	String type = <!!M>	08.06.2003
+130256	Tunel staje siê coraz wê¿szy, prowadz¹c miêdzy skaln¹ pó³k¹ a ciemnym w¹wozem.	String type = <!!S>	08.06.2003
+130257	Tunel przechodzi w salê wype³nion¹ pos¹gami i koœæmi.	String type = <!!S>	08.06.2003
+130258	Tunel krêci siê i wije, pe³en rozwidleñ i œlepych zau³ków, ale droga wydaje siê byæ tylko jedna.	String type = <!!S>	08.06.2003
+130259	Tunel schodzi stromo przechodz¹c w skalne schody, które prowadz¹ do obszernych, kamiennych drzwi, ozdobionych inskrypcjami w nieznanym jêzyku.	String type = <!!S>	08.06.2003
+130260	Po krótkim marszu, napotykasz poœrodku korytarza znak: "Laboratorium Maga. Nie zbli¿aæ siê." Kilka kroków dalej tunel koñczy siê wysokimi, zardzewia³ymi drzwiami.	String type = <!!S>	08.06.2003
+130261	Tunel prowadzi dalej w g³¹b staj¹c siê coraz bardziej mglisty i wilgotny.	String type = <!!S>	08.06.2003
+130262	Tunel prowadzi dalej w g³¹b staj¹c siê coraz bardziej gor¹cy i duszny.	String type = <!!S>	08.06.2003
+130263	Œciany tunelu staj¹ siê bardziej regularne, a strop opiera siê na stemplach i filarach.	String type = <!!S>	08.06.2003
+130264	%Z360 
+ 
+Czy chcesz dzielnie pod¹¿yæ dalej?	String type = <!!S>	08.06.2003
+130265	Wkrocz dzielnie	String type = <!!S>	08.06.2003
+130266	Zawróæ	String type = <!!S>	08.06.2003
+130267	Roztropnie wychodzisz na powierzchniê, opuszczaj¹c niebezpieczny tunel.	String type = <!!M>	08.06.2003
+130268	Pod¹¿asz w¹sk¹ œcie¿k¹. Nagle Strzelcy pojawiaj¹ siê jednoczeœnie z góry i z do³u. Bez s³owa zaczynaj¹ ostrzeliwywaæ twoj¹ dru¿ynê. To pu³apka!	String type = <!!M>	08.06.2003
+130269	Kontynuujesz przeszukiwanie sali. Nagle twoja dru¿yna zostaje osaczona przez Bazyliszki! Jesteœ ca³kowicie nieprzygotowany, ca³¹ twoja dru¿yna zamienia siê w kamieñ, zanim zd¹¿y³eœ zareagowaæ!	String type = <!!M>	08.06.2003
+130270	Dochodzisz do miejsca, w którym krzy¿uje siê wiele korytarzy. Kiedy rozwa¿asz wybór dalszej drogi, s³yszysz dŸwiêk, który mo¿e byæ tylko odg³osem zbi¿aj¹cych siê potworów. Hmmm... to ciê¿kie sapanie i parskanie... stukot kopyt... to nie mo¿e byæ jogurt!...to musz¹ byæ Minotaury!	String type = <!!M>	08.06.2003
+130271	Ostro¿nie pchasz uchylone drzwi i wkraczasz do du¿ej groty, która oczywiœcie jest cmentarzem. Wszêdzie mnóstwo grobów i nagrobków. Twoja dru¿yna ostro¿nie przeszukuje jaskiniê szukaj¹c zapomnianych skarbów. Wtem dochodzi do twych uszu ciche zawodzenie, coœ jakby odleg³y p³acz. Próbujesz okreœliæ sk¹d dobiega... tylko po to, aby uœwiadomiæ sobie, ¿e g³osy dochodz¹ zewsz¹d! To Duchy, powsta³e z grobów, aby ciê zaatakowaæ!	String type = <!!M>	08.06.2003
+130272	Drzwi skrzypi¹ otwieraj¹c siê, a ty skradasz siê do wewn¹trz. Prowadz¹ do rozleg³ej pieczary. W niej znajduj¹ siê olbrzymie, tajemnicze maszyny, stosy pak i beczek oraz klatek z nieo¿ywionymi Golemami. Jest w niej równie¿ mnóstwo Arcymagów. Nie da siê stwierdziæ co robili kiedy nadszed³eœ, ale teraz wszyscy stoj¹ naprzeciwko twojej armii, jakby oczekiwali twojego nadejœcia. Nie wygl¹daj¹ na zadowolonych. "Czy nikt z was nie umie czytaæ? A mo¿e wszyscy jesteœcie ochotnikami, na których mamy wykonywaæ eksperymenty?" Pytanie musi byæ retoryczne dla Arcymagów, którzy nie czekaj¹ na odpowiedŸ. Gestem rêki o¿ywiaj¹ Golemy i przygotowuj¹ siê do walki!	String type = <!!M>	08.06.2003
+130273	Tunel przechodzi w olbrzymi¹ bagnist¹ jaskiniê poroœniêt¹ ciemnymi chwastami wyrastaj¹cymi z licznych mrocznych ka³u¿. Jaskinia pogr¹¿ona jest w zielonkawej mgle, która ogranicza widocznoœæ. Ledwo dostrzegasz grupê Liszy na drugim koñcu groty. Lisze ewidentnie nie maj¹ problemów z dostrze¿eniem ciebie i twego wojska - atakuj¹ bez ostrze¿enia!	String type = <!!M>	08.06.2003
+130274	Kiedy gor¹co staje siê nie do zniesienia tunel otwiera siê na jasno oœwietlon¹ jaskiniê. Rozgl¹daj¹c siê wokó³ zauwa¿asz, ¿e znajdujesz siê na dnie p³ytkiej jamy, z law¹ kipiej¹c¹ dooko³a w skalnych szczelinach. Wtem zauwa¿asz Magogi gapi¹ce siê na ciebie z otaczaj¹cych ska³. To pu³apka! Próbujesz siê wycofaæ, ale Chowañce wyskakuj¹ z za³omów skalnych i atakuj¹!	String type = <!!M>	08.06.2003
+130275	Korytarz przechodzi w komnatê, w której Krzy¿owcy trenuj¹ walcz¹c ze sob¹. Kiedy dostrzegaj¹ twój oddzia³, uœmiechaj¹ siê - ale to nie jest przyjazny uœmiech. "Nareszcie, prawdziwa walka! Zmierzymy siê w honorowej walce, jeden na jednego! Chyba, ¿e jesteœcie zbyt tchórzliwi?" Powa¿nie rozwa¿asz propozycjê, ale twoje oddzia³y odpowiadaj¹ za ciebie. Dziarsko wkraczaj¹ do komnaty. Ka¿dy ustawia siê naprzeciwko Krzy¿owca, gotów broniæ swego honoru lub godnie polec w walce. Czekaj¹ jakby na sygna³... wtem s³ychaæ krzyk. Bitwa rozpoczyna siê!!!	String type = <!!M>	08.06.2003
+130276	Po pokonaniu	String type = <!!S>	08.06.2003
+130277	%Z326 Strzelców, przeszukujesz ich jaskiniê. Znajdujesz sakwê: 5000 sztuk z³ota i 5 uncji siarki.	String type = <!!S>	08.06.2003
+130278	%Z326 Bazyliszków, przeszukujesz zw³oki w sali i znajdujesz 7000 sztuk z³ota i 5 tygli rtêci.	String type = <!!S>	08.06.2003
+130279	%Z326 Minotaurów, przeszukuj¹c labirynt i znajdujesz z skrzyniê z 8000 szukami z³ota i 5 klejnotami.	String type = <!!S>	08.06.2003
+130280	%Z326 Duchów, przeszukujesz cmentarz. W koñcu znajdujesz kryjówkê ze skarbami: 3000 sztuk z³ota i 5 kryszta³ów.	String type = <!!S>	08.06.2003
+130281	%Z326 Golemów i ich mistrzów, przeszukujesz laboratorium. Znajdujesz 9000 sztuk z³ota oraz kilka starych, rzadkich ksi¹g - zabierasz je. Mo¿e bêdziesz móg³ je sprzedaæ w Magicznej Kapliczce...	String type = <!!S>	08.06.2003
+130282	%Z326 Liszy, przeszukujesz ich wilgotne legowisko. Znajdujesz 5000 sztuk z³ota oraz dodatkowo kilka roœlin mandragory rosn¹cej pomiêdzy ska³ami. Wyrywasz z korzeniami kilka sztuk i zabierasz je ze sob¹ - mo¿e znajdziesz jak¹œ wiedŸmê, której bêdziesz móg³ je sprzedaæ...	String type = <!!S>	08.06.2003
+130283	%Z326 Chowañców i Magogów, przeszukujesz ich siedlisko i znajdujesz 4000 sztuk z³ota, a tak¿e kilka zabawek, którymi musia³y siê bawiæ Chowañce. Zabierasz zabawki ze sob¹ - mo¿e bêdziesz móg³ je sprzedaæ na targu...	String type = <!!S>	08.06.2003
+130284	%Z326 Krzy¿owców, przeszukujesz ich koszary. Znajdujesz skrzyniê ze skarbami zawieraj¹c¹ 5000 sztuk z³ota. Znajdujesz tak¿e woreczek z cebulkami tulipanów - byæ mo¿e jeden z Krzy¿owców mia³ smyka³kê do ogrodnictwa. Zabierasz cebulki - mo¿e bêdziesz je móg³ komuœ sprzedaæ...	String type = <!!S>	08.06.2003
+130285	Próbujesz podzieliæ siê skarbem z Krzy¿owcami, ale pokornie odmawiaj¹. "Nie obra¿aj nas!" mówi¹, mrugaj¹c okiem, zanim odmaszerowuj¹ pomagaæ wszelakim biednym niewini¹tkom.	String type = <!!M>	08.06.2003
+130286	Kilku Krzy¿owców biegnie przez salê! "Uratujemy ciê!"	String type = <!!M>	08.06.2003
+130287	Kolejna partia Duchów wy³ania siê z pod nóg!	String type = <!!M>	08.06.2003
+130288	Mg³a musi byæ zatruta!	String type = <!!M>	08.06.2003
+130289	Akolici	String type = <!!S>	08.06.2003
+130290	Zakonnicy	String type = <!!S>	08.06.2003
+130291	Kardyna³owie	String type = <!!S>	08.06.2003
+130292	%Z361 w kapliczce zawistnie ogl¹daj¹ twoj¹ rzadk¹ ksi¹¿kê. "Damy ci 	String type = <!!S>	08.06.2003
+130293	 za nie, " sk³adaj¹ ofertê. Przyjmujesz propozycjê?	String type = <!!S>	08.06.2003
+130294	%Z361 wrêczaj¹ z³oto i chwytaj¹ ksi¹¿ki.	String type = <!!S>	08.06.2003
+130295	%Z361 ze smutkiem odrywaj¹ wzrok od ksi¹g.	String type = <!!S>	08.06.2003
+130296	%Z326%V600 sztuk z³ota%Z327	String type = <!!Q>	08.06.2003
+130297	Twoje cebulki tulipanów wywo³uj¹ zainteresowanie w³aœciciela wiatraka! "Zawsze chcia³em mieæ ogródek z tulipanami przy moim wiatraku." Oferuje ci 	String type = <!!S>	08.06.2003
+130298	 za wszystkie twoje cebulki tulipanów (s¹ bardzo rzadkie w tych stronach). Przyjmujesz ofertê?	String type = <!!S>	08.06.2003
+130299	M³ynarz wrêcza z³oto i z radoœci¹ odbiera torbê z cebulkami tulipanów.	String type = <!!S>	08.06.2003
+130300	M³ynarz jest rozczarowany, ale robi dobr¹ minê. "Któregoœ dnia dostanê moje tulipany!"	String type = <!!S>	08.06.2003
+130301	WiedŸma ¿ad¹ wszyskich twoich korzeni mandragory. "Zap³acê 	String type = <!!S>	08.06.2003
+130302	
+, i ani odrobinê wiêcej." Przystajesz na t¹ propozycjê?	String type = <!!S>	08.06.2003
+130303	WiedŸma bierze korzenie mandragory i skwapliwie upycha je po kieszeniach. Wrêcza ci sakiewkê ze z³otem.	String type = <!!S>	08.06.2003
+130304	"G³upiec!" krzyczy stara wiedŸma.	String type = <!!S>	08.06.2003
+130305	Odkrywasz, ¿e mo¿esz sprzedaæ znalezione zabawki na miejskim targowisku za 	String type = <!!S>	08.06.2003
+130306	. Chcesz pozbyæ siê tych zabawek?	String type = <!!S>	08.06.2003
+130307	Oddajesz zabawki, od których i tak robi³o ci siê niedobrze i chowasz zarobione pieni¹dze do kieszeni.	String type = <!!S>	08.06.2003
+130308	Nie chcesz sprzedawaæ zabawek - mo¿esz potrzebowaæ zabawy podczas przysz³ych d³ugich woja¿y.	String type = <!!S>	08.06.2003
+130309	Karczmasz wykazuje zainteresowanie twoim winem. "Dam ci 	String type = <!!S>	08.06.2003
+130310	 za to wszystko." Czy sprzedasz mu wino?	String type = <!!S>	08.06.2003
+130311	Wrêczasz mu twoje butelki wina, a on odlicza z³ote monety. "Jeœli znajdziesz wiêcej wina, przynieœ je do mnie," powiada, "odkupiê je za t¹ sam¹ cenê."	String type = <!!S>	08.06.2003
+130312	"Zatrzymaj swe z³oto," mówisz. Twoja matka nie wychowa³a ciê na handlarza winem!	String type = <!!S>	08.06.2003
+130313	Jeden z ¿o³nierzy jest zainteresowany twoj¹ Zbroj¹ Psa. "Chcia³bym w przysz³oœci wst¹piæ do dru¿yny Psów," rzecze, "ale w tym celu potrzebujê zbroi. Dam ci 	String type = <!!S>	08.06.2003
+130314	 za wszystkie czêœci Psiej Zbroi." Zgadzasz siê na to?	String type = <!!S>	08.06.2003
+130315	Rozwi¹zujesz kolejne warstwy Psiej Zbroi, a ¿o³nierz z wdziêcznoœci¹ wrêcza ci z³oto.	String type = <!!S>	08.06.2003
+130316	"Psia Dru¿yna? Dziêki wielkie za poradê!" powiadasz. ¯olnierz wzrusza ramionami i stara siê ukryæ rozczarowanie.	String type = <!!S>	08.06.2003
+130317	Jeden z najemników chcia³by nabyæ wój miecz trójrêczny. "Dla mojej cioci Beatki," wyjaœnia. "Zbiera ró¿ne osobliwoœci, szczególnie wsród broni. Dam ci... hmmm... powiedzmy...  	String type = <!!S>	08.06.2003
+130318	 za wszystkie sztuki. Zgoda?"	String type = <!!S>	08.06.2003
+130319	Najemnik z radoœci¹ p³aci za miecze. "Jeszcze kilka takich transakcji, a bêdê móg³ otworzyæ swój w³asny stragan z rupieciami! Znaczy, moja ciocia Beatka bêdzie mog³a."	String type = <!!S>	08.06.2003
+130320	"Przemyœl to," mówi najemnik. "Kto jeszcze móg³by chcieæ trójrêczny miecz?"	String type = <!!S>	08.06.2003
+130321	Jak tylko zbli¿asz siê do szko³y, czarnoksiê¿nik pojawia siê przed tob¹. "Masz tutaj kilka ³adnych ró¿d¿ek," mówi. "Oczywiœcie mog³yby byæ na³adowane. S¹ bezu¿yteczne bez ³adunku. Teraz to zwyk³e kije. Hmm." Zastanawia siê. "Powiem ci coœ. Odkupiê je od ciebie. W ten sposób przys³u¿¹ siê nam obu. Dam ci... powiedzmy... 	String type = <!!S>	08.06.2003
+130322	 za te ró¿d¿ki." Zgadzasz siê?	String type = <!!S>	08.06.2003
+130323	Czarnoksiê¿nik robi d³oni¹ gest i ró¿d¿ki przylatuj¹ do niego. Wymierza je w przypadkowe przedmoioty, aby je wypróbowaæ. Nable przypomina sobie o tobie. "Ah tak." Wrêcza ci z³ote monety po czym znika.	String type = <!!S>	08.06.2003
+130324	Czarnoksiê¿nik marszczy brwi. "Powinieneœ ponownie rozwa¿yæ moj¹ ofertê. Myœlê, ¿e sprzedanie mi ró¿d¿ek jest jedyn¹ rozs¹dn¹ decyzj¹." Patrzy na ciebie jakby oczekiwa³ odpowiedzi, po czym znika w okamgnieniu.	String type = <!!S>	08.06.2003
+130325	Tunel przechodzi w jaskiniê, w której z pod³o¿a tryska spienione podziemne Ÿróde³ko. Ty i twoje wojsko pijecie z niego wodê	String type = <!!S>	08.06.2003
+130326	%Z326, i czujecie jak jego magia dzia³a na was! Do koñca tygodnia na wszystkie twoje jednostki jest rzucony czar:  %Z327.	String type = <!!Q>	08.06.2003
+130327	%Z326... woda was odprê¿a, ale nic specjalnego siê nie dzieje.	String type = <!!M>	08.06.2003
+130328	Tunel przechodzi w ma³¹ jaskiniê. W jej œrodku znajduje siê tajemnicza	String type = <!!S>	08.06.2003
+130329	kula, przytwierdzona do piedesta³u. Spogl¹daj¹c do œrodka kuli, widzisz	String type = <!!S>	08.06.2003
+130330	Opuszczasz jaskiniê rozwa¿aj¹c to co zobaczy³eœ.	String type = <!!S>	08.06.2003
+130331	%Z326 kryszta³owa %Z327 twarze swoich nieprzyjació³. %Z328	String type = <!!M>	08.06.2003
+130332	%Z326 przeŸroczyst¹ %Z327 domy swoich wrógów. %Z328	String type = <!!M>	08.06.2003
+130333	%Z326 zasnut¹ dymem %Z327 twoich przyjació³ okrytych ciemnoœci¹. %Z328	String type = <!!M>	08.06.2003
+130334	%Z326 mleczn¹ %Z327 twoje miasta okryte ciemnoœci¹. %Z328	String type = <!!M>	08.06.2003
+130335	Tunel przechodzi w	String type = <!!S>	08.06.2003
+130336	%Z326 coœ, co musia³o byæ kiedyœ czyj¹œ sk³adnic¹ wina. Teraz jest ca³kowicie spl¹drowana - nie ma tu nic cennego.	String type = <!!M>	08.06.2003
+130337	%Z326 coœ, co kiedyœ musia³o byæ zbrojowni¹. Spl¹drowano j¹ ju¿ wiele razy - nie ma tu nic wartego uwagi.	String type = <!!M>	08.06.2003
+130338	%Z326 rozleg³¹ jaskiniê, która kiedyœ by³a miejscem krwawej potyczki. Wszêdzie wokó³ walaj¹ siê zw³oki. Bitwa musia³a siê odbyæ dawno temu - przeszukujesz szkielety poleg³ych, ale nic nie znajdujesz.	String type = <!!M>	08.06.2003
+130339	%Z326 stary, porzucony magazyn. Pe³no w nim stosów beczek i skrzyni, ale ju¿ dawno zosta³y ograbione. Nic wartoœciowego nie znajdujesz.	String type = <!!M>	08.06.2003
+130340	nikt jeszcze jej nie spl¹drowa³. Znajdujesz kasetkê zawieraj¹c¹ 2000 sztuk z³ota. Zabierasz tak¿e cztery butelki wina - mo¿e uda ci siê je komuœ sprzedaæ.	String type = <!!Q>	08.06.2003
+130341	%Z326 coœ, co kiedyœ musia³o byæ zbrojowni¹. Zbrojownia zosta³a ju¿ ograbiona, ale przeszukuj¹c j¹ dok³adnie, znajdujesz ukryt¹ sakiewkê zawieraj¹c¹ 1500 sztuk z³ota. Odnajdujesz tak¿e dwie sztuki Psiej Zbroi. Widocznie nikt nie uzna³ je za cenne. Zabierasz je - kto wie, mo¿e ktoœ bêdzie chcia³ od ciebie je odkupiæ.	String type = <!!Q>	08.06.2003
+130342	%Z326 rozleg³¹ jaskiniê, która kiedyœ by³a miejscem krwawej potyczki. Wszêdzie wokó³ walaj¹ siê zw³oki. Przeszuku¹c je znajdujesz torbê z 1000 sztuk z³ota. Znajdujesz ponadto kilka trójrêcznych mieczy w przyzwoitym stanie. Chocia¿ nie masz z nich ¿adnego u¿ytku, to i tak je zabierasz - mo¿e ktoœ odkupi je od ciebie.	String type = <!!Q>	08.06.2003
+130343	%Z326 stary porzucony magazyn. Pe³no w nim stosów beczek i skrzyni, ale ju¿ dawno zosta³y ograbione. Jednak¿e, szukaj¹c uwa¿nie, znajdujesz dwie stare magiczne ró¿d¿ki. S¹ ca³kowicie wy³¹dowane i bezu¿yteczne - ale i tak je zabierasz ze sob¹. Kto wie, mo¿e jakiœ czarnoksiê¿nik odkupi je od ciebie.	String type = <!!M>	08.06.2003
+130344	Tunel przechodzi w ch³odn¹, pog³osow¹ jaskiniê. W œrodku groty znajduje sie magiczny o³tarz. Skupiaj¹c swe magiczne moce na o³tarzu, jesteœ w stanie rzuciæ zwykle niedostêpne zaklêcie:	String type = <!!S>	08.06.2003
+130345	{Jad} - sprawia, ¿e wszystkie ataki twoich jednostek zatruwaj¹ oddzia³y przeciwnika.	String type = <!!S>	08.06.2003
+130346	{Trójz¹b} - sprawia, ¿e Magiczna Strza³a zadaje obra¿enia wszystkim wrogim jednostkom.	String type = <!!S>	08.06.2003
+130347	{Egida} - podwaja iloœæ punktów ¿ycia twoich jednostek pierwszego poziomu.	String type = <!!S>	08.06.2003
+130348	{Okrócieñstwo} - dodaje twoim jednostkom +2 do ataku, obrony i szybkoœci na ka¿d¹ kolejn¹ turê walki.	String type = <!!S>	08.06.2003
+130349	 Zaklêcia zu¿ywa 	String type = <!!S>	08.06.2003
+130350	punktów magii i trwa do koñca tygodnia.	String type = <!!S>	08.06.2003
+130351	%Z360 
+ 
+%Z361%Z362 
+ 
+Niestety nie posiadasz wystarczaj¹cej iloœci punktów magii aby rzuciæ czar. Odchodzisz po pobie¿nym przeszukaniu pozosta³ej czêœci jaskini.
+<<<_END_OF_MESSAGE_>>>	String type = <!!M>	08.06.2003
+130352	%Z360 
+ 
+%Z361%Z362 
+ 
+Jesteœ jeszcze pod wp³ywem tego czaru. Zadowolony, podziwiasz o³tarz a nastêpnie odchodzisz.	String type = <!!M>	08.06.2003
+130353	%Z360 
+ 
+%Z361%Z362 
+ 
+Posiadasz	String type = <!!S>	08.06.2003
+130354	punktów magii. Rzucasz zaklêcie, czy odchodzisz z jaskini?	String type = <!!S>	08.06.2003
+130355	Rzuæ zaklêcie	String type = <!!S>	08.06.2003
+130356	Opuœæ jaskiniê	String type = <!!S>	08.06.2003
+130357	Wystrzegaj¹c siê dziwnej magii, z niczym opuszczasz o³tarz.	String type = <!!M>	08.06.2003
+130358	Rzucasz dziwne zaklêcie! Nastêpnie, pal¹c sie do boju, opuszczasz jaskiniê.	String type = <!!M>	08.06.2003

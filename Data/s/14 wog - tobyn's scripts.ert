@@ -1,0 +1,117 @@
+﻿#	Text resource for "script64.erm" document		
+164000	Zbliżasz się do dziwnej chatki i w środku zauważasz
+wiedźmę studiującą umiejętność: %Z-1. 
+Słysząc kroki, odwraca się, taksując się uważnie
+swoim szklanym okiem. "HA!" skrzeczy, "Chyba nie
+sądzisz, że będę uczyć nowych zaklęć, kogoś tak
+mądrego jak ty, co?." Wychodzisz z chaty, ale jakoś
+ale jakoś nie możesz pozbyć się uczucia, 
+że właśnie cię obrażono.	<!!M>	01.08.2004
+164001	Wiedźma nie posiada większej wiedzy od ciebie,
+ale nie przyznaje się do tego i rozłaszcza się
+gdy próbujesz cichcem się oddalić.
+"{Zlekceważ mnie a popamiętasz.}"
+Wyczywasz, że nie jest to czcza groźba.
+
+Chcesz jej wysłuchać uważniej?	<!!Q>	01.08.2004
+164002	Wiedźma ględzi dalej, aż stajesz się śpiący
+i nie możesz powstrzymać ziewania.
+Rozsierdzona wiedźma przeszywa cię wzrokiem.
+"{Niech tak będzie, zaśnij więc.}"
+
+Kiedy się budzisz, ogarnia cię niejasne
+przeczucie utraty czegoś...	<!!M>	01.08.2004
+164003	Wiekowa wiedźma zamieszkująca tą dziwną chatkę wita cię i z sobie tylko zanych powodów próbuje ci przekazać wiedzę. Chcesz wysłuchać wykładu o: %Z-1?	<!!Q>	01.08.2004
+164004	Wiekowa wiedźma proponuje ci za 2000 sztuk złota zaawansowaną wiedzę o umiejętności %Z-1.	<!!Q>	01.08.2004
+164005	Wiekowa wiedźma oferuje ci za 2000 sztuk złota zaawansowane lekcje. Zgadzasz się wysłuchać wykładów o umiejętności %Z-1?	<!!Q>	01.08.2004
+164006	Tryb transferu: nieaktywny.	<!!S>	01.08.2004
+164007	Tryb transferu: {aktywny}.	<!!S>	01.08.2004
+164008	W tym miejscu nie powiewa twoja flaga.
+
+(Tryb transferu jest wciąż {aktywny}.
+Kliknij PPM na pasku rozmowy/chatu by go zmienić)	<!!Q>	01.08.2004
+164009	Zrzekasz się własności?	<!!Q>	01.08.2004
+164010	Jeden z podanych zasobów wymaga przeniesienia kopalni do innego koloru (One of below resources needed to transfer this mine to another color.)	<!!Q>	01.08.2004
+164011	 {sprzymierzeniec}	<!!S>	01.08.2004
+164012	Przenieś za opłatą, kopalnię do%Z-1	<!!Q>	01.08.2004
+164013	Przenieś prawo własności/posiadanie do%Z-1	<!!Q>	01.08.2004
+164014	 Wybranie/wylosowanie
+Mithrilu zależy od obecnego szczęścia bohatera (pech powoduje wylosowanie zwykłego surowca).
+Osiągnięcie poziomu 10 i Mistrzowskich Finansów powoduje automatyczny wybór Mithrilu.	<!!S>	01.08.2004
+164015	{Finanse}
+
+Każdy Bohater powyżej poziomu 10-tego z umiejętnością Finanse dostarcza co dzień:
+ 1 drewno + ruda w każdy poniedziałek (dzień 1),   1 rteć w każdy wtorek (dzień 2),
+ 1 siarkę w każdą środę (dzień 3),     1 kryształ w każdy czwartek (dzień 4),
+ 1 klejnot w każdy piątek (dzień 5),              350 sztuk złota z każdą sobotę (dzień 6),
+ 1 mithril w każdą niedzielę (dzień 7) jeśli mithril jest włączony, jeśli nie - 350 szt. złota.          
+Kliknij LPM na ikonie {Mistrzowskich} Finansów w oknie bohatera by wybrać zasób.
+Możesz reaktywować automatyczny cykl surowców poprzez odrzucenie wszystkich ofert.
+(You can reactivate automatic resource cycling by rejecting all offers there.)%Z-1	<!!Q>	01.08.2004
+164016	Każdy poniedziałek	<!!S>	01.08.2004
+164017	Każdy wtorek	<!!S>	01.08.2004
+164018	Każda środa	<!!S>	01.08.2004
+164019	Każdy czwartek	<!!S>	01.08.2004
+164020	Każdy piątek	<!!S>	01.08.2004
+164021	Każda sobota	<!!S>	01.08.2004
+164022	Każda niedziela	<!!S>	01.08.2004
+164023	i dodatkowe zasoby każdego poniedziałku:	<!!S>	01.08.2004
+164024	i dodatkowe zasoby przez pierwsze
+%Y3 dni każdego tygodnia:	<!!S>	01.08.2004
+164025	i dodatkowe codzienne zasoby:	<!!S>	01.08.2004
+164026	oraz różne zasoby w każdym dniu tygodnia.
+Mistrzowskie Finanse pozwalaja ci wybrać
+typ zasobu. %Z-3 produkuje:	<!!S>	01.08.2004
+164027	oraz różne zasoby w każdym dniu tygodnia.
+Utrzymać cykl? %Z-3 produkuje:	<!!S>	01.08.2004
+164028	oraz różne zasoby w każdym dniu tygodnia.
+Dopóki nie klikniesz LPM na ikonie Finansów,
+%Z-3 produkuje:	<!!S>	01.08.2004
+164029	Utrzymać codziennie te same zasoby?	<!!S>	01.08.2004
+164030	i wybrane zasoby codziennie.
+Dopóki nie klikniesz LPM na ikonie Finansów,
+każdy dzień przynosi:	<!!S>	01.08.2004
+164031	oraz codziennie ma %Y4%% szans
+(obecne szczęście: %Y-17) dostarczyć Mithril
+zamiast codzienengo zasobu. Utrzymac próby
+uzyskania Mithrilu? Dzisiaj otrzymujesz:	<!!S>	01.08.2004
+164032	oraz codziennie ma %Y4%% szans
+(obecne szczęście: %Y-17) dostarczyć Mithril
+zamiast codzienengo zasobu.
+Zmiana poprzez LPM. Dzisiaj otrzymujesz:	<!!S>	01.08.2004
+164033	Poziom podstawowy	<!!S>	01.08.2004
+164034	Poziom Zaawansowany	<!!S>	01.08.2004
+164035	Poziom Mistrzowski	<!!S>	01.08.2004
+164036	
++ %Y17 na poziom)            	<!!S>	01.08.2004
+164037	{%Z-2 Finanse}
+
+Dzięki tej umiejętności, ów Bohater
+dostarcza {%Y5 sztuk złota} codziennie
+(%Y7 + %Y22 na %Y23,000 punktów doświadczenia%Z-4
+%Z-1	<!!Q>	01.08.2004
+164038	{Mistrzowskie Finanse}
+
+Bohater będzie codziennie dostarczał	<!!Q>	01.08.2004
+164039	Działania Wojenne (Bal.)	<!!S>	01.08.2004
+164040	Działania Wojenne (Art.)	<!!S>	01.08.2004
+164041	Działania Wojenne (P.P.)	<!!S>	01.08.2004
+164042	{Działania} {Wojenne} {(Bal.)}	<!!S>	01.08.2004
+164043	{Działania} {Wojenne} {(Art.)}	<!!S>	01.08.2004
+164044	{Działania} {Wojenne} {(P.P)}	<!!S>	01.08.2004
+164045	{Działania Wojenne}
+
+{»} Artyleria + Balistyka + Pierwsza Pomoc
+{»} standartowa kontrola nad machinami
+{»} można także zastosować ulepszenia wogifikacji
+{»} kliknij na ikonie po dokładny opis	<!!S>	01.08.2004
+164046	{Działania Wojenne}
+
+Działania Wojenne łączą poniższe trzy umiejętności
+i pozwalają na kontrolę wszystkich trzech machin wojennych.
+Ulepszone umiejętności mają {żółte} napisy.
+Kliknij PPM na ikonie by zobaczyć opis.
+Możesz także wybrać, która umiejętność będzie wyświetlana
+w slocie nabytych umiejętności. Pozostałe dwie będą ukryte 
+(kliknij na ikonie doświadczenia).
+Wszystkie trzy umiejętności będą na tym samym stopniu wtajemniczenia.	<!!S>	01.08.2004

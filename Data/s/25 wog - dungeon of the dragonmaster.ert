@@ -1,0 +1,22 @@
+#	Text resource for "script53.erm" document		
+153000	Kazamaty W³adcy Smoków (nie odwiedzone)	<!#S>	01.08.2004
+153001	Kazamaty W³adcy Smoków (odwiedzone)	<!#S>	01.08.2004
+153002	{Kazamaty W³adcy Smoków}
+
+Eony temu, te miejsce zwano {Smocz¹ Utopi¹}.
+
+Ale jakiœ czas póŸniej potê¿ny mag {Nicodemus} uœmierci³ smoki strzeg¹ce swych skarbów by móc w tej dobrze ufortyfikowalnej budowli zgromadziæ w³asne bogactwa. Jednak stra¿ników wybra³ znacznie lepszych...
+
+Chcesz wyzwaæ do boju stra¿e Nicodemusa?	<!!Q>	01.08.2004
+153003	Pokonawszy Smoki Nicodemusa, odkrywasz: %Z457 oraz: %Z458!	<!!Q>	01.08.2004
+153004	Pokonawszy Smoki Nicodemusa, odkrywasz: %Z457, %Z458 oraz: %Z459!	<!!Q>	01.08.2004
+153005	Pokonawszy Smoki Nicodemusa, odkrywasz: %Z457, %Z458, %Z459 oraz: %Z460!	<!!S>	01.08.2004
+153006	Pokonawszy Smoki Nicodemusa, odkrywasz: %Z457, %Z458, %Z459, %Z460 oraz: %Z461!	<!!S>	01.08.2004
+153007	W œrodku niewielkiej skrzyni znajdujesz: %Z457, %Z458 a tak¿e %Z459! Za wykazan¹ dzielnoœæ, twoje jednostki zostaj¹ nagrodzone Sztandarem Wojennym.	<!!S>	01.08.2004
+153008	W œrodku niewielkiej skrzyni znajdujesz: %Z457, %Z458 a tak¿e %Z459!	<!!Q>	01.08.2004
+153009	Na koñcu g³ównej sali, na stole z koœci s³oniowej, znajdujesz {Staro¿ytny} {Manuskrypt} {Wiedzy} Nikodemusa!
+
+Chesz go sprzedaæ czy przeczytaæ?	<!!Q>	01.08.2004
+153010	Kupiec uœmiecha siê gdy wrêczasz mu ksiêgê. "To korzystna transakcja zarówno dla ciebie jak i dla mnie. I tak nie zrozumia³byœ treœci."	<!!Q>	01.08.2004
+153011	Po przegryzeniu siê przez treœæ tej trudnej ksiêgi, czujesz siê w jakiœ sposób oœwiecony.	<!!Q>	01.08.2004
+153012	Po wyjœciu, œciany Kazamat poczynaj¹ dr¿eæ, a potê¿ny S³up Ognia blokuje wejœcie na zawsze!	<!!M>	01.08.2004

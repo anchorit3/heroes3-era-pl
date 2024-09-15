@@ -1,0 +1,42 @@
+{
+  "wnd":{
+    "fonts": {
+      "big_font": "bigfont2.fnt",
+      "med_font": "medfont2.fnt",
+      "small_font": "smalfont.fnt"
+    },
+    
+    "dlg_wog_options": {
+      "intro_font": "bigfont2.fnt",
+      "bttn_name": "{Opcje WoG-a}",
+      "use_json_strings": "on"
+    },
+    
+    "dlg_crexpo": {
+      "line0": "SZCZEGÓŁY WZROSTU DOŚWIADCZENIA",
+      "line1": "Typ stworzenia:",
+      "line2": "Ranga doświadczenia:",
+      "line3": "Punkty doświadczenia:",
+      "line4": "Punkty doświadczenia do następnej rangi:",
+      "line5": "Maksymalne doświadczenie na bitwę:",
+      "line6": "Liczba stworzeń w armii:",
+      "line7": "Maksymalna liczba nowych rekrutów bez utraty rangi:",
+      "line8": "Mnożnik doświadczenia:",
+      "line9": "Mnożnik ulepszeń:",
+      "line10": "Doświadczenie po randze 10:",
+      "line11": "Maksymalna liczba nowych rekrutów, którzy pozostaną na randze 10:"
+    },
+    
+    "dlg_commander": {
+      "bttn_open_hint": "Otwórz ekran dowódcy",
+      "bttn_exit_hint": "Wyjdź z ekranu dowódcy",
+      "bttn_lvlup_hint": "Kliknij, aby zwiększyć wybraną umiejętność.",
+      "bttn_dismiss_rmc": "Kliknij, aby odrzucić tego dowódcę."
+    },
+    
+    "combat": {
+      "finish_question": "Zakończyć szybką walką?",
+      "show_killed": ", zabija: %s"
+    }
+  }
+}

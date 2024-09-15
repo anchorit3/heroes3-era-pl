@@ -1,0 +1,59 @@
+#	Text resource for "script51.erm" document		
+151000	Ignoruje 50% obrony wroga	<!!S>	01.08.2004
+151001	Wzbudza strach	<!!S>	01.08.2004
+151002	Zawsze najwiêksze obra¿enia	<!!S>	01.08.2004
+151003	Powstrzymuje kontratak	<!!S>	01.08.2004
+151004	Strzela	<!!S>	01.08.2004
+151005	Zawsze kontratakuje	<!!S>	01.08.2004
+151006	Atak na dwa pola	<!!S>	01.08.2004
+151007	Magiczne Zwierciad³o	<!!S>	01.08.2004
+151008	Blok	<!!S>	01.08.2004
+151009	Atakuje dwukrotnie	<!!S>	01.08.2004
+151010	Parali¿	<!!S>	01.08.2004
+151011	Regeneracja	<!!S>	01.08.2004
+151012	Trucizna	<!!S>	01.08.2004
+151013	Szar¿a	<!!S>	01.08.2004
+151014	Lot	<!!S>	01.08.2004
+151015	Energia Opalu oddzia³uje na: %Z1.
+
+Dowódca zyska³ zdolnoœæ: {%Z2}	<!!M>	01.08.2004
+151016	Opal nie wywiera ¿adnego efektu na: %Z1.	<!!M>	01.08.2004
+151017	Energia Rubinu oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Obra¿eniach}	<!!M>	01.08.2004
+151018	Energia Rubinu oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Ataku}	<!!M>	01.08.2004
+151019	Energia Rubinu oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Obra¿eniach}	<!!M>	01.08.2004
+151020	Energia Rubinu oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Ataku}	<!!M>	01.08.2004
+151021	Rubin nie wywiera ¿adnego efektu na: %Z1.	<!!M>	01.08.2004
+151022	Energia Szafiru oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Wytrzyma³oœci}	<!!M>	01.08.2004
+151023	Energia Szafiru oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Obronie}	<!!M>	01.08.2004
+151024	Energia Szafiru oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Wytrzyma³oœci}	<!!M>	01.08.2004
+151025	Energia Szafiru oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Obronie}	<!!M>	01.08.2004
+151026	Szafir nie wywiera ¿adnego efektu na: %Z1.	<!!M>	01.08.2004
+151027	Energia Szmaragdu oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Szybkoœci}	<!!M>	01.08.2004
+151028	Energia Szmaragdu oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Mocy}	<!!M>	01.08.2004
+151029	Energia Szafiru oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Szybkoœci}	<!!M>	01.08.2004
+151030	Energia Szafiru oddzia³uje na: %Z1.
+
++1 do poziomu bieg³oœci w {Mocy}	<!!M>	01.08.2004
+151031	Szafir nie wywiera ¿adnego efektu na: %Z1.	<!!M>	01.08.2004

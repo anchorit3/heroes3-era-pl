@@ -1,0 +1,72 @@
+117000	B³ogos³awieñstwo Venus (nie odwiedzone)	String type = <!#S>	07.06.2003
+117001	B³ogos³awieñstwo Venus (odwiedzone)	String type = <!#S>	07.06.2003
+117002	{B³ogos³awieñstwo} {Venus} 
+ 
+%Z1 przybywa przed oblicze wspania³ego pos¹gu... 
+ 
+Nape³nia buteleczkê wod¹ pochodz¹c¹ z Magicznej Fontanny. 
+Teraz %Z1 posiada 3 dawki {B³ogos³awieñstwa} {Venus}. 
+ 
+Ta mikstura zwiêksza Morale i Szczêœcie podczas walki.	String type = <!!Q>	07.06.2003
+117003	{Fontanna} {Fortuny} 
+ 
+%Z1 nape³nia buteleczkê wod¹ pochodz¹c¹ z fontanny. 
+Posiada teraz 3 dawki {Mikstury} {Utopca}. 
+ 
+Ta mikstura zwiêksza Atak i Obronê podczas walki.	String type = <!!Q>	07.06.2003
+117004	Fontanna Valhalli (nie odwiedzona)	String type = <!#S>	07.06.2003
+117005	Fontanna Valhalli (odwiedzona)	String type = <!#S>	07.06.2003
+117006	{Fontanna} {Valhalli} 
+ 
+%Z1 nape³nia buteleczkê wod¹ pochodz¹c¹ z fontanny. 
+Posiada teraz 3 dawki {Mikstury} {Furiata}. 
+ 
+Ta mikstura zwiêksza Atak i Szczêœcie podczas walki, ale nie pozwala bohaterowi na rzucanie zaklêæ.	String type = <!!Q>	07.06.2003
+117007	{Mikstura} {Utopca} (pozosta³o %W10 %Z4) 
+ 
+Jeœli %Z1 wypije Miksturê Utopca, otrzyma +2 do Ataku oraz +2 do Obrony podczas tej walki... 
+ %Z1, czy chcesz wypiæ Miksturê Utopca?
+
+(jeœli wypijesz {Miksturê} {Utopca} i {Miksturê} {Furiata} w tym samym czasie, mo¿esz straciæ 1 punkt Mocy po bitwie, wiêc u¿ywaj je rozwa¿nie)
+	String type = <!!Q>	07.06.2003
+117008	{Mikstura} {Utopca} (pozosta³o %W10 %Z4) 
+ 
+Jeœli %Z1 wypije Miksturê Utopca, otrzyma +2 do Ataku oraz +2 do Obrony podczas tej walki... 
+ %Z1, czy chcesz wypiæ Miksturê Utopca?
+
+(jeœli wypijesz {Miksturê} {Utopca} i {Miksturê} {Furiata} w tym samym czasie, mo¿esz straciæ 1 punkt Mocy po bitwie, wiêc u¿ywaj je rozwa¿nie)
+	String type = <!!Q>	07.06.2003
+117009	{Mikstura} {Furiata} (pozosta³o %W11 %Z4) 
+ 
+Jeœli %Z1 wypije Miksturê Furiata, otrzyma +10 do Ataku oraz najwiêksz¹ wartoœæ Szczêœcia podczas tej bitwy... ale nie bêdzie w stanie rzucaæ zaklêæ. 
+ %Z1, czy chcesz wypiæ Miksturê Furiata?
+
+(jeœli wypijesz {Miksturê} {Utopca} i {Miksturê} {Furiata} w tym samym czasie, mo¿esz straciæ 1 punkt Mocy po bitwie, wiêc u¿ywaj je rozwa¿nie)
+	String type = <!!Q>	07.06.2003
+117010	{Mikstura} {Furiata} (pozosta³o %W11 %Z4) 
+ 
+Jeœli %Z1 wypije Miksturê Furiata, otrzyma +10 do Ataku oraz najwiêksz¹ wartoœæ Szczêœcia podczas tej bitwy... ale nie bêdzie w stanie rzucaæ zaklêæ.
+%Z1, czy chcesz wypiæ Miksturê Furiata?
+
+(jeœli wypijesz {Miksturê} {Utopca} i {Miksturê} {Furiata} w tym samym czasie, mo¿esz straciæ 1 punkt Mocy po bitwie, wiêc u¿ywaj je rozwa¿nie)	String type = <!!Q>	07.06.2003
+117011	{Mikstura} {B³ogos³awieñstwa} {Venus} 
+(pozosta³o %W12 %Z4) 
+ 
+Jeœli %Z1 wypije Miksturê B³ogos³awieñstwa Venus, otrzyma najwy¿sz¹ wartoœæ Morale i Szczêœcia podczas tej walki. 
+ 
+%Z1, czy chcesz wypiæ Miksturê B³ogos³awieñstwa Venus?	String type = <!!Q>	07.06.2003
+117012	{Mikstura} {B³ogos³awieñstwa} {Venus}
+(pozosta³o %W12 %Z4) 
+ 
+Jeœli %Z1 wypije Miksturê B³ogos³awieñstwa Venus, otrzyma najwy¿sz¹ wartoœæ Morale i Szczêœcia podczas tej walki. 
+ 
+%Z1, czy chcesz wypiæ Miksturê B³ogos³awieñstwa Venus?	String type = <!!Q>	07.06.2003
+117013	{Mikstura} {Furiata} 
+ 
+%Z1 wymiesza³%Z3 Misturê Furiata z Mikstur¹ Utopca, co wywo³a³o z³¹ reakcjê... %Z1 traci na zawsze jeden punkt Mocy.	String type = <!!Q>	07.06.2003
+117014	his	String type = <!!S>	07.06.2003
+117015	her	String type = <!!S>	07.06.2003
+117016		String type = <!!S>	07.06.2003
+117017	a	String type = <!!S>	07.06.2003
+117018	dawka	String type = <!!S>	07.06.2003
+117019	dawki	String type = <!!S>	07.06.2003

@@ -1,0 +1,49 @@
+{
+	"srm": {
+		"main": {
+			"can_learn": "{Badanie zaklęć}\n\nZaklęcie jest dostępne (bohaterowie mogą się go nauczyć)",
+			"cant_learn": "{Badanie zaklęć}\n\nZaklęcie jest dostępne (bohaterowie nie mogą się jeszcze go nauczyć)",
+			"can_research_for_pay": "Zaklęcie to można zastąpić za odpowiednią cenę",
+			"or_complete_it_for_free": "Możesz wybrać inne zaklęcie za odpowiednią opłatą lub zakończyć badania za darmo",
+			"two_rsrchs_frbdn": "Nie możesz badać dwóch zaklęć na raz",
+			"this_turn_was_research": "W tej turze przeprowadzono już badania",
+			"available": "Badania są możliwe",
+			"no_resources": "Niewystarczające zasoby",
+			"can_buy": "Aby rzucać zaklęcia, twój bohater musi najpierw kupić księgę zaklęć za @cost@ złota. Czy chcesz ją kupić?",
+			"cant_buy": "Aby rzucać zaklęcia, twój bohater musi najpierw kupić księgę zaklęć za @cost@ złota. Niestety wygląda na to, że w tej chwili brakuje Ci złota."
+		},
+		"hints": {
+			"do_research": "@spellName@ (kliknij, aby rozpocząć badanie)",
+			"is_researched": "@spellName@ (stały)",
+			"was_researching": "@spellName@ (w tej turze badania zostały już wykonane)",
+			"another_researh": "@spellName@ (w tej chwili trwają kolejne badania)",
+			"is_researching": "Badania w toku (aktualne zaklęcie to @spellName@)",
+			"no_resources": "@spellName@ (niewystarczające środki na badania)",
+			"pay_and_start": "Zapłać i rozpocznij badania",
+			"pay_and_continue": "Zapłać i kontynuuj badania",
+			"complete_for_free": "Zakończ badania (bezpłatne)",
+			"cancel": "Anuluj",
+			"leave_mg": "Wyjdź z Gildii Magów"
+		},
+		"scroll_texts": {
+			"cant_change": "{@spellName@}\n\nNie możesz zastąpić tego zaklęcia.",
+			"can_change": "{@spellName@}\n\nZaklęcie to można zastąpić za odpowiednią cenę. Obecnie jest dostępne do nauki.",
+			"rolled_scroll": "{Badanie zaklęć}\n\nZaklęcie to można zastąpić za odpowiednią cenę. Obecnie nie jest dostępne do nauki. Możesz zakończyć badania, umieszczając to zaklęcie na stałe w slocie.\n\nObecne zaklęcie to "
+		},
+		"spell_choice": {
+			"head": "Wybierz zaklęcie",
+			"head_one_spell": "Nowe zaklęcie",
+			"accept_hint": "Zakończ badania",
+			"decline_hint": "Potwierdź bez kończenia badań"
+		},
+		"help": {
+			"head": "{Przedstawiamy mechanikę badania zaklęć.\n\n}",
+			"body": "{~text align=left}Możliwe jest teraz przeprowadzanie badań na ekranie Gildii Magów, zastępując zaklęcia w slotach.\n\nKoszt wynosi (2*poziom zaklęcia) {~>SMALRES.def:1}, {~>SMALRES.def:3}, {~>SMALRES.def:4}, {~>SMALRES.def:5} i 1000 {~>SMALRES.def:6}. Badania są ograniczone do jednego dziennie na miasto (nie uniemożliwiają budowy).\n\nBadanie usuwa stare zaklęcie z miejsca i oferuje do wyboru dwa losowe nowe zaklęcia ({jedno nowe zaklęcie na poziomie 5, bez wyboru}). Możliwe jest prowadzenie dalszych badań w tym samym miejscu na zaklęcie, ale bohaterowie nie będą mogli nauczyć się zaklęcia, dopóki badania nie zostaną zakończone. Nowe zaklęcia będą generowane zgodnie z podstawową wartością pewności według typu miasta. Stare zaklęcia (te, które znajdowały się w mieście lub nie zostały wybrane po zbadaniu) nie zostaną wygenerowane ponownie, zanim nie zostanie przetworzone każde potencjalne nowe.\nBadanie możesz zakończyć w dowolnym momencie. Od tego momentu twoi bohaterowie będą mogli nauczyć się wybranego zaklęcia, ale miejsce na zaklęcie stanie się trwałe.\nObowiązkowych zaklęć miasta nie można zastąpić. W danym czasie w mieście można przeprowadzić tylko jedno badanie. Będziesz musiał sfinalizować badania, zanim zaczniesz pracować nad innym miejscem na zaklęcie.}",
+			"ask": "\n\nCzy chcesz zobaczyć dostępne zaklęcia do zbadania w tej Gildii Magów?\n\n(Możesz zobaczyć tę listę, klikając prawym przyciskiem myszy przycisk {~>icm005.def:0})",
+			"info": "\n\nNaciśnij {~>icm005.def:0} przycisk, aby uzyskać więcej informacji",
+			"endl": "\n",
+			"levelSpellsHead": "{Możesz opracować następujące zaklęcia}\n",
+			"levelSpells": "{Na poziomie @guild@:}\n"
+		}
+	}
+}

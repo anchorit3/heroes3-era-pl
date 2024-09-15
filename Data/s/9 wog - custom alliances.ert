@@ -1,0 +1,29 @@
+﻿#	Text resource for "Script69.erm" document		
+169000	{Ustalone}	String type = <!!S>	09.10.2003
+169001	{Ustalone} przymierza
+
+Wszystkie sojusze zawarte są tak, jak to ustalono dla tej mapy	String type = <!!S>	09.10.2003
+169002	{Własne}	String type = <!!S>	09.10.2003
+169003	{Własne} sojusze
+
+Możesz wyznaczyć sojusze dla jakichkolwiek kombinacji kolorów	String type = <!!S>	09.10.2003
+169004	Czy chcesz {ustawić własne} przymierza 
+czy użyć już {ustalonych} sojuszy?	String type = <!!Q>	09.10.2003
+169005	{Sojusz #%X1}	String type = <!!S>	09.10.2003
+169006	Czerwony	String type = <!!S>	09.10.2003
+169007	Niebieski	String type = <!!S>	09.10.2003
+169008	Brązowy	String type = <!!S>	09.10.2003
+169009	Zielony	String type = <!!S>	09.10.2003
+169010	Pomarańczowy	String type = <!!S>	09.10.2003
+169011	Fioletowy	String type = <!!S>	09.10.2003
+169012	Jasnoniebieski	String type = <!!S>	09.10.2003
+169013	Różowy	String type = <!!S>	09.10.2003
+169014	 AI	String type = <!!S>	09.10.2003
+169015	 Człowiek	String type = <!!S>	09.10.2003
+169016	Wybierz liczbę sojuszy:	String type = <!!S>	09.10.2003
+169017	
+
+... tak miało być?	String type = <!!S>	09.10.2003
+169018	Wybierz graczy dla sojuszu: #%X16	String type = <!!S>	09.10.2003
+169019	Każdy na każdego	String type = <!!S>	09.10.2003
+169020	Ustaw przymierzy: %Y-3	String type = <!!S>	09.10.2003

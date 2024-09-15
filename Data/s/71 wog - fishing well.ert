@@ -1,0 +1,155 @@
+107000	{UWAGA STARA WERSJA}  
+ 
+Twoja wersja WoG i/lub ERM 
+jest zbyt stara aby u¿yæ skryptu 
+{Studnia Rybaków v1.4.} 
+ 
+Zainstaluj najnowszy patch.	String type = <!#M>	07.06.2003
+107001	Masz ochotê na chwilê powêdkowania w studni?	String type = <!!Q>	07.06.2003
+107002	Jesteœ zbyt wyczerpany, aby dziœ ³owiæ ryby. Spróbuj nazajutrz rano.	String type = <!!M>	07.06.2003
+107003	Po kilku godzinach wêdkowania stwierdzasz, ¿e dzisiaj nic nie bierze.	String type = <!!S>	07.06.2003
+107004	 tylko widaæ na dnie tej studni.	String type = <!!S>	07.06.2003
+107005	%Z301
+Wodê i rozmok³¹ kanapkê z serem %Z302.	String type = <!!M>	07.06.2003
+107006	%Z301
+Wodê i stary cuchn¹cy but %Z302.	String type = <!!M>	07.06.2003
+107007	%Z301
+Wodê i stary zardzewia³y miecz %Z302.	String type = <!!M>	07.06.2003
+107008	%Z301
+Wodê i w po³owie zjedzony kotlet jagniêcy %Z302.	String type = <!!M>	07.06.2003
+107009	%Z301
+Cuchn¹cê wodê, szlam i b³oto %Z302.	String type = <!!M>	07.06.2003
+107010	%Z301
+Skrz¹c¹ siê wodê i du¿o omsza³ych ska³
+%Z302.	String type = <!!M>	07.06.2003
+107011	Po kilku godzinach wy³awiasz wielkiego ow³osionego pstr¹ga
+i postanawiasz usma¿yæ go na kolacjê.	String type = <!!M>	07.06.2003
+107012	Zaczynasz wêdkowaæ w starej studni i koñczysz zahipnotyzowany
+przez czarn¹ g³êbok¹ dziurê. Kilka godzin póŸniej you snap out
+of it with a start!	String type = <!!M>	07.06.2003
+107013	Po d³ugich dniach spêdzonych na po³owach ³apiesz malutk¹ syrenkê.
+Zaczyna œpiewaæ tak d³ugo, a¿ zasypiasz.
+Kiedy siê budzisz jej ju¿ nie ma.	String type = <!!M>	07.06.2003
+107014	£owisz ryby i ³owisz ryby i ³owisz ryby i ³owisz ryby i ³owisz ryby i ³owisz ryby.
+W koñcu masz tego po dziurki w nosie.	String type = <!!M>	07.06.2003
+107015	Przez d³ugi czas ³owisz ryby a¿ w koñcu zamierzasz siê poddaæ.
+Ale nie wczeœniej ni¿ zu¿yjesz wszystkie robaki, które znalaz³eœ.	String type = <!!M>	07.06.2003
+107016	Podczas po³owów w studni, zabawiasz siê wrzeszcz¹c do niej
+i s³uchaj¹c powracaj¹cego echa. To ca³kiem fajna zabawa dopóki
+odg³osy nie zaczynaj¹ nak³adaæ siê na siebie...
+ 
+~~StRaszNie~~	String type = <!!M>	07.06.2003
+107017	Spêdzasz przyjemnie czas przy wêdce i opowiadasz historie o ³uskowatych bohaterach,
+walecznych smokach i ma³ych g³upich czarodziejach.	String type = <!!M>	07.06.2003
+107018	Jest tak upalnie, ¿e postanawiasz och³odziæ siê w studni.
+Na szczêœcie dla ciebie, pr¹dy nie s¹ zbyt silne co pozwala 
+utrzymaæ ci grunt pod nogami.	String type = <!!M>	07.06.2003
+107019	Podczas radosnych po³owów w studni dla wartoœciowych rzeczy, 
+odkrywasz star¹ i bardzo ciê¿k¹ kotwicê. Kto by pomyœla³,
+¿e kuter rybacki kiedykolwiek mó³by tu ZAKOTWICZYÆ?	String type = <!!M>	07.06.2003
+107020	Spuszczanie ¿y³ki do studni szybko staje siê nudne
+wiêc tu i twój podkomendny zamiast tego zaczynacie
+moczyæ oddzia³y!	String type = <!!M>	07.06.2003
+107021	Po chwilowym bezskutecznym po³owie postanawiasz siê
+rozerwaæ i zaczynasz ¿onglowaæ jab³kami.	String type = <!!M>	07.06.2003
+107022	Wêdkujesz przez chwilê w studni i w koñcu wyci¹gasz
+elektrycznego wêgorza. To wstrz¹saj¹ce doœwiadczenie,
+którego nie jesteœ chêtny ponownie doœwiadczyæ!
+	String type = <!!M>	07.06.2003
+107023	Wêdkujesz w studni przez d³ugi czas a¿ ostatecznie komary zaganiaj¹ ciê z powrotem do namiotu.	String type = <!!Q>	07.06.2003
+107024	Po wielu godzinasz zdo³a³eœ z³apaæ piêkn¹ têczow¹ rybkê,
+która usma¿ona z cebulk¹ smakowa³a wyœmienicie!
+
+Ciep³y posi³ek podwy¿sza dobry nastrój ca³ej armii.	String type = <!!Q>	07.06.2003
+107025	Po kilku godzinach wêdkowania jesteœ zdumiony, gdy¿ odkry³eœ Graala nawiniêtego na haczyk!	String type = <!!Q>	07.06.2003
+107026	Ale okaza³o siê, ¿e mia³eœ halucynacje. Na szczêœcie twoja armia zdo³a³a przywróciæ ciê do zmys³ów.	String type = <!!M>	07.06.2003
+107027	Wêdkujesz od d³u¿szego czasu bez ¿adnych przygód, na chwilê przestajesz, wrzucasz do œrodka monetê i wypowiadasz ¿yczenie. Pod koniec dnia uœwiadamiasz sobie, ¿e wrzuci³eœ {%Y2} {z³otych} {monet} do starej nêdznej studni.	String type = <!!Q>	07.06.2003
+107028	Po kilku godzinach wêdkowania w studni, nagle rozpêtuje
+siê burza i ca³a armia zostaje przemoczona do szpiku koœci.
+Ka¿dy idzie do ³ó¿ka zimny, mokry i nieszczêœliwy.	String type = <!!Q>	07.06.2003
+107029	Podczas wêdkowania w studni, jesteœ zaskoczony widokiem grupy przyjaznych krasnali, wy³aniaj¹cych z lasu siê œpiewaj¹c:
+ 
+"{Haj ho, Haj ho, do} 
+{domu by siê sz³o!}"	String type = <!!Q>	07.06.2003
+107030	Wêdkujesz przez ca³y bo¿y dzieñ i w³aœnie zamierzasz zrezygnowaæ, gdy nagle pojawia siê ponêtny morski duszek i uczy ciê tajemnych s³ów magicznego zaklêcia.
+"{U¿yj} {ten} {zwój} {%Z301} {aby} {naprzykszyæ} {siê} {swym} {wrogom},"  
+chichocze duszek zanim znika z powrotem w studni, z której przyby³.	String type = <!!Q>	07.06.2003
+107031	Wêdkujesz ju¿ bezskutecznie od godzin. Zaczyna ciê ogarniaæ furia z powodu straconego dnia, gdy nagle pojawia siê garbaty stary gnom siedzi¹cy w nakrytym wozie i oferuje ci %Y7 sztuk z³ota za twe jednostki:
+%Y4 %Z2.
+ 
+Zgadzasz siê na wymianê?	String type = <!!Q>	07.06.2003
+107032	Wêdkujesz ju¿ bezskutecznie od godzin. Zaczyna ciê ogarniaæ
+furia z powodu straconego dnia, gdy nagle pojawia siê garbaty
+stary gnom siedzi¹cy w nakrytym wozie. Ogl¹da twoj¹ armiê, krêci nosem
+i odje¿dza w stronê zachodz¹cego s³oñca.	String type = <!!M>	07.06.2003
+107033	Informujesz %Z2 o ich nowym w³aœcicielu i szybko dobijasz targu. Garbaty gnom klnie szpetnie, ³aduje na powóz zakupione jednostki i odje¿d¿a w stronê zachodz¹cego s³oñca.	String type = <!!Q>	07.06.2003
+107034	Absolutnie odmawiasz sprzedania swych wiernych jednostek.
+%Z2 nie pójd¹ w niewolê do pierszego lepszego garbatego gnoma,
+który têdy przeje¿d¿a, nawet jeœli ma do zaoferowania astronomiczn¹ cenê!
+ 
+Gnom potrz¹sa smutno g³ow¹ i odje¿d¿a w stronê zachodz¹cego s³oñca.	String type = <!!M>	07.06.2003
+107035	Podczas wêdkowania w studni, s³yszysz wo³anie o pomoc!
+ 
+Opuszczasz w dó³ mocn¹ linê i wyci¹gasz na powierzchniê biedne stworzenie: %Z301, które wpad³o do œrodka i zosta³o uwiêzione w tej ciemnej, mokrej dziurze.
+ 
+Wdziêczne dziêkuje za okazan¹ pomoc!	String type = <!!Q>	07.06.2003
+107036	Po³ów ryb w studni trwa ju¿ kilka godzin ale w koñcu zdo³a³eœ wy³owiæ trochê luŸnych monet.	String type = <!!Q>	07.06.2003
+107037	Ca³y dzieñ spêdzasz na po³owie ryb w studni.
+Ostatecznie wy³awiasz star¹ zardzewia³¹ skrzyniê.	String type = <!!Q>	07.06.2003
+107038	Nie otwieraj¹c skrzyni wrzucasz j¹ z powrotem do studni, gdzie l¹duje na dnie z niewiarygodnie g³oœnym {*PLUSKNIÊCIEM*}!	String type = <!!M>	07.06.2003
+107039	Skrzynia zawiera dziwny ró¿owawy gaz. %Z303 zauwa¿a, ¿e %Z2 {ZWIÊKSZAJ¥} swoj¹ liczebnoœæ.	String type = <!!Q>	07.06.2003
+107040	W œrodku skrzyni znajdujesz 
+ 
+{%Y7 z³otych monet!}	String type = <!!Q>	07.06.2003
+107041	W œrodku skrzyni znajdujesz {wartoœciowe zasoby}!	String type = <!!Q>	07.06.2003
+107042	Jesteœ podniecony odkryciem w œrodku skrzyni magicznego artefaktu!	String type = <!!Q>	07.06.2003
+107043	Wszyscy s¹ niezmiernie rozczarowani - skrzynia okazuje siê byæ pusta.	String type = <!!M>	07.06.2003
+107044	Skrzynia zawiera dziwny ró¿owawy gaz. %Z303 z przera¿eniem zauwa¿a, ¿e %Z2 zmieni³y siê w %Z1.	String type = <!!Q>	07.06.2003
+107045	To PU£APKA! Œmiertelnie zatrute ¿¹d³a wylatuj¹ ze skrzyni, ale na szczêœcie wszystkie chybiaj¹ i nikomu nie czyni¹ szkody.	String type = <!!M>	07.06.2003
+107046	To PU£APKA! Œmiertelnie zatrute ¿¹d³a wylatuj¹ ze skrzyni i natychmiast zabijaj¹ %Y3 z twych %Z303 lojalnych: %Z304!	String type = <!!Q>	07.06.2003
+107047	Zwój z zaklêciem	String type = <!!S>	07.06.2003
+107048	¯yj¹cy Zwój	String type = <!!S>	07.06.2003
+107049	W œrodku skrzyni jest ciasno zawiniêty pokrowiec ze zwojem. Otwieraj¹c pokrowiec odkrywasz magiczny %Z2: %Z301, który wrzucasz do sakwy.	String type = <!!Q>	07.06.2003
+107050	Po spêdzeniu kilku nudnych godzin na wêdkowaniu, jesteœ ca³kowicie nieprzygotowany na to, co nagle siê wy³ania ze studzienki!	String type = <!!Q>	07.06.2003
+107051	Podczas po³owu, odkrywasz d³ugie, ciemne przejœcie umieszczone w po³owie g³êbokoœci studni.
+ 
+Czy zabierzesz sw¹ armiê i ostro¿nie przeszukasz tunel?	String type = <!!Q>	07.06.2003
+107052	Po wielu godzinach pod¹¿ania d³ugim, ciemnym, krêtym korytarzem, w koñcu widzisz œwiat³o dzienne i wychodzisz na powierzchniê przez inn¹ Magiczn¹ Studniê.	String type = <!!M>	07.06.2003
+107053	No có¿, mo¿e innym razem, kiedy bêdziesz siê czu³ bardziej œmielszy.	String type = <!!M>	07.06.2003
+107054	Po wielu godzinach pod¹¿ania d³ugim, ciemnym, krêtym korytarzem, wchodzisz do wielkiej jaskini. Jedyne prowadz¹ce do niej wejœcie to droga, któr¹ przyszed³eœ.
+ 
+Nagle, z ty³u jaskini wynurza siê przera¿aj¹ca bestia zamierzaj¹c ciê uœmierciæ. W s³abym œwietle pochodni zauwa¿asz zgromadzony skarb, który strze¿e owo monstrum.  
+ 
+Jesteœ wystarczaj¹co odwa¿ny, aby zostaæ i walczyæ?	String type = <!!Q>	07.06.2003
+107055	%Z301 zosta³ pokonany, zabierasz jego skarb!	String type = <!!Q>	07.06.2003
+107056	Pod¹¿asz tunelem z powrotem na powierzchniê. Martwego: %Z301 oraz strze¿one przez niego zasoby zabierasz oczywiœcie ze sob¹!	String type = <!!M>	07.06.2003
+107057	%Z301 niewiarygodnie ciê przera¿a. Szybko uciekasz tunelem z powrotem na powierzchniê!	String type = <!!M>	07.06.2003
+107058	Niestety! %Z301 ciê pokonuje! Co za smutny smutny los dla tak odwa¿nego bohatera...	String type = <!!M>	07.06.2003
+107059	Ca³y dzieñ spêdzasz na po³owie ryb w studni. Ostatecznie wy³awiasz star¹ zardzewia³¹ skrzyniê. 
+ 
+Otworzysz j¹?		
+107060	Otworzysz j¹?		
+107061	Stara zardzewia³a skrzynia		
+107062	Kanapka z serem		
+107063	Znoszony but		
+107064	Zardzewia³y miecz		
+107065	Kotlet		
+107066	Szlam i b³oto		
+107067	Zemsza³e ska³y		
+107068	Pstr¹g		
+107069	Ciemna dziura		
+107070	Syrenka		
+107071	Po³ów		
+107072	Robaki		
+107073	Przera¿acze		
+107074	£uskowaty bohater		
+107075	Waleczny Smok		
+107076	G³upi Czarodziej		
+107077	Skwar		
+107078	Kuter		
+107079	Taplanie siê!		
+107080	¯onglerka jab³kami		
+107081	Elektryczny wêgorz		
+107082	Têczowa rybka		
+107083	Nawa³nica		
+107084	Gnom handlarz		
