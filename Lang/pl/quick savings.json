@@ -4,6 +4,6 @@
     "end_turn_autosave_name": "@day@_End",
     "quicksave_name":         "Szybki zapis",
     "saved_msg":              "Zapisano!",
-    "quicksaved_msg":         "Szybko zapisano!"
+    "quicksaved_msg":         "Zapisano szybkim zapisem!"
   }
 }

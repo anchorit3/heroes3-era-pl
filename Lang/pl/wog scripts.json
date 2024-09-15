@@ -198,14 +198,14 @@
 			"mine": {
 				"upgrade0": "Ulepszono ",
 				"upgrade1": "Chroniony ",
-				"-1": "{@mineName@}\n\nMożesz chronić @mineName@ z nienaturalnej cotygodniowej zmiany tego, co produkuje, płacąc @cost@ Mithril dla tygodniowej ochrony.\n\nMasz @number@ Mithril.\n\nCzy chcesz to zrobić?",
-				"0": "{@mineName@}\n\nDrwale pracujący w tym tartaku twierdzą, że poświęcając @cost@ Mithril do Boga Tartaków, mogą podwoić produkcję drewna na tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
-				"1": "{@mineName@}\n\nAlchemik pracujący w tym laboratorium usłyszał, że posiadasz trochę Mithrilu i twierdzi, że można go wykorzystać w procesie oczyszczania Merkurego. Jeśli dostanie @cost@ sztabek mithrilu, mógłby go użyć do wyprodukowania przez tydzień dwa razy więcej rtęci niż zwykle.\n\nMasz @number@ Mithril.\n\nCzy chcesz mu dać @cost@ sztabki Mithrilu, którego chce?",
-				"2": "{@mineName@}\n\nGórnicy z tej Kopalni Rudy twierdzą, że umieszczając trochę Mithrilu (wystarczy @cost@ sztabek) wśród produkowanej przez siebie Rudy, mogą oszukać niektórych poszukiwaczy skarbów, aby wydobyli Rudę za darmo i podwoili produkcję Rudy przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
-				"3": "{@mineName@}\n\nImpy kochają śmierdzącą siarkę prawie tak samo jak magiczny mithril i uwielbiają bawić się w Wydmach Siarki. Jednak ich zamiłowanie do psot niepokoi pracowników tak bardzo, że produkcja siarki zmniejsza się o połowę. Chochliki są trudniejsze do pozbycia się niż szczury czy karaluchy, ale można je przekupić, aby odeszły na tydzień za @cost@ Mithril.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
-				"4": "{@mineName@}\n\nGórnicy pracujący w Kryształowej Jaskini wiedzą, jak łączyć małe, bezużyteczne odłamki kryształu w większe kryształy, podwajając w ten sposób produkcję. @cost@ Mithril wystarczyłby na tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
-				"5": "{@mineName@}\n\nNurkowie łowiący Klejnoty z dna Jeziora Klejnotów twierdzą, że mogą użyć Mithrilu, aby usidlić duchy wody, aby pomóc im w pracy i podwoić produkcję. @cost@ Mithril usidlał duchy przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?",
-				"6": "{@mineName@}\n\nGrupa krasnoludów z dziwnymi urządzeniami, wielkimi jak behemoty, zebrała się przed twoją kopalnią złota. Proszą cię o @cost@ Mithril do wzmocnienia dziwnych rzeczy, który, jak twierdzą, może podwoić produkcję przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ chcą sztabek Mithrilu?"
+				"-1": "{@mineName@}\n\nMożesz chronić @mineName@ od nienaturalnej cotygodniowej zmiany tego, co produkuje, płacąc @cost@ Mithril dla tygodniowej ochrony.\n\nMasz @number@ Mithril.\n\nCzy chcesz to zrobić?",
+				"0": "{@mineName@}\n\nDrwale pracujący w tym tartaku twierdzą, że poświęcając @cost@ Mithril dla Boga Tartaków, mogą podwoić produkcję drewna na tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ sztabek Mithrilu?",
+				"1": "{@mineName@}\n\nAlchemik pracujący w tym laboratorium usłyszał, że posiadasz trochę Mithrilu i twierdzi, że można go wykorzystać w procesie oczyszczania Merkurego. Jeśli dostanie @cost@ sztabek mithrilu, mógłby go użyć do wyprodukowania przez tydzień dwa razy więcej rtęci niż zwykle.\n\nMasz @number@ Mithril.\n\nCzy chcesz mu dać @cost@ sztabek Mithrilu?",
+				"2": "{@mineName@}\n\nGórnicy z tej Kopalni Rudy twierdzą, że umieszczając trochę Mithrilu (wystarczy @cost@ sztabek) wśród produkowanej przez siebie Rudy, mogą oszukać niektórych poszukiwaczy skarbów, aby wydobyli Rudę za darmo i podwoili produkcję Rudy przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ sztabek Mithrilu?",
+				"3": "{@mineName@}\n\nImpy kochają śmierdzącą siarkę prawie tak samo jak magiczny mithril i uwielbiają bawić się w Wydmach Siarki. Jednak ich zamiłowanie do psot niepokoi pracowników tak bardzo, że produkcja siarki zmniejsza się o połowę. Chochliki są trudniejsze do pozbycia się niż szczury czy karaluchy, ale można je przekupić, aby odeszły na tydzień za @cost@ Mithril.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ sztabek Mithrilu?",
+				"4": "{@mineName@}\n\nGórnicy pracujący w Kryształowej Jaskini wiedzą, jak łączyć małe, bezużyteczne odłamki kryształu w większe kryształy, podwajając w ten sposób produkcję. @cost@ Mithril wystarczyłby na tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ sztabek Mithrilu?",
+				"5": "{@mineName@}\n\nNurkowie łowiący Klejnoty z dna Jeziora Klejnotów twierdzą, że mogą użyć Mithrilu, aby usidlić duchy wody, aby pomóc im w pracy i podwoić produkcję. @cost@ Mithril usidlał duchy przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ sztabek Mithrilu?",
+				"6": "{@mineName@}\n\nGrupa krasnoludów z dziwnymi urządzeniami, wielkimi jak behemoty, zebrała się przed twoją kopalnią złota. Proszą cię o @cost@ Mithril do wzmocnienia dziwnych rzeczy, który, jak twierdzą, może podwoić produkcję przez cały tydzień.\n\nMasz @number@ Mithril.\n\nCzy chcesz im dać @cost@ sztabek Mithrilu?"
 			}
 		},
 		"37": {
@@ -377,7 +377,7 @@
 			"stat3": "zadawanie szkód",
 			"stat4": "magia",
 			"stat5": "prędkość",
-			"commander": "Dowódca: _"
+			"commander": "Dowódca: "
 		},
 		"70": {
 			"objName": "Komnata Śmierci",

@@ -1,6 +1,6 @@
 {
 	"caption": {
-		"en_US": "Era Polish Translation",
+		"en_US": "Era Polish Translations",
 		"pl_PL": "Era Polskie Tłumaczenie"
 	},
 	"description": {
@@ -9,8 +9,8 @@
 			"pl_PL": ""
 		},
 		"short": { 
-			"en_US": "Era polish translations of all components",
-			 "ua_UA": "Era polskie tłumaczenie wszystkich podstawowych składników"
+			"en_US": "Era polish translations of all default components",
+			"pl_PL": "Era polskie tłumaczenie wszystkich podstawowych składników"
 		}
 	},
 	"author": "Anchorit3",
@@ -19,7 +19,7 @@
 		"file": "erapl.ico",
 		"index": 0
 	},
-	"mod_version": "1.0.5",
+	"mod_version": "1.0.6",
 	"priority": 0,
 	"compatibility": {
 		"class": "all",
