@@ -3,7 +3,7 @@
 
 ## Requirements
 - ERA Engine: 3.9.5 or higher
-- select Polish lanugage in game
+- select Polish language in game
 
 All default mods should be already translated but process of verification is still **WIP**.
 > Current verification progress will be presented by checkbox list below.
