@@ -43,12 +43,12 @@
 		"combat_hints": {
 			"text": {
 				"button_name": "Pasek życia",
-				"color_health": "Ustaw kolor bieżących pkt. zdrowia:",
-				"color_loss": "Ustaw kolor utraconych pkt. zdrowia:",
+				"color_health": "Ustaw kolor bieżących pkt. zdrowia",
+				"color_loss": "Ustaw kolor utraconych pkt. zdrowia",
 				"default": "Przywróć ustawienia domyślne",
-				"density": "Ustaw nasycenie kolorów:",
+				"density": "Ustaw nasycenie kolorów",
 				"enable": "Włącz dodatkowe info o pkt. zdrowia",
-				"height": "Ustaw dodatkową wysokość panelu:",
+				"height": "Ustaw dodatkową wysokość panelu",
 				"held": "Wyświetl tylko gdy wciśnięty klawisz skrótu",
 				"hotkey": "Ustaw klawisz skrótu",
 				"input": "Wartość wprowadzona w zakresie %d - %d",
@@ -57,7 +57,7 @@
 				"set_hotkey": "Zmień klawisz skrótu",
 				"toggable": "Ustawiane jako przełączalne",
 				"wrong_hotkey": "Ten skrót jest niedozwolony"
-			},
+			}
 		},
 		"mithril_display": {
 			"popup_hint": "Twój całkowity dostępny mithril"
