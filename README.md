@@ -9,7 +9,7 @@ All default mods should be already translated but process of verification is sti
 > Current verification progress will be presented by checkbox list below.
 
 Verified translations:
-- [ ] Chronicles
+- [x] Chronicles [Exported form Mod by VIP](https://www.vault.acidcave.net/file.php?id=619)
 - [x] ERA Scripts
 - [x] WoG
 - [x] WoG Scripts

@@ -1,8 +1,11 @@
 This mod contains Polish translations for ERA III.
 
-WARNING! THIS IS Early ALPHA version of translations. In case you will find some strange translations do not panic probably this will be fixed in the future.
+Translated Chronicles Campaigns - exported from Homm3:Complete Mod by VIP
 
-Translated Mods:
+WARNING! THIS IS Early ALPHA version of translations. 
+In case you will find some strange translations do not panic probably this will be fixed in the future.
+
+Translated Mods (Work in progress):
 - ERA Scripts
 - WoG
 - WoG Scripts
