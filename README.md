@@ -13,7 +13,7 @@ Verified translations:
 - [x] ERA Scripts
 - [x] WoG
 - [x] WoG Scripts
-- [x] Advanced Classes Mod
+- [ ] Advanced Classes Mod
 - [ ] Difficulty Mod
 - [x] Easy Cheats
 - [x] Enhanced Henchmen
