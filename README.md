@@ -13,7 +13,7 @@ Verified translations:
 - [x] ERA Scripts
 - [x] WoG
 - [x] WoG Scripts
-- [x] Advanced Classes Mod
+- [ ] Advanced Classes Mod
 - [ ] Difficulty Mod
 - [x] Easy Cheats
 - [x] Enhanced Henchmen
@@ -21,5 +21,5 @@ Verified translations:
 - [x] Random Wallpaper
 - [ ] Mixed Neutrals
 - [x] Quick Savings
-- [ ] Secondary Skills Scrolling
+- [x] Secondary Skills Scrolling
 - [ ] TrainerX
